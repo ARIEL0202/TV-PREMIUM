@@ -40,7 +40,9 @@
 #EXTINF:-1,Taquilla 8 ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13520 
 
 #EXTINF:-1,------- Documentary ------- http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/679813 
+#EXTINF:-1,Animal Planet LAM http://ipflix.click:8080/Ester/s9mdb4ez9y/6675
 #EXTINF:-1,Discovery Channel ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7226 
+#EXTINF:-1,Discovery Civilization LAM http://ipflix.click:8080/Ester/s9mdb4ez9y/6695
 #EXTINF:-1,National Geographic ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/16270 
 #EXTINF:-1,Nat Geo Wild ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7188 
 #EXTINF:-1,Crime & Investigation ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/8757 
@@ -67,18 +69,4 @@
 #EXTINF:-1,Boing ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/8773 
 #EXTINF:-1,Canal Panda ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/53156 
 #EXTINF:-1,Clan TVE E http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7231
-
-#EXTINF:-1,Discovery Civilization LAM http://ipflix.click:8080/Ester/s9mdb4ez9y/6695 
-#EXTINF:-1,National Geographic ES http://ipflix.click:8080/Ester/s9mdb4ez9y/16270 
-#EXTINF:-1,Nat Geo Wild ES http://ipflix.click:8080/Ester/s9mdb4ez9y/7188 
-#EXTINF:-1,Historia ES http://ipflix.click:8080/Ester/s9mdb4ez9y/7217 
-#EXTINF:-1,Iberalia ES http://ipflix.click:8080/Ester/s9mdb4ez9y/7171 
-#EXTINF:-1,Canal Cocina ES http://ipflix.click:8080/Ester/s9mdb4ez9y/7244 
-#EXTINF:-1,Dkiss HD ES http://ipflix.click:8080/Ester/s9mdb4ez9y/13533 
-#EXTINF:-1,Mega ES http://ipflix.click:8080/Ester/s9mdb4ez9y/8760 
-#EXTINF:-1,Ten ES http://ipflix.click:8080/Ester/s9mdb4ez9y/13518 
-#EXTINF:-1,Mezzo HD ES http://ipflix.click:8080/Ester/s9mdb4ez9y/7212
-
-#EXTINF:-1,Canal sur ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/8770 
-#EXTINF:-1,Canal Andalucia http://ipflix.click:8080/Ester/s9mdb4ez9y/8770 
 
