@@ -9,7 +9,6 @@
 #EXTINF:-1,Hollywood HD ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7216 
 #EXTINF:-1,Sundance TV ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/14121 
 #EXTINF:-1,TCM HD ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7180 
-
 #EXTINF:-1,Movistar Series ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/8767 
 #EXTINF:-1,Movistar Seriesmania HD ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7234 
 #EXTINF:-1,Movistar Accion ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7195 
@@ -33,15 +32,12 @@
 
 #EXTINF:-1,------- Documentary ------- http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/679813 
 #EXTINF:-1,Discovery Channel ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7226 
-#EXTINF:-1,Discovery Civilization LAM http://ipflix.click:8080/Ester/s9mdb4ez9y/6695
 #EXTINF:-1,National Geographic ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/16270 
 #EXTINF:-1,Nat Geo Wild ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7188 
 #EXTINF:-1,Crime & Investigation ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/8757 
 #EXTINF:-1,Historia ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7217 
 #EXTINF:-1,Canal Cocina ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7244 
 #EXTINF:-1,DeCasa ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7241 
-#EXTINF:-1,Dkiss HD ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13533 
-#EXTINF:-1,Mega ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/8760 
 #EXTINF:-1,Blaze ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7184 
 #EXTINF:-1,Iberalia ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7171 
 #EXTINF:-1,Odisea TV ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/8761 
