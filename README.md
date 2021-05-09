@@ -25,6 +25,7 @@
 #EXTINF:-1,Nova ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7183 
 #EXTINF:-1,Divinity HD ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13534 
 #EXTINF:-1,Energy ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/8765 
+#EXTINF:-1,Mega ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/8760
 #EXTINF:-1,Taquilla 2 ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/8755 
 #EXTINF:-1,Taquilla 3 HD ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7209 
 #EXTINF:-1,Taquilla 5 ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/8752 
