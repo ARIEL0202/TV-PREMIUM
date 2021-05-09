@@ -49,7 +49,6 @@
 #EXTINF:-1,------- Children ------- http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/679814 
 #EXTINF:-1,Disney Channel FHD ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/16287 
 #EXTINF:-1,Disney Channel HD ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7225 
-#EXTINF:-1,Disney+ ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7223 
 #EXTINF:-1,Disney Junior ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7224 
 #EXTINF:-1,Nickelodeon ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7185 
 #EXTINF:-1,Nick Jr. ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13526 
