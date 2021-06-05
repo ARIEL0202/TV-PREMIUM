@@ -4,6 +4,8 @@ http://tv.pluscrt.com:25461/live/jpacas/1983JpacaS/40270.m3u8?PlaylistM3UCL
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="139383" tvg-name="ATRES CINE " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1RXnVq3IbByHRTOzVpySxror_Kie_6oYAhw&usqp=CAU" group-title="00 - Argentina", ATRES CINE
 http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8?PlaylistM3UCL
+#EXTINF:-64 tvg-logo="https://i.postimg.cc/j2cN2NM2/1200px-Atrescine-logo-svg.png" group-title="CINE Y SERIES", A3CINE
+http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
 #EXTINF:-1,AXN ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13543 
 #EXTINF:-1,AXN White ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13542 
@@ -54,13 +56,6 @@ http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATR
 #EXTINF:-1,FDF ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7221 
 #EXTINF:-1,Ten ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13518 
 #EXTINF:-1,Mezzo HD ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7212 
-#EXTINF:-1,------- Children ------- http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/679814 
-#EXTINF:-1,Disney Channel FHD ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/16287 
-#EXTINF:-1,Disney Channel HD ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7225 
-#EXTINF:-1,Disney Junior ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7224 
-#EXTINF:-1,Nickelodeon ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7185 
-#EXTINF:-1,Nick Jr. ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13526 
-#EXTINF:-1,Boing ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/8773 
-#EXTINF:-1,Canal Panda ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/53156 
+
 #EXTINF:-1,Clan TVE E http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7231
 
