@@ -26,6 +26,7 @@
 #EXTINF:-1,Divinity HD ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13534 
 #EXTINF:-1,Energy ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/8765 
 #EXTINF:-1,Mega ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/8760
+#EXTINF:-1,Clan TVE E http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7231
 
 #EXTINF:-1,------- Documentary ------- http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/679813 
 #EXTINF:-1,Discovery Channel ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7226 
@@ -43,6 +44,9 @@
 #EXTINF:-1,FDF ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7221 
 #EXTINF:-1,Ten ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13518 
 #EXTINF:-1,Mezzo HD ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7212 
+#EXTINF:-133 tvg-logo="https://i.postimg.cc/wvfrPpZL/sabermas.png" group-title="DOCUMENTALES Y CULTURA", SABER MÁS
+https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
+#EXTINF:-140 tvg-logo="https://i.postimg.cc/q7bRmtJL/lovenature.png" group-title="DOCUMENTALES Y CULTURA", LOVE NATURE EN ESPAÑOL
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,Clan TVE E http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7231
 
