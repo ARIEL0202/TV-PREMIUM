@@ -42,7 +42,6 @@
 #EXTINF:-1,------- Entertainment ------- http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/679816 
 #EXTINF:-1,MTV Espana ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/8759 
 #EXTINF:-1,FDF ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7221 
-#EXTINF:-1,Ten ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13518 
 #EXTINF:-1,Mezzo HD ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7212 
 #EXTINF:-133 tvg-logo="https://i.postimg.cc/wvfrPpZL/sabermas.png" group-title="DOCUMENTALES Y CULTURA", SABER MÁS
 https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
