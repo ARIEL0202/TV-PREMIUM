@@ -1,3 +1,20 @@
+#EXTINF:-1 tvg-id="" tvg-name="SP NETFLIX KIDS FHD" tvg-logo="http://127.0.0.1/" group-title="02.-M+ CINE Y SERIES",SP NETFLIX KIDS FHD
+http://la.iptvdinmax.eu:2052/live/Carolina/Carolina/104637.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP NETFLIX THRILLER FHD" tvg-logo="http://127.0.0.1/" group-title="02.-M+ CINE Y SERIES",SP NETFLIX THRILLER FHD
+http://la.iptvdinmax.eu:2052/live/Carolina/Carolina/104638.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP NETFLIX MOVIES FHD" tvg-logo="http://127.0.0.1/" group-title="02.-M+ CINE Y SERIES",SP NETFLIX MOVIES FHD
+http://la.iptvdinmax.eu:2052/live/Carolina/Carolina/104639.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP NETFLIX HORROR FHD" tvg-logo="http://127.0.0.1/" group-title="02.-M+ CINE Y SERIES",SP NETFLIX HORROR FHD
+http://la.iptvdinmax.eu:2052/live/Carolina/Carolina/104640.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP NETFLIX DRAMA FHD" tvg-logo="http://127.0.0.1/" group-title="02.-M+ CINE Y SERIES",SP NETFLIX DRAMA FHD
+http://la.iptvdinmax.eu:2052/live/Carolina/Carolina/104641.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP NETFLIX COMEDY FHD" tvg-logo="http://127.0.0.1/" group-title="02.-M+ CINE Y SERIES",SP NETFLIX COMEDY FHD
+http://la.iptvdinmax.eu:2052/live/Carolina/Carolina/104642.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP NETFLIX BOX OFFICE FHD" tvg-logo="http://127.0.0.1/" group-title="02.-M+ CINE Y SERIES",SP NETFLIX BOX OFFICE FHD
+http://la.iptvdinmax.eu:2052/live/Carolina/Carolina/104643.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP NETFLIX ACTION FHD" tvg-logo="http://127.0.0.1/" group-title="02.-M+ CINE Y SERIES",SP NETFLIX ACTION FHD
+http://la.iptvdinmax.eu:2052/live/Carolina/Carolina/104644.ts
+
 #EXTINF:-1,AXN ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13543 
 #EXTINF:-1,AXN White ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13542 
 #EXTINF:-1,AMC FHD ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7255 
