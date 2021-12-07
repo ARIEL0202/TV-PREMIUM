@@ -4,10 +4,6 @@ http://54.39.48.63:8081/247%7CPELICULASESTRENO/247%7CPELICULASESTRENO/playlist.m
 http://51.79.18.128:8081/LATINO%7CCINECANAL/LATINO%7CCINECANAL/playlist.m3u8
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602320787525.jpg", CINEMAX
 http://51.79.18.128:8081/LATINO%7CCINEMAX/LATINO%7CCINEMAX/playlist.m3u8
-#EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602321026229.jpg", DEPELICULA
-http://51.79.18.128:8081/LATINO%7CDEPELICULA/LATINO%7CDEPELICULA/playlist.m3u8
-#EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602321229556.jpg", DE-PELICULA - PLUS
-http://51.79.18.128:8081/LATINO%7CDEPELICULAPLUS/LATINO%7CDEPELICULAPLUS/playlist.m3u8
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602323935427.jpg", FX
 http://51.79.18.128:8081/LATINO%7CFX/LATINO%7CFX/playlist.m3u8  
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602324109426.jpg", GOLDENPLUS
@@ -56,9 +52,17 @@ http://51.79.18.128:8081/LATINO%7CAYE/LATINO%7CAYE/playlist.m3u8
 http://51.79.18.128:8081/LATINO%7CAMC/LATINO%7CAMC/playlist.m3u8
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602291632236.png", AXN
 http://51.79.18.128:8081/LATINO%7CAXN/LATINO%7CAXN/playlist.m3u8
+#EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602321026229.jpg", DEPELICULA
+http://51.79.18.128:8081/LATINO%7CDEPELICULA/LATINO%7CDEPELICULA/playlist.m3u8
+#EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602321229556.jpg", DE-PELICULA - PLUS
+http://51.79.18.128:8081/LATINO%7CDEPELICULAPLUS/LATINO%7CDEPELICULAPLUS/playlist.m3u8
 
+#EXTINF: -1 group-title = "24/7" tvg-logo = "https://innovatv.live/posters/1602704088279.jpg", LOS-SIMPSON
+http://51.79.18.128:8081/24%7C7%7CLATINO%7CSIMPSONS/SIMPSONS/playlist.m3u8
 #EXTINF: -1 group-title = "Infantil" tvg-logo = "https://innovatv.live/posters/1602346504177.jpg", TOONCAST
 http://51.79.18.128:8081/LATINO%7CTOONCAST/LATINO%7CTOONCAST/playlist.m3u8
+#EXTINF: -1 group-title = "24/7" tvg-logo = "https://innovatv.live/posters/1613653726498.jpg", SPIDERMAN-SERIE-ANIMADA
+http://54.39.48.63:8081/247%7CSPIDERMAN/247%7CSPIDERMAN/playlist.m3u8
 #EXTINF: -1 group-title = "24/7" tvg-logo = "https://innovatv.live/posters/1635456716171.jpg", BETTER-CALL-SAUL
 http://54.39.48.63:8081/247%7CBETTERCALLSAUL/247%7CBETTERCALLSAUL/playlist.m3u8
 #EXTINF: -1 group-title = "24/7" tvg-logo = "https://innovatv.live/posters/1602703986157.png", BOB-ESPONJA
@@ -67,14 +71,10 @@ http://51.79.18.128:8081/24%7C7%7CBOBESPONJA/24%7C7%7CBOBESPONJA/playlist.m3u8
 http://54.39.48.63:8081/247%7CFAMPELUCHE/247%7CFAMPELUCHE/playlist.m3u8
 #EXTINF: -1 group-title = "24/7" tvg-logo = "https://innovatv.live/posters/1635456927161.jpg", GRAVITY-FALLS
 http://54.39.48.63:8081/247%7CGRAVITYFALLS/247%7CGRAVITYFALLS/playlist.m3u8
-#EXTINF: -1 group-title = "24/7" tvg-logo = "https://innovatv.live/posters/1602704088279.jpg", LOS-SIMPSON
-http://51.79.18.128:8081/24%7C7%7CLATINO%7CSIMPSONS/SIMPSONS/playlist.m3u8
 #EXTINF: -1 group-title = "24/7" tvg-logo = "https://innovatv.live/posters/1613653475316.jpg", LUIS-MIGUEL
 http://54.39.48.63:8081/247%7CLUISMIGUEL/247%7CLUISMIGUEL/playlist.m3u8
 #EXTINF: -1 group-title = "24/7" tvg-logo = "https://innovatv.live/posters/1635457036275.jpg", SHERK
 http://54.39.48.63:8081/247%7CSHREK/247%7CSHREK/playlist.m3u8
-#EXTINF: -1 group-title = "24/7" tvg-logo = "https://innovatv.live/posters/1613653726498.jpg", SPIDERMAN-SERIE-ANIMADA
-http://54.39.48.63:8081/247%7CSPIDERMAN/247%7CSPIDERMAN/playlist.m3u8
 #EXTINF: -1 group-title = "24/7" tvg-logo = "https://innovatv.live/posters/1613653800587.jpg", STRANGER THINGS
 http://54.39.48.63:8081/247%7CSTRANGERTHINGS/247%7CSTRANGERTHINGS/playlist.m3u8
 #EXTINF: -1 group-title = "24/7" tvg-logo = "https://innovatv.live/posters/1635457122515.jpg", TOY-STORY
