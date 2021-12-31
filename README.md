@@ -1,4 +1,3 @@
-
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602293222276.png", CINECANAL
 http://51.79.18.128:8081/LATINO%7CCINECANAL/LATINO%7CCINECANAL/playlist.m3u8
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602320787525.jpg", CINEMAX
@@ -116,5 +115,5 @@ http://51.79.18.128:8081/LATINO%7CNATGOEWILDF/LATINO%7CNATGOEWILDF/playlist.m3u8
 http://51.79.18.128:8081/SPAIN%7CVIAJAR/SPAIN%7CVIAJAR/playlist.m3u8
 #EXTINF:-140 tvg-logo="https://i.postimg.cc/q7bRmtJL/lovenature.png" group-title="DOCUMENTALES Y CULTURA", LOVE NATURE EN ESPAÑOL
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTALES Y CULTURA", SUPER TV 55
-http://ss8.domint.net:2128/stv_str/tv55/chunklist_w19976954.m3u8
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CULTURA", SABER MAS
+https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
