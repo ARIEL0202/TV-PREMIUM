@@ -30,6 +30,8 @@ http://51.79.18.128:8081/LATINO%7CAYE/LATINO%7CAYE/playlist.m3u8
 http://51.79.18.128:8081/LATINO%7CAMC/LATINO%7CAMC/playlist.m3u8
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602291632236.png", AXN
 http://51.79.18.128:8081/LATINO%7CAXN/LATINO%7CAXN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN Full HD" tvg-logo="https://i.imgur.com/iSUXy62.png" group-title="PELICULAS",AXN Full HD
+http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1721
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602432840128.png", SONY-CHANNEL
 http://51.79.18.128:8081/LATINO%7CSONYCHANNEL/LATINO%7CSONYCHANNEL/playlist.m3u8
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602427468277.png", SPACE
@@ -70,9 +72,8 @@ https://ammo-espanol-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE Y SERIES", RUN:TIME 3
 https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="CINE Y SERIES", RUN:TIME 4
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6086d3f420fc8500075f8dbf/master.m3u8?
-
+#EXTINF:-1 tvg-id="" tvg-name="Runtime Latino HD" tvg-logo="https://1.bp.blogspot.com/-iSLzlxVFRv4/YGIddCAiMsI/AAAAAAAA1UY/PtAksbM1_E0FvUOrPuD6KlRvz0Aw9L0ZwCLcBGAsYHQ/s320/RunTimeEspanol.png" group-title="PELICULAS",Runtime Latino HD
+http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1716
 
 #EXTINF: -1 group-title = "24/7" tvg-logo = "https://innovatv.live/posters/1602704088279.jpg", LOS-SIMPSON
 http://51.79.18.128:8081/24%7C7%7CLATINO%7CSIMPSONS/SIMPSONS/playlist.m3u8
