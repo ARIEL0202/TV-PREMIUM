@@ -1,3 +1,33 @@
+#EXTINF:-1,Unknown_57
+http://rec2.distv.net:25461/get.php?username=guiomar&password=123456&type=m3u_plus
+#EXTINF:-1,Unknown_60
+http://rec2.distv.net:25461/get.php?username=arlon&password=123456&type=m3u_plus
+#EXTINF:-1,Unknown_63
+http://rec2.distv.net:25461/get.php?username=dayvson&password=123456&type=m3u_plus
+#EXTINF:-1,Unknown_66
+http://rec2.distv.net:25461/get.php?username=mari&password=123456&type=m3u_plus
+#EXTINF:-1,Unknown_69
+http://rec2.distv.net:25461/get.php?username=luciene&password=123456&type=m3u_plus
+#EXTINF:-1,Unknown_72
+http://rec2.distv.net:25461/get.php?username=alciney&password=123456&type=m3u_plus
+#EXTINF:-1,Unknown_82
+http://khtro2.com///get.php?username=moises&password=102030
+&type=m3u
+#EXTINF:-1,Unknown_83
+http://khtro2.com///get.php?username=ismael&password=102030&type=m3u
+#EXTINF:-1,Unknown_87
+http://khtro2.com///get.php?username=arley&password=102030&type=m3u
+#EXTINF:-1,Unknown_88
+http://khtro2.com///get.php?username=gregory&password=102030&type=m3u
+#EXTINF:-1,Unknown_89
+http://khtro2.com///get.php?username=thierry&password=102030&type=m3u
+#EXTINF:-1,Unknown_90
+http://khtro2.com///get.php?username=neuri&password=102030&type=m3u
+#EXTINF:-1,Unknown_92
+http://khtro2.com///get.php?username=osny&password=102030&type=m3u
+#EXTINF:-1,Unknown_93
+http://khtro2.com///get.php?username=moroni&password=102030&type=m3u
+
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602293222276.png", CINECANAL
 http://51.79.18.128:8081/LATINO%7CCINECANAL/LATINO%7CCINECANAL/playlist.m3u8
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602320787525.jpg", CINEMAX
