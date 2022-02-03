@@ -1,32 +1,89 @@
-#EXTINF:-1,Unknown_57
-http://rec2.distv.net:25461/get.php?username=guiomar&password=123456&type=m3u_plus
-#EXTINF:-1,Unknown_60
-http://rec2.distv.net:25461/get.php?username=arlon&password=123456&type=m3u_plus
-#EXTINF:-1,Unknown_63
-http://rec2.distv.net:25461/get.php?username=dayvson&password=123456&type=m3u_plus
-#EXTINF:-1,Unknown_66
-http://rec2.distv.net:25461/get.php?username=mari&password=123456&type=m3u_plus
-#EXTINF:-1,Unknown_69
-http://rec2.distv.net:25461/get.php?username=luciene&password=123456&type=m3u_plus
-#EXTINF:-1,Unknown_72
-http://rec2.distv.net:25461/get.php?username=alciney&password=123456&type=m3u_plus
-#EXTINF:-1,Unknown_82
-http://khtro2.com///get.php?username=moises&password=102030
-&type=m3u
-#EXTINF:-1,Unknown_83
-http://khtro2.com///get.php?username=ismael&password=102030&type=m3u
-#EXTINF:-1,Unknown_87
-http://khtro2.com///get.php?username=arley&password=102030&type=m3u
-#EXTINF:-1,Unknown_88
-http://khtro2.com///get.php?username=gregory&password=102030&type=m3u
-#EXTINF:-1,Unknown_89
-http://khtro2.com///get.php?username=thierry&password=102030&type=m3u
-#EXTINF:-1,Unknown_90
-http://khtro2.com///get.php?username=neuri&password=102030&type=m3u
-#EXTINF:-1,Unknown_92
-http://khtro2.com///get.php?username=osny&password=102030&type=m3u
-#EXTINF:-1,Unknown_93
-http://khtro2.com///get.php?username=moroni&password=102030&type=m3u
+#EXTINF:0,TVE 24H
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+
+#EXTINF:-1, FDF | HD
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+
+#EXTINF:-1, Divinity | HD
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+
+#EXTVLCOPT:network-caching=1000
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
+
+#EXTINF:-1, Divinity
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8
+
+#EXTINF:0,BeMad
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+
+#EXTINF:-1,SPAIN:BOING
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+
+#EXTINF:-1,REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+
+#EXTINF:-1,SEVILLA FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,CILENCE TV
+http://109.236.85.100:8081/sipTV/live/playlist.m3u8?www.tecnotv.info
+
+#EXTINF:0,SP:Sevilla F.C.
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8
+
+#EXTINF:0,Real Madrid TV (English)
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+
+#EXTINF:0,Fight time (ufc)
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+
+#EXTINF:0,Sevilla Futbol Club TV
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+
+#EXTINF:0,Super 3
+http://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:c33_web/chunklist_b1296000.m3u8
+
+#EXTINF:-1,NOTICIAS:CGTN 1
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:0,Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+
+#EXTINF:0,Miami TV ESP
+http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8
+
+#EXTINF:0,HDFashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
+
+#EXTINF:0,RT Español | HD
+https://secure-streams.akamaized.net/rt-esp/index.m3u8
+
+#EXTINF:0,CGTN Espanol
+http://live.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:0,Marti
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+
+#EXTINF:0,CGTN
+http://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:0,Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:0,Deutsche Welle Latino | SD
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+
+#EXTINF:0,SAT
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8
+
+#EXTINF:0,SP:La 1
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7.mpd
+
+#EXTINF:0,BE MAD
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8
+
+#EXTINF:0,SP:Energy
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
 
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602293222276.png", CINECANAL
 http://51.79.18.128:8081/LATINO%7CCINECANAL/LATINO%7CCINECANAL/playlist.m3u8
