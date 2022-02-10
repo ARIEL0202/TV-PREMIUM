@@ -1,90 +1,44 @@
-#EXTINF:0,TVE 24H
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+#EXTINF:-1,Unknown_6603
+http://cteam.me:80/get.php?username=lenice01&password=lenice01&type=m3u_plus
+#EXTINF:-1,Unknown_6607
+http://cteam.me:80/get.php?username=Henrique11&password=Henrique11&type=m3u_plus
+#EXTINF:-1,Unknown_6611
+http://cteam.me:80/get.php?username=samuel12&password=samuel12&type=m3u_plus
+#EXTINF:-1,Unknown_6615
+http://cteam.me:80/get.php?username=leandro123&password=leandro123&type=m3u_plus
+#EXTINF:-1,Unknown_6619
+http://cteam.me:80/get.php?username=alan123&password=alan123&type=m3u_plus
+#EXTINF:-1,Unknown_6623
+http://cteam.me:80/get.php?username=marco123&password=marco123&type=m3u_plus
+#EXTINF:-1,Unknown_6627
+http://cteam.me:80/get.php?username=wesley1234&password=wesley1234&type=m3u_plus
+#EXTINF:-1,Unknown_6631
+http://cteam.me:80/get.php?username=Breno&password=Breno123&type=m3u_plus
+#EXTINF:-1,Unknown_6635
+http://cteam.me:80/get.php?username=helena&password=helena123&type=m3u_plus
 
-#EXTINF:-1, FDF | HD
-https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
-
-#EXTINF:-1, Divinity | HD
-http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
-
-#EXTVLCOPT:network-caching=1000
-https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
-
-#EXTINF:-1, Divinity
-https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8
-
-#EXTINF:0,BeMad
-https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
-
-#EXTINF:-1,SPAIN:BOING
-https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
-
-#EXTINF:-1,REAL MADRID TV HD
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
-
-#EXTINF:-1,SEVILLA FC
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,CILENCE TV
-http://109.236.85.100:8081/sipTV/live/playlist.m3u8?www.tecnotv.info
-
-#EXTINF:0,SP:Sevilla F.C.
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8
-
-#EXTINF:0,Real Madrid TV (English)
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-
-#EXTINF:0,Fight time (ufc)
-http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
-
-#EXTINF:0,Sevilla Futbol Club TV
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
-
-#EXTINF:0,Super 3
-http://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:c33_web/chunklist_b1296000.m3u8
-
-#EXTINF:-1,NOTICIAS:CGTN 1
-https://livees.cgtn.com/1000e/prog_index.m3u8
-
-#EXTINF:0,Wow TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
-
-#EXTINF:0,Miami TV ESP
-http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8
-
-#EXTINF:0,HDFashion
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
-
-#EXTINF:0,RT Español | HD
-https://secure-streams.akamaized.net/rt-esp/index.m3u8
-
-#EXTINF:0,CGTN Espanol
-http://live.cgtn.com/1000e/prog_index.m3u8
-
-#EXTINF:0,Marti
-http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
-
-#EXTINF:0,CGTN
-http://livees.cgtn.com/1000e/prog_index.m3u8
-
-#EXTINF:0,Extrema TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:0,Deutsche Welle Latino | SD
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-
-#EXTINF:0,SAT
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8
-
-#EXTINF:0,SP:La 1
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7.mpd
-
-#EXTINF:0,BE MAD
-https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8
-
-#EXTINF:0,SP:Energy
-https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
-
+#EXTINF:-1,Unknown_6639
+http://cteam.me:80/get.php?username=barreto&password=barreto1234&type=m3u_plus
+#EXTINF:-1,Unknown_6643
+http://cteam.me:80/get.php?username=Bernardo&password=102030&type=m3u_plus
+#EXTINF:-1,Unknown_6647
+http://cteam.me:80/get.php?username=Matheus&password=102030&type=m3u_plus
+#EXTINF:-1,Unknown_6651
+http://cteam.me:80/get.php?username=bruna&password=12345&type=m3u_plus
+#EXTINF:-1,Unknown_6655
+http://cteam.me:80/get.php?username=gabriel&password=12345&type=m3u_plus
+#EXTINF:-1,Unknown_6659
+http://cteam.me:80/get.php?username=Wellington&password=12345678&type=m3u_plus
+#EXTINF:-1,Unknown_6660
+http://blazehd.online:80/get.php?username=DavidSilva1213&password=22992757632&type=m3u_plus
+#EXTINF:-1,Unknown_6661
+http://blazehd.online:80/get.php?username=DavidSilva1213&password=22992757632&type=m3u_plus
+#EXTINF:-1,Unknown_6662
+http://blazehd.online:80/get.php?username=DavidSilva1213&password=22992757632&type=m3u_plus
+#EXTINF:-1,Unknown_6663
+http://blazehd.online:80/get.php?username=DavidSilva1213&password=22992757632&type=m3u_plus
+#EXTINF:-1,Unknown_6664
+http://blazehd.online:80/get.php?username=DavidSilva1213&password=22992757632&type=m3u_plus
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602293222276.png", CINECANAL
 http://51.79.18.128:8081/LATINO%7CCINECANAL/LATINO%7CCINECANAL/playlist.m3u8
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602320787525.jpg", CINEMAX
