@@ -1,3 +1,22 @@
+#EXTINF:-1 tvg-id="I732.25788.schedulesdirect.org" tvg-name="01 | DISCOVERY CHANNEL  | SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_channel-mediano.png" group-title="CULTURE",01 | DISCOVERY CHANNEL  | SD
+http://ultraxplaytv.com:8000/zKCaaR5FOY/2jKB9tBhWi/152892
+#EXTINF:-1 tvg-id="I371.96307.schedulesdirect.org" tvg-name="02 | DISCOVERY CHANNEL MX | SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_channel-mediano.png" group-title="CULTURE",02 | DISCOVERY CHANNEL MX | SD
+http://ultraxplaytv.com:8000/zKCaaR5FOY/2jKB9tBhWi/152893
+#EXTINF:-1 tvg-id="I732.25788.schedulesdirect.org" tvg-name="03 | DISCOVERY CHANNEL | HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_channel-mediano.png" group-title="CULTURE",03 | DISCOVERY CHANNEL | HD
+http://ultraxplaytv.com:8000/zKCaaR5FOY/2jKB9tBhWi/152894
+#EXTINF:-1 tvg-id="I371.96307.schedulesdirect.org" tvg-name="04 | DISCOVERY CHANNEL MX |  FHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_channel-mediano.png" group-title="CULTURE",04 | DISCOVERY CHANNEL MX |  FHD
+http://ultraxplaytv.com:8000/zKCaaR5FOY/2jKB9tBhWi/152895
+#EXTINF:-1 tvg-id="I223.25793.schedulesdirect.org" tvg-name="05 | DISCOVERY INVESTIGATION | SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/investigation_discovery_latinoamerica-mediano.png" group-title="CULTURE",05 | DISCOVERY INVESTIGATION | SD
+http://ultraxplaytv.com:8000/zKCaaR5FOY/2jKB9tBhWi/152896
+#EXTINF:-1 tvg-id="" tvg-name="06 | FAMILIA DISCOVERY | HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_familia-mediano.png" group-title="CULTURE",06 | FAMILIA DISCOVERY | HD
+http://ultraxplaytv.com:8000/zKCaaR5FOY/2jKB9tBhWi/152897
+#EXTINF:-1 tvg-id="I372.16048.schedulesdirect.org" tvg-name="07 | DISCOVERY INVESTIGATION | HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/investigation_discovery_latinoamerica-mediano.png" group-title="CULTURE",07 | DISCOVERY INVESTIGATION | HD
+http://ultraxplaytv.com:8000/zKCaaR5FOY/2jKB9tBhWi/152898
+#EXTINF:-1 tvg-id="I263.25793.schedulesdirect.org" tvg-name="08 | DISCOVERY INVESTIGATION | FHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/investigation_discovery_latinoamerica-mediano.png" group-title="CULTURE",08 | DISCOVERY INVESTIGATION | FHD
+http://ultraxplaytv.com:8000/zKCaaR5FOY/2jKB9tBhWi/152899
+#EXTINF:-1 tvg-id="I263.25793.schedulesdirect.org" tvg-name="09 | DISCOVERY INVESTIGATION MX | SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/investigation_discovery_latinoamerica-mediano.png" group-title="CULTURE",09 | DISCOVERY INVESTIGATION MX | SD
+http://ultraxplaytv.com:8000/zKCaaR5FOY/2jKB9tBhWi/152900
+
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602293222276.png", CINECANAL
 http://51.79.18.128:8081/LATINO%7CCINECANAL/LATINO%7CCINECANAL/playlist.m3u8
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602320787525.jpg", CINEMAX
