@@ -1,3 +1,116 @@
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="CINE",HBO
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56261
+http://soberon.us:25461/bullnew/soberonnew/118
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="CINE",HBO 2
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56263
+http://soberon.us:25461/bullnew/soberonnew/119
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="CINE", HBO Plus
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56493
+http://soberon.us:25461/bullnew/soberonnew/121
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="CINE", HBO Family
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56259
+http://soberon.us:25461/bullnew/soberonnew/120
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png" group-title="CINE", HBO Extreme
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204347
+http://soberon.us:25461/bullnew/soberonnew/128
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-signature-hd_m.png" group-title="CINE", HBO Signature
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56494
+http://soberon.us:25461/bullnew/soberonnew/755
+
+#EXTINF:-1 tvg-logo="http://51.222.105.31:8080/images/b768a960b697ac358d3c4c7d21b7a6c8.png" group-title="CINE", HBO Mundi
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/41298
+http://soberon.us:25461/bullnew/soberonnew/1112
+
+#EXTINF:-1 tvg-logo="http://51.222.105.31:8080/images/fe1eb7b7a92b71537d1385bed683de3a.png" group-title="CINE", HBO pop
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/219008
+http://soberon.us:25461/bullnew/soberonnew/129
+
+
+#EXTINF:-1 tvg-logo="http://51.222.105.31:8080/images/06da33f2103aacd87a8c0ea1f5950231.png" group-title="CINE",Morbido
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/41301
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINE",Golden
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204343
+http://soberon.us:25461/bullnew/soberonnew/757
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINE",Golden +
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/219025
+http://soberon.us:25461/bullnew/soberonnew/117
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINE",Golden Premiere
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56489
+http://soberon.us:25461/bullnew/soberonnew/756
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINE",Edge
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204344
+http://soberon.us:25461/bullnew/soberonnew/116
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://puu.sh/msJjE/f96602e474.png" group-title="CURIOSIDAD", Nat Geo
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/226806
+http://soberon.us:25461/bullnew/soberonnew/310
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="CURIOSIDAD",Discovery Channel 
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204320
+http://soberon.us:25461/bullnew/soberonnew/70
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KyBQx36/ar-discovery-hd-theater-m.png" group-title="CURIOSIDAD", DISCOVERY THEATER
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204327
+http://soberon.us:25461/bullnew/soberonnew/78
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="CURIOSIDAD", History Channel
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204641
+http://soberon.us:25461/bullnew/soberonnew/123
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="CURIOSIDAD", H2 
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204638
+http://soberon.us:25461/bullnew/soberonnew/122
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="CURIOSIDAD", Discovery H&H
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204323
+http://soberon.us:25461/bullnew/soberonnew/74
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="CURIOSIDAD", Animal Planet
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204623
+http://soberon.us:25461/bullnew/soberonnew/45
+
+#EXTINF:-1 tvg-logo="https://puu.sh/mb2Rd/9c56f73248.png" group-title="CURIOSIDAD", Nat Geo Wild
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204322
+http://soberon.us:25461/bullnew/soberonnew/311
+
+#EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="CURIOSIDAD", GOURMET TV
+https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
+@@ -1673,17 +1672,17 @@ https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
+https://amc-maschic-1.samsung.wurl.com/manifest/8c44a36cdc5ed261301bf8bc6dcddb02.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/glitz.png" group-title="CURIOSIDAD", Glitz
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204452
+http://soberon.us:25461/bullnew/soberonnew/114
+
+#EXTINF:-1 tvg-logo="https://puu.sh/mbLF3/ceac7e3575.png" group-title="CURIOSIDAD", TLC
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204324
+http://soberon.us:25461/bullnew/soberonnew/79
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="CURIOSIDAD", Discovery SCI
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204629
+http://soberon.us:25461/bullnew/soberonnew/77
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverycivilization.png" group-title="CURIOSIDAD",Discovery World
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56472
+http://soberon.us:25461/bullnew/soberonnew/81
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/WOBI_logo.png" group-title="CURIOSIDAD",WOBI
+http://edge3-hr.cvattv.com.ar/live/c6eds/WOBI/SA_SAGEMCOM/WOBI.m3u8
 
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602293222276.png", CINECANAL
 http://51.79.18.128:8081/LATINO%7CCINECANAL/LATINO%7CCINECANAL/playlist.m3u8
