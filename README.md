@@ -1,3 +1,24 @@
+#EXTINF:-1 tvg-logo="" group-title="",HBO SIGNATURE
+http://edge-vod01-hr.cvattv.com.ar//live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature-mp4a_144800_spa=20001-avc1_3900000=10004.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",HBO
+https://edge9-hr.cvattv.com.ar//live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD-mp4a_144800_spa=20001-avc1_3900000=10004.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", HBO Family
+https://edge-vod01-hr.cvattv.com.ar//live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family-mp4a_144800_spa=20001-avc1_3900000=10004.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", HBO Plus HD
+http://edge-vod04-hr.cvattv.com.ar//live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus-mp4a_144800_spa=20001-avc1_3900000=10004.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", HBO Pop
+http://edge-vod04-hr.cvattv.com.ar//live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP-mp4a_144800_spa=20001-avc1_3900000=10004.m3u8
+#EXTINF:-1, FOXSPORTS PREMIUM
+http://edge03-fdo-py.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD-mp4a_145200_spa=20001-avc1_2499968=10007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel HD" tvg-logo="https://www.informador.mx/__export/1614018559320/sites/elinformador/img/2021/02/22/eu2gejxwyaakn-d_crop1614018325447.jpg_757208179.jpg" group-title="K.PREMIUM",STAR CHANNEL
+http://edge-live14-hr.cvattv.com.ar:80/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD-mp4a_145200_eng=20002-avc1_3450000=10004.m3u8
+#EXTINF:-1 tvg-chno="00" tvg-id="" tvg-name="" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/621.png" group-title="Deportes",ESPN
+http://edge8-ccast-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD-mp4a_145200_eng=20002-avc1_899968=10009.m3u8
+#EXTINF:-1, FOX SPORTS 2
+http://edge03-fdo-py.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD-mp4a_144800_spa=20000-avc1_3900000=10004.m3u8
+#EXTINF:-1, Disney Channel
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD-mp4a_144800_spa=20001-avc1_3000000=10010.m3u8
+
 #EXTINF:-1,A3SERIES
 http://45.189.108.58:10000/play/a04z/index.m3u8
 #EXTINF:-1,AMC HD
