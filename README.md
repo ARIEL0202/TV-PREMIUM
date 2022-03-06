@@ -1,23 +1,3 @@
-#EXTINF:-1 tvg-logo="" group-title="",HBO SIGNATURE
-http://edge-vod01-hr.cvattv.com.ar//live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature-mp4a_144800_spa=20001-avc1_3900000=10004.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",HBO
-https://edge9-hr.cvattv.com.ar//live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD-mp4a_144800_spa=20001-avc1_3900000=10004.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", HBO Family
-https://edge-vod01-hr.cvattv.com.ar//live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family-mp4a_144800_spa=20001-avc1_3900000=10004.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", HBO Plus HD
-http://edge-vod04-hr.cvattv.com.ar//live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus-mp4a_144800_spa=20001-avc1_3900000=10004.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", HBO Pop
-http://edge-vod04-hr.cvattv.com.ar//live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP-mp4a_144800_spa=20001-avc1_3900000=10004.m3u8
-#EXTINF:-1, FOXSPORTS PREMIUM
-http://edge03-fdo-py.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD-mp4a_145200_spa=20001-avc1_2499968=10007.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Channel HD" tvg-logo="https://www.informador.mx/__export/1614018559320/sites/elinformador/img/2021/02/22/eu2gejxwyaakn-d_crop1614018325447.jpg_757208179.jpg" group-title="K.PREMIUM",STAR CHANNEL
-http://edge-live14-hr.cvattv.com.ar:80/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD-mp4a_145200_eng=20002-avc1_3450000=10004.m3u8
-#EXTINF:-1 tvg-chno="00" tvg-id="" tvg-name="" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/621.png" group-title="Deportes",ESPN
-http://edge8-ccast-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD-mp4a_145200_eng=20002-avc1_899968=10009.m3u8
-#EXTINF:-1, FOX SPORTS 2
-http://edge03-fdo-py.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD-mp4a_144800_spa=20000-avc1_3900000=10004.m3u8
-#EXTINF:-1, Disney Channel
-http://edge-live14-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD-mp4a_144800_spa=20001-avc1_3000000=10010.m3u8
 
 #EXTINF:-1,A3SERIES
 http://45.189.108.58:10000/play/a04z/index.m3u8
@@ -49,30 +29,21 @@ http://51.79.18.128:8081/LATINO%7CFX/LATINO%7CFX/playlist.m3u8
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602324109426.jpg", GOLDENPLUS
 http://51.79.18.128:8081/LATINO%7CGOLDENPLUS/LATINO%7CGOLDENPLUS/playlist.m3u8
 
-#EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602346003344.png", TNT
-http://51.79.18.128:8081/LATINO%7CTNT/LATINO%7CTNT/playlist.m3u8
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602428486133.png", WARNER
 http://51.79.18.128:8081/LATINO%7CWARNER/LATINO%7CWARNER/playlist.m3u8
 #EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1602424157576.jpg", A y E
 http://51.79.18.128:8081/LATINO%7CAYE/LATINO%7CAYE/playlist.m3u8
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602291358305.png", AMC
 http://51.79.18.128:8081/LATINO%7CAMC/LATINO%7CAMC/playlist.m3u8
-#EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602291632236.png", AXN
-http://51.79.18.128:8081/LATINO%7CAXN/LATINO%7CAXN/playlist.m3u8
 
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602432840128.png", SONY-CHANNEL
 http://51.79.18.128:8081/LATINO%7CSONYCHANNEL/LATINO%7CSONYCHANNEL/playlist.m3u8
 
-#EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1619656722185.jpg", STAR-CINEMA
-http://51.79.18.128:8081/LATINO%7CFOXCINEMA/LATINO%7CFOXCINEMA/playlist.m3u8
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602432742130.png", ESTUDIO-UNIVERSAL
 http://51.79.18.128:8081/LATINO%7CSTUDIOUNIVERSAL/LATINO%7CSTUDIOUNIVERSAL/playlist.m3u8
 
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602321026229.jpg", DEPELICULA
 http://51.79.18.128:8081/LATINO%7CDEPELICULA/LATINO%7CDEPELICULA/playlist.m3u8
-
-#EXTINF: -1 group-title = "24/7" tvg-logo = "https://innovatv.live/posters/1613653637270.png", PELICULAS-DE-ESTRENO
-http://54.39.48.63:8081/247%7CPELICULASESTRENO/247%7CPELICULASESTRENO/playlist.m3u8
 
 #EXTINF:-1 tvg-id="139944" tvg-name="CINEAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="CINE", CINEAR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
@@ -91,9 +62,6 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE", MY TIME MOVIES 2
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE Y SERIES", RUN:TIME
-https://runtime-espana-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE Y SERIES", RUN:TIME 2
 https://ammo-espanol-plex.amagi.tv/playlist.m3u8
