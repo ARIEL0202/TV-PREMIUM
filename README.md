@@ -1,54 +1,9 @@
-#EXTM3U
-#EXTINF:-1,A3INTERNACIONAL
-http://45.189.108.58:10000/play/a040/index.m3u8
 #EXTINF:-1,A3SERIES
 http://45.189.108.58:10000/play/a04z/index.m3u8
-#EXTINF:-1,ACN
-http://45.189.108.58:10000/play/a05z/index.m3u8
-#EXTINF:-1,AE Mundo
-http://45.189.108.58:10000/play/a00j/index.m3u8
 #EXTINF:-1,AMC HD
 http://45.189.108.58:10000/play/a020/index.m3u8
-#EXTINF:-1,AMERICAHD
-http://45.189.108.58:10000/play/a00r/index.m3u8
-#EXTINF:-1,ATV
-http://45.189.108.58:10000/play/a04u/index.m3u8
-#EXTINF:-1,ATV NOTICIASHD
-http://45.189.108.58:10000/play/a00w/index.m3u8
-#EXTINF:-1,ATVHD
-http://45.189.108.58:10000/play/a00v/index.m3u8
-#EXTINF:-1,AXN
-http://45.189.108.58:10000/play/a03g/index.m3u8
 #EXTINF:-1,AZ click HD
 http://45.189.108.58:10000/play/a021/index.m3u8
-#EXTINF:-1,AmericaTV
-http://45.189.108.58:10000/play/a04s/index.m3u8
-#EXTINF:-1,Animal Planet
-http://45.189.108.58:10000/play/a00a/index.m3u8
-#EXTINF:-1,CLAVE
-http://45.189.108.58:10000/play/a060/index.m3u8
-#EXTINF:-1,CNN Chile
-http://45.189.108.58:10000/play/a01g/index.m3u8
-#EXTINF:-1,CNN Espanol
-http://45.189.108.58:10000/play/a02t/index.m3u8
-#EXTINF:-1,CONTRIBUCION
-http://45.189.108.58:10000/play/a058/index.m3u8
-#EXTINF:-1,CUBAVISION INTERNACIONAL
-http://45.189.108.58:10000/play/a00y/index.m3u8
-#EXTINF:-1,CUBAVISIONINT
-http://45.189.108.58:10000/play/a05d/index.m3u8
-#EXTINF:-1,CVI
-http://45.189.108.58:10000/play/a066/index.m3u8
-#EXTINF:-1,Canal Estrellas
-http://45.189.108.58:10000/play/a00n/index.m3u8
-#EXTINF:-1,Cartoon Network
-http://45.189.108.58:10000/play/a01k/index.m3u8
-#EXTINF:-1,Cinecanal
-http://45.189.108.58:10000/play/a01a/index.m3u8
-#EXTINF:-1,Cinemax
-http://45.189.108.58:10000/play/a03e/index.m3u8
-#EXTINF:-1,Claro Sports
-http://45.189.108.58:10000/play/a01m/index.m3u8
 #EXTINF:-1,Comedy Central HD
 http://45.189.108.58:10000/play/a01u/index.m3u8
 #EXTINF:-1,DWHD
