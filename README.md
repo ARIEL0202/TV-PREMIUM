@@ -1,25 +1,3 @@
-
-#EXTINF:-1,A3SERIES
-http://45.189.108.58:10000/play/a04z/index.m3u8
-#EXTINF:-1,AMC HD
-http://45.189.108.58:10000/play/a020/index.m3u8
-#EXTINF:-1,AZ click HD
-http://45.189.108.58:10000/play/a021/index.m3u8
-#EXTINF:-1,Comedy Central HD
-http://45.189.108.58:10000/play/a01u/index.m3u8
-#EXTINF:-1,GOLDEN
-http://45.189.108.58:10000/play/a057/index.m3u8
-#EXTINF:-1,H2
-http://45.189.108.58:10000/play/a05a/index.m3u8
-#EXTINF:-1,LATINAHD
-http://45.189.108.58:10000/play/a006/index.m3u8
-#EXTINF:-1,TNT HD
-http://45.189.108.58:10000/play/a01r/index.m3u8
-#EXTINF:-1,UNIVERSAL REALITY HD
-http://45.189.108.58:10000/play/a01x/index.m3u8
-#EXTINF:-1,WILLAXHD
-http://45.189.108.58:10000/play/a005/index.m3u8
-
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602293222276.png", CINECANAL
 http://51.79.18.128:8081/LATINO%7CCINECANAL/LATINO%7CCINECANAL/playlist.m3u8
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602320787525.jpg", CINEMAX
