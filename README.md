@@ -179,7 +179,8 @@ http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/1516
 #EXTINF:-1 tvg-id="WorldofBusinessIdeas.mx" tvg-name="CINE - Wobi TV (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-eewIYgEehoo/Xmv1VpJFO8I/AAAAAAAABZ4/BPjBSNwzMQQW68jCaM2IoppQQe4HWATJgCLcBGAsYHQ/s200/72.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Wobi TV (M)(1080)
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/26900
 
-
+#EXTINF:-1 tvg-id="aztecanoticias.mx" tvg-name="Latino | Cartelera Premiere HD 1080P" tvg-logo="" group-title="Cinema",Latino | Cartelera Premiere HD 1080P
+http://89.187.173.106:8082/9040/mpegts?token=KvKiOrnwd0
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602293222276.png", CINECANAL
 http://51.79.18.128:8081/LATINO%7CCINECANAL/LATINO%7CCINECANAL/playlist.m3u8
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602320787525.jpg", CINEMAX
