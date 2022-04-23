@@ -9,33 +9,21 @@ http://51.79.18.128:8081/LATINO%7CFX/LATINO%7CFX/playlist.m3u8
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602324109426.jpg", GOLDENPLUS
 http://51.79.18.128:8081/LATINO%7CGOLDENPLUS/LATINO%7CGOLDENPLUS/playlist.m3u8
 
-#EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602346003344.png", TNT
-http://51.79.18.128:8081/LATINO%7CTNT/LATINO%7CTNT/playlist.m3u8
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602428486133.png", WARNER
 http://51.79.18.128:8081/LATINO%7CWARNER/LATINO%7CWARNER/playlist.m3u8
 #EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1602424157576.jpg", A y E
 http://51.79.18.128:8081/LATINO%7CAYE/LATINO%7CAYE/playlist.m3u8
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602291358305.png", AMC
 http://51.79.18.128:8081/LATINO%7CAMC/LATINO%7CAMC/playlist.m3u8
-#EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602291632236.png", AXN
-http://51.79.18.128:8081/LATINO%7CAXN/LATINO%7CAXN/playlist.m3u8
 
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602432840128.png", SONY-CHANNEL
 http://51.79.18.128:8081/LATINO%7CSONYCHANNEL/LATINO%7CSONYCHANNEL/playlist.m3u8
 
-#EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1619656722185.jpg", STAR-CINEMA
-http://51.79.18.128:8081/LATINO%7CFOXCINEMA/LATINO%7CFOXCINEMA/playlist.m3u8
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602432742130.png", ESTUDIO-UNIVERSAL
 http://51.79.18.128:8081/LATINO%7CSTUDIOUNIVERSAL/LATINO%7CSTUDIOUNIVERSAL/playlist.m3u8
 
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602321026229.jpg", DEPELICULA
 http://51.79.18.128:8081/LATINO%7CDEPELICULA/LATINO%7CDEPELICULA/playlist.m3u8
-
-#EXTINF: -1 group-title = "24/7" tvg-logo = "https://innovatv.live/posters/1613653637270.png", PELICULAS-DE-ESTRENO
-http://54.39.48.63:8081/247%7CPELICULASESTRENO/247%7CPELICULASESTRENO/playlist.m3u8
-
-#EXTINF:-1 tvg-id="139944" tvg-name="CINEAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="CINE", CINEAR
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1RXnVq3IbByHRTOzVpySxror_Kie_6oYAhw&usqp=CAU" group-title="CINE", A3CINE
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
@@ -48,9 +36,6 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE", MY TIME MOVIES 2
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE Y SERIES", RUN:TIME
-https://runtime-espana-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE Y SERIES", RUN:TIME 2
 https://ammo-espanol-plex.amagi.tv/playlist.m3u8
@@ -81,6 +66,37 @@ http://51.79.18.128:8081/LATINO%7CDISTRITOCOMEDIA/LATINO%7CDISTRITOCOMEDIA/playl
 http://51.79.18.128:8081/LATINO%7CENTERTAIMENT/LATINO%7CENTERTAIMENT/playlist.m3u8
 #EXTINF:-1 tvg-id="138227" tvg-name="HOLA TV " tvg-logo="https://fotografias.antena3.com/clipping/cmsimages02/2014/01/13/54697E0F-8599-45F8-8DED-51FB09BD5AE3/58.jpg" group-title="00 - Argentina", HOLA TV 
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CULTURA", SABER MAS
+https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE AR HD" tvg-logo="https://i.imgur.com/IKVWxuv.png" group-title="PELICULAS",CINE AR HD
+http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/184
+
+#EXTINF:-79 tvg-logo="https://i.postimg.cc/63k7cq9d/cinear.jpg" group-title="CINE Y SERIES", CINE.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w1950619080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Saber Mas Full HD" tvg-logo="https://1.bp.blogspot.com/--y4tycxdEjE/YGJBso7An3I/AAAAAAAA1Ug/LdPplGb7wF4qPsMKMSzRQVDM6Yf0P6A8QCLcBGAsYHQ/s320/Sabermas.jpg" group-title="CULTURA",Saber Mas Full HD
+http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1681
+
+#EXTINF:0  tvg-logo="http://wusstensie.aidshilfe.de/sites/default/files/wwwcineblack-400x300.png", CINE +
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-id="104452" tvg-name="CSTV" tvg-logo="https://lh3.googleusercontent.com/-FO_MlzlWSL0/XtV_Ce2TltI/AAAAAAAA1XE/7jcBrfL19qwjBOJ4knqOiXQZCni99OwWACK8BGAsYHg/s0/2020-06-01.png", CSTV
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="116640" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV Señal 3
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60240f57676235002df19f47" tvg-id="5e20b730f2f8d5003d739db7-60240f57676235002df19f47" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinereal_logo_dark_v3.png" group-title="USA",Cine Real
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinereal-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=L5nSDEMpYfzaGH16TF7X&channelId=60240f57676235002df19f47
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913fa15130002b284197" tvg-id="5e20b730f2f8d5003d739db7-6018913fa15130002b284197" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinesureno_logo_light.png" group-title="USA",Cine Sureño
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinesureno-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=L5nSDEMpYfzaGH16TF7X&channelId=6018913fa15130002b284197
+
+#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", EL CHAVO TV
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
