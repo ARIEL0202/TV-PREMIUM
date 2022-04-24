@@ -5,7 +5,8 @@ http://tvmp.co:25461/cabrera/1234/51
 #EXTINF:-1 tvg-id="TNT.Sports.HD.(TNTSHD).ar" tvg-name="▬●TNT Sports (Argentina)●▬" tvg-logo="http://images.tvmp.co/logos/Sports/40-tnt.sports.png" group-title="Sport-Deportes",▬●TNT Sports (Argentina)●▬
 http://tvmp.co:25461/cabrera/1234/455#EXTINF:-1 tvg-id="I602.101362.schedulesdirect.org" tvg-name="▬●Warner Channel Latinoamérica●▬" tvg-logo="https://cdn-images-1.medium.com/fit/c/200/200/1*9JIzgGEYeJA1Sg4rgQ47nA.jpeg" group-title="Cinepolis Tv",▬●Warner Channel Latinoamérica●▬
 http://tvmp.co:25461/cabrera/1234/798
-
+#EXTINF:-1 tvg-id="50.Internacional.(AUDIO).ar" tvg-name="▬●Fox Sports Premium (Argentina)●▬" tvg-logo="http://images.tvmp.co/logos/Sports/24-FOXSportsPremium.png" group-title="Sport-Deportes",▬●Fox Sports Premium (Argentina)●▬
+http://tvmp.co:25461/cabrera/1234/456
 
 
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="▬●A&E LA●▬" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0022/5028/brand.gif" group-title="Cinepolis Tv",▬●A&E LA●▬
