@@ -249,7 +249,7 @@ http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/26906
 #EXTINF:-1 tvg-id="AtreseriesInternacional.es" tvg-name="CINE - A3 Cine INT (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-NB9rkT-lYkM/Xw8qxPOt_nI/AAAAAAAAAWw/NIIAJUpL29cJdLEkeRfNyS527x8nxiX5ACLcBGAsYHQ/w200-h200/A3%2BCine.png" group-title="CANALES-ENTRETENIMIENTO",CINE - A3 Cine INT (M)(SD)
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/26971
 #EXTINF:-1 tvg-id="AMC.mx" tvg-name="CINE - AMC (M)(720)" tvg-logo="https://1.bp.blogspot.com/-FwlH6QzpV-8/XaokZRCO07I/AAAAAAAAAWA/2fjkTYGqsp03aenYpNBo2pChRQ6T485_ACLcBGAsYHQ/s200/2.png" group-title="CANALES-ENTRETENIMIENTO",CINE - AMC (M)(720)
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/26931
+http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/26931       
 #EXTINF:-1 tvg-id="AMC.mx" tvg-name="CINE - AMC (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-FwlH6QzpV-8/XaokZRCO07I/AAAAAAAAAWA/2fjkTYGqsp03aenYpNBo2pChRQ6T485_ACLcBGAsYHQ/s200/2.png" group-title="CANALES-ENTRETENIMIENTO",CINE - AMC (TV)(1080)
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/116476
 #EXTINF:-1 tvg-id="AXN.mx" tvg-name="CINE - AXN (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png" group-title="CANALES-ENTRETENIMIENTO",CINE - AXN (M)(1080)
