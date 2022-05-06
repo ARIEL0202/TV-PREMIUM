@@ -158,6 +158,8 @@ http://tvmp.co:25461/cabrera/1234/1601
 http://tvmp.co:25461/cabrera/1234/16633
 ---------------------------------------------------------------------------------------------------------------------------------------
 
+#EXTINF:-1 ,Cine 24/7
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="aztecanoticias.mx" tvg-name="Latino | Cartelera Premiere HD 1080P" tvg-logo="" group-title="Cinema",Latino | Cartelera Premiere HD 1080P
 http://89.187.173.106:8082/9040/mpegts?token=KvKiOrnwd0
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602293222276.png", CINECANAL
