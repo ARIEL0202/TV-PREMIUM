@@ -2,26 +2,46 @@
 http://181.78.22.214:8000/play/a011
 #EXTINF:-1,AXN
 http://181.78.22.214:8000/play/a01k
-#EXTINF:-1,Animal Planet
-http://181.78.22.214:8000/play/a00v
-#EXTINF:-1,Canal Caracol
-http://181.78.22.214:8000/play/a018
-#EXTINF:-1,Canal Estrellas
-http://181.78.22.214:8000/play/a026
+#EXTINF:-1,FX
+http://181.78.22.214:8000/play/a01m
 #EXTINF:-1,City TV
 http://181.78.22.214:8000/play/a01f
 #EXTINF:-1,Cinecanal
 http://181.78.22.214:8000/play/a005
 #EXTINF:-1,Cinemax
 http://181.78.22.214:8000/play/a01i
+#EXTINF:-1,STAR CHANNEL
+http://181.78.22.214:8000/play/a00a
+#EXTINF:-1,Sony
+http://181.78.22.214:8000/play/a01j
+#EXTINF:-1,TBS
+http://181.78.22.214:8000/play/a014
+#EXTINF:-1,TNT
+http://181.78.22.214:8000/play/a00e
+#EXTINF:-1,TCM
+http://181.78.22.214:8000/play/a00b
+#EXTINF:-1,Universal
+http://181.78.22.214:8000/play/a006
+#EXTINF:-1,Warner
+http://181.78.22.214:8000/play/a00w
+#EXTINF:-1,Animal Planet
+http://181.78.22.214:8000/play/a00v
 #EXTINF:-1,Discovery Channel
 http://181.78.22.214:8000/play/a00u
 #EXTINF:-1,Discovery ID
 http://181.78.22.214:8000/play/a013
-#EXTINF:-1,Discovery Kids
-http://181.78.22.214:8000/play/a00g
 #EXTINF:-1,Discovery Turbo
 http://181.78.22.214:8000/play/a01r
+#EXTINF:-1,History Channel
+http://181.78.22.214:8000/play/a004
+#EXTINF:-1,HomeandHealth
+http://181.78.22.214:8000/play/a015
+#EXTINF:-1,Nat Geo
+http://181.78.22.214:8000/play/a003
+#EXTINF:-1,TRO
+http://181.78.22.214:8000/play/a01e
+#EXTINF:-1,TLC
+http://181.78.22.214:8000/play/a01u
 #EXTINF:-1,ESPN
 http://181.78.22.214:8000/play/a010
 #EXTINF:-1,ESPN 2
@@ -32,206 +52,26 @@ http://181.78.22.214:8000/play/a00z
 http://181.78.22.214:8000/play/a01s
 #EXTINF:-1,ESPN CO
 http://181.78.22.214:8000/play/a01c
-#EXTINF:-1,FX
-http://181.78.22.214:8000/play/a01m
 #EXTINF:-1,Fox Sports 1
 http://181.78.22.214:8000/play/a016
 #EXTINF:-1,Fox Sports 2
 http://181.78.22.214:8000/play/a01v
 #EXTINF:-1,Fox Sports 3
 http://181.78.22.214:8000/play/a01w
-#EXTINF:-1,History Channel
-http://181.78.22.214:8000/play/a004
-#EXTINF:-1,HomeandHealth
-http://181.78.22.214:8000/play/a015
-#EXTINF:-1,Nat Geo
-http://181.78.22.214:8000/play/a003
-#EXTINF:-1,RCN Novelas
-http://181.78.22.214:8000/play/a012
-#EXTINF:-1,STAR CHANNEL
-http://181.78.22.214:8000/play/a00a
-#EXTINF:-1,Senal Colombia
-http://181.78.22.214:8000/play/a01b
-#EXTINF:-1,Sony
-http://181.78.22.214:8000/play/a01j
-#EXTINF:-1,TBS
-http://181.78.22.214:8000/play/a014
-#EXTINF:-1,TCM
-http://181.78.22.214:8000/play/a00b
-#EXTINF:-1,TLC
-http://181.78.22.214:8000/play/a01u
-#EXTINF:-1,TNT
-http://181.78.22.214:8000/play/a00e
-#EXTINF:-1,TRO
-http://181.78.22.214:8000/play/a01e
-#EXTINF:-1,Telemundo
-http://181.78.22.214:8000/play/a01t
-#EXTINF:-1,Universal
-http://181.78.22.214:8000/play/a006
-#EXTINF:-1,Warner
-http://181.78.22.214:8000/play/a00w
 #EXTINF:-1,Win
 http://181.78.22.214:8000/play/a01o
+#EXTINF:-1,Senal Colombia
+http://181.78.22.214:8000/play/a01b
 #EXTINF:-1,Zona Latina
 http://181.78.22.214:8000/play/a01x
-
-#EXTINF:-1 tvg-id="" tvg-name="▬●Genesis-Actions●▬" tvg-logo="https://www.filmsite.org/images/action-genre.jpg" group-title="Genesis Exclusive",▬●Genesis-Actions●▬
-http://tvmp.co:25461/cabrera/1234/11418
-#EXTINF:-1 tvg-id="" tvg-name="▬●Genesis-Clasicos●▬" tvg-logo="https://image.isu.pub/171219135836-d047cd16c6e5260e99dda1149eaab7f4/jpg/page_1.jpg" group-title="Genesis Exclusive",▬●Genesis-Clasicos●▬
-http://tvmp.co:25461/cabrera/1234/11420
-#EXTINF:-1 tvg-id="" tvg-name="▬●Genesis-Classic●▬" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/5b/44/cc/5b44cca8-cd06-5fbf-7c42-b9c533b93d2c/source/512x512bb.jpg" group-title="Genesis Exclusive",▬●Genesis-Classic●▬
-http://tvmp.co:25461/cabrera/1234/12487
-#EXTINF:-1 tvg-id="" tvg-name="▬●Genesis-Disney-Pixar●▬" tvg-logo="https://www.ohmyluxo.com/uploads/3/8/2/4/38249737/506369_orig.jpg" group-title="Genesis Exclusive",▬●Genesis-Disney-Pixar●▬
-http://tvmp.co:25461/cabrera/1234/11419
-#EXTINF:-1 tvg-id="" tvg-name="▬●Genesis-Disney●▬" tvg-logo="https://i.ytimg.com/vi/6KyFeG7kfTM/hqdefault.jpg" group-title="Genesis Exclusive",▬●Genesis-Disney●▬
-http://tvmp.co:25461/cabrera/1234/11064
-#EXTINF:-1 tvg-id="" tvg-name="▬●Genesis-Familia●▬" tvg-logo="https://www.todaytells.com/wp-content/uploads/2019/03/Family-Cinema-Market-Emerging-Trends-and-Global-Demand-2019-to-2025-industryreports24.com.jpg" group-title="Genesis Exclusive",▬●Genesis-Familia●▬
-http://tvmp.co:25461/cabrera/1234/11395
-#EXTINF:-1 tvg-id="I511.24553.schedulesdirect.org" tvg-name="▬●Genesis-HBO-Lat●▬" tvg-logo="http://dt1.cdn.tvmp.co/logos/Latinos/hbo-latino.jpg" group-title="Genesis Exclusive",▬●Genesis-HBO-Lat●▬
-http://tvmp.co:25461/cabrera/1234/11448
-#EXTINF:-1 tvg-id="I105.18096.schedulesdirect.org" tvg-name="▬●Genesis-HBO-Xtreme●▬" tvg-logo="http://dt1.cdn.tvmp.co/logos/Latinos/hboxtreme.png" group-title="Genesis Exclusive",▬●Genesis-HBO-Xtreme●▬
-http://tvmp.co:25461/cabrera/1234/11449
-#EXTINF:-1 tvg-id="" tvg-name="▬●M:I Saga●▬" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffanart.tv%2Fmovie%2F87359%2Fmission-impossible-collection%2F&psig=AOvVaw2C7sERL7n8lVpLo2jSNLfz&ust=1602397849833000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjZoKizqewCFQAAAAAdAAAAABAD" group-title="Genesis Exclusive",▬●M:I Saga●▬
-http://tvmp.co:25461/cabrera/1234/12242
-#EXTINF:-1 tvg-id="" tvg-name="▬●Genesis-Horror●▬" tvg-logo="https://previews.123rf.com/images/pedrolieb/pedrolieb1210/pedrolieb121000025/16084905-clap-film-of-cinema-horror-genre-clapperboard-text-illustration-.jpg" group-title="Genesis Exclusive",▬●Genesis-Horror●▬
-http://tvmp.co:25461/cabrera/1234/11156
-#EXTINF:-1 tvg-id="" tvg-name="▬●Genesis-Latino●▬" tvg-logo="https://image.winudf.com/v2/image/Y29tLmNpbmVsYXRpbm9mdWxsLmFwcGJyc2VndW5kYV9pY29uX2dibHc1bWd4/icon.png" group-title="Genesis Exclusive",▬●Genesis-Latino●▬
-http://tvmp.co:25461/cabrera/1234/12578
-#EXTINF:-1 tvg-id="" tvg-name="▬●Genesis-Marvel2●▬" tvg-logo="https://toppng.com/uploads/preview/download-hi-res-image-marvel-universe-of-superheroes-logo-11563228462vb2ernjr10.png" group-title="Genesis Exclusive",▬●Genesis-Marvel2●▬
-http://tvmp.co:25461/cabrera/1234/11018
-#EXTINF:-1 tvg-id="" tvg-name="▬●Genesis-Marvel●▬" tvg-logo="https://emby.media/community/uploads/inline/7975/5bbffb6a00fa4_MarvelCinematicUniverseposter.png" group-title="Genesis Exclusive",▬●Genesis-Marvel●▬
-http://tvmp.co:25461/cabrera/1234/11038
-#EXTINF:-1 tvg-id="" tvg-name="▬●Genesis-NetFlix●▬" tvg-logo="https://cdn.vox-cdn.com/thumbor/Yq1Vd39jCBGpTUKHUhEx5FfxvmM=/39x0:3111x2048/1200x800/filters:focal(39x0:3111x2048)/cdn.vox-cdn.com/uploads/chorus_image/image/49901753/netflixlogo.0.0.png" group-title="Genesis Exclusive",▬●Genesis-NetFlix●▬
-http://tvmp.co:25461/cabrera/1234/11416
-#EXTINF:-1 tvg-id="" tvg-name="▬●Genesis-Net●▬" tvg-logo="https://vignette.wikia.nocookie.net/freakylogo/images/1/11/Happy_Madison_Productions_Logo_2005-present-0/revision/latest/top-crop/width/220/height/220?cb=20150201013138" group-title="Genesis Exclusive",▬●Genesis-Net●▬
-http://tvmp.co:25461/cabrera/1234/11212
-#EXTINF:-1 tvg-id="" tvg-name="▬●Saga Fast & Furios●▬" tvg-logo="https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UV0014-NPVB34052_CN-0000000000350700/1596217355000/image?w=240&h=240&bg_color=000000&opacity=100&_version=00_09_000" group-title="Genesis Exclusive",▬●Saga Fast & Furios●▬
-http://tvmp.co:25461/cabrera/1234/11047
-#EXTINF:-1 tvg-id="" tvg-name="▬●Genesis-StarzW●▬" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/starz-west-logo-png-transparent.png" group-title="Genesis Exclusive",▬●Genesis-StarzW●▬
-http://tvmp.co:25461/cabrera/1234/12036
-#EXTINF:-1 tvg-id="A.and.E.cl" tvg-name="▬●Genesis-Starz●▬" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/Starz%21_Cinema_2000.svg/revision/latest/scale-to-width-down/340?cb=20100312201611" group-title="Genesis Exclusive",▬●Genesis-Starz●▬
-http://tvmp.co:25461/cabrera/1234/10104
-
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="▬●A&E LA●▬" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0022/5028/brand.gif" group-title="Cinepolis Tv",▬●A&E LA●▬
-http://tvmp.co:25461/cabrera/1234/728
-#EXTINF:-1 tvg-id="AtreseriesInternacional.es" tvg-name="▬●A3 Series Internacional HD●▬" tvg-logo="http://entreunosyceros.hol.es/idoK/logos/a3series.jpg" group-title="Cinepolis Tv",▬●A3 Series Internacional HD●▬
-http://tvmp.co:25461/cabrera/1234/11969
-#EXTINF:-1 tvg-id="I707.105772.schedulesdirect.org" tvg-name="▬●AMC Latinoamérica HD●▬" tvg-logo="http://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/730-AMC-HD-01.jpg" group-title="Cinepolis Tv",▬●AMC Latinoamérica HD●▬
-http://tvmp.co:25461/cabrera/1234/629
-#EXTINF:-1 tvg-id="I1603.106795.schedulesdirect.org" tvg-name="▬●AXN Latino HD●▬" tvg-logo="http://images.mi.tv/channels/co_axn_m.png" group-title="Cinepolis Tv",▬●AXN Latino HD●▬
-http://tvmp.co:25461/cabrera/1234/637
-#EXTINF:-1 tvg-id="I604.19385.schedulesdirect.org" tvg-name="▬●Canal Sony Latinoamérica HD●▬" tvg-logo="https://la.canalsony.com/sites/all/themes/responsive/responsive_canal_sony_colorful/logo.png" group-title="Cinepolis Tv",▬●Canal Sony Latinoamérica HD●▬
-http://tvmp.co:25461/cabrera/1234/671
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="▬●Cine Latino●▬" tvg-logo="http://www.cinelatino.com/bundles/sitefrontend/img/cine-latino-logo.png" group-title="Cinepolis Tv",▬●Cine Latino●▬
-http://tvmp.co:25461/cabrera/1234/2674
-#EXTINF:-1 tvg-id="A.and.E.cl" tvg-name="▬●Cine Sony●▬" tvg-logo="https://panel.tvmasplus.com/Genesis/Images/_Cine-sony.jpg" group-title="Cinepolis Tv",▬●Cine Sony●▬
-http://tvmp.co:25461/cabrera/1234/316
-#EXTINF:-1 tvg-id="Cinecanal" tvg-name="▬●Cinecanal●▬" tvg-logo="http://panel.tvmasplus.com/Genesis/Images/ar_cinecanal-1_m.png" group-title="Cinepolis Tv",▬●Cinecanal●▬
-http://tvmp.co:25461/cabrera/1234/309
-#EXTINF:-1 tvg-id="Cinemax.(Cinemax.COL.IPTV).co" tvg-name="▬●Cinemax●▬" tvg-logo="https://pbs.twimg.com/profile_images/618497065283416064/B50suy-t.png" group-title="Cinepolis Tv",▬●Cinemax●▬
-http://tvmp.co:25461/cabrera/1234/617
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="Cinemax East en Español HD" tvg-logo="http://images.tvmp.co/logos/Latinos-usa/33-Cinemax-East.png" group-title="Latinos",Cinemax East en Español HD
-http://tvmp.co:25461/cabrera/1234/13355
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="StarzEncore en Español HD" tvg-logo="http://images.tvmp.co/logos/Latinos-usa/34-Starz-Encore.png" group-title="Latinos",StarzEncore en Español HD
-http://tvmp.co:25461/cabrera/1234/13354
-#EXTINF:-1 tvg-id="I1609.77617.schedulesdirect.org" tvg-name="▬●FX Latinoamérica HD●▬" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/d97/d97_large.png" group-title="Cinepolis Tv",▬●FX Latinoamérica HD●▬
-http://tvmp.co:25461/cabrera/1234/768
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="▬●Golden Plus HD●▬" tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-goldenhd.jpg" group-title="Cinepolis Tv",▬●Golden Plus HD●▬
-http://tvmp.co:25461/cabrera/1234/618
-#EXTINF:-1 tvg-id="I1791.80804.schedulesdirect.org" tvg-name="▬●Golden Premier HD●▬" tvg-logo="http://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/263-Golden-Edge-01.jpg" group-title="Cinepolis Tv",▬●Golden Premier HD●▬
-http://tvmp.co:25461/cabrera/1234/771
-#EXTINF:-1 tvg-id="I410.89214.schedulesdirect.org" tvg-name="▬●HBO Latino FHD●▬" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzh_5-Z_tMMhbrkLDsHVdRVavYSyaKocb9rRTaEaqJT3wMD9b6tTjhG6PNfDzKtLmG7Q0&usqp=CAU" group-title="Cinepolis Tv",▬●HBO Latino FHD●▬
-http://tvmp.co:25461/cabrera/1234/245
-#EXTINF:-1 tvg-id="HBO 2 HD" tvg-name="▬●HBO 2 Latinoamérica HD●▬" tvg-logo="http://liveitkodi.com/Logos/HBO2.png" group-title="Cinepolis Tv",▬●HBO 2 Latinoamérica HD●▬
-http://tvmp.co:25461/cabrera/1234/636
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="▬●HBO Family Latinoamérica●▬" tvg-logo="http://www.vector-logo.net/logo_preview/eps/h/HBO_Family.png" group-title="Cinepolis Tv",▬●HBO Family Latinoamérica●▬
-http://tvmp.co:25461/cabrera/1234/632
-#EXTINF:-1 tvg-id="I1751.19548.schedulesdirect.org" tvg-name="▬●HBO Latinoamérica HD●▬" tvg-logo="http://d1oq4398v5395a.cloudfront.net/LOGOS/canales/CO/524.png" group-title="Cinepolis Tv",▬●HBO Latinoamérica HD●▬
-http://tvmp.co:25461/cabrera/1234/688
-#EXTINF:-1 tvg-id="Max Prime" tvg-name="▬●HBO Mundi HD●▬" tvg-logo="https://skyassineonline.com.br/img/channels/lg-279-canal-max-prime-hd.png" group-title="Cinepolis Tv",▬●HBO Mundi HD●▬
-http://tvmp.co:25461/cabrera/1234/785
-#EXTINF:-1 tvg-id="I1757.75537.schedulesdirect.org" tvg-name="▬●HBO Pop HD●▬" tvg-logo="https://skyassineonline.com.br/img/channels/lg-277-canal-max-up-hd.png" group-title="Cinepolis Tv",▬●HBO Pop HD●▬
-http://tvmp.co:25461/cabrera/1234/1807
-#EXTINF:-1 tvg-id="HBO Signature" tvg-name="▬●HBO Signature Latinoamérica●▬" tvg-logo="https://www.gmkfreelogos.com/logos/H/img/HBO_Signature.gif" group-title="Cinepolis Tv",▬●HBO Signature Latinoamérica●▬
-http://tvmp.co:25461/cabrera/1234/1169
-#EXTINF:-1 tvg-id="I1726.91029.schedulesdirect.org" tvg-name="▬●Paramount Network Latinoamérica HD●▬" tvg-logo="https://d1oq4398v5395a.cloudfront.net/LOGOS/canales/AR/510.png" group-title="Cinepolis Tv",▬●Paramount Network Latinoamérica HD●▬
-http://tvmp.co:25461/cabrera/1234/630
-#EXTINF:-1 tvg-id="I1705.66349.schedulesdirect.org" tvg-name="▬●Space HD●▬" tvg-logo="https://pbs.twimg.com/profile_images/3104385571/aeb08da67f65aae66e9730ea2480f492_200x200.jpeg" group-title="Cinepolis Tv",▬●Space HD●▬
-http://tvmp.co:25461/cabrera/1234/706
-#EXTINF:-1 tvg-id="I518.28221.tvguide.com" tvg-name="▬●Space Sur HD●▬" tvg-logo="" group-title="Cinepolis Tv",▬●Space Sur HD●▬
-http://tvmp.co:25461/cabrera/1234/1768
-#EXTINF:-1 tvg-id="Fox Premium Action" tvg-name="▬●Universal Crime Latinoamérica HD●▬" tvg-logo="http://images.tvmp.co/logos/Cinema/08-StarACT.jpg" group-title="Cinepolis Tv",▬●Universal Crime Latinoamérica HD●▬
-http://tvmp.co:25461/cabrera/1234/763
-#EXTINF:-1 tvg-id="Star.Channel.Hd.cl" tvg-name="▬●Star Channel Latinoamérica HD●▬" tvg-logo="http://images.tvmp.co/logos/Cinema/07-StarCH.jpg" group-title="Cinepolis Tv",▬●Star Channel Latinoamérica HD●▬
-http://tvmp.co:25461/cabrera/1234/646
-#EXTINF:-1 tvg-id="Fox Premium Cinema" tvg-name="▬●Universal Cinema Latinoamérica HD●▬" tvg-logo="" group-title="Cinepolis Tv",▬●Universal Cinema Latinoamérica HD●▬
-http://tvmp.co:25461/cabrera/1234/695
-#EXTINF:-1 tvg-id="Fox Premium Classics" tvg-name="▬●Multipremier Latinoamérica●▬" tvg-logo="" group-title="Cinepolis Tv",▬●Multipremier Latinoamérica●▬
-http://tvmp.co:25461/cabrera/1234/696
-#EXTINF:-1 tvg-id="Fox Premium Comedy" tvg-name="▬●Universal Comedy Latinoamérica HD●▬" tvg-logo="" group-title="Cinepolis Tv",▬●Universal Comedy Latinoamérica HD●▬
-http://tvmp.co:25461/cabrera/1234/1602
-#EXTINF:-1 tvg-id="Fox Premium Series" tvg-name="▬●Universal Premiere Latinoamérica HD●▬" tvg-logo="" group-title="Cinepolis Tv",▬●Universal Premiere Latinoamérica HD●▬
-http://tvmp.co:25461/cabrera/1234/668
-#EXTINF:-1 tvg-id="I704.29017.schedulesdirect.org" tvg-name="▬●Studio Universal●▬" tvg-logo="https://cdn.mitvstatic.com/channels/ar_studio-universal_m.png" group-title="Cinepolis Tv",▬●Studio Universal●▬
-http://tvmp.co:25461/cabrera/1234/650
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="▬●SyFy Latinoamérica HD●▬" tvg-logo="https://seeklogo.com/images/S/syfy-logo-EDF3AAB208-seeklogo.com.png" group-title="Cinepolis Tv",▬●SyFy Latinoamérica HD●▬
-http://tvmp.co:25461/cabrera/1234/619
-#EXTINF:-1 tvg-id="I1618.75073.schedulesdirect.org" tvg-name="▬●TBS Latinoamérica HD●▬" tvg-logo="http://images.mi.tv/channels/ar_tbs_m.png" group-title="Cinepolis Tv",▬●TBS Latinoamérica HD●▬
-http://tvmp.co:25461/cabrera/1234/651
-#EXTINF:-1 tvg-id="I725.44824.schedulesdirect.org" tvg-name="▬●TCM Latino●▬" tvg-logo="https://www.gmkfreelogos.com/logos/T/img/TCM-3.gif" group-title="Cinepolis Tv",▬●TCM Latino●▬
-http://tvmp.co:25461/cabrera/1234/652
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="▬●TNT Latinoamérica HD●▬" tvg-logo="https://lh3.googleusercontent.com/9l837ir9qg99DjNExP5X3exkZ7Y-x9yhGXy_Yax12VamvvxbrKwpKoOCZi4UriMRKMD8Wfov2Krc" group-title="Cinepolis Tv",▬●TNT Latinoamérica HD●▬
-http://tvmp.co:25461/cabrera/1234/306
-#EXTINF:-1 tvg-id="TNTSeries.pa" tvg-name="▬●TNT Series 1●▬" tvg-logo="http://panel.tvmasplus.com/Genesis/Images/_TNT-SERIES1.jpg" group-title="Cinepolis Tv",▬●TNT Series 1●▬
-http://tvmp.co:25461/cabrera/1234/307
-#EXTINF:-1 tvg-id="I416.16521.schedulesdirect.org" tvg-name="▬●Universal Channel Latinoamérica●▬" tvg-logo="https://pbs.twimg.com/profile_images/875497032835670016/wFoOppnb_400x400.jpg" group-title="Cinepolis Tv",▬●Universal Channel Latinoamérica●▬
-http://tvmp.co:25461/cabrera/1234/726
-#EXTINF:-1 tvg-id="I602.101362.schedulesdirect.org" tvg-name="▬●Warner Channel Latinoamérica●▬" tvg-logo="https://cdn-images-1.medium.com/fit/c/200/200/1*9JIzgGEYeJA1Sg4rgQ47nA.jpeg" group-title="Cinepolis Tv",▬●Warner Channel Latinoamérica●▬
-http://tvmp.co:25461/cabrera/1234/798
-
-#EXTINF:-1 tvg-id="H2 CO" tvg-name="▬●H2 Latinoamérica HD●▬" tvg-logo="http://sappi.panaceiafilmes.com/2/wp-content/uploads/2017/06/H2-logo.png" group-title="Culturales",▬●H2 Latinoamérica HD●▬
-http://tvmp.co:25461/cabrera/1234/951
-#EXTINF:-1 tvg-id="Animal.Planet.(Animal.Planet.HD).co" tvg-name="▬●Animal Planet LA●▬" tvg-logo="https://seeklogo.com/images/A/animal-planet-logo-ACC17E581B-seeklogo.com.gif" group-title="Culturales",▬●Animal Planet LA●▬
-http://tvmp.co:25461/cabrera/1234/729
-#EXTINF:-1 tvg-id="Discovery.Channel.(Discovery.HD).co" tvg-name="▬●Discovery Channel Latinoamérica●▬" tvg-logo="https://lh3.googleusercontent.com/rco5jx11XbUqD_D-LKC6y3EV9j_MxNZwLhrvYeQB3k9ODF2rF9uLulicwdAJLphZF-Tjp6F-MqbG" group-title="Culturales",▬●Discovery Channel Latinoamérica●▬
-http://tvmp.co:25461/cabrera/1234/464
-#EXTINF:-1 tvg-id="The.Discovery.Channel.en.Español.(DSCE).us" tvg-name="▬●Discovery en Español HD●▬" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052012/discovery_channel_spn.png" group-title="Culturales",▬●Discovery en Español HD●▬
-http://tvmp.co:25461/cabrera/1234/2560
-#EXTINF:-1 tvg-id="Discovery.Familia.(U.S..feed).(DFAM).us" tvg-name="▬●Discovery Familia HD●▬" tvg-logo="https://cf-media.press.discovery.com/ugc/networks/gateway/logo-familia_14_.jpg" group-title="Culturales",▬●Discovery Familia HD●▬
-http://tvmp.co:25461/cabrera/1234/2538
-#EXTINF:-1 tvg-id="Discovery.H.and.H.(Home.Health.HD).co" tvg-name="▬●Discovery Home&Health●▬" tvg-logo="http://images.mi.tv/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="Culturales",▬●Discovery Home&Health●▬
-http://tvmp.co:25461/cabrera/1234/620
-#EXTINF:-1 tvg-id="Discovery ID CO" tvg-name="▬●Discovery Investigacion HD●▬" tvg-logo="https://lh3.googleusercontent.com/JH7Lyfo2CxoOMOcN-ChV8bvO_MUyvatxmvsbX0vf3LNsNs7uXgnspBH2LlRcz_VtmnRjJbQPtZ4" group-title="Culturales",▬●Discovery Investigacion HD●▬
-http://tvmp.co:25461/cabrera/1234/621
-#EXTINF:-1 tvg-id="TLC.(TLC).co" tvg-name="▬●Discovery TLC●▬" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/022011/tlc_logo.png?itok=8Ljw2n5Z" group-title="Culturales",▬●Discovery TLC●▬
-http://tvmp.co:25461/cabrera/1234/756
-#EXTINF:-1 tvg-id="Discovery Turbo CO" tvg-name="▬●Discovery Turbo●▬" tvg-logo="https://i0.wp.com/raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_turbo.png" group-title="Culturales",▬●Discovery Turbo●▬
-http://tvmp.co:25461/cabrera/1234/623
-#EXTINF:-1 tvg-id="I1305.66488.schedulesdirect.org" tvg-name="▬●Discovery World●▬" tvg-logo="" group-title="Cinepolis Tv",▬●Discovery World●▬
-http://tvmp.co:25461/cabrera/1234/10109
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="▬●NBC Universo FHD●▬" tvg-logo="http://images.tvmp.co/logos/Latinos-usa/04-NBC-Universo.jpg" group-title="Latinos",▬●NBC Universo FHD●▬
-http://tvmp.co:25461/cabrera/1234/14
-#EXTINF:-1 tvg-id="HolaTV.us" tvg-name="▬●Hola Tv HD●▬" tvg-logo="http://images.tvmp.co/logos/Latinos-usa/15-Holatv.jpg" group-title="Latinos",▬●Hola Tv HD●▬
-http://tvmp.co:25461/cabrera/1234/462
-#EXTINF:-1 tvg-id="I619.74528.schedulesdirect.org" tvg-name="▬●Comedy Central Latinoamérica HD●▬" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/042011/_comedy_central_2011_-_3-line.jpg?itok=yHo_m0oC" group-title="Cinepolis Tv",▬●Comedy Central Latinoamérica HD●▬
-http://tvmp.co:25461/cabrera/1234/457
-#EXTINF:-1 tvg-id="History.Channel.(History.Col.IPTV).co" tvg-name="▬●History Channel Latinoamérica●▬" tvg-logo="http://i.imgur.com/MlCSW.png" group-title="Culturales",▬●History Channel Latinoamérica●▬
-http://tvmp.co:25461/cabrera/1234/454
-#EXTINF:-1 tvg-id="NAT.GEO.HD.(Nat.Geo.HD).pe" tvg-name="▬●National Geographic Latinoamérica●▬" tvg-logo="http://www.navegamosencrucero.com/wp-content/uploads/2010/03/n145574803450_1091.jpg" group-title="Culturales",▬●National Geographic Latinoamérica●▬
-http://tvmp.co:25461/cabrera/1234/778
-#EXTINF:-1 tvg-id="I411.16496.schedulesdirect.org" tvg-name="▬●TruTV Latinoamérica●▬" tvg-logo="http://images.mi.tv/channels/ar_tru-tv_m.png" group-title="Cinepolis Tv",▬●TruTV Latinoamérica●▬
-http://tvmp.co:25461/cabrera/1234/796
-#EXTINF:-1 tvg-id="" tvg-name="RT Documentales" tvg-logo="" group-title="Culturales",RT Documentales
-http://tvmp.co:25461/cabrera/1234/16885
-#EXTINF:-1 tvg-id="" tvg-name="▬●LifeTime Latinoamerica●▬" tvg-logo="https://static.businessinsider.com/image/4fa13d38eab8ea024f000011-750.jpg" group-title="Cinepolis Tv",▬●LifeTime Latinoamerica●▬
-http://tvmp.co:25461/cabrera/1234/16816
-#EXTINF:-1 tvg-id="MexicoTravelChannel.mx" tvg-name="▬●Mexico Travel Channel●▬" tvg-logo="" group-title="México",▬●Mexico Travel Channel●▬
-http://tvmp.co:25461/cabrera/1234/12214
-#EXTINF:-1 tvg-id="I784.65399.schedulesdirect.org" tvg-name="▬●Universal Reality Latinoamérica HD●▬" tvg-logo="" group-title="Cinepolis Tv",▬●Universal Reality Latinoamérica HD●▬
-http://tvmp.co:25461/cabrera/1234/1601
-#EXTINF:-1 tvg-id="Food.Network.(Food.Network.HD).co" tvg-name="Food Network Latinoamérica" tvg-logo="" group-title="Culturales",Food Network Latinoamérica
-http://tvmp.co:25461/cabrera/1234/16633
----------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1,Canal Estrellas
+http://181.78.22.214:8000/play/a026
+#EXTINF:-1,Telemundo
+http://181.78.22.214:8000/play/a01t
+#EXTINF:-1,RCN Novelas
+http://181.78.22.214:8000/play/a012
+#EXTINF:-1,Canal Caracol
+http://181.78.22.214:8000/play/a018
 
 #EXTINF:-1 ,Cine 24/7
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
