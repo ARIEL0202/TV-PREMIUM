@@ -10,6 +10,18 @@ http://181.78.22.214:8000/play/a01f
 http://181.78.22.214:8000/play/a005
 #EXTINF:-1,Cinemax
 http://181.78.22.214:8000/play/a01i
+#EXTINF:-1,HBO
+http://181.78.22.214:8000/play/a01h
+#EXTINF:-1,HBO 2
+http://181.78.22.214:8000/play/a00n
+#EXTINF:-1,HBO Family
+http://181.78.22.214:8000/play/a00q
+#EXTINF:-1,HBO Plus
+http://181.78.22.214:8000/play/a00o
+#EXTINF:-1,HBO XTREME SD
+http://181.78.22.214:8000/play/a00p
+#EXTINF:-1,I-Sat
+http://181.78.22.214:8000/play/a007
 #EXTINF:-1,STAR CHANNEL
 http://181.78.22.214:8000/play/a00a
 #EXTINF:-1,Sony
@@ -72,6 +84,8 @@ http://181.78.22.214:8000/play/a01t
 http://181.78.22.214:8000/play/a012
 #EXTINF:-1,Canal Caracol
 http://181.78.22.214:8000/play/a018
+#EXTINF:-1,City TV
+http://181.78.22.214:8000/play/a01f
 
 #EXTINF:-1 ,Cine 24/7
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
@@ -179,12 +193,8 @@ http://181.78.22.214:8000/play/a00d
 http://181.78.22.214:8000/play/a005
 #EXTINF:-1,Cinemax
 http://181.78.22.214:8000/play/a01i
-#EXTINF:-1,City TV
-http://181.78.22.214:8000/play/a01f
 #EXTINF:-1,Discovery Channel
 http://181.78.22.214:8000/play/a00u
-#EXTINF:-1,Discovery ID
-http://181.78.22.214:8000/play/a013
 #EXTINF:-1,Discovery Kids
 http://181.78.22.214:8000/play/a00g
 #EXTINF:-1,Discovery Turbo
@@ -225,22 +235,10 @@ http://181.78.22.214:8000/play/a01v
 http://181.78.22.214:8000/play/a01w
 #EXTINF:-1,Glitz*
 http://181.78.22.214:8000/play/a021
-#EXTINF:-1,HBO
-http://181.78.22.214:8000/play/a01h
-#EXTINF:-1,HBO 2
-http://181.78.22.214:8000/play/a00n
-#EXTINF:-1,HBO Family
-http://181.78.22.214:8000/play/a00q
-#EXTINF:-1,HBO Plus
-http://181.78.22.214:8000/play/a00o
-#EXTINF:-1,HBO XTREME SD
-http://181.78.22.214:8000/play/a00p
 #EXTINF:-1,History Channel
 http://181.78.22.214:8000/play/a004
 #EXTINF:-1,HomeandHealth
 http://181.78.22.214:8000/play/a015
-#EXTINF:-1,I-Sat
-http://181.78.22.214:8000/play/a007
 #EXTINF:-1,MTV
 http://181.78.22.214:8000/play/a008
 #EXTINF:-1,Nat Geo
