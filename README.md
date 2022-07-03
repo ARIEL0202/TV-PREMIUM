@@ -241,8 +241,6 @@ http://181.78.22.214:8000/play/a004
 http://181.78.22.214:8000/play/a015
 #EXTINF:-1,MTV
 http://181.78.22.214:8000/play/a008
-#EXTINF:-1,Nat Geo
-http://181.78.22.214:8000/play/a003
 #EXTINF:-1,NatGeo Kids
 http://181.78.22.214:8000/play/a00c
 #EXTINF:-1,Nick Jr
@@ -293,3 +291,5 @@ http://181.78.22.214:8000/play/a00w
 http://181.78.22.214:8000/play/a01o
 #EXTINF:-1,Zona Latina
 http://181.78.22.214:8000/play/a01x
+#EXTINF:-1,Nat Geo
+http://181.78.22.214:8000/play/a003
