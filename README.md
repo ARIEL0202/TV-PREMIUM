@@ -1,22 +1,22 @@
 #EXTINF:-1,MX: Tyc Sports
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/389.m3u8
 
-#EXTINF:-1,MX: MX: Fox Sports Premium
+#EXTINF:-1,MX: Fox Sports Premium
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/385.m3u8
 
 #EXTINF:-1,GOLTV
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/27.m3u8
 
-#EXTINF:-1,MX: Directv Sports
+#EXTINF:-1,Directv Sports
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/382.m3u8
 
-#EXTINF:-1,MX: Directv Sports 2
+#EXTINF:-1,Directv Sports 2
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/383.m3u8
 
 #EXTINF:-1,Cinemax HD
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/35.m3u8
 
-#EXTINF:-1,AMC MX
+#EXTINF:-1,AMC 
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/101.m3u8
 
 #EXTINF:-1,Discovery World
