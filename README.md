@@ -4,7 +4,7 @@ http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/389.m3u8
 #EXTINF:-1,MX: Fox Sports Premium
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/385.m3u8
 
-#EXTINF:-1,24/7 | LOS SIMPSON
+#EXTINF:-1,LOS SIMPSON
 http://fivetv.org:25461/victor/victor/853
 #EXTINF:-1,24/7 | LOS PICAPIEDRAS
 http://fivetv.org:25461/victor/victor/867
@@ -75,7 +75,7 @@ http://fivetv.org:25461/victor/victor/26328
 #EXTINF:-1,24/7 ACTIVIDAD PARANORMAL
 http://fivetv.org:25461/victor/victor/26331
 
-#EXTINF:-1,CINE Y SERIE | A&E HD
+#EXTINF:-1,A&E HD
 http://fivetv.org:25461/victor/victor/954
 #EXTINF:-1,CINE Y SERIE | A&E
 http://fivetv.org:25461/victor/victor/955
