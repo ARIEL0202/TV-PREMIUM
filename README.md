@@ -96,10 +96,8 @@ http://fivetv.org:25461/victor/victor/9215
 http://fivetv.org:25461/victor/victor/9216
 #EXTINF:-1,GOLDEN EDGE
 http://fivetv.org:25461/victor/victor/9217
-#EXTINF:-1,HBO PLUS FHD
+#EXTINF:-1,HBO PLUS
 http://fivetv.org:25461/victor/victor/9219
-#EXTINF:-1,HBO PLUS 
-http://fivetv.org:25461/victor/victor/9193
 #EXTINF:-1,GOLDEN PLUS
 http://fivetv.org:25461/victor/victor/9222
 #EXTINF:-1,HBO SIGNATURE HD
@@ -200,8 +198,6 @@ http://fivetv.org:25461/victor/victor/9150
 http://fivetv.org:25461/victor/victor/9151
 #EXTINF:-1,Discovery World
 http://fivetv.org:25461/victor/victor/9152
-#EXTINF:-1,Discovery Channel (COL)
-http://fivetv.org:25461/victor/victor/23756
 #EXTINF:-1,Discovery Channel (MEX)
 http://fivetv.org:25461/victor/victor/23757
 #EXTINF:-1,Discovery Familia
