@@ -4,270 +4,145 @@ http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/389.m3u8
 #EXTINF:-1,MX: Fox Sports Premium
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/385.m3u8
 
-#EXTINF:-1,LOS SIMPSON
-http://fivetv.org:25461/victor/victor/853
-#EXTINF:-1,24/7 | LOS PICAPIEDRAS
-http://fivetv.org:25461/victor/victor/867
-#EXTINF:-1,24/7 | DON GATO Y SU PANDILLA
-http://fivetv.org:25461/victor/victor/861
-#EXTINF:-1,24/7 | EL CHAPULIN COLORADO
-http://fivetv.org:25461/victor/victor/23009
-#EXTINF:-1,24/7 | BOB ESPONJA
-http://fivetv.org:25461/victor/victor/869
-#EXTINF:-1,24/7 | LA PANTERA ROSA
-http://fivetv.org:25461/victor/victor/23058
-#EXTINF:-1,24/7 | ALF
-http://fivetv.org:25461/victor/victor/23940
-#EXTINF:-1,24/7 | SPIDERMAN
-http://fivetv.org:25461/victor/victor/23166
-#EXTINF:-1,24/7 | LA FAMILIA PELUCHE
-http://fivetv.org:25461/victor/victor/25195
-#EXTINF:-1,24/7 El Avispón Verde
-http://fivetv.org:25461/victor/victor/25637
-#EXTINF:-1,24/7 | FUTURAMA
-http://fivetv.org:25461/victor/victor/25158
-#EXTINF:-1,24/7 | MALCOLM EL DEL MEDIO
-http://fivetv.org:25461/victor/victor/23974
-#EXTINF:-1,24/7 | DINOSAURIOS
-http://fivetv.org:25461/victor/victor/24016
-#EXTINF:-1,24/7 | LA FAMILIA MONSTERS
-http://fivetv.org:25461/victor/victor/25160
-#EXTINF:-1,24/7 | BREAKING BAD
-http://fivetv.org:25461/victor/victor/23053
-#EXTINF:-1,24/7 | UNA FAMILIA DE DIEZ
-http://fivetv.org:25461/victor/victor/23852
-#EXTINF:-1,24/7 | LA ROSA DE GUADALUPE
-http://fivetv.org:25461/victor/victor/25161
-#EXTINF:-1,24/7 | MASTER CHEF
-http://fivetv.org:25461/victor/victor/25162
-#EXTINF:-1,24/7 | POWER RANGERS
-http://fivetv.org:25461/victor/victor/25163
-#EXTINF:-1,24/7 | CASO CERRADO
-http://fivetv.org:25461/victor/victor/21817
-#EXTINF:-1,24/7 | MR. BEAN
-http://fivetv.org:25461/victor/victor/868
-#EXTINF:-1,24/7 | LA HORA PICO
-http://fivetv.org:25461/victor/victor/23713
-#EXTINF:-1,24/7 | TOM Y JERRY
-http://fivetv.org:25461/victor/victor/23856
-#EXTINF:-1,24/7 | EL CHAVO DEL 8
-http://fivetv.org:25461/victor/victor/858
-#EXTINF:-1,24/7 | LA CASA DE PAPEL
-http://fivetv.org:25461/victor/victor/25072
-#EXTINF:-1,24/7 | CORAJE EL PERRO COBARDE
-http://fivetv.org:25461/victor/victor/25153
-#EXTINF:-1,24/7 | HEMAN
-http://fivetv.org:25461/victor/victor/23050
-#EXTINF:-1,24/7 | DEATH NOTE
-http://fivetv.org:25461/victor/victor/23964
-#EXTINF:-1,24/7 | HEROES EN PIJAMAS
-http://fivetv.org:25461/victor/victor/25159
-#EXTINF:-1,24/7 SHERA
-http://fivetv.org:25461/victor/victor/25633
-#EXTINF:-1,24/7 STRANGER THINGS
-http://fivetv.org:25461/victor/victor/25634
-#EXTINF:-1,24/7 LUIS MIGUEL LA SERIE 2018
-http://fivetv.org:25461/victor/victor/25635
-#EXTINF:-1,24/7 EL CHEMA
-http://fivetv.org:25461/victor/victor/25636
-#EXTINF:-1,24/7 HARRY POTTER
-http://fivetv.org:25461/victor/victor/26328
-#EXTINF:-1,24/7 ACTIVIDAD PARANORMAL
-http://fivetv.org:25461/victor/victor/26331
-
 #EXTINF:-1,A&E HD
 http://fivetv.org:25461/victor/victor/954
-#EXTINF:-1,CINE Y SERIE | A&E
+#EXTINF:-1,A&E
 http://fivetv.org:25461/victor/victor/955
-#EXTINF:-1,CINE Y SERIE | AXN SD
+#EXTINF:-1,AXN SD
 http://fivetv.org:25461/victor/victor/956
-#EXTINF:-1,CINE Y SERIE | AXN HD
+#EXTINF:-1,AXN HD
 http://fivetv.org:25461/victor/victor/957
-#EXTINF:-1,CINE Y SERIE | AMC  HD
+#EXTINF:-1,AMC  HD
 http://fivetv.org:25461/victor/victor/958
-#EXTINF:-1,CINE Y SERIE | CINECANAL HD
+#EXTINF:-1,CINECANAL HD
 http://fivetv.org:25461/victor/victor/960
-#EXTINF:-1,CINE Y SERIE | CINECANAL LAT
+#EXTINF:-1,CINECANAL LAT
 http://fivetv.org:25461/victor/victor/961
-#EXTINF:-1,CINE Y SERIE | CINEMAX HD
+#EXTINF:-1,CINEMAX HD
 http://fivetv.org:25461/victor/victor/962
-#EXTINF:-1,CINE Y SERIE | CINEMAX (OESTE)
+#EXTINF:-1,CINEMAX (OESTE)
 http://fivetv.org:25461/victor/victor/23717
-#EXTINF:-1,CINE Y SERIE | DE PELICULA PLUS
-http://fivetv.org:25461/victor/victor/963
-#EXTINF:-1,CINE Y SERIE | PARAMOUNT HD
-http://fivetv.org:25461/victor/victor/964
-#EXTINF:-1,CINE Y SERIE | FX
-http://fivetv.org:25461/victor/victor/966
-#EXTINF:-1,CINE Y SERIE | UNIVERSAL
-http://fivetv.org:25461/victor/victor/967
-#EXTINF:-1,CINE Y SERIE | STUDIO UNIVERSAL HD
-http://fivetv.org:25461/victor/victor/968
-#EXTINF:-1,CINE Y SERIE | SONY HD
-http://fivetv.org:25461/victor/victor/969
-#EXTINF:-1,CINE Y SERIE | SONY
-http://fivetv.org:25461/victor/victor/970
-#EXTINF:-1,CINE Y SERIE | SPACE HD
-http://fivetv.org:25461/victor/victor/971
-#EXTINF:-1,CINE Y SERIE | SPACE
-http://fivetv.org:25461/victor/victor/972
-#EXTINF:-1,CINE Y SERIE | TNT HD
-http://fivetv.org:25461/victor/victor/973
-#EXTINF:-1,CINE Y SERIE | TNT SERIES HD
-http://fivetv.org:25461/victor/victor/974
-#EXTINF:-1,CINE Y SERIE | WARNER CHANNEL HD
-http://fivetv.org:25461/victor/victor/975
-#EXTINF:-1,CINE Y SERIE | SYFY
-http://fivetv.org:25461/victor/victor/976
-#EXTINF:-1,CINE Y SERIE | TBS
-http://fivetv.org:25461/victor/victor/977
-#EXTINF:-1,CINE Y SERIE | TCM
-http://fivetv.org:25461/victor/victor/978
-#EXTINF:-1,CINE Y SERIE | CINEMAX (ESTE)
+#EXTINF:-1,CINEMAX (ESTE)
 http://fivetv.org:25461/victor/victor/981
-#EXTINF:-1,CINE Y SERIE | CINE LATINO
+#EXTINF:-1,PARAMOUNT HD
+http://fivetv.org:25461/victor/victor/964
+#EXTINF:-1,FX
+http://fivetv.org:25461/victor/victor/966
+#EXTINF:-1,UNIVERSAL
+http://fivetv.org:25461/victor/victor/967
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://fivetv.org:25461/victor/victor/968
+#EXTINF:-1,SONY HD
+http://fivetv.org:25461/victor/victor/969
+#EXTINF:-1,SONY
+http://fivetv.org:25461/victor/victor/970
+#EXTINF:-1,SPACE HD
+http://fivetv.org:25461/victor/victor/971
+#EXTINF:-1,SPACE
+http://fivetv.org:25461/victor/victor/972
+#EXTINF:-1,TNT HD
+http://fivetv.org:25461/victor/victor/973
+#EXTINF:-1,TNT SERIES HD
+http://fivetv.org:25461/victor/victor/974
+#EXTINF:-1,WARNER CHANNEL HD
+http://fivetv.org:25461/victor/victor/975
+#EXTINF:-1,SYFY
+http://fivetv.org:25461/victor/victor/976
+#EXTINF:-1,TBS
+http://fivetv.org:25461/victor/victor/977
+#EXTINF:-1,TCM
+http://fivetv.org:25461/victor/victor/978
+#EXTINF:-1,DE PELICULA PLUS
+http://fivetv.org:25461/victor/victor/963
+#EXTINF:-1,CINE LATINO
 http://fivetv.org:25461/victor/victor/983
-#EXTINF:-1,CINE Y SERIE | DE PELICULA
+#EXTINF:-1,DE PELICULA
 http://fivetv.org:25461/victor/victor/24040
-#EXTINF:-1,CINE Y SERIE | SUNDANCE
+#EXTINF:-1,SUNDANCE
 http://fivetv.org:25461/victor/victor/25196
-#EXTINF:-1,PREMIUM | STUDIO UNIVERSAL
+#EXTINF:-1,STUDIO UNIVERSAL
 http://fivetv.org:25461/victor/victor/22394
-#EXTINF:-1,PREMIUM | UNIVERSAL COMEDY
+#EXTINF:-1,UNIVERSAL COMEDY
 http://fivetv.org:25461/victor/victor/22946
-#EXTINF:-1,PREMIUM | UNIVERSAL REALITY
+#EXTINF:-1,UNIVERSAL REALITY
 http://fivetv.org:25461/victor/victor/23850
-#EXTINF:-1,CINE Y SERIE | UNIVERSAL TV
+#EXTINF:-1,UNIVERSAL TV
 http://fivetv.org:25461/victor/victor/25795
 
 
-#EXTINF:-1,PREMIUM | HBO PLUS 
-http://fivetv.org:25461/victor/victor/9193
-#EXTINF:-1,PREMIUM | GOLDEN PREMIER (MEX)
+#EXTINF:-1,GOLDEN PREMIER (MEX)
 http://fivetv.org:25461/victor/victor/9195
-#EXTINF:-1,PREMIUM | STARZ ENCORE 
+#EXTINF:-1,STARZ ENCORE 
 http://fivetv.org:25461/victor/victor/9197
-#EXTINF:-1,PREMIUM | DHE HD
+#EXTINF:-1,DHE HD
 http://fivetv.org:25461/victor/victor/9202
-#EXTINF:-1,PREMIUM | UNIVERSAL CRIME
+#EXTINF:-1,UNIVERSAL CRIME
 http://fivetv.org:25461/victor/victor/9204
-#EXTINF:-1,PREMIUM | HBO MUNDI 
+#EXTINF:-1,HBO MUNDI 
 http://fivetv.org:25461/victor/victor/9206
-#EXTINF:-1,PREMIUM | HBO POP
+#EXTINF:-1,HBO POP
 http://fivetv.org:25461/victor/victor/9207
-#EXTINF:-1,PREMIUM | HBO 2 HD
+#EXTINF:-1,HBO 2 HD
 http://fivetv.org:25461/victor/victor/9209
-#EXTINF:-1,PREMIUM | HBO SIGNATURE HD (MEX)
+#EXTINF:-1,HBO SIGNATURE HD (MEX)
 http://fivetv.org:25461/victor/victor/9210
-#EXTINF:-1,PREMIUM | GOLDEN PREMIER
+#EXTINF:-1,GOLDEN PREMIER
 http://fivetv.org:25461/victor/victor/9212
-#EXTINF:-1,PREMIUM | HBO FAMILY
+#EXTINF:-1,HBO FAMILY
 http://fivetv.org:25461/victor/victor/9213
-#EXTINF:-1,PREMIUM | UNIVERSAL PREMIERE
+#EXTINF:-1,UNIVERSAL PREMIERE
 http://fivetv.org:25461/victor/victor/9215
-#EXTINF:-1,PREMIUM | STAR CHANNEL
+#EXTINF:-1,STAR CHANNEL
 http://fivetv.org:25461/victor/victor/9216
-#EXTINF:-1,PREMIUM | GOLDEN EDGE
+#EXTINF:-1,GOLDEN EDGE
 http://fivetv.org:25461/victor/victor/9217
-#EXTINF:-1,PREMIUM | HBO PLUS FHD
+#EXTINF:-1,HBO PLUS FHD
 http://fivetv.org:25461/victor/victor/9219
-#EXTINF:-1,PREMIUM | GOLDEN PLUS
+#EXTINF:-1,HBO PLUS 
+http://fivetv.org:25461/victor/victor/9193
+#EXTINF:-1,GOLDEN PLUS
 http://fivetv.org:25461/victor/victor/9222
-#EXTINF:-1,PREMIUM | HBO SIGNATURE HD
+#EXTINF:-1,HBO SIGNATURE HD
 http://fivetv.org:25461/victor/victor/9223
-#EXTINF:-1,PREMIUM | HBO XTREME HD
+#EXTINF:-1,HBO XTREME HD
 http://fivetv.org:25461/victor/victor/19988
-#EXTINF:-1,PREMIUM | HBO  FHD
+#EXTINF:-1,HBO  FHD
 http://fivetv.org:25461/victor/victor/24300
-#EXTINF:-1,PREMIUM | GOLDEN 
+#EXTINF:-1,GOLDEN 
 http://fivetv.org:25461/victor/victor/24301
-#EXTINF:-1,PREMIUM | HBO HD (USA)
+#EXTINF:-1,HBO HD (USA)
 http://fivetv.org:25461/victor/victor/24302
 
-#EXTINF:-1,24/7 | CSI: MIAMI
+
+#EXTINF:-1,CSI: MIAMI
 http://fivetv.org:25461/victor/victor/23052
-#EXTINF:-1,24/7 | JUEGO DE TRONOS
+#EXTINF:-1,JUEGO DE TRONOS
 http://fivetv.org:25461/victor/victor/23853
-#EXTINF:-1,24/7 | SMALVILLE
+#EXTINF:-1,SMALVILLE
 http://fivetv.org:25461/victor/victor/23854
-#EXTINF:-1,24/7 | BATMAN 1966
+#EXTINF:-1,BATMAN 1966
 http://fivetv.org:25461/victor/victor/25157
-#EXTINF:-1,24/7 ACCION CLASSICS
+#EXTINF:-1,ACCION CLASSICS
 http://fivetv.org:25461/victor/victor/26333
-#EXTINF:-1,24/7 TRANSFORMERS 
+#EXTINF:-1,TRANSFORMERS 
 http://fivetv.org:25461/victor/victor/26334
-#EXTINF:-1,24/7 MISION IMPOSIBLE
+#EXTINF:-1,MISION IMPOSIBLE
 http://fivetv.org:25461/victor/victor/26336
-#EXTINF:-1,24/7 INDIANA JONES
+#EXTINF:-1,INDIANA JONES
 http://fivetv.org:25461/victor/victor/26337
-#EXTINF:-1,24/7 ROCKY
+#EXTINF:-1,ROCKY
 http://fivetv.org:25461/victor/victor/26339
-#EXTINF:-1,24/7 DURO DE MATAR
+#EXTINF:-1,DURO DE MATAR
 http://fivetv.org:25461/victor/victor/26340
-#EXTINF:-1,24/7 EL PADRINO
+#EXTINF:-1,EL PADRINO
 http://fivetv.org:25461/victor/victor/26341
-#EXTINF:-1,24/7 PIRATAS DEL CARIBE
+#EXTINF:-1,PIRATAS DEL CARIBE
 http://fivetv.org:25461/victor/victor/26344
-#EXTINF:-1,24/7 HORROR
+#EXTINF:-1,HORROR
 http://fivetv.org:25461/victor/victor/26329
-#EXTINF:-1,24/7 ARTES MARCIALES
+#EXTINF:-1,ARTES MARCIALES
 http://fivetv.org:25461/victor/victor/26330
-#EXTINF:-1,DEPORTE
-http://fivetv.org:25461/victor/victor/26534
-#EXTINF:-1,SERIE
-http://fivetv.org:25461/victor/victor/26536
-#EXTINF:-1,AMINE
-http://fivetv.org:25461/victor/victor/26537
-#EXTINF:-1,REALITY
-http://fivetv.org:25461/victor/victor/26538
-#EXTINF:-1,INVESTIGA
-http://fivetv.org:25461/victor/victor/26539
-#EXTINF:-1,JUNIOR
-http://fivetv.org:25461/victor/victor/26540
-#EXTINF:-1,HOGAR
-http://fivetv.org:25461/victor/victor/26541
-#EXTINF:-1,COMPETENCIA
-http://fivetv.org:25461/victor/victor/26542
-#EXTINF:-1,KIDS
-http://fivetv.org:25461/victor/victor/26543
-#EXTINF:-1,VELOCIDAD
-http://fivetv.org:25461/victor/victor/26544
-#EXTINF:-1,TEEN
-http://fivetv.org:25461/victor/victor/26545
-#EXTINF:-1,CINE ACCION
-http://fivetv.org:25461/victor/victor/26525
-#EXTINF:-1,CINE COMEDIA
-http://fivetv.org:25461/victor/victor/26526
-#EXTINF:-1,CINE TERROR
-http://fivetv.org:25461/victor/victor/26527
-#EXTINF:-1,CINE ESTELAR
-http://fivetv.org:25461/victor/victor/26528
-#EXTINF:-1,CINE FAMILIA
-http://fivetv.org:25461/victor/victor/26529
-#EXTINF:-1,CINE ROMANCE
-http://fivetv.org:25461/victor/victor/26530
-#EXTINF:-1,CINE SUSPENSO
-http://fivetv.org:25461/victor/victor/26531
-#EXTINF:-1,NUESTRO CINE
-http://fivetv.org:25461/victor/victor/26532
-#EXTINF:-1,CINE CLASICO
-http://fivetv.org:25461/victor/victor/26533
-#EXTINF:-1,CINE COMEDIA 1
-http://fivetv.org:25461/victor/victor/23868
-#EXTINF:-1,CINE COMEDIA 2
-http://fivetv.org:25461/victor/victor/23869
-#EXTINF:-1,CINE ROMANCE 
-http://fivetv.org:25461/victor/victor/23870
-#EXTINF:-1,CINE DRAMA
-http://fivetv.org:25461/victor/victor/23871
-#EXTINF:-1,CINE ACCION 1
-http://fivetv.org:25461/victor/victor/23872
-#EXTINF:-1,CINE ACCION SAGAS
-http://fivetv.org:25461/victor/victor/23873
-#EXTINF:-1,CINE FICCION
-http://fivetv.org:25461/victor/victor/23874
-#EXTINF:-1,CINE INFANTIL
-http://fivetv.org:25461/victor/victor/23875
+
 #EXTINF:-1,CINE MARVEL 1
 http://fivetv.org:25461/victor/victor/23953
 #EXTINF:-1,CINE MARVEL 2
@@ -290,12 +165,12 @@ http://fivetv.org:25461/victor/victor/24492
 http://fivetv.org:25461/victor/victor/24495
 #EXTINF:-1,CINE MARVEL ANIMADO HD
 http://fivetv.org:25461/victor/victor/24496
-#EXTINF:-1,EVENTOS STAR+ 1 HD
-http://fivetv.org:25461/victor/victor/24498
 #EXTINF:-1,CINE Y SERIE | A ESTRENAR
 http://fivetv.org:25461/victor/victor/23163
 #EXTINF:-1,*START PLUS EVENTOS*
 http://fivetv.org:25461/victor/victor/26911
+#EXTINF:-1,EVENTOS STAR+ 1 HD
+http://fivetv.org:25461/victor/victor/24498
 
 #EXTINF:-1,Discovery Channel HD (ESPAÑOL)
 http://fivetv.org:25461/victor/victor/9138
@@ -332,6 +207,76 @@ http://fivetv.org:25461/victor/victor/23757
 #EXTINF:-1,Discovery Familia
 http://fivetv.org:25461/victor/victor/25197
 
+#EXTINF:-1,LOS SIMPSON
+http://fivetv.org:25461/victor/victor/853
+#EXTINF:-1,LOS PICAPIEDRAS
+http://fivetv.org:25461/victor/victor/867
+#EXTINF:-1,DON GATO Y SU PANDILLA
+http://fivetv.org:25461/victor/victor/861
+#EXTINF:-1,EL CHAPULIN COLORADO
+http://fivetv.org:25461/victor/victor/23009
+#EXTINF:-1,BOB ESPONJA
+http://fivetv.org:25461/victor/victor/869
+#EXTINF:-1,LA PANTERA ROSA
+http://fivetv.org:25461/victor/victor/23058
+#EXTINF:-1,ALF
+http://fivetv.org:25461/victor/victor/23940
+#EXTINF:-1,SPIDERMAN
+http://fivetv.org:25461/victor/victor/23166
+#EXTINF:-1,LA FAMILIA PELUCHE
+http://fivetv.org:25461/victor/victor/25195
+#EXTINF:-1,El Avispón Verde
+http://fivetv.org:25461/victor/victor/25637
+#EXTINF:-1,FUTURAMA
+http://fivetv.org:25461/victor/victor/25158
+#EXTINF:-1,MALCOLM EL DEL MEDIO
+http://fivetv.org:25461/victor/victor/23974
+#EXTINF:-1,DINOSAURIOS
+http://fivetv.org:25461/victor/victor/24016
+#EXTINF:-1,LA FAMILIA MONSTERS
+http://fivetv.org:25461/victor/victor/25160
+#EXTINF:-1,BREAKING BAD
+http://fivetv.org:25461/victor/victor/23053
+#EXTINF:-1,UNA FAMILIA DE DIEZ
+http://fivetv.org:25461/victor/victor/23852
+#EXTINF:-1,LA ROSA DE GUADALUPE
+http://fivetv.org:25461/victor/victor/25161
+#EXTINF:-1,MASTER CHEF
+http://fivetv.org:25461/victor/victor/25162
+#EXTINF:-1,POWER RANGERS
+http://fivetv.org:25461/victor/victor/25163
+#EXTINF:-1,CASO CERRADO
+http://fivetv.org:25461/victor/victor/21817
+#EXTINF:-1,MR. BEAN
+http://fivetv.org:25461/victor/victor/868
+#EXTINF:-1,LA HORA PICO
+http://fivetv.org:25461/victor/victor/23713
+#EXTINF:-1,TOM Y JERRY
+http://fivetv.org:25461/victor/victor/23856
+#EXTINF:-1,EL CHAVO DEL 8
+http://fivetv.org:25461/victor/victor/858
+#EXTINF:-1,LA CASA DE PAPEL
+http://fivetv.org:25461/victor/victor/25072
+#EXTINF:-1,CORAJE EL PERRO COBARDE
+http://fivetv.org:25461/victor/victor/25153
+#EXTINF:-1,HEMAN
+http://fivetv.org:25461/victor/victor/23050
+#EXTINF:-1,DEATH NOTE
+http://fivetv.org:25461/victor/victor/23964
+#EXTINF:-1,HEROES EN PIJAMAS
+http://fivetv.org:25461/victor/victor/25159
+#EXTINF:-1,SHERA
+http://fivetv.org:25461/victor/victor/25633
+#EXTINF:-1,STRANGER THINGS
+http://fivetv.org:25461/victor/victor/25634
+#EXTINF:-1,LUIS MIGUEL LA SERIE 2018
+http://fivetv.org:25461/victor/victor/25635
+#EXTINF:-1,EL CHEMA
+http://fivetv.org:25461/victor/victor/25636
+#EXTINF:-1,HARRY POTTER
+http://fivetv.org:25461/victor/victor/26328
+#EXTINF:-1,ACTIVIDAD PARANORMAL
+http://fivetv.org:25461/victor/victor/26331
 
 --------------------------------------------------------------------------------
 
