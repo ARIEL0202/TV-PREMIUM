@@ -1,7 +1,5 @@
 #EXTINF:-1,A&E HD
 http://fivetv.org:25461/victor/victor/954
-#EXTINF:-1,A&E
-http://fivetv.org:25461/victor/victor/955
 #EXTINF:-1,AXN SD
 http://fivetv.org:25461/victor/victor/956
 #EXTINF:-1,AXN HD
@@ -14,16 +12,36 @@ http://fivetv.org:25461/victor/victor/960
 http://fivetv.org:25461/victor/victor/961
 #EXTINF:-1,CINEMAX HD
 http://fivetv.org:25461/victor/victor/962
-#EXTINF:-1,CINEMAX (OESTE)
-http://fivetv.org:25461/victor/victor/23717
 #EXTINF:-1,CINEMAX (ESTE)
 http://fivetv.org:25461/victor/victor/981
+#EXTINF:-1,HBO POP
+http://fivetv.org:25461/victor/victor/9207
+#EXTINF:-1,HBO 2 HD
+http://fivetv.org:25461/victor/victor/9209
+#EXTINF:-1,HBO SIGNATURE HD (MEX)
+http://fivetv.org:25461/victor/victor/9210
+#EXTINF:-1,HBO FAMILY
+http://fivetv.org:25461/victor/victor/9213
+#EXTINF:-1,STAR CHANNEL
+http://fivetv.org:25461/victor/victor/9216
+#EXTINF:-1,HBO PLUS 
+http://fivetv.org:25461/victor/victor/9219
+#EXTINF:-1,GOLDEN PLUS
+http://fivetv.org:25461/victor/victor/9222
+#EXTINF:-1,HBO XTREME HD
+http://fivetv.org:25461/victor/victor/19988
+#EXTINF:-1,HBO  FHD
+http://fivetv.org:25461/victor/victor/24300
+#EXTINF:-1,HBO HD (USA)
+http://fivetv.org:25461/victor/victor/24302
 #EXTINF:-1,PARAMOUNT HD
 http://fivetv.org:25461/victor/victor/964
 #EXTINF:-1,FX
 http://fivetv.org:25461/victor/victor/966
 #EXTINF:-1,UNIVERSAL
 http://fivetv.org:25461/victor/victor/967
+#EXTINF:-1,UNIVERSAL CRIME
+http://fivetv.org:25461/victor/victor/9204
 #EXTINF:-1,STUDIO UNIVERSAL HD
 http://fivetv.org:25461/victor/victor/968
 #EXTINF:-1,SONY HD
@@ -46,65 +64,30 @@ http://fivetv.org:25461/victor/victor/976
 http://fivetv.org:25461/victor/victor/977
 #EXTINF:-1,TCM
 http://fivetv.org:25461/victor/victor/978
-#EXTINF:-1,DE PELICULA PLUS
-http://fivetv.org:25461/victor/victor/963
-#EXTINF:-1,CINE LATINO
-http://fivetv.org:25461/victor/victor/983
-#EXTINF:-1,DE PELICULA
-http://fivetv.org:25461/victor/victor/24040
 #EXTINF:-1,SUNDANCE
 http://fivetv.org:25461/victor/victor/25196
-#EXTINF:-1,STUDIO UNIVERSAL
-http://fivetv.org:25461/victor/victor/22394
 #EXTINF:-1,UNIVERSAL COMEDY
 http://fivetv.org:25461/victor/victor/22946
 #EXTINF:-1,UNIVERSAL REALITY
 http://fivetv.org:25461/victor/victor/23850
 #EXTINF:-1,UNIVERSAL TV
 http://fivetv.org:25461/victor/victor/25795
-
-
-#EXTINF:-1,GOLDEN PREMIER (MEX)
-http://fivetv.org:25461/victor/victor/9195
+#EXTINF:-1,UNIVERSAL PREMIERE
+http://fivetv.org:25461/victor/victor/9215
 #EXTINF:-1,STARZ ENCORE 
 http://fivetv.org:25461/victor/victor/9197
 #EXTINF:-1,DHE HD
 http://fivetv.org:25461/victor/victor/9202
-#EXTINF:-1,UNIVERSAL CRIME
-http://fivetv.org:25461/victor/victor/9204
-#EXTINF:-1,HBO MUNDI 
-http://fivetv.org:25461/victor/victor/9206
-#EXTINF:-1,HBO POP
-http://fivetv.org:25461/victor/victor/9207
-#EXTINF:-1,HBO 2 HD
-http://fivetv.org:25461/victor/victor/9209
-#EXTINF:-1,HBO SIGNATURE HD (MEX)
-http://fivetv.org:25461/victor/victor/9210
-#EXTINF:-1,GOLDEN PREMIER
-http://fivetv.org:25461/victor/victor/9212
-#EXTINF:-1,HBO FAMILY
-http://fivetv.org:25461/victor/victor/9213
-#EXTINF:-1,UNIVERSAL PREMIERE
-http://fivetv.org:25461/victor/victor/9215
-#EXTINF:-1,STAR CHANNEL
-http://fivetv.org:25461/victor/victor/9216
-#EXTINF:-1,GOLDEN EDGE
-http://fivetv.org:25461/victor/victor/9217
-#EXTINF:-1,HBO PLUS
-http://fivetv.org:25461/victor/victor/9219
-#EXTINF:-1,GOLDEN PLUS
-http://fivetv.org:25461/victor/victor/9222
-#EXTINF:-1,HBO SIGNATURE HD
-http://fivetv.org:25461/victor/victor/9223
-#EXTINF:-1,HBO XTREME HD
-http://fivetv.org:25461/victor/victor/19988
-#EXTINF:-1,HBO  FHD
-http://fivetv.org:25461/victor/victor/24300
 #EXTINF:-1,GOLDEN 
 http://fivetv.org:25461/victor/victor/24301
-#EXTINF:-1,HBO HD (USA)
-http://fivetv.org:25461/victor/victor/24302
-
+#EXTINF:-1,GOLDEN PREMIER
+http://fivetv.org:25461/victor/victor/9212
+#EXTINF:-1,GOLDEN EDGE
+http://fivetv.org:25461/victor/victor/9217
+#EXTINF:-1,CINE LATINO
+http://fivetv.org:25461/victor/victor/983
+#EXTINF:-1,DE PELICULA
+http://fivetv.org:25461/victor/victor/24040
 
 #EXTINF:-1,CSI: MIAMI
 http://fivetv.org:25461/victor/victor/23052
