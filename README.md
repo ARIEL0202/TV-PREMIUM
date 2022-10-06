@@ -420,32 +420,25 @@ https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PlaylistM3
 
 #EXTINF:-1 tvg-id="553" tvg-name="TV Natal" tvg-logo="https://lh3.googleusercontent.com/-wQ0CT5ddgNk/X0KCplwKrdI/AAAAAAAA434/aEZN6OVNn6sXaMgiJJr5dkxpyAIFAWmagCK8BGAsYHg/s0/2020-08-23.png", TV Natal | BR
 https://StmV1.srvstm.com/antonioflavio9545/antonioflavio9545/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="580" tvg-name="TV Plan" tvg-logo="https://lh3.googleusercontent.com/-9OoHsRZobqQ/X0EXWkNU_5I/AAAAAAAA40I/GLjj8V9eJQcPk3pRhiBOkCeUfdDjMHm9QCK8BGAsYHg/s0/2020-08-22.jpg", TV Plan | BR
 http://rtmp.cdn.upx.net.br/723b/myStream.sdp/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="586" tvg-name="TV Poços" tvg-logo="https://lh3.googleusercontent.com/-jc9PUyfEsic/X0EZRAlzmJI/AAAAAAAA41A/LuedbUdF3Bk8OB3AYAK6xGCecctra4JrgCK8BGAsYHg/s0/2020-08-22.png", TV Poços | BR
-https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="532" tvg-name="TV Pombal" tvg-logo="https://lh3.googleusercontent.com/-PagF5mXe0uA/X4y3kY1omkI/AAAAAAAA6hA/az37SIjmx2gkVOh5hZCn57_DEpcxYF1pACK8BGAsYHg/s0/2020-10-18.png", TV Pombal | BR
-https://stmv1.srvif.com/tvpombal/tvpombal/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="582" tvg-name="TV Rio Preto" tvg-logo="https://i2.paste.pics/d184766422777151992b6fdb453a3060.png", TV Rio Preto | BR
-http://201.48.245.24:1935/live/livestream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="535" tvg-name="TV Serra Verde" tvg-logo="https://lh3.googleusercontent.com/-1nG-xDTLvlE/X4y5JAeWmoI/AAAAAAAA6hY/IWG_-Eufr20atmTqCsf8s-vcFuNZa3_bgCK8BGAsYHg/s0/2020-10-18.jpg", TV Serra Verde | BR
-https://5d82644094cc0.streamlock.net:443/8020/8020/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="992" tvg-name="TV Sim Cachoeiro" tvg-logo="https://i2.paste.pics/db2a7481ddc4276b0c2083d96105711a.png", TV Sim Cachoeiro | BR
 https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="565" tvg-name="TV Sim Colatina" tvg-logo="https://lh3.googleusercontent.com/-Iq-l17zAxtk/X0ER3JrzLlI/AAAAAAAA4yc/5-qMMK1chKYPWICbUtUeisD4Qn4_FCydQCK8BGAsYHg/s0/2020-08-22.png", TV Sim Colatina | BR
 https://5cf4a2c2512a2.streamlock.net:443/8132/8132/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="991" tvg-name="TV Sim Linhares" tvg-logo="https://i2.paste.pics/db2a7481ddc4276b0c2083d96105711a.png", TV Sim Linhares | BR
-https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="564" tvg-name="TV Sim Sao Mateus" tvg-logo="https://lh3.googleusercontent.com/-Iq-l17zAxtk/X0ER3JrzLlI/AAAAAAAA4yc/5-qMMK1chKYPWICbUtUeisD4Qn4_FCydQCK8BGAsYHg/s0/2020-08-22.png", TV Sim Sao Mateus | BR
-https://5cf4a2c2512a2.streamlock.net:443/8236/8236/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="993" tvg-name="TV Sim Vitória" tvg-logo="https://i2.paste.pics/db2a7481ddc4276b0c2083d96105711a.png", TV Sim Vitória | BR
-https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="544" tvg-name="TV Sul" tvg-logo="https://lh3.googleusercontent.com/-jBs2OsFnWnc/X4y5jpmCWBI/AAAAAAAA6hk/uncHodJOJVszKjv6QAGVpJmLcA8NucYDQCK8BGAsYHg/s0/2020-10-18.jpg", TV Sul | BR
 http://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="575" tvg-name="TV Vicosa" tvg-logo="https://lh3.googleusercontent.com/-I8LfA2WZXUk/X0EVUkAICbI/AAAAAAAA4zo/SI5kQEfmfmwyCNBvX5H9YMN8yCm3NJGpwCK8BGAsYHg/s0/2020-08-22.jpg", TV Vicosa | BR
 http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="591" tvg-name="TVE" tvg-logo="https://lh3.googleusercontent.com/-I0qnOLCCShg/X0EbJLU5cxI/AAAAAAAA41k/-_KLJkA8hTUvp9qtaBKyBqtqzqFKqISlQCK8BGAsYHg/s0/2020-08-22.jpg", TVE | BR
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="562" tvg-name="Via Morena" tvg-logo="https://lh3.googleusercontent.com/-GlmqMJ5S2Sk/X0ERAWv-KQI/AAAAAAAA4yM/wR7_UklclrcGvrhKc7-TduLSCg3WaA64ACK8BGAsYHg/s0/2020-08-22.png", Via Morena | BR
 https://59f2354c05961.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="988" tvg-name="Vintage TV" tvg-logo="https://i2.paste.pics/47dbf3d973bc8bbb819631a37cbb942d.png", Vintage TV | BR
