@@ -18,3 +18,13 @@ https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8?PlaylistM3
 
 #EXTINF:-79 tvg-logo="https://i.postimg.cc/63k7cq9d/cinear.jpg" group-title="CINE Y SERIES", CINE.AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w1950619080.m3u8
+
+#EXTINF:-1 tvg-id="1283" tvg-name="Cloud TV Plus" tvg-logo="https://i2.paste.pics/298f449b97c123292ec4d3a73ef1cfe5.png", Cloud TV Plus
+https://videostreaming.cloudserverlatam.com:443/cloudtvplus/cloudtvplus/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="46" tvg-name="El Chavo Plus" tvg-logo="https://i2.paste.pics/a78f72eb025464f327c8628a20cc4811.png", El Chavo Plus 
+https://videostreaming.cloudserverlatam.com:443/elchavoplus/elchavoplus/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="84" tvg-name="T-Vinet" tvg-logo="https://lh3.googleusercontent.com/-EtM2JBuVazM/XxzIhLJW5PI/AAAAAAAA3YE/zmlykaL06y4tNI5JbuLPm-I1BSYsWCZYACK8BGAsYHg/s0/2020-07-25.png", T-Vinet | CL
+https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/playlist.m3u8?PlaylistM3UCL
+
