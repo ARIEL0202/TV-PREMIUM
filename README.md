@@ -129,6 +129,7 @@ https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM
 
 #EXTINF:-1 tvg-id="813" tvg-name="Canal 2 Perico" tvg-logo="https://lh3.googleusercontent.com/-iyOpen-RjFA/YH4zezm-F9I/AAAAAAABBwY/w0GFRRxA6U4pbFHfPY-hpDCUo3-8hba4gCK8BGAsYHg/s512/2021-04-19.jpg", Canal 2 Perico | AR
 https://streamcasthd.com:1936/tecnovisioncanal2tv/tecnovisioncanal2tv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="205" tvg-name="Canal 2 Sanagasta" tvg-logo="https://lh3.googleusercontent.com/-JkBVmTEb_vw/YFtd-AiCe7I/AAAAAAABA4I/D3j1TH_6YVw-5eulULSfVnU0APlEpWoVwCK8BGAsYHg/s512/2021-03-24.jpg", Canal 2 Sanagasta | AR
 https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8?PlaylistM3UCL
 
@@ -392,24 +393,31 @@ https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8?PlaylistM3UC
 
 #EXTINF:-1 tvg-id="990" tvg-name="TV Difusora Leste" tvg-logo="https://i2.paste.pics/e993c5478d390ba3e41fbfe56c945ba8.png", TV Difusora Leste | BR
 https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="595" tvg-name="TV Difusora Sul" tvg-logo="https://i2.paste.pics/e993c5478d390ba3e41fbfe56c945ba8.png", TV Difusora Sul | BR
 https://stream.amsolution.net.br:8443/live/60dceaa0637fb/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="536" tvg-name="TV Digital Birigui" tvg-logo="https://lh3.googleusercontent.com/-oa2s70ndXAo/X4y1W30r4dI/AAAAAAAA6gc/iDJ7TUslIXwRNoep0O3oqb70ieTU1R-4ACK8BGAsYHg/s0/2020-10-18.jpg", TV Digital Birigui | BR
 https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist-480p.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="524" tvg-name="TV Grande Natal HDTV" tvg-logo="https://lh3.googleusercontent.com/-3kwOFZzok-8/X2NkjmB4C4I/AAAAAAAA5ow/0ahAgeYCUrscUhi4hfQyrfh75BYAU-anwCK8BGAsYHg/s0/2020-09-17.jpg", TV Grande Natal HDTV | BR
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="529" tvg-name="TV Infor Bahia" tvg-logo="https://lh3.googleusercontent.com/-Q_8E2WI7vkY/X4y1zk5rzuI/AAAAAAAA6go/rPa9ddmJcrYpMLbmiTb0nJt0SKeHzVtrwCK8BGAsYHg/s0/2020-10-18.png", TV Infor Bahia | BR
 https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/playlist-480p.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="542" tvg-name="TV Jornal do Nordeste" tvg-logo="https://lh3.googleusercontent.com/-oH470wvTE-g/X4y19w68EfI/AAAAAAAA6gs/XNx-faSwkNAauP9wp6i61gGslp6CuUJ6QCK8BGAsYHg/s0/2020-10-18.png", TV Jornal do Nordeste | BR
 https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="989" tvg-name="TV Mais" tvg-logo="https://i2.paste.pics/95a6259ac2a9cdc6e20125280e5ae0a3.png", TV Mais | BR
 https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="592" tvg-name="TV Maná Brasil" tvg-logo="https://lh3.googleusercontent.com/-oUAEVAf9apM/X1TMc_DhZzI/AAAAAAAA5Us/41Tt_FkzjJ4mOcZw8NKF71FofOGRPEabACK8BGAsYHg/s0/2020-09-06.png", TV Maná Brasil | BR
-http://195.22.11.11:1935/tvmanabrasil/tvmanabrasil_2/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="588" tvg-name="TV Mar" tvg-logo="https://lh3.googleusercontent.com/-lue-LgNv3AY/X0EaClBcQDI/AAAAAAAA41M/ZoVjbjTi0AoqlbX7mHrAOmynWTzZvCN2wCK8BGAsYHg/s0/2020-08-22.png", TV Mar | BR
 https://virtues.es:1936/tvmar/tvmar/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="567" tvg-name="TV Mundial" tvg-logo="https://lh3.googleusercontent.com/-wwNFkMbc-0w/X0ESydKsgCI/AAAAAAAA4ys/9x97hUqe3L0y-na-wRdQ1B3_wzzXj1C-gCK8BGAsYHg/s0/2020-08-22.jpg", TV Mundial | BR
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="553" tvg-name="TV Natal" tvg-logo="https://lh3.googleusercontent.com/-wQ0CT5ddgNk/X0KCplwKrdI/AAAAAAAA434/aEZN6OVNn6sXaMgiJJr5dkxpyAIFAWmagCK8BGAsYHg/s0/2020-08-23.png", TV Natal | BR
 https://StmV1.srvstm.com/antonioflavio9545/antonioflavio9545/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="580" tvg-name="TV Plan" tvg-logo="https://lh3.googleusercontent.com/-9OoHsRZobqQ/X0EXWkNU_5I/AAAAAAAA40I/GLjj8V9eJQcPk3pRhiBOkCeUfdDjMHm9QCK8BGAsYHg/s0/2020-08-22.jpg", TV Plan | BR
