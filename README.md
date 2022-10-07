@@ -1167,44 +1167,58 @@ https://live.obslivestream.com/vztv/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="424" tvg-name="ADN" tvg-logo="https://lh3.googleusercontent.com/-H20emk-_gGE/Xb2CvlkCsVI/AAAAAAAAr6c/MvhdPSgNp4I1Q9QAGlqEvJp4QRnyorpkgCK8BGAsYHg/s0/2019-11-02.png", ADN | CL
 https://unlimited2-cl-isp.dps.live/adntv/adntv.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="414" tvg-name="AE Radio" tvg-logo="https://i2.paste.pics/f8b890eebda6062f306024bdc70afafa.png", AE Radio | CL
 https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1284" tvg-name="Autonoma Radio" tvg-logo="https://i2.paste.pics/ab3b4f72e0708cab3f568772f2f6bcac.png", Autonoma Radio | CL
 https://stream.wifispeed.cl:3033/hybrid/play.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="421" tvg-name="Bio Bio TV" tvg-logo="https://lh3.googleusercontent.com/-QHD8_RoRqOU/XxzQUiC2S5I/AAAAAAAA3aY/YM3LJbqZLxot1bbgqWLRVD-QnoFWYaxCgCK8BGAsYHg/s0/2020-07-25.png", Bio Bio TV | CL
 https://unlimited1-cl-isp.dps.live/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="379" tvg-name="CCP Radio" tvg-logo="https://lh3.googleusercontent.com/-t_TztnOyFVE/XmsBBeYivqI/AAAAAAAAwyY/AiGUMO20vMcW9z6ipuNOk_WkgY_za1KrgCK8BGAsYHg/s512/2020-03-12.png", CCP Radio | CL
 https://v1.tustreaming.cl:19360/ccpradio/ccpradio.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="382" tvg-name="ChocolateFM" tvg-logo="https://lh3.googleusercontent.com/-Cv39r3czF0w/XovwZlRIgyI/AAAAAAAAxhI/u9IUH1nGlX4XEJA-Pqc2wGXfJJrbjejgwCK8BGAsYHg/s0/2020-04-06.png", ChocolateFM | CL
 https://5eaccbab48461.streamlock.net:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="956" tvg-name="Conecta2 TV" tvg-logo="https://i2.paste.pics/c162d560addc59e693d1924645c5c984.png", Conecta2 TV | CL
 https://srv.panelcast.net/rc2/rc2/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="422" tvg-name="Cooperativa" tvg-logo="https://lh3.googleusercontent.com/-z-9QvjvHZ5A/Xdsg1tqv4jI/AAAAAAAAsUw/f9g3MnniEdAxcMWqEsWK6vuikDlDz25iACK8BGAsYHg/s0/2019-11-24.png", Cooperativa | CL
 https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://i2.paste.pics/ed2fce1f9fe98a5c7dec95777c201497.png", Cosmos TV | CL
 http://v2.tustreaming.cl:80/cosmostv/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1166" tvg-name="Dance FM" tvg-logo="https://i2.paste.pics/ff3e1e1045a1968dcdbcda3824a94eb3.png", Dance FM | CL
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="838" tvg-name="DBox Radio" tvg-logo="https://i2.paste.pics/1ff617f249eb62e6e2fe828da20a83b7.png", DBox Radio | CL
 https://stmv1.voxtvhd.com.br/dbox/dbox/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="419" tvg-name="El Conquistador TV" tvg-logo="https://lh3.googleusercontent.com/-sbaPyioWXEc/XxzPyjqm-UI/AAAAAAAA3aQ/uxQH1SZBD4k0o1g7MQPhYsBf6Mo4cjkOQCK8BGAsYHg/s0/2020-07-25.png", El Conquistador TV | CL
-https://v2.tustreaming.cl/conquistadorcc/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="398" tvg-name="El Sembrador" tvg-logo="https://i2.paste.pics/fb25f1d4266b7fd95e8a5f33a23ac492.png", El Sembrador | CL
 https://tv.streaming-chile.com:19360/elsembrador/elsembrador.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="987" tvg-name="Emocion TV" tvg-logo="https://i2.paste.pics/2337c738e62db5b6e2b573580e2d9e82.png", Emocion TV | CL
 https://v1.tustreaming.cl:19360/emociontv/emociontv.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="397" tvg-name="FM Pulso" tvg-logo="https://lh3.googleusercontent.com/-PnlftgFahF0/XoThpbgVNeI/AAAAAAAAxZw/YFbXaFZUUikkGSKbQjxlOyxVMmJQBQMFACK8BGAsYHg/s0/2020-04-01.png", FM Pulso | CL
 https://videostreaming.cloudserverlatam.com/8016/8016/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="883" tvg-name="Futura TV" tvg-logo="https://lh3.googleusercontent.com/-mnnwudrynnE/XkbaoY35p6I/AAAAAAAAwDA/eHhkuRJcADsgzRX1Zfajo6FQ8wrGHRS0gCK8BGAsYHg/s0/2020-02-14.png", Futura TV | CL
 https://unlimited1-cl-isp.dps.live/futuratv/futuratv.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1079" tvg-name="Goodstock Radio" tvg-logo="https://i2.paste.pics/86a3502ed656592af8e5adf17e8498ca.png", Goodstock Radio | CL
 https://live.tvcontrolcp.com:1936/goodstock/goodstock/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="388" tvg-name="Interactiva FM" tvg-logo="https://lh3.googleusercontent.com/-QI0Y25E7D14/X4YuErUkgLI/AAAAAAAA6Yo/WZwniEwC_RwZWkwXPGKRXxRueEu4ekjUQCK8BGAsYHg/s0/2020-10-13.jpg", Interactiva FM | CL
-https://live.tvcontrolcp.com:1936/interactiva/interactiva/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="411" tvg-name="Interradio TV" tvg-logo="https://i2.paste.pics/29e1c081406ffc375a6af8717839fb30.png", Interradio TV | CL
 https://unlimited1-cl-isp.dps.live/intrr/intrr.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1270" tvg-name="La Clave" tvg-logo="https://i2.paste.pics/cfee8bde46f156bfd6c7fc6aad021835.png", La Clave | CL
 https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1229" tvg-name="Macarena FM" tvg-logo="https://i2.paste.pics/c1462d513ed7e5b049d338693366ff29.png", Macarena FM | CL
 https://5ff3d9babae13.streamlock.net:443/8042/8042/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="395" tvg-name="Mi Radio TV" tvg-logo="https://lh3.googleusercontent.com/-7XLo-eid_jI/Xm9iFNKwCYI/AAAAAAAAw8Y/TWJlVG10Ofc-nX2cNdUPKn7quq7hKWKBACK8BGAsYHg/s0/2020-03-16.png", Mi Radio TV | CL
