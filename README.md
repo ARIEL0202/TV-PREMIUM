@@ -921,44 +921,49 @@ https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8?PlaylistM3U
 
 #EXTINF:-1 tvg-id="1160" tvg-name="VClassicTV" tvg-logo="https://i2.paste.pics/99cc893c37784a17aac9a95ac3c7e5c8.png", VClassicTV | CL
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1255" tvg-name="VClassicTV Tropical" tvg-logo="https://i2.paste.pics/355ba171055dd0e6747131673432cc18.png", VClassicTV Tropical | CL
 https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="22" tvg-name="Video Tour Channel" tvg-logo="https://lh3.googleusercontent.com/-QUz4UviUPiE/X3YnewzIm7I/AAAAAAAA6Ho/xpUvyAvSX6Qj0Lvl8qhuZnDdz9VPZWy4QCK8BGAsYHg/s0/2020-10-01.png", Video Tour Channel | CR
-http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1063" tvg-name="Vintage Music" tvg-logo="https://i2.paste.pics/508ad957b4f4585f59b0d4c265bbac61.png", Vintage Music | CR
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="876" tvg-name="Vision Musica TV" tvg-logo="https://lh3.googleusercontent.com/-gaitJQnLecE/YKqXiP-BdgI/AAAAAAABCgE/Z-pquANdfv01XInDHZfgDzFf27LP7LOEACK8BGAsYHg/s512/2021-05-23.png", Vision Musica TV | PE
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1208" tvg-name="Viwix TV Music" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV Music | CL
 https://s2.tvdatta.com:3548/hybrid/play.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="2" tvg-name="Zapping Music" tvg-logo="https://i2.paste.pics/869156d90e27d6c6e09dc5a8f0017838.png", Zapping Music | CL
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1193" tvg-name="13 Cultura" tvg-logo="https://i2.paste.pics/c04bad5b9339444b2acb44912d04b0a7.png", 13 Cultura | CL
 https://unlimited2-cl-isp.dps.live/13cultura/13cultura.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="979" tvg-name="13 Entretencion" tvg-logo="https://i2.paste.pics/a59418e1a9cb4068b83345be503f722c.png", 13 Entretencion | CL
 https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1033" tvg-name="13 Prime" tvg-logo="https://i2.paste.pics/544548398fcd92bf2db73e9d0fcddf5f.png", 13 Prime | CL
 https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1032" tvg-name="13 Teleseries" tvg-logo="https://i2.paste.pics/863aea4fb1445b58f89afc7c692ed509.png", 13 Teleseries | CL
 https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="457" tvg-name="Canal 13" tvg-logo="https://lh3.googleusercontent.com/-lTPRVsTnfaY/XlMLxy_VhII/AAAAAAAAwZs/TNUiwtX3VEEFdP26RGGtfie-M7AI01XMgCK8BGAsYHg/s0/2020-02-23.png", Canal 13 | CL
-https://unlimited1-cl-isp.dps.live/13cl/13cl.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="456" tvg-name="CHV" tvg-logo="https://lh3.googleusercontent.com/-8bGAVjbmdQo/Xlxxov1VBvI/AAAAAAAAwhU/ZO0JPjy4MaI7lGElqofGQbkOr52Hk1nUQCK8BGAsYHg/s0/2020-03-01.png", CHV | CL
-https://marine2.miplay.cl/chv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1232" tvg-name="CHV Contigo" tvg-logo="https://lh3.googleusercontent.com/-8bGAVjbmdQo/Xlxxov1VBvI/AAAAAAAAwhU/ZO0JPjy4MaI7lGElqofGQbkOr52Hk1nUQCK8BGAsYHg/s0/2020-03-01.png", CHV Contigo | CL
 https://siloh-latam-aka.plutotv.net/lilo/production/ChileVisionContigo/VE/master.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="790" tvg-name="La Red" tvg-logo="https://lh3.googleusercontent.com/-w3BIhImK3PM/YKLYqeFgJlI/AAAAAAABCXk/cJQItXH6BeII2A19RmryccG1o54twOSvACK8BGAsYHg/s512/2021-05-17.jpg", La Red | CL
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="455" tvg-name="Mega" tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png", Mega | CL
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="458" tvg-name="TV+" tvg-logo="https://lh3.googleusercontent.com/-OyqOBTEx-1E/XyA3AZwIgTI/AAAAAAAA3jQ/aDMZaLOx3mQuXBqjDKAF0X7dxExKFzawACK8BGAsYHg/s0/2020-07-28.png", TV+ | CL
-https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1243" tvg-name="TVMas2" tvg-logo="https://i2.paste.pics/f37083fc717ad290191a24b61ee7eec7.png", TVMas2 | CL
 https://marine2.miplay.cl/tateti/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="452" tvg-name="TVN" tvg-logo="https://lh3.googleusercontent.com/-ETprzEeH-JY/XbCxYXbNQUI/AAAAAAAArkw/zQxemFrwNjAbMoyByyr_sesnZ8QKgap-QCK8BGAsYHg/s0/2019-10-23.png", TVN | CL
-https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="453" tvg-name="TVN - 24h" tvg-logo="https://lh3.googleusercontent.com/-ETprzEeH-JY/XbCxYXbNQUI/AAAAAAAArkw/zQxemFrwNjAbMoyByyr_sesnZ8QKgap-QCK8BGAsYHg/s0/2019-10-23.png", TVN - 24h | CL
 http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="454" tvg-name="TVN - Reuters" tvg-logo="https://lh3.googleusercontent.com/-ETprzEeH-JY/XbCxYXbNQUI/AAAAAAAArkw/zQxemFrwNjAbMoyByyr_sesnZ8QKgap-QCK8BGAsYHg/s0/2019-10-23.png", TVN - Reuters | CL
 https://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="881" tvg-name="Wapp" tvg-logo="https://lh3.googleusercontent.com/-XPA8QBfVGSA/YLEWvahvgkI/AAAAAAABCjo/sVxl7r4_EQgdvmviKMozcvmxwajFgdLcgCJEEGAsYHg/s512/2021-05-28.jpg", Wapp | CL
