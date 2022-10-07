@@ -1317,58 +1317,79 @@ https://mediacpstreamchile.com:1936/8118/8118/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="390" tvg-name="Radio Universal" tvg-logo="https://lh3.googleusercontent.com/-0g6kTjRKq_8/XoTI5Gn3jjI/AAAAAAAAxZk/9EsSrTOl0eMlKWP9oRzwZK8lQ9mt8PSBwCK8BGAsYHg/s0/2020-04-01.png", Radio Universal | CL
 https://hd.chileservidores.cl:1936/universal/universal/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="396" tvg-name="Radio Via Libre" tvg-logo="https://lh3.googleusercontent.com/-BZ4QVXPlxJU/Xk_PdNVd3KI/AAAAAAAAwVc/js3gvjxbBPoXr0EmRyQxl6MWeiYX6x7_gCK8BGAsYHg/s0/2020-02-21.png", Radio Via Libre | CL
 https://mediacpstreamchile.com:1936/radiovialibre/radiovialibre/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="392" tvg-name="Radio Zeta" tvg-logo="https://i2.paste.pics/6e6018f04b3f9a9271f981117d65ee07.png", Radio Zeta | CL
 https://unlimited1-cl-isp.dps.live/radioztv/radioztv.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="400" tvg-name="Red Fueguina Radio" tvg-logo="https://lh3.googleusercontent.com/-AX14DpZylvw/Xqx1dYnBM7I/AAAAAAAAyhM/FKTxf_9d9hEY1okFtMwivpO3IIy9KAAcgCK8BGAsYHg/s0/2020-05-01.png", Red Fueguina Radio | CL
 https://inliveserver.com:1936/11012/11012/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1004" tvg-name="Ritmo TV" tvg-logo="https://i2.paste.pics/c21ae73475f4ae5a72d93defb2bdc1b7.png", Ritmo TV | CL
-https://tv.streaming-chile.com:19360/ritmofm/ritmofm.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="416" tvg-name="Sabor TV" tvg-logo="https://i2.paste.pics/0c69fb7b8aed951e8fbb9dfae98c39a5.png", Sabor TV | CL
 https://v1.tustreaming.cl/sabortv/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1248" tvg-name="Subela Radio" tvg-logo="https://i2.paste.pics/f481e57821baed274d68c5b0c954cd96.png", Subela Radio | CL
 https://mdstrm.com/live-stream-playlist/5fad9b1d978fe1080e3ac4a8.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1198" tvg-name="T13 Radio" tvg-logo="https://i2.paste.pics/45e025a4deee9ffaeabe6af0b964a6c8.png", T13 Radio | CL
 https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="973" tvg-name="Top New Radio" tvg-logo="https://i2.paste.pics/fa96854fb72b2a5e1032d030c83814fa.png", Top New Radio | CL
 https://video.streamingchilenos.cl:1936/8048/8048/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="786" tvg-name="Tributo Valentina" tvg-logo="https://lh3.googleusercontent.com/-prh7BFcqRm8/YG-DVGT_cwI/AAAAAAABBRM/eqw6BkvoZRQ6UQHcT76iv42klsK74q7WgCK8BGAsYHg/s512/2021-04-08.png", Tributo Valentina | CL
 https://vdochile.com:3385/hybrid/play.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="387" tvg-name="Zona Play Radio" tvg-logo="https://lh3.googleusercontent.com/-nYwjW5gyOHs/Xm_wyxoQZ8I/AAAAAAAAw-M/UivKYmyy1tMPqn_zDoQtMGFrmivibOCLgCK8BGAsYHg/s0/2020-03-16.jpg", Zona Play Radio | CL
 https://paneltv.online:1936/8100/8100/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="999" tvg-name="38TV" tvg-logo="https://i2.paste.pics/3cc1950b0f0c4ad15752bd5b6646fdf6.png", 38TV | CL
 https://v2.tustreaming.cl:19360/38tv/38tv.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="462" tvg-name="Alternativa TV" tvg-logo="https://lh3.googleusercontent.com/-iKwsCUXvDPI/YFdM0gGK5jI/AAAAAAABAzM/qwl5-LN14w8v5OywQnwwmZRiDV4PhIP9QCK8BGAsYHg/s512/2021-03-21.png", Alternativa TV | CL
 https://srv2.zcast.com.br/carlos2469/carlos2469/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="317" tvg-name="AM Canal" tvg-logo="https://lh3.googleusercontent.com/-Qbzsb10m8FI/YLwP7qvh82I/AAAAAAABCsw/obyVVlYUAa4YC3XO6ChBaMDvEtV3lAcRQCJEEGAsYHg/s512/2021-06-05.png", AM Canal | CL
-https://v2.tustreaming.cl/amtv/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="327" tvg-name="América TV Chile" tvg-logo="https://lh3.googleusercontent.com/-dAThrFAhCtE/Xx-hwDQF4gI/AAAAAAAA3ic/BsAasEXfeos0_0c7QAorRga7pt2ZC1yfwCK8BGAsYHg/s0/2020-07-27.png", América TV Chile | CL
 https://v2.tustreaming.cl:/radioamericatv/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="311" tvg-name="Arica TV" tvg-logo="https://lh3.googleusercontent.com/-RSJgui5q1ag/YLwPYdKEv9I/AAAAAAABCsk/eI3D7-S2c7gaqLgRGewyN-pHzdzCghwIQCJEEGAsYHg/s512/2021-06-05.jpg", Arica TV | CL
 https://5eaccbab48461.streamlock.net:1936/8002/8002/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="319" tvg-name="Atacama Noticias TV" tvg-logo="https://lh3.googleusercontent.com/-l7XXNQYmGAM/XvDpTB0gG5I/AAAAAAAA2Kk/GvD1qftKvhgJszIAP4CbyNkTdKk5h61gQCK8BGAsYHg/s0/2020-06-22.png", Atacama Noticias TV | CL
 https://v2.tustreaming.cl/atacamanoticias/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="320" tvg-name="Atacama TV" tvg-logo="https://lh3.googleusercontent.com/-dxfCxjRg3kc/YLwNHipWtxI/AAAAAAABCsE/YVukqdClrtcbM8N2pwv8MJSXGS862L1tgCJEEGAsYHg/s512/2021-06-05.png", Atacama TV | CL
 https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1120" tvg-name="Autonoma TV" tvg-logo="https://i2.paste.pics/c00eb38ed6d7b15ebc179af065730860.png", Autonoma TV | CL
 https://tv.streaming-chile.com:19360/autonomatv/autonomatv.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1012" tvg-name="Aysen TV" tvg-logo="https://i2.paste.pics/aa749a5b36cdc1c3084e6d36fe2275c6.png", Aysen TV | CL
 https://v2.tustreaming.cl/aysentv/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="337" tvg-name="Buin Somos Todos" tvg-logo="https://lh3.googleusercontent.com/-qHSWQUuG5HU/XkIKFkSMFBI/AAAAAAAAv-o/80_hG25Pe6cfe7Dm3Uc6VDpcMp2Nd3ImwCK8BGAsYHg/s0/2020-02-10.png", Buin Somos Todos | CL
 https://bst.buin.cl/0.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1281" tvg-name="Caldera Vision TV" tvg-logo="https://i2.paste.pics/858141c7c41b39c658df61aae68aee83.png", Caldera Vision TV | CL
 https://vdo.miserver.pro:3475/live/calderavisionlive.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="369" tvg-name="Canal 11 TV Aysen" tvg-logo="https://i2.paste.pics/8023836adcf3a07cfaef99fcccbe8292.png", Canal 11 TV Aysen | CL
 https://v1.tustreaming.cl:19360/canal11aysen/canal11aysen.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="965" tvg-name="Canal 1440 Coquimbo" tvg-logo="https://i2.paste.pics/4670a31c2ccbc5689b6a607819de85c4.png", Canal 1440 Coquimbo | CL
 https://stmv2.zcastbr.com/coquimboturadio/coquimboturadio/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="348" tvg-name="Canal 21 Chillán" tvg-logo="https://lh3.googleusercontent.com/-G3a4EWWVHDM/YLwWdi2a_KI/AAAAAAABCt8/9O8xWNi1f_UbcvwqCXhAHEvJhcrgSF2lwCJEEGAsYHg/s512/2021-06-05.jpg", Canal 21 Chillán | CL
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="364" tvg-name="Canal 5 Puerto Montt" tvg-logo="https://i2.paste.pics/bf21f73eb125d689b3362c7af6f25887.png", Canal 5 Puerto Montt | CL
 https://srv2.zcast.com.br/canal5tv/canal5tv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="338" tvg-name="Canal 57 Melipilla" tvg-logo="https://i2.paste.pics/142f64e0f0f7392e87b0f08fe9220039.png", Canal 57 Melipilla | CL
 https://593b04c4c5670.streamlock.net:443/8148/8148/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="334" tvg-name="Canal 74 TeVe" tvg-logo="https://lh3.googleusercontent.com/-TYq4HDXXrKg/X1gGWf_2AWI/AAAAAAAA5ZQ/apHThKFoYGM5Yyixt53Afu2I10KkbCdjwCK8BGAsYHg/s0/2020-09-08.png", Canal 74 TeVe | CL
 https://Stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="353" tvg-name="Canal 9 Bío Bí­o TV" tvg-logo="https://lh3.googleusercontent.com/-opZ6mP8G3Fo/Wn9lBEeoQ4I/AAAAAAAAgwY/cKvIaCeqHZEwdTQ-pJPh7oCDIU2q-fECwCK8BGAs/s220/2018-02-10.png", Canal 9 Bío Bí­o TV | CL
@@ -1913,8 +1934,6 @@ https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8?PlaylistM3UCL
 http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="153" tvg-name="Vepaco TV" tvg-logo="https://lh3.googleusercontent.com/-GyvYnSZ4yfI/XjonouhQaBI/AAAAAAAAvl8/BSNqYDt496wFHlIjLw108ZZyHZ4nR_cBgCK8BGAsYHg/s0/2020-02-04.png", Vepaco TV | VE
 https://vcp3.myplaytv.com/tvepaco/tvepaco/playlist.m3u8?PlaylistM3UCL
-https://vcp3.myplaytv.com/tvepaco/tvepaco/playlist.m3u8?PlaylistM3UCL
-
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
