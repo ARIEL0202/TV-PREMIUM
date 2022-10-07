@@ -1552,26 +1552,9 @@ https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8?Playl
 #EXTINF:-1 tvg-id="540" tvg-name="Gospel Movies Television" tvg-logo="https://lh3.googleusercontent.com/-DulmOzoMbM0/X0KNTFSwCrI/AAAAAAAA44k/EaA9B2IST6UTcLsKGK70zYROAh9EnPL-QCK8BGAsYHg/s0/2020-08-23.jpg", Gospel Movies Television | BR
 https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="163" tvg-name="Gracia TV" tvg-logo="https://lh3.googleusercontent.com/-SWtsCllpbio/Xpz5oNEdmDI/AAAAAAAAyBc/fsfhz_a0y9I-6v8vfM0zUc_9C_xG3DgagCK8BGAsYHg/s0/2020-04-19.png", Gracia TV | CL
-https://v4.tustreaming.cl/graciatv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="840" tvg-name="JBN Internacional" tvg-logo="https://lh3.googleusercontent.com/-BIk2lXR_rs0/YIIRe88AduI/AAAAAAABB44/0oNlLjQeNggj39kaXRFcY7SFJf8slw1FwCK8BGAsYHg/s512/2021-04-22.jpg", JBN Internacional | HN
-https://emisoras.hn:8081/jbn/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="177" tvg-name="Jehova TV" tvg-logo="https://lh3.googleusercontent.com/-83xVlCKhy9M/YE1Kbugpn9I/AAAAAAABAmI/rTOM58rOAXoDAXekm3foJINYew4SZ4xcgCK8BGAsYHg/s512/2021-03-13.png", Jehova TV | HN
-https://video.misistemareseller.com:443/jehovatelevision/jehovatelevision/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="182" tvg-name="Jesus TV" tvg-logo="https://lh3.googleusercontent.com/-NTtT2RbfKa8/YE1K8bQxldI/AAAAAAABAmU/cvVo2mpWCjg8AJBq5TnVliWbXUIWWfwxwCK8BGAsYHg/s512/2021-03-13.png", Jesus TV | DO
-https://cloudflare.streamgato.us:3037/live/jesustvlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="853" tvg-name="La Fe Mueve Montanas" tvg-logo="https://lh3.googleusercontent.com/-kl7V7U5q7f0/YI830_FLyoI/AAAAAAABCJg/VWmNBlxJKzYppBYkN1vC4Rz9WjB7jBrfQCK8BGAsYHg/s512/2021-05-02.png", La Fe Mueve Montanas | DO
-https://inliveserver.com:1936/10020/10020/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="192" tvg-name="Luz Naciente TV" tvg-logo="https://lh3.googleusercontent.com/-TkocLRjb3Kk/YE1LWyaocRI/AAAAAAABAmc/_HK4XABBOKg9ybKErozOO7NCL2GMe9RDQCK8BGAsYHg/s512/2021-03-13.png", Luz Naciente TV | CR
-https://cloudflare.streamgato.us:3399/live/luznacientetvlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="186" tvg-name="Mana del Cielo TV" tvg-logo="https://lh3.googleusercontent.com/-xDuKnu-26T4/YE1IU7_yxYI/AAAAAAABAlg/cV1Z9QG3WqwBXg7t22JkJ0bK9XVe9Q7JACK8BGAsYHg/s512/2021-03-13.png", Mana del Cielo TV | US
-http://cvip.smhcdn.com/10671-live/manatvdelcielo/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="866" tvg-name="Manantial de Adoración TV" tvg-logo="https://i2.paste.pics/14dfe90b2eca7a9eccb2cb7fab88286f.png", Manantial de Adoración TV | US
-https://livemediacp.com:1936/8074/8074/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="821" tvg-name="Master Video Pro" tvg-logo="https://lh3.googleusercontent.com/-Amd7Ilz-8I0/YH9URW7BZJI/AAAAAAABByk/YVbITMA-SRMyoTUOcSlIcTp9iCsJ3Ms-ACK8BGAsYHg/s512/2021-04-20.png", Master Video Pro | PR
-https://584097344c1f0.streamlock.net:443/222/stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1202" tvg-name="MC Radio" tvg-logo="https://i2.paste.pics/7070d20a86a32c32e668f538bac42bdf.png", MC Radio | CL
 https://live.tvcontrolcp.com:1936/manten/manten/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="183" tvg-name="MCN Television" tvg-logo="https://lh3.googleusercontent.com/-YGpaUHYjQDo/YE1MOLAUaHI/AAAAAAABAms/ebRxo7O9qJoXjY-CMX-aqm0UOCv0nod_ACK8BGAsYHg/s512/2021-03-13.jpg", MCN Television | GT
 https://cp.sradiotv.com:1936/8026/8026/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="823" tvg-name="Mision TV" tvg-logo="https://lh3.googleusercontent.com/-kYhIouLpRVY/YH9WBpmzfvI/AAAAAAABBy4/WLAY9I0GnEMJN2d0XsuM-3JnaavbSRtLwCK8BGAsYHg/s512/2021-04-20.jpg", Mision TV | HN
