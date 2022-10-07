@@ -1719,38 +1719,52 @@ https://paneltv.online:1936/8156/8156/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="467" tvg-name="TV Pop" tvg-logo="https://lh3.googleusercontent.com/-XpZwlTaVD70/X5jAxBIjQnI/AAAAAAAA6ys/IoG_B-D9vCwSs4nNVTr2tK_hz-rI7VXCgCK8BGAsYHg/s0/2020-10-27.jpg", TV Pop | CL
 https://v4.tustreaming.cl/poptv/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="436" tvg-name="TV Salud" tvg-logo="https://lh3.googleusercontent.com/-Xv_aL34GjFE/XdksOdTnS9I/AAAAAAAAsTs/_WBt4UNy428CuU5dtVeJQZzh4EpQREnDwCK8BGAsYHg/s0/2019-11-23.png", TV Salud | CL
 https://srv3.zcast.com.br/mastermedia/mastermedia/tvsalud.cl.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="986" tvg-name="Ziza TV" tvg-logo="https://i2.paste.pics/129d176f2117a7985aefe938703c34a5.png", Ziza TV | CL
 https://v2.tustreaming.cl/zizatv/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="55" tvg-name="Campus TV" tvg-logo="https://lh3.googleusercontent.com/-pW3OtBR0N4A/Xl5Y7H0fi7I/AAAAAAAAwjg/gdqG0LJ8DP42Md2rGIh2qHs1vNF7AYopACK8BGAsYHg/s0/2020-03-03.png", Campus TV | CL
 https://unlimited1-cl-isp.dps.live/campustv/campustv.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="53" tvg-name="STGO.TV" tvg-logo="https://lh3.googleusercontent.com/-02uPrXnaZuY/Xk_sz_MIaEI/AAAAAAAAwVo/wwJD8vjW0ScrhAp-BVHSElUKIOUN_CqJgCK8BGAsYHg/s0/2020-02-21.png", STGO.TV | CL
 https://stv.janus.cl/playlist/stream.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="802" tvg-name="TV UCT" tvg-logo="https://lh3.googleusercontent.com/-b5STpV7frCc/YHxqEk9aHxI/AAAAAAABBqs/CXWLe5jLyfgXXBgOSzhqb5sSUpn_A6K8ACK8BGAsYHg/s512/2021-04-18.png", TV UCT | CL
 https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="56" tvg-name="TVU" tvg-logo="https://i2.paste.pics/a399853d40d3e97454b0e04d423d47a9.png", TVU | CL
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1017" tvg-name="U Chile TV" tvg-logo="https://i2.paste.pics/2336e0cef4642213124e4192f019ccfd.png", U Chile TV | CL
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="59" tvg-name="U Los Lagos" tvg-logo="https://lh3.googleusercontent.com/-mt7LVY0X3kE/XlBdyl_hwFI/AAAAAAAAwW0/vqFU9wiyuawEn3E39ERyYaOkVZ3TVterACK8BGAsYHg/s0/2020-02-21.png", U Los Lagos | CL
 http://tv.ulagos.cl/web/live.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="54" tvg-name="UCV" tvg-logo="https://i2.paste.pics/87c6e7bb59c33bfab71e154181716e90.png", UCV | CL
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1152" tvg-name="UCV 2" tvg-logo="https://i2.paste.pics/87c6e7bb59c33bfab71e154181716e90.png", UCV 2 | CL
 https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="62" tvg-name="UesTV" tvg-logo="https://i2.paste.pics/360c8f7659accc54b1013b0b2b7669b6.png", UesTV | CL
 https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="57" tvg-name="Ufrovision" tvg-logo="https://lh3.googleusercontent.com/-fqdCC1PQsjQ/XbC1rzkVu6I/AAAAAAAArmE/eB5FcH8qqZkgXsnzuStsuYTohDPRfNMdQCK8BGAsYHg/s0/2019-10-23.png", Ufrovision | CL
-https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="60" tvg-name="UMAG TV" tvg-logo="https://lh3.googleusercontent.com/-0NppS8zHXRU/XbC2cN4qlAI/AAAAAAAArmY/g4gYZKyGhHglj_lyBKSaRw-tBMgzO0NmACK8BGAsYHg/s0/2019-10-23.png", UMAG TV | CL
 https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="61" tvg-name="UMAG TV 2" tvg-logo="https://lh3.googleusercontent.com/-0NppS8zHXRU/XbC2cN4qlAI/AAAAAAAArmY/g4gYZKyGhHglj_lyBKSaRw-tBMgzO0NmACK8BGAsYHg/s0/2019-10-23.png", UMAG TV 2 | CL
 https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="58" tvg-name="Universidad Autonoma TV" tvg-logo="https://i2.paste.pics/4f091f5c6fccbcd410cdc98e452bcb3b.png", Universidad Autonoma TV | CL
 https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1040" tvg-name="Canal 9 Telerocha" tvg-logo="https://i2.paste.pics/8ce98d4163ce9cd4bd2343afdcdb0f0d.png", Canal 9 Telerocha | UY
 https://stm1.rootuy.xyz:19360/canal9/canal9.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1038" tvg-name="Canal Once Punta del Este" tvg-logo="https://i2.paste.pics/768215266c0cc2aa3ebbd5b7c1e95a04.png", Canal Once Punta del Este | UY
 https://5e50264bd6766.streamlock.net:443/canal11ury/videocanal11ury/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIyIDE6MjM6MDcgQU0maGFzaF92YWx1ZT1CcHlVNnlzaXNXeHBnTXdZa3lIQ0dRPT0mdmFsaWRtaW51dGVzPTUmaWQ9&PlaylistM3UCL
 #EXTINF:-1 tvg-id="1041" tvg-name="La Red" tvg-logo="https://i2.paste.pics/f485096fe9dd5e07d4442646a67f290b.png", La Red | UY
