@@ -822,84 +822,103 @@ https://tvlatina.live:1936/8022/8022/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1271" tvg-name="MMC - Freetv.com" tvg-logo="https://i2.paste.pics/ecac0da442f722d93b2a607b74c149df.png", MMC - Freetv.com | US
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1077" tvg-name="Molahits TV" tvg-logo="https://i2.paste.pics/46fdcecaa7fc4ca2f236df0d8a4df6a6.png", Molahits TV | ES
 http://ventdelnord.tv:8080/mola/directe.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="771" tvg-name="Mundo de la Musica TV" tvg-logo="https://lh3.googleusercontent.com/-dGnGcoZ4XMI/YGiuDJ-l9SI/AAAAAAABBKo/29BjyFATaBUc5W1wMu7u18r7fY1SHwLhwCK8BGAsYHg/s512/2021-04-03.png", Mundo de la Musica TV | CL
 https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="24" tvg-name="Music Top" tvg-logo="https://lh3.googleusercontent.com/-jyK2QfeF7tk/YBShx6dT-eI/AAAAAAAA_k4/gq6qGMH-1UAurScNL4TayXfEA47gA1ljgCK8BGAsYHg/s0/2021-01-29.png", Music Top | AR
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="925" tvg-name="Nubeh TV" tvg-logo="https://i2.paste.pics/82dcfd31aad429ffee4c8edc9afa7624.png", Nubeh TV | VE
 https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1244" tvg-name="Oldies Hits TV" tvg-logo="https://i2.paste.pics/e63c9721b2261a3213ea1a4e69776d0f.png", Oldies Hits TV | CR
 https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="926" tvg-name="Oxigeno Network" tvg-logo="https://i2.paste.pics/ef1ca23d4134cf47e55c3092fae7e513.png", Oxigeno Network | VE
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="924" tvg-name="Panavision" tvg-logo="https://i2.paste.pics/4bb07c3c21fb5317a68d763802eba0e1.png", Panavision | VE
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1236" tvg-name="PANC TV" tvg-logo="https://i2.paste.pics/a61c22c0fe52306c8326cbc423addda9.png", PANC TV | AR
-https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1092" tvg-name="Planeta TV" tvg-logo="https://i2.paste.pics/4075185fbbf2ba30f8739d15c9e56298.png", Planeta TV | PE
-https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1014" tvg-name="PlanetaTV Music" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png", PlanetaTV Music | CL
 https://scl.edge.grupoz.cl/music/live/music.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="31" tvg-name="Portal FoxMix" tvg-logo="https://lh3.googleusercontent.com/-k9n3tedhqBs/XbC_-FblJSI/AAAAAAAArm4/pMPtuBhhdtoL_yFWs5dt23dHFTHHCv8hgCK8BGAsYHg/s0/2019-10-23.png", Portal FoxMix | CL
 https://593b04c4c5670.streamlock.net:443/portalfoxmix/portalfoxmix/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1009" tvg-name="Radiomania" tvg-logo="https://i2.paste.pics/23bcb93c2d0cdd0163f92bffdb001898.png", Radiomania | CL
 https://videostreaming.cloudserverlatam.com:443/8000/8000/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="769" tvg-name="Radioteca TV" tvg-logo="https://i2.paste.pics/8990ff3b0c53684e7f62a5db3c0cab06.png", Radioteca TV | CL
 https://paneltv.net:3570/live/txtkignslive.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="26" tvg-name="RCKTV" tvg-logo="https://i2.paste.pics/b4e09c1315da8b38ccb2e308519cbda1.png", RCKTV | CL
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="785" tvg-name="Re7" tvg-logo="https://lh3.googleusercontent.com/-G0VClSWuZuY/YG8IaybYl4I/AAAAAAABBQc/muG2PSbo290d03axgs10Z-KSgdK3uWcBACK8BGAsYHg/s512/2021-04-08.png", Re7 | CL
 https://hostv7.tvestacion7.com:3700/hybrid/play.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="521" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://lh3.googleusercontent.com/-u9hoJJgi3Qg/YCCON9BSD1I/AAAAAAAA_xk/IaTcH9DfgAgCjdrjd_MM10F7TGPoUnpEACK8BGAsYHg/s0/2021-02-07.png", Recuerdos Retro Radio TV | CL
 https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="21" tvg-name="Retro Music Television" tvg-logo="https://lh3.googleusercontent.com/-z4SQcFR0bIs/Xs_MlInCKMI/AAAAAAAA1QM/T2RR2owl_CYpymBiQ8lOi1ykYZVAwI6NACK8BGAsYHg/s0/2020-05-28.png", Retro Music Television | CZ
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Retro Plus TV | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Retro Plus TV Señal 2 | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1" tvg-name="Rewind Radio y TV" tvg-logo="https://i2.paste.pics/02c63dfaaf621ab897fbddd3e4666a33.png", Rewind Radio y TV | CL
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="13" tvg-name="Ruidos TV" tvg-logo="https://i2.paste.pics/004835d0c1a19dd14fa643dd18897d4d.png", Ruidos TV | CL
 https://593b04c4c5670.streamlock.net/8038/8038/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="782" tvg-name="Sexy Kpop TV" tvg-logo="https://lh3.googleusercontent.com/-_mVYIdXLYWQ/YGuFFxxUHFI/AAAAAAABBOo/1u_EVaReRtY31sRUcng-usb7bVQ9krgKwCK8BGAsYHg/s512/2021-04-05.jpg", Sexy Kpop TV | BR
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="18" tvg-name="ShowVen TV" tvg-logo="https://i2.paste.pics/84325e40ce60d16037b02586850d1c30.png", ShowVen TV | VE
 https://vcp.myplaytv.com/coll/coll/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1128" tvg-name="Solobailalo TV" tvg-logo="https://i2.paste.pics/d96b857f73a9ce281cdef4e11766eddd.png", Solobailalo TV | CL
 https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1267" tvg-name="Sonido Sur" tvg-logo="https://i2.paste.pics/d4611bb5de55a463af7b7af2ee821d06.png", Sonido Sur | AR
 https://streamcasthd.com:1936/sonidosurtv/sonidosurtv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1064" tvg-name="Soy Plancha TV" tvg-logo="https://i2.paste.pics/ade26f32ba4868798ef1593a34e57ef7.png", Soy Plancha TV | CR
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="911" tvg-name="Tele Clasicos" tvg-logo="https://i2.paste.pics/379d8ce5893c94a972cd1ec9f5a13149.png", Tele Clasicos | CR
-https://tvdatta.com:3574/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="36" tvg-name="Telemusica" tvg-logo="https://lh3.googleusercontent.com/-i9WwagfKEd0/Xkyj43nNFOI/AAAAAAAAwIM/KdtEMa1z7fIoleKmbrXFEU3N9ASWoq5IwCK8BGAsYHg/s0/2020-02-18.png", Telemusica | CO
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="17" tvg-name="The Retro Channel" tvg-logo="https://lh3.googleusercontent.com/-2UEnkgDLK5U/YF8mPyKQ4dI/AAAAAAABA_M/TAGtmHfbRZwax3VsZ5bs861v4NaitIXLgCK8BGAsYHg/s512/2021-03-27.png", The Retro Channel | PR
-https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="7" tvg-name="Toca Hits" tvg-logo="https://i2.paste.pics/a49dfcb76b5d0413f88658b1a8b2716f.png", Toca Hits | CL
-https://mix247.ml:444/TocaHits/Top100Mix24-7/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="35" tvg-name="TOP Latino TV" tvg-logo="https://lh3.googleusercontent.com/-2Pr5sAUtsTA/XkCTD7gYTyI/AAAAAAAAv8M/B9-Cs05PoO4uTYRUW4INkQhkH1NkuQQWACK8BGAsYHg/s0/2020-02-09.png", TOP Latino TV | PE
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/tvweb.stream/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="546" tvg-name="Top TV" tvg-logo="https://lh3.googleusercontent.com/-UXc734ztZfU/X0KOOvmuZAI/AAAAAAAA440/6ngQMIIe7Ukh8ugZlXJwxSnlbiiVz-bZQCK8BGAsYHg/s0/2020-08-23.png", Top TV | BR
 https://cast.cdnseguro.com:19360/8092/8092.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="845" tvg-name="Tu Musica HD" tvg-logo="https://i2.paste.pics/125ce9f4e1e661f94fb7c6dce4224485.png", Tu Musica HD | DO
-https://cloudflare.streamgato.us:3618/live/tumusicahdlive.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="43" tvg-name="Turbo Mix TV" tvg-logo="https://lh3.googleusercontent.com/-G5Yc3uX2FuI/X96fIN48GAI/AAAAAAAA8W0/OiYowGFVndAfjVe7nyNsjtL1OavXrBEkwCK8BGAsYHg/s0/2020-12-19.png", Turbo Mix TV | PE
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="19" tvg-name="TV Exitos" tvg-logo="https://lh3.googleusercontent.com/-BET4REPGZKQ/X96Yzr-NKCI/AAAAAAAA8Wo/jNg4hNxYQP0gmIeRnv8mBt4_GfNyGkGnQCK8BGAsYHg/s0/2020-12-19.png", TV Exitos | DO
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="561" tvg-name="TV Uniao" tvg-logo="https://i2.paste.pics/92b2a8a3fdeb9191df67c2d4c681f106.png", TV Uniao | BR
 https://596639ebdd89b.streamlock.net:443/tvuniao/tvuniao/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="34" tvg-name="TV vconline.cl" tvg-logo="https://lh3.googleusercontent.com/-F0CYLyk3J_M/XxzNduxMoVI/AAAAAAAA3Zk/3S772u4F4jER7F0bULY-hlG7Nn9bbGa7gCK8BGAsYHg/s0/2020-07-25.png", TV vconline.cl | CL
+
 https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="14" tvg-name="Urban TV" tvg-logo="https://lh3.googleusercontent.com/-Xx4DcggZ0tw/X48XMFPv4jI/AAAAAAAA6lY/eTAQj1-UnWUbuTMAHTCiwz9SCJoAlGkTACK8BGAsYHg/s0/2020-10-20.png", Urban TV | ES
 https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1234" tvg-name="Urbano TV" tvg-logo="https://i2.paste.pics/0c73fe6bc691b4aa4d1ac9cc3f93e500.png", Urbano TV | CR
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1160" tvg-name="VClassicTV" tvg-logo="https://i2.paste.pics/99cc893c37784a17aac9a95ac3c7e5c8.png", VClassicTV | CL
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1255" tvg-name="VClassicTV Tropical" tvg-logo="https://i2.paste.pics/355ba171055dd0e6747131673432cc18.png", VClassicTV Tropical | CL
