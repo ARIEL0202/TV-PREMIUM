@@ -1504,88 +1504,54 @@ https://mediacpstreamchile.com:1936/tele2web/tele2web/playlist.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-id="357" tvg-name="Temuco TV" tvg-logo="https://lh3.googleusercontent.com/-RfITnpTfEz4/YKmDDqHhEvI/AAAAAAABCd4/QZ7_BVwPR3ou-_In9JbR1JeIk97H4irGACK8BGAsYHg/s512/2021-05-22.jpg", Temuco TV | CL
 https://tv.streaming-chile.com:19360/temucotelevision/temucotelevision.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="336" tvg-name="Tendencias Prime" tvg-logo="https://i2.paste.pics/5d64fe0c6e8c1d3be74a7982fc408dab.png", Tendencias Prime | CL
-https://v2.tustreaming.cl/tendenciastv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="326" tvg-name="ThemaTV" tvg-logo="https://lh3.googleusercontent.com/-Vgy7Z0vneQQ/YLwRzORmQaI/AAAAAAABCtM/eh_BH_39oIsbSgMiirmbkScqt8MuuFiOgCJEEGAsYHg/s512/2021-06-05.png", ThemaTV | CL
 https://unlimited1-cl-isp.dps.live/thema/thema.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="332" tvg-name="TV Costa" tvg-logo="https://lh3.googleusercontent.com/-D5lPoIyFycQ/YIxMYNs6ZKI/AAAAAAABCEU/0AcLO4Az3y0wi6son16EjNv2DewCGFk8QCK8BGAsYHg/s512/2021-04-30.jpg", TV Costa | CL
 https://tv.tvcontrolcp.com:1936/costatv1/costatv1/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="329" tvg-name="TV Elqui" tvg-logo="https://lh3.googleusercontent.com/-uohfVTgGqkU/XrmveWQiUXI/AAAAAAAA0oQ/Bn7Ad9_7KMY6oMCjD2UJi_cp-8ynyLYSQCK8BGAsYHg/s0/2020-05-11.png", TV Elqui | CL
 https://paneltv.online:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1241" tvg-name="TV Norte Digital" tvg-logo="https://i2.paste.pics/531d89dccf0dc946b041b14edb9db045.png", TV Norte Digital | CL
 https://srv5.zcast.com.br/tvnortedigital/tvnortedigital/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="854" tvg-name="TV Quinta Region" tvg-logo="https://i2.paste.pics/2c015266869a8e163cc42bd1a0808834.png", TV Quinta Region | CL
 https://mediacpstreamchile.com:1936/8002/8002/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="354" tvg-name="TV8" tvg-logo="https://i2.paste.pics/104c1e13bca407b18797880aadc3cddb.png", TV8 | CL
 https://593b04c4c5670.streamlock.net:443/8014/8014/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="340" tvg-name="TVO San Vicente" tvg-logo="https://i2.paste.pics/a9f646af1abd085ef75e72c5e05e05b4.png", TVO San Vicente | CL
 https://unlimited2-cl-isp.dps.live/tvo/tvo.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="318" tvg-name="TVO Tocopilla" tvg-logo="https://lh3.googleusercontent.com/-uSdgqeTgb4o/XxzE8VuETQI/AAAAAAAA3XY/9-D2ks1nTFwcS9od0Ko39vdHoH7YlgVWgCK8BGAsYHg/s0/2020-07-25.png", TVO Tocopilla | CL
 https://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="345" tvg-name="UTV San Clemente" tvg-logo="https://i2.paste.pics/4a70b027fa4d7cc5763e54ce980580c4.png", UTV San Clemente | CL
 https://v2.tustreaming.cl/utv/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="995" tvg-name="Vida Nueva TV" tvg-logo="https://i2.paste.pics/7ea06393d56d6c5dee7664a46ae15c29.png", Vida Nueva TV | CL
 https://mediacpstreamchile.com:1936/8044/8044/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1024" tvg-name="Vision Plus TV" tvg-logo="https://i2.paste.pics/e067ea7d04aa3bcd78e8892df03409af.png", Vision Plus TV | CL
 https://v2.tustreaming.cl/visionplustv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="361" tvg-name="Vision TV" tvg-logo="https://lh3.googleusercontent.com/-kA-YUEjBEoc/XygP_iR0ZzI/AAAAAAAA3sI/mMsFytWSPV4dziqhZQtA6X0GmhEIrmrpQCK8BGAsYHg/s0/2020-08-03.png", Vision TV | CL
-https://video01.logicahost.com.br/visiontv/visiontv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="342" tvg-name="Vivo TV" tvg-logo="https://lh3.googleusercontent.com/-1sqZ7rIlQfU/X30JIKK3h6I/AAAAAAAA6Mg/PXOK4Ogfto8S5Jkbot2bAdHtCctyapzqwCK8BGAsYHg/s0/2020-10-06.jpg", Vivo TV | CL
 https://unlimited1-cl-isp.dps.live/vivotv/vivotv.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="174" tvg-name="VP Televisión" tvg-logo="https://i2.paste.pics/454ab39041c8b5867f7d4707ebd6c54f.png", VP Televisión | CL
 https://v1.tustreaming.cl:19360/vozdepoder/vozdepoder.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1163" tvg-name="YungayOnline" tvg-logo="https://i2.paste.pics/2f5a5c317d9813f9d83b71e9b1a1c9a9.png", YungayOnline | CL
 https://mediacpstreamchile.com:1936/8028/8028/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="865" tvg-name="Alcance TV" tvg-logo="https://i2.paste.pics/b4363fe68e2cea79e69ccfb224ed725e.png", Alcance TV | MX
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="189" tvg-name="Aleluya TV" tvg-logo="https://lh3.googleusercontent.com/-60jvszxy5cw/YE1I0gSnj7I/AAAAAAABAlo/4pHLnI7N5WQtl10RrEwHjWKT9RB34_lkQCK8BGAsYHg/s512/2021-03-13.png", Aleluya TV | US
-https://tv.aleluya.cloud/web720/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="864" tvg-name="Alerta TV" tvg-logo="https://lh3.googleusercontent.com/-rEvnvXsMnew/YKQpF7fAMwI/AAAAAAABCY0/PMYiNZACA8ge6nNvb_5vBSnjV7QmOQ9cACK8BGAsYHg/s512/2021-05-18.png", Alerta TV | US
-https://5b3050bb1b2d8.streamlock.net:443/alertatv/alertatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="176" tvg-name="Asomavision" tvg-logo="https://lh3.googleusercontent.com/-h-YYBHHx46A/YE1JNraXFOI/AAAAAAABAlw/bmdy27BUz_8JWSGqh2HoKHF7G-Xez5_zQCK8BGAsYHg/s512/2021-03-13.png", Asomavision | EC
-https://asomastream.duckdns.org/livestream/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="825" tvg-name="Avivame TV" tvg-logo="https://lh3.googleusercontent.com/-TUbJ4gIjWKw/YH9Yj-suRtI/AAAAAAABBzQ/n_s57vY-_p0SeocAf_IFxgNyLIdBrhmJwCK8BGAsYHg/s512/2021-04-20.jpg", Avivame TV | US
-http://wow.adonainy.com:1935/vod/mp4:OCT23_AVIVAME_INTRO.mp4/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="157" tvg-name="Canal 33" tvg-logo="https://lh3.googleusercontent.com/-SM266zq0954/XbJE8J3rspI/AAAAAAAArrY/ul2hiTKcHyUNayzFG1NbGTN11yRpb4oEACK8BGAsYHg/s0/2019-10-24.png", Canal 33 | CL
-https://oracle.streaminghd.cl/eduardo555/eduardo555/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1078" tvg-name="Canal 6 - Viento Recio Internacional" tvg-logo="https://i2.paste.pics/62ae685f1d5790b8bf030f4350c70574.png", Canal 6 - Viento Recio Internacional | AR
-https://mediacp.hostradios.com.ar:19360/8092/8092.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="158" tvg-name="Canal Dios Te Ve" tvg-logo="https://lh3.googleusercontent.com/-6tQjdX3egVE/X1BUs8EdjII/AAAAAAAA5MI/MQ4mGLIIwF4MiheZiu3zQxUPWnQ1NdnlwCK8BGAsYHg/s0/2020-09-02.jpg", Canal Dios Te Ve | HN
-https://emisoras.hn:8081/diostevetv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="159" tvg-name="Canal ISB" tvg-logo="https://lh3.googleusercontent.com/-BAGm0_jccnk/Xpz6lms-rHI/AAAAAAAAyBk/Mbk9tiXSZPMBkW90NGR8LEG7OR1mmb2sQCK8BGAsYHg/s0/2020-04-19.png", Canal ISB | CL
-https://unlimited1-cl-isp.dps.live/isb/isb.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1186" tvg-name="Casa Sobre La Roca TV" tvg-logo="https://i2.paste.pics/fabed3217697cbd31cbd240376b2dfdb.png", Casa Sobre La Roca TV | CL
-https://vdohd.cl:1936/8080/8080/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="185" tvg-name="CCI Channel" tvg-logo="https://lh3.googleusercontent.com/-yJ-NXG-VzHU/YE1JkKHGjdI/AAAAAAABAl4/dt2wneikp_Q6NY8riYkTC5vQUnXuwhZigCK8BGAsYHg/s512/2021-03-13.png", CCI Channel | HN
-https://5d597bfcee285.streamlock.net/cci/cci/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="861" tvg-name="Cielo TV Cristiana" tvg-logo="https://lh3.googleusercontent.com/-a5cwU0NIxD8/YKQgDxkVNSI/AAAAAAABCYM/CqXw5vG-lMotnKhF3FL_hCLGDaj3xTe8ACK8BGAsYHg/s512/2021-05-18.png", Cielo TV Cristiana | DO
-https://5e149b9159444.streamlock.net/cielotv/smil:cielotv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="851" tvg-name="Conectados Con Dios TV" tvg-logo="https://lh3.googleusercontent.com/-hbz1RQGuaAw/YI81xi627NI/AAAAAAABCJQ/KKWVAb_hb344B1tqgWvJnw4N47-QS5zswCK8BGAsYHg/s512/2021-05-02.png", Conectados Con Dios TV | GT
-http://51.161.12.229:1935/AntiguaSports/myStream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="196" tvg-name="Cristiana TV" tvg-logo="https://lh3.googleusercontent.com/-CVm245eZ890/YE6U9N6yZSI/AAAAAAABAuE/9Auajk4UAtM5WfqNd3bWvPawI9cGHvc2ACK8BGAsYHg/s512/2021-03-14.png", Cristiana TV | ES
-https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="822" tvg-name="Cristo Libera" tvg-logo="https://lh3.googleusercontent.com/-oEiOuuoK8cA/YH9VJmAn-eI/AAAAAAABBys/zJGPS2eEDv0ob-N-0HQOmzgqcY9buQLuQCK8BGAsYHg/s512/2021-04-20.jpg", Cristo Libera | US
-https://583ed2f226ac2.streamlock.net:443/1708/stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="874" tvg-name="Cristovision" tvg-logo="https://lh3.googleusercontent.com/-gpKijegYRPI/YKpgguJ8gjI/AAAAAAABCfo/BpPbiSUg42ExGT6OjGzvpJYl9HZ8fjxWQCK8BGAsYHg/s512/2021-05-23.jpg", Cristovision | CO
-https://liveingesta118.cdnmedia.tv/cristovisionlive/smil:live.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="160" tvg-name="Dios Te Ve Kids" tvg-logo="https://lh3.googleusercontent.com/-5ca98mWuI48/X1BU1VE-fFI/AAAAAAAA5MM/DPmAa2uFmTIH4MOJAVpjUCCClixnPOP7QCK8BGAsYHg/s0/2020-09-02.png", Dios Te Ve Kids | HN
-https://emisoras.hn:8081/diostevekids/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="852" tvg-name="Ebenezer TV" tvg-logo="", Ebenezer TV | HN
-https://5b50404ec5e4c.streamlock.net/ebenezertv2/smil:ebenezertv2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="179" tvg-name="El Viviente TV" tvg-logo="https://lh3.googleusercontent.com/-LXyeFlBrSIo/YE1J4NYme8I/AAAAAAABAmA/B4zOjVgZuUA5DsHRc6RkMkhQw7af05G8wCK8BGAsYHg/s512/2021-03-13.png", El Viviente TV | US
-https://cloudflare.streamgato.us:3006/live/elvivientetvlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="173" tvg-name="Escuchame Radio" tvg-logo="https://lh3.googleusercontent.com/-eQd-W5mPTuw/YDwxJZOsNSI/AAAAAAABAcs/0mAPdTthnzsqYh3wSG0soki-xF-As78UQCK8BGAsYHg/s512/2021-02-28.png", Escuchame Radio | CL
-https://stmv1.voxtvhd.com.br/escuchame/escuchame/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="872" tvg-name="ESNE" tvg-logo="https://lh3.googleusercontent.com/-bJEYMF74CW0/YKpY70K868I/AAAAAAABCfM/tRjLNZmN37YmoyZBdEri-vTwxwzHnSYRgCK8BGAsYHg/s512/2021-05-23.jpg", ESNE | US
-https://zypelive-lh.akamaihd.net/i/default_1@44045/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://lh3.googleusercontent.com/-3lr3InkQOSY/YKpaD_5GcMI/AAAAAAABCfU/W-_bV-aXlw0GngiTAXR6qo7WBBRxMuTzwCK8BGAsYHg/s512/2021-05-23.jpg", EWTN | US
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="162" tvg-name="Extrema TV" tvg-logo="https://lh3.googleusercontent.com/-YvhgR9bWwEk/XqeKc33JN4I/AAAAAAAAySs/RsIopL6SbT42YZrOwRYaWYx0EztbDMSkQCK8BGAsYHg/s0/2020-04-27.png", Extrema TV | CR
-https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="824" tvg-name="Faro de Santidad TV" tvg-logo="https://lh3.googleusercontent.com/-BF4ZUEJvSq4/YH9XWmX0pCI/AAAAAAABBzE/OjA76SsZzrgS7nhWBVUpFUUMPZgE02i_ACK8BGAsYHg/s512/2021-04-20.jpg", Faro de Santidad TV | PR
-https://5dbcd1053301e.streamlock.net:4443/farotv/farotv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="540" tvg-name="Gospel Movies Television" tvg-logo="https://lh3.googleusercontent.com/-DulmOzoMbM0/X0KNTFSwCrI/AAAAAAAA44k/EaA9B2IST6UTcLsKGK70zYROAh9EnPL-QCK8BGAsYHg/s0/2020-08-23.jpg", Gospel Movies Television | BR
 https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="163" tvg-name="Gracia TV" tvg-logo="https://lh3.googleusercontent.com/-SWtsCllpbio/Xpz5oNEdmDI/AAAAAAAAyBc/fsfhz_a0y9I-6v8vfM0zUc_9C_xG3DgagCK8BGAsYHg/s0/2020-04-19.png", Gracia TV | CL
 https://v4.tustreaming.cl/graciatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="840" tvg-name="JBN Internacional" tvg-logo="https://lh3.googleusercontent.com/-BIk2lXR_rs0/YIIRe88AduI/AAAAAAABB44/0oNlLjQeNggj39kaXRFcY7SFJf8slw1FwCK8BGAsYHg/s512/2021-04-22.jpg", JBN Internacional | HN
