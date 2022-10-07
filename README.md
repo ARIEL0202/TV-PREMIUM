@@ -1392,26 +1392,35 @@ https://593b04c4c5670.streamlock.net:443/8148/8148/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="334" tvg-name="Canal 74 TeVe" tvg-logo="https://lh3.googleusercontent.com/-TYq4HDXXrKg/X1gGWf_2AWI/AAAAAAAA5ZQ/apHThKFoYGM5Yyixt53Afu2I10KkbCdjwCK8BGAsYHg/s0/2020-09-08.png", Canal 74 TeVe | CL
 https://Stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="353" tvg-name="Canal 9 Bío Bí­o TV" tvg-logo="https://lh3.googleusercontent.com/-opZ6mP8G3Fo/Wn9lBEeoQ4I/AAAAAAAAgwY/cKvIaCeqHZEwdTQ-pJPh7oCDIU2q-fECwCK8BGAs/s220/2018-02-10.png", Canal 9 Bío Bí­o TV | CL
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="365" tvg-name="Canal Chilote" tvg-logo="https://i2.paste.pics/062823e72b3259ec4d8787acd2b5ac54.png", Canal Chilote | CL
-https://oracle.streaminghd.cl/8030/8030/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="331" tvg-name="Canal de la Costa" tvg-logo="https://lh3.googleusercontent.com/-5gr2u_fRaYc/XnAV1RTZyYI/AAAAAAAAw-k/m2mQkdOij1MSnHaQ6op9KU4LKsxMhwXnwCK8BGAsYHg/s0/2020-03-16.png", Canal de la Costa | CL
-https://livefocamundo.com:8081/cdlcyerko/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="359" tvg-name="Canal Latino 54" tvg-logo="https://lh3.googleusercontent.com/-gBbkRnIisag/XmPPRUnANTI/AAAAAAAAwpc/01jp-ZrMDeYwbf4ahDeKu7kayyMQ_VuUgCK8BGAsYHg/s0/2020-03-07.png", Canal Latino 54 | CL
 https://hd.chileservidores.cl:1936/latina/latina/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1231" tvg-name="Canal Local" tvg-logo="https://i2.paste.pics/b06a3259d7f1a9883bc755647b2ad1bd.png", Canal Local | CL
 http://live.mundogo.cl/mundo/Canallocalquillota/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1238" tvg-name="Canal LOF Aconcagua" tvg-logo="https://i2.paste.pics/f2f15add4d4cd59bd2c073b868fd6319.png", Canal LOF Aconcagua | CL
 https://Stmv1.zcastbr.com/lofchile/lofchile/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1037" tvg-name="Canal SCÑ - San Carlos Ñuble" tvg-logo="https://i2.paste.pics/6c77f84d9c77fabb70a62b092e7edb78.png", Canal SCÑ - San Carlos Ñuble | CL
 https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8?PlaylistM3UCL
+
+
+
+
+
 #EXTINF:-1 tvg-id="372" tvg-name="Canal Sur Patagonia" tvg-logo="https://lh3.googleusercontent.com/-SMZdtDq6Dw0/XxzKA9R0abI/AAAAAAAA3Ys/R8wSeZoKBNU4LyZnAXKU_DR1mGnzo1L4wCK8BGAsYHg/s0/2020-07-25.png", Canal Sur Patagonia | CL
 https://v1.tustreaming.cl:19360/canalsurpatagoniatv/canalsurpatagoniatv.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="312" tvg-name="Cappissima Multimedial TV" tvg-logo="https://lh3.googleusercontent.com/-uQdRQP7JvuA/XxzEqR_Af-I/AAAAAAAA3XQ/7CuKTSW5TYckPnJr5bxkDTtIYB6zy6lHACK8BGAsYHg/s0/2020-07-25.png", Cappissima Multimedial TV | CL
 https://oracle.streaminghd.cl/cappissima/cappissima/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="366" tvg-name="Chiloe Red 25" tvg-logo="https://lh3.googleusercontent.com/-taF7STTebY8/XxzJzTcNobI/AAAAAAAA3Yk/Z_EEZ_hbkK8G6V93Rp9x_q6qa925hTqbACK8BGAsYHg/s0/2020-07-25.png", Chiloe Red 25 | CL
 https://v2.tustreaming.cl/chiloered/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="350" tvg-name="ClickTv" tvg-logo="https://i2.paste.pics/d4950684d99dbc3a25f4ef74a2895871.png", ClickTv | CL
 https://v2.tustreaming.cl/clicktv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="970" tvg-name="ClickTv Internacional" tvg-logo="https://i2.paste.pics/d4950684d99dbc3a25f4ef74a2895871.png", ClickTv Internacional | CL
