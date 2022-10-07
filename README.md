@@ -1221,88 +1221,100 @@ https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8?Playli
 
 #EXTINF:-1 tvg-id="1229" tvg-name="Macarena FM" tvg-logo="https://i2.paste.pics/c1462d513ed7e5b049d338693366ff29.png", Macarena FM | CL
 https://5ff3d9babae13.streamlock.net:443/8042/8042/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="395" tvg-name="Mi Radio TV" tvg-logo="https://lh3.googleusercontent.com/-7XLo-eid_jI/Xm9iFNKwCYI/AAAAAAAAw8Y/TWJlVG10Ofc-nX2cNdUPKn7quq7hKWKBACK8BGAsYHg/s0/2020-03-16.png", Mi Radio TV | CL
 https://v2.tustreaming.cl/miradiotv/rewind-999999.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1173" tvg-name="Nueva Mia 89.3 Fm" tvg-logo="https://i2.paste.pics/992c0391b5bb4439417d38ef1d38eb9a.png", Nueva Mia 89.3 Fm | CL
 https://mediacpstreamchile.com:1936/felipevargas/felipevargas/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1005" tvg-name="Onda Radio TV" tvg-logo="https://i2.paste.pics/3dfe5a972a3e189325eeb30759bbcdcd.png", Onda Radio TV | CL
 https://tv.streaming-chile.com:19360/ondaradio/ondaradio.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="402" tvg-name="Orocoipo" tvg-logo="https://lh3.googleusercontent.com/-Oj60X_Fdylk/XoPge96i7aI/AAAAAAAAxYQ/zkPc_7Zajj04xQelUuWrShb7K68FDuVBgCK8BGAsYHg/s0/2020-03-31.png", Orocoipo | CL
 https://593b04c4c5670.streamlock.net:443/8076/8076/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="974" tvg-name="Patagonia Radio TV" tvg-logo="https://i2.paste.pics/0f20f371ddf95dcc9deed1f97c7c1bb8.png", Patagonia Radio TV | CL
 https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="882" tvg-name="Pauta TV" tvg-logo="https://lh3.googleusercontent.com/-DB74taQncQw/XbSnai__c5I/AAAAAAAArt0/jqsOckrCWRMdlGZoE1ecSjJrHivTgt_fQCK8BGAsYHg/s0/2019-10-26.png", Pauta TV | CL
 https://unlimited1-cl-isp.dps.live/pautatv/pautatv.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="407" tvg-name="Preludio TV" tvg-logo="https://lh3.googleusercontent.com/-dwHIA3qDBnE/XmPQVNGWG8I/AAAAAAAAwpk/lEVnfzQ8b1s7gjkedNxdk8G-foIlYgOAACK8BGAsYHg/s0/2020-03-07.png", Preludio TV | CL
 https://tv.streaming-chile.com:19360/preludio/preludio.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="429" tvg-name="Pudahuel FM" tvg-logo="https://lh3.googleusercontent.com/-j_3t6HSVxa8/XkbbBzVir0I/AAAAAAAAwDM/kVHViPIlEDs5ntK8W5yfVgaym95puVsLACK8BGAsYHg/s0/2020-02-14.png", Pudahuel FM | CL
 https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1046" tvg-name="Radio 88 Stereo" tvg-logo="https://i2.paste.pics/191d7f0299ec0197d15d2e7b76ff037f.png", Radio 88 Stereo | CR
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="393" tvg-name="Radio Actitud" tvg-logo="https://lh3.googleusercontent.com/-KZ5hF_e71jY/Xm70Txo7USI/AAAAAAAAw8I/Y6DKIiTDd7YJUOLYn2hO9gjvroZD4T5MACK8BGAsYHg/s0/2020-03-15.png", Radio Actitud | CL
 https://593b04c4c5670.streamlock.net/8020/8020/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="423" tvg-name="Radio Agricultura" tvg-logo="https://lh3.googleusercontent.com/-nMa_IsPVRQ0/Xdsii8vjPBI/AAAAAAAAsVI/py8vvCsRNGIuvDA62hxD62S6L29wmGOzACK8BGAsYHg/s0/2019-11-24.png", Radio Agricultura | CL
-http://unlimited1-cl-isp.dps.live/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="406" tvg-name="Radio Ancoa TV" tvg-logo="https://i2.paste.pics/b1a689ac7ba1ffd46a21a12f78b2e12a.png", Radio Ancoa TV | CL
 https://v2.tustreaming.cl/radioancoatv/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="410" tvg-name="Radio Camila TV" tvg-logo="https://lh3.googleusercontent.com/-82UBf4qHY0Q/XjHJ9TJue-I/AAAAAAAAvfc/Y474O6NtMJYl1gpuUJ1sJyFh8i9afnYlACK8BGAsYHg/s0/2020-01-29.png", Radio Camila TV | CL
 https://593b04c4c5670.streamlock.net/8142/8142/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="409" tvg-name="Radio Chiloe" tvg-logo="https://lh3.googleusercontent.com/-exchdEZ4lAg/XmWArTXQnFI/AAAAAAAAwsI/fo3sD3494lY54nz8wHjEykbwf0tVz0MkQCK8BGAsYHg/s0/2020-03-08.png", Radio Chiloe | CL
-https://hd.chileservidores.cl:1936/chiloeone/chiloeone/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="399" tvg-name="Radio Corporacion" tvg-logo="https://lh3.googleusercontent.com/-1DD2_7O4EHg/XxY_co4iSZI/AAAAAAAA3IE/gq53olI6DCg8bM1I5sSHyUjhUNyLFm6egCK8BGAsYHg/s0/2020-07-20.png", Radio Corporacion | CL
-https://v2.tustreaming.cl/corporaciontv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="427" tvg-name="Radio Duna" tvg-logo="https://lh3.googleusercontent.com/-yl6dZt6XKzE/XdshRlQ88eI/AAAAAAAAsU4/KxB9KZBrShQzBIEQyGmDZ9a-vvI41GiQwCK8BGAsYHg/s0/2019-11-24.png", Radio Duna | CL
-https://unlimited1-cl-isp.dps.live/dunatv/dunatv.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1242" tvg-name="Radio Estacion Arica" tvg-logo="https://i2.paste.pics/e64969d7d359e8932a50b2913cb998eb.png", Radio Estacion Arica | CL
 https://5eaccbab48461.streamlock.net:1936/heqhvtgebg/heqhvtgebg/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="389" tvg-name="Radio Fantasia TV" tvg-logo="https://lh3.googleusercontent.com/-7Uf_S_1oEU8/XmV_Zz3S5cI/AAAAAAAAwsA/yYku6NdZFTk7c0a9AtwAOJBoh3a2UMnqQCK8BGAsYHg/s0/2020-03-08.png", Radio Fantasia TV | CL
-https://v2.tustreaming.cl/fantasiatv/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="417" tvg-name="Radio Favorita" tvg-logo="https://i2.paste.pics/013f102620fa4558ed5f233f7ea3b33e.png", Radio Favorita | CL
 https://streamyes.alsolnet.com/radiofavoritatv/live/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="401" tvg-name="Radio Fiessta" tvg-logo="https://lh3.googleusercontent.com/-geXQ8sv9psc/XoPRmsgB8zI/AAAAAAAAxYA/XW6P5dLJn1wAaa3IZFhc5NBjBIr-OAbqgCK8BGAsYHg/s0/2020-03-31.png", Radio Fiessta | CL
 https://videostreaming.cloudserverlatam.com:443/8052/8052/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1261" tvg-name="Radio FM Kitsch" tvg-logo="https://i2.paste.pics/d92601c17e8fdec1c35a50d4570c51fe.png", Radio FM Kitsch | CL
-https://mediacp2.mistreamingtv.uno:19360/fmkitschtv/fmkitschtv.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="412" tvg-name="Radio Genial TV" tvg-logo="https://lh3.googleusercontent.com/-tgkESVUJWRI/XkyfsBVW_mI/AAAAAAAAwHw/xsYoralOutAlHw-iMJC9nl1hdd6vKqznQCK8BGAsYHg/s0/2020-02-18.png", Radio Genial TV | CL
 https://v1.tustreaming.cl:19360/genialtv/genialtv.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="380" tvg-name="Radio Hoy" tvg-logo="https://lh3.googleusercontent.com/-vFBzx3OHjvA/XmPSjVW5sMI/AAAAAAAAwp8/W0kgWc-NYfUkFdX3SZICQX3njfoFJP72QCK8BGAsYHg/s0/2020-03-07.png", Radio Hoy | CL
 https://panel.dattalive.com:443/8146/8146/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="425" tvg-name="Radio Infinita" tvg-logo="https://i2.paste.pics/e6cda89272e3579a1987bc1380bd5866.png", Radio Infinita | CL
 https://unlimited2-cl-isp.dps.live/infinitatv/infinitatv.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1125" tvg-name="Radio La Serena" tvg-logo="https://i2.paste.pics/850f8ca54830f1011c5289f02a401cd5.png", Radio La Serena | CL
 https://stmv2.zcastbr.com/radiolaserena/radiolaserena/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="383" tvg-name="Radio Lado Oscuro TV" tvg-logo="https://lh3.googleusercontent.com/-TNqDa4nEUv4/X_ujz4Fx5wI/AAAAAAAA9GA/-Wvhg96AgXkuBRq5Edc7QxUyFD6YMwaiACK8BGAsYHg/s0/2021-01-10.jpg", Radio Lado Oscuro TV | CL
 https://593b04c4c5670.streamlock.net:443/8034/8034/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="408" tvg-name="Radio Las Nieves" tvg-logo="https://lh3.googleusercontent.com/-yAzYXd230b8/XmPQwQY849I/AAAAAAAAwps/fu7GMDaULwEgJYarzmR1Vo5w_BRoPg2eACK8BGAsYHg/s0/2020-03-07.png", Radio Las Nieves | CL
-https://v2.tustreaming.cl/rln/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1069" tvg-name="Radio Magallanes" tvg-logo="https://i2.paste.pics/cc4b99bf8b5291c279d1f2f02fab8d06.png", Radio Magallanes | CL
 https://live.tvcontrolcp.com:1936/magallanes/magallanes/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1134" tvg-name="Radio Maqui" tvg-logo="https://i2.paste.pics/c5e226f1753478bcd1752691c1ce259a.png", Radio Maqui | CL
 https://streammix.alsolnet.com/maquionlinetv/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="378" tvg-name="Radio Mas" tvg-logo="https://lh3.googleusercontent.com/-1MimLN5b_Os/XmsDzj71aqI/AAAAAAAAwys/1bqv2qCTmUkN9qA1qaIZfWLihfGZ6jdOgCK8BGAsYHg/s512/2020-03-12.png", Radio Mas | CL
-http://unlimited1-cl.dps.live/radiomas/radiomas.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="870" tvg-name="Radio Ñuble" tvg-logo="https://lh3.googleusercontent.com/-yPTpIpQNeeY/YKmBg83s56I/AAAAAAABCds/RmIdBd-Qd5wQYuoUEQmU9e8rmTgsSQPRQCK8BGAsYHg/s512/2021-05-22.jpg", Radio Ñuble | CL
-https://live.tvcontrolcp.com:1936/Rnuble/Rnuble/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="403" tvg-name="Radio Polar" tvg-logo="https://i2.paste.pics/1a4476b8ddeb3fad055579929c495fca.png", Radio Polar | CL
 https://mediacpstreamchile.com:1936/radiopolar2/radiopolar2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="420" tvg-name="Radio Portales" tvg-logo="https://lh3.googleusercontent.com/-eIr2RmGVfeg/XkbYVLkwo3I/AAAAAAAAwCs/F1Q11XV_JvgjR-wvfgNhKrGUmE7OldbqACK8BGAsYHg/s0/2020-02-14.png", Radio Portales | CL
-https://cdn.oneplaychile.cl:1936/radios/radioportales.stream/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="413" tvg-name="Radio Presidente Ibañez" tvg-logo="https://lh3.googleusercontent.com/-t2rtTbIA3oc/XmV-7wrFWHI/AAAAAAAAwr0/VH4k91ijqr4MbkR-DlS4n7o0HvCnjQfZACK8BGAsYHg/s0/2020-03-08.png", Radio Presidente Ibañez | CL
 https://ibanez.servercl.com/hls/live.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="977" tvg-name="Radio PuntoFM" tvg-logo="https://i2.paste.pics/4ac46b3631337f8bdee0376711adc814.png", Radio PuntoFM | CL
 https://streaming5.globalhostla.com/rtplive/puntofmcl/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1172" tvg-name="Radio Q" tvg-logo="https://i2.paste.pics/36610b128075b57027afdf3e49842a97.png", Radio Q | CL
 https://panel.miplay.cl:8081/radioq/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="418" tvg-name="Radio Rancagua" tvg-logo="https://lh3.googleusercontent.com/-Z5RpepVd4T0/XkbaXURXxAI/AAAAAAAAwC4/SEU5uIM2uzUQQznq-Pgvi-uCe_fStzypwCK8BGAsYHg/s0/2020-02-14.png", Radio Rancagua | CL
 https://tv.streaming-chile.com:19360/rancagua/rancagua.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1196" tvg-name="Radio Ritmo FM" tvg-logo="https://i2.paste.pics/7e2feb3f6e5b19c3b4b26515ee025bac.png", Radio Ritmo FM | CL
 https://video.streamingchilenos.cl:1936/8040/8040/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="428" tvg-name="Radio Romantica" tvg-logo="https://i2.paste.pics/fb1c2e049a401e2e34318f28706587d0.png", Radio Romantica | CL
 https://unlimited2-cl-isp.dps.live/romanticatv/romanticatv.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="426" tvg-name="Radio Tiempo" tvg-logo="https://lh3.googleusercontent.com/-pG_O1wKWuUY/XlPedSivgtI/AAAAAAAAwbg/f7tHw2tx4kMuTwzpTSoJQeiprrvTMshuQCK8BGAsYHg/s0/2020-02-24.png", Radio Tiempo | CL
 https://unlimited2-cl-isp.dps.live/fmtiempotv/fmtiempotv.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="394" tvg-name="Radio Touch" tvg-logo="https://lh3.googleusercontent.com/-qotpEBjN3o0/Xmr5PYL7uPI/AAAAAAAAwx8/FwJJfi_LQjUoISTRZ0JhU4es2qWXDJeCACK8BGAsYHg/s0/2020-03-12.png", Radio Touch | CL
 https://mediacpstreamchile.com:1936/8118/8118/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="390" tvg-name="Radio Universal" tvg-logo="https://lh3.googleusercontent.com/-0g6kTjRKq_8/XoTI5Gn3jjI/AAAAAAAAxZk/9EsSrTOl0eMlKWP9oRzwZK8lQ9mt8PSBwCK8BGAsYHg/s0/2020-04-01.png", Radio Universal | CL
 https://hd.chileservidores.cl:1936/universal/universal/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="396" tvg-name="Radio Via Libre" tvg-logo="https://lh3.googleusercontent.com/-BZ4QVXPlxJU/Xk_PdNVd3KI/AAAAAAAAwVc/js3gvjxbBPoXr0EmRyQxl6MWeiYX6x7_gCK8BGAsYHg/s0/2020-02-21.png", Radio Via Libre | CL
