@@ -1083,18 +1083,19 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?Playl
 
 #EXTINF:-1 tvg-id="694" tvg-name="Antares TV" tvg-logo="https://lh3.googleusercontent.com/-GXO0Icql4EQ/XoKCsLIBYYI/AAAAAAAAxU8/orolaAsdhtcwmmCf7538H7VopRGVo2wbwCK8BGAsYHg/s0/2020-03-30.png", Antares TV | PE
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://i2.paste.pics/d922a7e86589c2702871158b56eccfd1.png", ATV | PE
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1066" tvg-name="ATV+" tvg-logo="https://i2.paste.pics/d922a7e86589c2702871158b56eccfd1.png", ATV+ | PE
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1089" tvg-name="Autentica TV" tvg-logo="https://i2.paste.pics/0eced46643f53066ae90b546061ced0a.png", Autentica TV | PE
 https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1088" tvg-name="Best Cable TV" tvg-logo="https://i2.paste.pics/4d6efdcb678afcea5b225ed4b8ad2036.png", Best Cable TV | PE
 https://tv.inka.net.pe/bestcable/bestcable/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="695" tvg-name="BHTV" tvg-logo="https://lh3.googleusercontent.com/-8cyoc0mjlnQ/Xxzwf_eZYkI/AAAAAAAA3bE/Fl3har_s5II86AuCsfK_FRQJz6dXMrK0gCK8BGAsYHg/s0/2020-07-25.png", BHTV | PE
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1097" tvg-name="Canal 8 Catacaos" tvg-logo="https://i2.paste.pics/6b2b101c818588d17c09562d3f96ce38.png", Canal 8 Catacaos | PE
 https://tvdatta.com:3838/live/canalcatacaoslive.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="704" tvg-name="Central TV Chosica" tvg-logo="https://lh3.googleusercontent.com/-RYmmtKCcnsg/XoKDWBIosrI/AAAAAAAAxVM/VtTI9I3CvW4yG16vrFcn_DVaTi1QPAKGwCK8BGAsYHg/s0/2020-03-30.png", Central TV Chosica | PE
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1188" tvg-name="Controversia TV" tvg-logo="https://i2.paste.pics/15caba439340da84feba0a02f409c8ca.png", Controversia TV | PE
