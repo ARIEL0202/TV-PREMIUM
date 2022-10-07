@@ -681,24 +681,31 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?PlaylistM3
 
 #EXTINF:-1 tvg-id="668" tvg-name="Multimedios Guadalajara" tvg-logo="https://i2.paste.pics/44ef69e0493989960cee3ec7a8a1b12e.png", Multimedios Guadalajara | MX
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="669" tvg-name="Multimedios Laguna" tvg-logo="https://i2.paste.pics/44ef69e0493989960cee3ec7a8a1b12e.png", Multimedios Laguna | MX
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="670" tvg-name="Multimedios Monterrey" tvg-logo="https://i2.paste.pics/44ef69e0493989960cee3ec7a8a1b12e.png", Multimedios Monterrey | MX
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="671" tvg-name="MVM Noticias Oaxaca" tvg-logo="https://i2.paste.pics/3fff6da1aadcebb94956628c1cc58af8.png", MVM Noticias Oaxaca | MX
-https://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/master.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="672" tvg-name="Presumiendo Mexico" tvg-logo="https://i2.paste.pics/e7c23daa31d612a50aa2a5c6149839e0.png", Presumiendo Mexico | MX
 https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="673" tvg-name="RCG 1 Saltillo" tvg-logo="https://i2.paste.pics/3e1747981aaf292611e7fe356ffbf03e.png", RCG 1 Saltillo | MX
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="674" tvg-name="RCG 2 Saltillo" tvg-logo="https://i2.paste.pics/3e1747981aaf292611e7fe356ffbf03e.png", RCG 2 Saltillo | MX
 https://5caf24a595d94.streamlock.net:1937/stream23/stream23/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="675" tvg-name="RCG 3 Saltillo" tvg-logo="https://i2.paste.pics/3e1747981aaf292611e7fe356ffbf03e.png", RCG 3 Saltillo | MX
 https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="676" tvg-name="RTQ Queretaro" tvg-logo="https://i2.paste.pics/a7cbecd1ea518bcf4f19a2d3826cff84.png", RTQ Queretaro | MX
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="646" tvg-name="SIZART Canal 24 Zacatecas" tvg-logo="https://i2.paste.pics/17d27a5425fe2886aaa86e6350fab481.png", SIZART Canal 24 Zacatecas | MX
 https://5ca9af4645e15.streamlock.net:443/zacatecas/videozacatecas/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="679" tvg-name="Telemax Hermosillo" tvg-logo="https://i2.paste.pics/8a2bf919d229e094124cd4739b4c6c7c.png", Telemax Hermosillo | MX
 https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="636" tvg-name="Teleplay" tvg-logo="https://i2.paste.pics/307d217de9a5ab9607a4dd57aba22599.png", Teleplay | MX
