@@ -1555,250 +1555,168 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1202" tvg-name="MC Radio" tvg-logo="https://i2.paste.pics/7070d20a86a32c32e668f538bac42bdf.png", MC Radio | CL
 https://live.tvcontrolcp.com:1936/manten/manten/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="183" tvg-name="MCN Television" tvg-logo="https://lh3.googleusercontent.com/-YGpaUHYjQDo/YE1MOLAUaHI/AAAAAAABAms/ebRxo7O9qJoXjY-CMX-aqm0UOCv0nod_ACK8BGAsYHg/s512/2021-03-13.jpg", MCN Television | GT
-https://cp.sradiotv.com:1936/8026/8026/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="823" tvg-name="Mision TV" tvg-logo="https://lh3.googleusercontent.com/-kYhIouLpRVY/YH9WBpmzfvI/AAAAAAABBy4/WLAY9I0GnEMJN2d0XsuM-3JnaavbSRtLwCK8BGAsYHg/s512/2021-04-20.jpg", Mision TV | HN
-https://5d597bfcee285.streamlock.net/cec/cec/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="928" tvg-name="MovieFE" tvg-logo="https://i2.paste.pics/f13ba72f2517c25f7dc57a9171a7c8a0.png", MovieFE | VE
 https://vcp.myplaytv.com:443/moviefe/ngrp:moviefe_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="197" tvg-name="Nacion TV Internacional" tvg-logo="https://lh3.googleusercontent.com/-SrBTvX2nj_s/YE6W4esdV0I/AAAAAAABAuY/mne5yEh0y0stJ1JHpzugwYc40C6yr9dIwCK8BGAsYHg/s512/2021-03-14.png", Nacion TV Internacional | US
-https://4k-server-mia.2cdn.eu/NacionTVINT/ngrp:myStream_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="855" tvg-name="Natanael TV" tvg-logo="https://lh3.googleusercontent.com/-deFb75UFktE/YKwi66hjaNI/AAAAAAABCho/NMTn7zkpR34vtSQ_nLQDfznppbQGXpTmACK8BGAsYHg/s512/2021-05-24.png", Natanael TV | PA
-https://stmv1.voxhdnet.com/natanael040322/natanael040322/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="164" tvg-name="NCTV" tvg-logo="https://i2.paste.pics/4a59ad761b7b6578b320729cb230f778.png", NCTV | CL
-https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="165" tvg-name="Nuevo Tiempo" tvg-logo="https://lh3.googleusercontent.com/-gREYOoyEcVE/Xpz9QKwVe1I/AAAAAAAAyBw/Xn3vQu7pPhA62v6q1YqeqkMtx_mHCYqWACK8BGAsYHg/s0/2020-04-19.png", Nuevo Tiempo | BR
-https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="862" tvg-name="Oasis TV" tvg-logo="https://lh3.googleusercontent.com/-412AERiYMxI/YKQhU6rdR0I/AAAAAAABCYU/dIiDILugmbA8oKWQjiJuQCUlFD44BctuwCK8BGAsYHg/s512/2021-05-18.jpg", Oasis TV | CO
-https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="207" tvg-name="Orbe 21" tvg-logo="https://lh3.googleusercontent.com/-nkPrJQvytG4/YFtHEDqc8EI/AAAAAAABA3Q/ug1dmoP1_Qcd5lOSH4Kgxf_E0UBedCuCgCK8BGAsYHg/s512/2021-03-24.jpg", Orbe 21 | AR
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="166" tvg-name="Presencia Television" tvg-logo="https://lh3.googleusercontent.com/-7jsWnWabgL0/X5LJGwrSD0I/AAAAAAAA6qc/KggtBZyA5vwfmgYV-LRzWWMl187f4CfXgCK8BGAsYHg/s0/2020-10-23.png", Presencia Television | GT
-https://sm.redconnections.net:1936/presenciatv/presenciatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="826" tvg-name="Radio TV Cristo Viene" tvg-logo="https://lh3.googleusercontent.com/-R-JjBAg0EfA/YH9Zvh8M3MI/AAAAAAABBzY/0aY1L3140EYiIj8XsqjcE5oBvPPYc7ArACK8BGAsYHg/s512/2021-04-20.jpg", Radio TV Cristo Viene | US
-https://584097344c1f0.streamlock.net:443/1599/stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="805" tvg-name="Radio Unido Al Cielo" tvg-logo="https://lh3.googleusercontent.com/-K58P9VOeL1M/YH3I4wI5eDI/AAAAAAABBuk/m1cDE2y7aaks-dqEPEL2BhYUc6HrvwgEwCK8BGAsYHg/s512/2021-04-19.webp", Radio Unido Al Cielo | CL
-https://stmv3.voxtvhd.com.br/unido2022777/unido2022777/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="167" tvg-name="Radio Vida Curico" tvg-logo="https://i2.paste.pics/b5b7b96e2769867a92c9a32dee7cfba9.png", Radio Vida Curico | CL
-https://v2.tustreaming.cl/radiovidacurico/rewind-999999.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="571" tvg-name="Rede Vida" tvg-logo="https://lh3.googleusercontent.com/-V7hpVeg_ZAg/X0EUI0OqF2I/AAAAAAAA4zM/A6tXRvQc8tgvVE4msM-3EhmVuFWbLdR8gCK8BGAsYHg/s0/2020-08-22.jpg", Rede Vida | BR
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="191" tvg-name="Renuevo TV" tvg-logo="https://lh3.googleusercontent.com/-bQwi2tX7L78/YE1MtU1rPOI/AAAAAAABAm0/4nTKBm8LdpMezWvBMPUEhJzP9EjlKrgAQCK8BGAsYHg/s512/2021-03-13.png", Renuevo TV | US
-https://5bff1bf18a887.streamlock.net/rtvla/rtvla/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="863" tvg-name="Restauracion TV Houston" tvg-logo="https://lh3.googleusercontent.com/-fs-FQm_FyH8/YKQjLF8QCcI/AAAAAAABCYg/sfSInvnSgogPL-o9Bu71aw6ohWXdCohhQCK8BGAsYHg/s512/2021-05-18.png", Restauracion TV Houston | US
-https://2-fss-2.themediacdn.com/pl_138/amlst:200836-1357134/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="351" tvg-name="Restaurando Vidas TV" tvg-logo="https://i2.paste.pics/bda4dda4f3d61d88354e6d64a8fdbc44.png", Restaurando Vidas TV | CL
-http://v2.tustreaming.cl/restaurandovidastv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="194" tvg-name="Rhema TV" tvg-logo="https://lh3.googleusercontent.com/-MKmkQ-qNnWY/YE6T4V4PwPI/AAAAAAABAt0/apsnMAEV6H40bl72zwsNBNxRfTXT2FSsACK8BGAsYHg/s512/2021-03-14.png", Rhema TV | GT
-http://ministerios-ebenezer.com:1935/live/RTV/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="180" tvg-name="RVida TV" tvg-logo="https://lh3.googleusercontent.com/-KPTLLv1OcWA/YE1NaFb6S-I/AAAAAAABAm8/Kpbp9gx0m8wvFaeCpa-e5QjivRb3u6zdwCK8BGAsYHg/s512/2021-03-13.png", RVida TV | DO
-https://ss2.domint.net:3206/rv_str/rvida/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="178" tvg-name="Salvacion TV" tvg-logo="https://lh3.googleusercontent.com/-F6e4MwEoRJg/YE1N1N7_6BI/AAAAAAABAnE/VsRsdPKtisMgGhXLM7pEMrgS0D_KdlRZgCK8BGAsYHg/s512/2021-03-13.png", Salvacion TV | PR
-https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1003" tvg-name="Sublime Gracia TV" tvg-logo="https://i2.paste.pics/a5fb78f573ba79d41017820f70d975e9.png", Sublime Gracia TV | AR
-https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="198" tvg-name="TBN España" tvg-logo="https://lh3.googleusercontent.com/-0AQtIirU_U8/YE6XVkPwAyI/AAAAAAABAug/QzlNRBfxJwkEv05y1nkrfTo-MvYXI0e1ACK8BGAsYHg/s512/2021-03-14.png", TBN España | ES
-https://5e4e2e0bb2914.streamlock.net/live/ngrp:tbnlive_srt.stream_all/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="187" tvg-name="Tele Familia" tvg-logo="https://lh3.googleusercontent.com/-g_dUHOwBNAM/YE1OKFJDbwI/AAAAAAABAnM/iSrlgpU84ho1Sh6R_8hKrN9DaJFg043NQCK8BGAsYHg/s512/2021-03-13.png", Tele Familia | CO
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="169" tvg-name="Televida HD" tvg-logo="https://i2.paste.pics/a33717fb4cfdc7ac0983ec9b03947e7e.png", Televida HD | CL
-https://tls-cl.cdnz.cl/televida/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="184" tvg-name="Television Celestial" tvg-logo="https://lh3.googleusercontent.com/-WQZBXFnmdbY/YE1OtXwbsrI/AAAAAAABAnU/ZtSJZdIgInwIVcCMRt8vyInZyMp9sleewCK8BGAsYHg/s512/2021-03-13.png", Television Celestial | AR
-https://stmvideo2.livecastv.com/celestialtv/celestialtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="168" tvg-name="TNE" tvg-logo="https://i2.paste.pics/12d449b496fcb00dc23612da150e3fd6.png", TNE | CL
-https://v2.tustreaming.cl/tnetv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="570" tvg-name="TV Aparecida" tvg-logo="https://lh3.googleusercontent.com/-yaPOFswHRfY/X0ET4M0BkKI/AAAAAAAA4zE/ih6EqEifDLcpfiIfe6pFFunsbNnfXUgsgCK8BGAsYHg/s0/2020-08-22.jpg", TV Aparecida | BR
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="841" tvg-name="TV CRET" tvg-logo="https://lh3.googleusercontent.com/-z0dII7PUIYI/YIISQkcPTKI/AAAAAAABB5A/W4ljSmg-9-0Ez5gHFqkzEIj7MtdzOkBrwCK8BGAsYHg/s512/2021-04-22.jpg", TV CRET | SV
-https://radiocret.net:8082/hls/tvcret.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="537" tvg-name="TV Evangelizar" tvg-logo="https://lh3.googleusercontent.com/-SCFCzHiEp8g/X0KN4PCBG4I/AAAAAAAA44s/vH67DkidWvcHXc_uTb1H5tGX56tvxeingCK8BGAsYHg/s0/2020-08-23.png", TV Evangelizar | BR
-https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="181" tvg-name="TV Gracia" tvg-logo="https://lh3.googleusercontent.com/-DZadlN6RVe8/YE1PBh6hqPI/AAAAAAABAnc/ehjxHbBo-eMdLgTa3nzFJPjHq6kpWZgLgCK8BGAsYHg/s512/2021-03-13.png", TV Gracia | CO
-https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="566" tvg-name="TV Rede Gospel" tvg-logo="https://lh3.googleusercontent.com/-nuR9HLpNG3g/X0ESTuyWEnI/AAAAAAAA4yk/sQN1hbmgdasBOH1527dLk1hnGSUK6xD8QCK8BGAsYHg/s0/2020-08-22.jpg", TV Rede Gospel | BR
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="175" tvg-name="TV Unidos" tvg-logo="https://lh3.googleusercontent.com/-g2o203yBh5M/YE1PsnoCM0I/AAAAAAABAnk/D1tqsoz6wNQKh2n7tyKaPLtS47pNGFXFwCK8BGAsYHg/s512/2021-03-13.png", TV Unidos | SV
-https://tvunidos-hls.secdn.net/tvunidos-live/play/mp4:tvunidos/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="563" tvg-name="TV Universal" tvg-logo="https://lh3.googleusercontent.com/-h2vpbxBQU7k/X0ERjfBytiI/AAAAAAAA4yU/2FpETUkzhaYPLVcJWhQ2zFnHufp9u6zlwCK8BGAsYHg/s0/2020-08-22.jpg", TV Universal | BR
-https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="170" tvg-name="Unidad Evangelica TV" tvg-logo="https://lh3.googleusercontent.com/-0tqSzwPEvSc/X7PH803XliI/AAAAAAAA7aQ/4JNA77aFp8gLDSf-RMXP1Ej7gSyKjrKrACK8BGAsYHg/s0/2020-11-17.png", Unidad Evangelica TV | CL
-https://v2.tustreaming.cl/unidadevangelica/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="190" tvg-name="Urbancris TV" tvg-logo="https://lh3.googleusercontent.com/-4UNQ-eaQbUk/YE1UUzjDO3I/AAAAAAABAn8/QbEyp6jNP7MsJ90tDqBUMDyGXQVlXxkBgCK8BGAsYHg/s512/2021-03-13.png", Urbancris TV | DO
-https://5790d294af2dc.streamlock.net:443/8160/8160/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="193" tvg-name="Urbancrist2 Worship" tvg-logo="https://lh3.googleusercontent.com/-DqCASDFb1BA/YE1UxfihGbI/AAAAAAABAoE/bK1rgKUWLvM3DNRKfj9CXfbSBX3HykNzgCK8BGAsYHg/s512/2021-03-13.png", Urbancrist2 Worship | DO
-https://5790d294af2dc.streamlock.net:443/8090/8090/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="867" tvg-name="Victoria TV Bakersfield" tvg-logo="https://lh3.googleusercontent.com/-k7hK0o_wXgY/YKQvc2x_X4I/AAAAAAABCZY/5HJvUFzI7VQ4w2u3AIvcKUCnxJ_N6RxOQCK8BGAsYHg/s512/2021-05-18.jpg", Victoria TV Bakersfield | US
-https://videohd.live:19360/8062/8062.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="843" tvg-name="Vida Television" tvg-logo="https://lh3.googleusercontent.com/-K4ag8sRdrns/YIik0Pa60XI/AAAAAAABCA8/euopjhB8XgUJyrD4gShP_8tZBSQVx12ygCK8BGAsYHg/s512/2021-04-27.png", Vida Television | US
-https://2-fss-2.streamhoster.com/pl_120/amlst:200226-1449024/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="161" tvg-name="Vida TV" tvg-logo="https://lh3.googleusercontent.com/-M6IkTdk74v8/YEDQ8Yaj8sI/AAAAAAABAg0/0AX-YP_ERfco4p51TJDf3a0-cmAFLb6rgCK8BGAsYHg/s512/2021-03-04.png", Vida TV | CL
-http://181.224.64.2:89/vidatv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="195" tvg-name="Viva Cristo TV" tvg-logo="https://lh3.googleusercontent.com/-ZgXag0zLi4E/YE6UgdbLqtI/AAAAAAABAt8/peibJF6lLwQUefeWOzGNBPSSqnV79Yh-ACK8BGAsYHg/s512/2021-03-14.png", Viva Cristo TV | US
-http://ss6.domint.net:1946/vct_str/vctv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="846" tvg-name="XTO TV" tvg-logo="https://lh3.googleusercontent.com/-7SXvBoxEU7U/YIoR7EX9WEI/AAAAAAABCCM/vilu9iV1RDcjDOT5ksg9xvMyyjceKWRowCK8BGAsYHg/s512/2021-04-28.png", XTO TV | BO
 https://614013e273786.streamlock.net:443/XtoTv/XtoTv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="709" tvg-name="Acento TV" tvg-logo="https://lh3.googleusercontent.com/--Mch8rI4AZw/XzgSWZa6SlI/AAAAAAAA4R0/AW6GE5K1_hAW72Uako_hsH4arrZ9pgCvQCK8BGAsYHg/s0/2020-08-15.png", Acento TV | DO
-http://acentotv01.streamprolive.com/hls/live.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="710" tvg-name="Amé" tvg-logo="https://lh3.googleusercontent.com/-Wm0tIirwAaI/XzgSgfucd3I/AAAAAAAA4R4/P8FwD68fC00xVm39i-qNZewMWAqG2Be2wCK8BGAsYHg/s0/2020-08-15.jpg", Amé | DO
 https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="711" tvg-name="Bajo Techo TV" tvg-logo="https://lh3.googleusercontent.com/-Zf12E_etz2s/XzgSxNz29WI/AAAAAAAA4SA/Zk-IT4kK35QR3dV8TxsfupU1F3_xt_x3ACK8BGAsYHg/s0/2020-08-15.jpg", Bajo Techo TV | DO
 https://cdn4.hostlagarto.com:8081/static/bajotechotv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="712" tvg-name="Bonao TV" tvg-logo="https://lh3.googleusercontent.com/-SMZzVkRBPgo/XzgTrVaVKKI/AAAAAAAA4SQ/lSI2HspsiS8UcIAYkCAS5loSKGdfQDZ6ACK8BGAsYHg/s0/2020-08-15.jpg", Bonao TV | DO
 https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="713" tvg-name="Boreal Televisión" tvg-logo="https://lh3.googleusercontent.com/-Q9q-hnFHaIU/XzgVCi0a_rI/AAAAAAAA4S4/mCk6OVexIlkz1tfvcy6qmLXCmrnphw56ACK8BGAsYHg/s0/2020-08-15.jpg", Boreal Televisión | DO
-https://5b38ce71f1f00.streamlock.net/8180/8180/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="715" tvg-name="Canal 25 Santiago" tvg-logo="https://lh3.googleusercontent.com/-HdYA19jX8LY/XzgVTtp6k5I/AAAAAAAA4TA/qN_ANmYjymM6w_8sOBH8rkO_YLINDnmNACK8BGAsYHg/s0/2020-08-15.jpg", Canal 25 Santiago | DO
-https://ss3.domint.net:3122/c25_str/canal25/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="714" tvg-name="Canal 4 RD" tvg-logo="https://lh3.googleusercontent.com/-DRCZbw0zXRo/XzgVKWzJ0vI/AAAAAAAA4S8/MN8UboLlqsMR2RY5GjjfsL-VXE5X8Lw-gCK8BGAsYHg/s0/2020-08-15.png", Canal 4 RD | DO
-http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1121" tvg-name="Canal 8 Punta Cana TV" tvg-logo="https://i2.paste.pics/a157fcb0f29e1407aaca997c8564765a.png", Canal 8 Punta Cana TV | DO
 https://cdn4.hostlagarto.com:8081/static/puntacanatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="716" tvg-name="Canal del Sol" tvg-logo="https://lh3.googleusercontent.com/-qdfPYFUuuqY/XzgVaAQXo0I/AAAAAAAA4TE/BWlBAo6K5goJKCTC-fxc8wetmF0QtHzjwCK8BGAsYHg/s0/2020-08-15.jpg", Canal del Sol | DO
-https://canaldelsoltv01.streamprolive.com/hls/live.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1027" tvg-name="Canal4RD" tvg-logo="https://i2.paste.pics/270d88fdeeb91464b3e6f884d4c2f998.png", Canal4RD | DO
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="717" tvg-name="Cibervision" tvg-logo="https://lh3.googleusercontent.com/-WjWVuyJWVMo/XzgVgnbtUBI/AAAAAAAA4TI/3mfIbpL5mBEbzKZVdsGW4gPqEhDdT3uYACK8BGAsYHg/s0/2020-08-15.jpg", Cibervision | DO
-http://108.175.14.125:1935/tdn/tdn/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="718" tvg-name="Cinevision Canal 19" tvg-logo="https://lh3.googleusercontent.com/-8cq3avHwbSM/XzgVnYNlfOI/AAAAAAAA4TM/gZAH2-w2NlgRL4tDfvCSh0Fq6Fu3od52QCK8BGAsYHg/s0/2020-08-15.jpg", Cinevision Canal 19 | DO
 https://live.teledom.info:3713/live/cinevisionlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="781" tvg-name="Elias Piña TV" tvg-logo="https://lh3.googleusercontent.com/--2XIngiA57w/YGpU6i9ZpMI/AAAAAAABBNw/Jxe_aZ_6vQwkGTzkzgepAgj5Wj5YdwbywCK8BGAsYHg/s512/2021-04-04.png", Elias Piña TV | DO
-https://mediastreamm.com:19360/jntv/jntv.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="719" tvg-name="Entelevision" tvg-logo="https://lh3.googleusercontent.com/-B-xmeIzShMA/XzgVttyb-XI/AAAAAAAA4TQ/3NYa5It_NjoiP1w4a5l5kIZfQD7s8VPpwCK8BGAsYHg/s0/2020-08-15.jpg", Entelevision | DO
 https://video.misistemareseller.com/entelevision/entelevision/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="720" tvg-name="Farovision" tvg-logo="https://lh3.googleusercontent.com/-uim4E6l-Qno/XzgV0SohEtI/AAAAAAAA4TY/Kyj2EYmEWsgOf-9yObXMrT5G4uXkxdMMgCK8BGAsYHg/s0/2020-08-15.png", Farovision | DO
-https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="721" tvg-name="Fuego TV" tvg-logo="https://lh3.googleusercontent.com/-Yf-U57lYWTA/XzgV6SlCSxI/AAAAAAAA4Tc/Xono2T0plso6ImGpmCNRByn9akdBEoPLQCK8BGAsYHg/s0/2020-08-15.jpg", Fuego TV | DO
 https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="722" tvg-name="GDM" tvg-logo="https://lh3.googleusercontent.com/-Ofjf3c7mMcY/XzgWEMrJzBI/AAAAAAAA4Tg/iitP9E6Zh_o1xom-yLDTDOkURHbvl-lRgCK8BGAsYHg/s0/2020-08-15.png", GDM | DO
-https://cm.hostlagarto.com:4445/gdmstudiotv/gdmstudiotv.myStream/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="723" tvg-name="GH Television" tvg-logo="https://lh3.googleusercontent.com/-nb3HIODiLDM/XzgWLtnp3XI/AAAAAAAA4Tk/8UEOEhd2HZw5wBMZT_eNNABGpW9c2w65gCK8BGAsYHg/s0/2020-08-15.jpg", GH Television | DO
 https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="724" tvg-name="Global TV" tvg-logo="https://lh3.googleusercontent.com/-NfN-viDE0RA/XzgWRQJeKPI/AAAAAAAA4To/m3HIIZIFLcI0POVTRKYGSfq1Og4h9GmdQCK8BGAsYHg/s0/2020-08-15.png", Global TV | DO
-https://ss6.domint.net:3016/gtv_str/globalhd/manifest.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1011" tvg-name="Guaymate TV" tvg-logo="https://i2.paste.pics/e1912e52824441114ab8284cd39fb40b.png", Guaymate TV | DO
-https://5790d294af2dc.streamlock.net:443/8100/8100/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="725" tvg-name="Hilando Fino" tvg-logo="https://lh3.googleusercontent.com/-MUJsvP4LUEE/XzgQHZNiNdI/AAAAAAAA4Rc/iiRRQp0BCX00MnMJZsfR2E_bLhyN6gUAACK8BGAsYHg/s0/2020-08-15.png", Hilando Fino | DO
 https://primary-out.iptv-global.net/HilandoFinoTV/ngrp:HilandoFinoTV_all/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="726" tvg-name="Luna TV" tvg-logo="https://lh3.googleusercontent.com/-gNwkGNBw7kQ/XzgR58ws75I/AAAAAAAA4Ro/RDsdgWvXHrE7Ow_6xDAjXEupxv0X5eIiQCK8BGAsYHg/s0/2020-08-15.png", Luna TV | DO
 https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="727" tvg-name="Megavision" tvg-logo="https://lh3.googleusercontent.com/-jxMdnwq3fxw/XzgSNxgvHSI/AAAAAAAA4Rw/eev6AGnJag8MDN1kt76lQwfraDPAIsnDACK8BGAsYHg/s0/2020-08-15.png", Megavision | DO
 http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="728" tvg-name="Microvision" tvg-logo="https://lh3.googleusercontent.com/-J9MpGmEaVwk/XzgWd2PEeVI/AAAAAAAA4Ts/gsReFcO99xIi9t25aMDUhMOVFdaj5jBTgCK8BGAsYHg/s0/2020-08-15.jpg", Microvision | DO
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="729" tvg-name="Musavision" tvg-logo="https://lh3.googleusercontent.com/-vqvx9FsfLk0/XzgWl2BgDoI/AAAAAAAA4Tw/j9hiiFJmW9cmkMKjRM4-v9VxR8eQfONawCK8BGAsYHg/s0/2020-08-15.jpg", Musavision | DO
 https://cm.hostlagarto.com:4445/Musavisionhd/Musavisionhd/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="730" tvg-name="Naranja TV" tvg-logo="https://lh3.googleusercontent.com/-WBbJ9yrKRV0/YHsazeZNVhI/AAAAAAABBpA/yWAT9XxS6Uk9vI9KXnQbTSztdzkU7KLLgCK8BGAsYHg/s512/2021-04-17.jpg", Naranja TV | DO
-https://cdn.streamingcpanel.com:3238/live/naranjatlive.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1140" tvg-name="Nitida TV" tvg-logo="https://i2.paste.pics/d0743d852c7c3b8f6f5996ac0780fefc.png", Nitida TV | DO
 https://live.teledomdr.com:3131/live/nitidatvlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="731" tvg-name="Peravia Vision" tvg-logo="https://lh3.googleusercontent.com/-Ydne9i3prbc/XzgafLSH-9I/AAAAAAAA4Ug/F3PCfWy8pMIqUOjCpr7zZ5EnheliAV46wCK8BGAsYHg/s0/2020-08-15.jpg", Peravia Vision | DO
-http://ss6.domint.net:2002/pvv_str/peravia/chunklist_w715033938.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="732" tvg-name="Ready TV" tvg-logo="https://lh3.googleusercontent.com/-0WEp8Wwui4Q/Xzgal1m0fzI/AAAAAAAA4Uk/rYMFLqx6jsE342dqmqaCzFKNyfygiuIzQCK8BGAsYHg/s0/2020-08-15.png", Ready TV | DO
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="733" tvg-name="Resplandor Vision" tvg-logo="https://lh3.googleusercontent.com/-BJI_KYaAIak/XzgbWkghNkI/AAAAAAAA4Us/gi8o6-Dt68wF3dZeRdD_TeFIdjaq77MVgCK8BGAsYHg/s0/2020-08-15.jpg", Resplandor Vision | DO
-https://ss6.domint.net:2996/rtv_str/rvision/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="734" tvg-name="RNN" tvg-logo="https://lh3.googleusercontent.com/-jth7QtCbGzk/XzgbeB2zxhI/AAAAAAAA4Uw/uSoJpwnWpyw_rQfYXhM89c_9lPfHKydvACK8BGAsYHg/s0/2020-08-15.png", RNN | DO
 https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="735" tvg-name="Romana TV" tvg-logo="https://lh3.googleusercontent.com/-ODE5TSYEfC4/Xzgbjk1oJzI/AAAAAAAA4U0/-Fxv0oapcR0wViS7zHK7AnCr8mSOEeqEgCK8BGAsYHg/s0/2020-08-15.jpg", Romana TV | DO
-http://tv.romanatv42.com/hls/live.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="736" tvg-name="Sport Vision" tvg-logo="https://lh3.googleusercontent.com/-8F5NLNjrFTE/Xzgbrpf27LI/AAAAAAAA4U4/QWfRcHnhy0soWcP-Xpk7pQygEjmLx9QigCK8BGAsYHg/s0/2020-08-15.jpg", Sport Vision | DO
-https://5b59c7a47236a.streamlock.net/sportvision35tv/sportvision35tv/manifest.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="737" tvg-name="Super TV 55" tvg-logo="https://lh3.googleusercontent.com/-uMrGa8Kftec/XzgbxQoDW-I/AAAAAAAA4U8/LAvaew4BM_AxbaM3I3hsHoTs1haxibxZgCK8BGAsYHg/s0/2020-08-15.jpg", Super TV 55 | DO
-https://ss8.domint.net:3128/stv_str/tv55/master.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="844" tvg-name="Tele Caribe" tvg-logo="https://lh3.googleusercontent.com/-6MRGKA6xep4/YIjDNG_x63I/AAAAAAABCBQ/NDP9jxf642I5YMN0sfiBWwHVhq2eVSIWgCK8BGAsYHg/s512/2021-04-27.png", Tele Caribe | DO
 https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="848" tvg-name="Tele Oriental Digital" tvg-logo="https://lh3.googleusercontent.com/-jvt2C0d_DYM/YIq06KhkcJI/AAAAAAABCCw/3ZNdoHf54jYj--ERKwrY3AtOLc6PNtwXACK8BGAsYHg/s512/2021-04-29.png", Tele Oriental Digital | DO
 https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="738" tvg-name="Teleantillas" tvg-logo="https://lh3.googleusercontent.com/--ZdvDPEZM6U/Xzgb3ZRAe4I/AAAAAAAA4VA/Bv5ESAdmZio3thWjXaoUaLXcPiXTFUuJgCK8BGAsYHg/s0/2020-08-15.jpg", Teleantillas | DO
-https://ss4.domint.net:3040/ta2_str/teleantillas/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="739" tvg-name="Telecanal 12" tvg-logo="https://lh3.googleusercontent.com/-mLk3w8rRy2E/XzgcBFkX40I/AAAAAAAA4VE/Woxy8sdQnTcUkC2ZBbv_6pBvjL6oY2xzACK8BGAsYHg/s0/2020-08-15.jpg", Telecanal 12 | DO
 https://cdn4.hostlagarto.com:8081/static/telecanal12/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="740" tvg-name="Telecanal 28" tvg-logo="https://lh3.googleusercontent.com/-D9rpmxbwhO8/XzgcGOwfAUI/AAAAAAAA4VI/xgju0xICu_cmO620DoxlajfYrXwVPoEDwCK8BGAsYHg/s0/2020-08-15.jpg", Telecanal 28 | DO
 http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="741" tvg-name="Telecentro" tvg-logo="https://lh3.googleusercontent.com/-gGENIFw0Vyk/XzgcLtVEh3I/AAAAAAAA4VM/MWcf7Eo1HMYj9jZZqQTiTq-TxzyoZ9h5QCK8BGAsYHg/s0/2020-08-15.png", Telecentro | DO
-http://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="742" tvg-name="Telecibao" tvg-logo="https://lh3.googleusercontent.com/-SNcmUEQMH_8/XzgcTFn6F_I/AAAAAAAA4VQ/uLAvXE8GMFInptHJzAYr3beBjiqc5ABAwCK8BGAsYHg/s0/2020-08-15.jpg", Telecibao | DO
 https://cm.hostlagarto.com:4445/Telecibao/Telecibao/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="744" tvg-name="Telemilenio" tvg-logo="https://lh3.googleusercontent.com/-KHspoxJrbmA/Xzgces4V4PI/AAAAAAAA4VY/1vwbHhjTS5EV8JmV5EXQm2giqFCUaPlBQCK8BGAsYHg/s0/2020-08-15.png", Telemilenio | DO
 http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="746" tvg-name="Telenord 10" tvg-logo="https://lh3.googleusercontent.com/-w36Bp5Kua6w/Xzgcs8BkqPI/AAAAAAAA4Vg/delKewJS1gwLtPPQZDSb2q7ZWBwz4mfBACK8BGAsYHg/s0/2020-08-15.png", Telenord 10 | DO
 http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="747" tvg-name="Telenord 12" tvg-logo="https://lh3.googleusercontent.com/-H-NVSh7JGf4/XzgczIRMOsI/AAAAAAAA4Vk/y_Lv0icuD_kPVSTqLQ89IpjhZEd3ad1aACK8BGAsYHg/s0/2020-08-15.jpg", Telenord 12 | DO
 http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="745" tvg-name="Telenord 8" tvg-logo="https://lh3.googleusercontent.com/-P4P3Fo23ruc/XzgcmLYJ46I/AAAAAAAA4Vc/0PbZbLJIjckXdsj_Wca-n7D7QS4GCEiYwCK8BGAsYHg/s0/2020-08-15.jpg", Telenord 8 | DO
 http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="708" tvg-name="Telenovisa 43" tvg-logo="https://lh3.googleusercontent.com/-tLCdv43ZkBI/XzgUt_3YhGI/AAAAAAAA4Sk/WOe41jACpdgEDDLGXMz7qNstxIBohBxFQCK8BGAsYHg/s0/2020-08-15.png", Telenovisa 43 | DO
 http://ramgolive.ddns.net:1935/telenovisa43/telenovisa43/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="748" tvg-name="Teleradio America" tvg-logo="https://lh3.googleusercontent.com/-MgU5_trIDkk/XzgdWzhOtEI/AAAAAAAA4Vs/kAAYe0xTrfUHxuBZpyx_2yVD6xYC3ClAACK8BGAsYHg/s0/2020-08-15.jpg", Teleradio America | DO
-https://ss4.domint.net:3008/tra_str/canal45/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="749" tvg-name="Teleradio Norte" tvg-logo="https://lh3.googleusercontent.com/-T-aOB_KmAl8/XzgdcQW2MhI/AAAAAAAA4Vw/gUo6n9IYqVEfYX75LIxV6SGMThCJ55-WACK8BGAsYHg/s0/2020-08-15.jpg", Teleradio Norte | DO
 https://cdn4.hostlagarto.com:8081/static/teleradionortetv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="750" tvg-name="Telesistema" tvg-logo="https://lh3.googleusercontent.com/-YMFTyatktS4/XzgdjfP3Z4I/AAAAAAAA4V0/ufSfgaejWhUKTvcQB_47jJqsMtDqCNxIACK8BGAsYHg/s0/2020-08-15.jpg", Telesistema | DO
-http://ss3.domint.net:2114/t11_str/telesistema/chunklist_w44342477.m3u8?fluxustv.m3u8&PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="751" tvg-name="Teleunion" tvg-logo="https://lh3.googleusercontent.com/-0tQ6kWVCb1U/XzgdojrTiaI/AAAAAAAA4V4/DDHVWnS1yiMpiYqfJPZN3AEPs2SouEzcwCK8BGAsYHg/s0/2020-08-15.jpg", Teleunion | DO
 http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="752" tvg-name="Teleuniverso Canal 29" tvg-logo="https://lh3.googleusercontent.com/-8jIhN0E1Uv8/XzgduYfG7-I/AAAAAAAA4V8/pPr_hxQGka8sHGUQsbqv-GGRgDQtJeYXgCK8BGAsYHg/s0/2020-08-15.png", Teleuniverso Canal 29 | DO
-https://cloudflare.streamgato.us:3437/live/teleuniversotvlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="753" tvg-name="Telever Canal 12" tvg-logo="https://lh3.googleusercontent.com/-TgguizoDhgM/XzgdzxtVNOI/AAAAAAAA4WA/KUdxYGaeaUIVYLvPrS2ET5vx_QxL0-_6gCK8BGAsYHg/s0/2020-08-15.jpg", Telever Canal 12 | DO
-http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="754" tvg-name="Television A1" tvg-logo="https://lh3.googleusercontent.com/-CdnaYPFPEMM/Xzgd5MdkqMI/AAAAAAAA4WE/8X3UboLmoQYKYLo6pUKIEAXgCNK_ER3HQCK8BGAsYHg/s0/2020-08-15.png", Television A1 | DO
-https://ss6.domint.net:2940/a1_str/a1tv/manifest.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="755" tvg-name="Televisión del Este" tvg-logo="https://lh3.googleusercontent.com/-KTkAN2D6aBg/XzgeAkRU0XI/AAAAAAAA4WI/oO5KUB-W-6EMsCALKbOGQmS2EfuDvarUwCK8BGAsYHg/s0/2020-08-15.png", Televisión del Este | DO
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8&PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="756" tvg-name="TNI 51" tvg-logo="https://lh3.googleusercontent.com/-XrMUdkyPx10/XzgeHRC_4lI/AAAAAAAA4WM/OY0kXlB-fpMkogRS1KhC-pPpqPPyggH6ACK8BGAsYHg/s0/2020-08-15.jpg", TNI 51 | DO
 https://ss5.domint.net:3188/tni_str/tni51/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="707" tvg-name="TV Cotui" tvg-logo="https://lh3.googleusercontent.com/-0bqndx_Wmzw/YIdvkOPR_pI/AAAAAAABB-s/oyj4ZvUwbfwaMuG3jQ3cxRTdX4tGZ8kZgCK8BGAsYHg/s512/2021-04-26.jpg", TV Cotui | DO
-https://vdo2.streamgato.us:3095/live/tvcotuilive.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="757" tvg-name="TV Montaña" tvg-logo="https://lh3.googleusercontent.com/-mmWVzDuUeyY/XzgeRgAlzdI/AAAAAAAA4WU/JxhVhnhwZ2UH_5uM4HW6SPgiYKAzYkeaQCK8BGAsYHg/s0/2020-08-15.jpg", TV Montaña | DO
 https://ss5.domint.net:3064/tvm_str/montanatv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="758" tvg-name="TV Plata" tvg-logo="https://lh3.googleusercontent.com/-P7fhXDShrsg/XzgeXcKTOLI/AAAAAAAA4WY/o1eUo8UIoLQLe7kbztN1lUIoY_C0E8NAQCK8BGAsYHg/s0/2020-08-15.jpg", TV Plata | DO
 https://ss9.domint.net:3032/tvp_str/tvp2111/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="759" tvg-name="TVS TV" tvg-logo="https://lh3.googleusercontent.com/-ki8jqcwmGP0/Xzgef3ebeoI/AAAAAAAA4Wc/Ulbicz-Ye8sSPGlzK7DxMOomCLnxa9tOgCK8BGAsYHg/s0/2020-08-15.png", TVS TV | DO
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="760" tvg-name="Vallevisión" tvg-logo="https://lh3.googleusercontent.com/-LJDxg-Z8Mtk/XzgeoUw6_aI/AAAAAAAA4Wg/HsIOdj5D9mYncbrV3kpb-1bCkPpSdeQJACK8BGAsYHg/s0/2020-08-15.png", Vallevisión | DO
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="761" tvg-name="Vegavision Canal 18" tvg-logo="https://lh3.googleusercontent.com/-OiaHL_6jDjk/Xzgetm_bMaI/AAAAAAAA4Wk/ekPAU9Ve3fUFvdO80M9BPsYuXk06_x1_ACK8BGAsYHg/s0/2020-08-15.png", Vegavision Canal 18 | DO
 https://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="762" tvg-name="Yunavision" tvg-logo="https://lh3.googleusercontent.com/-RCyl7TloVIY/Xzge0Tn3oMI/AAAAAAAA4Wo/1hYpqkZIm5APhADY1QT5WAL5ZIdW3VhjwCK8BGAsYHg/s0/2020-08-15.jpg", Yunavision | DO
 https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="763" tvg-name="Zol 106.5 FM" tvg-logo="https://lh3.googleusercontent.com/-cTKIpT1OMR0/Xzge6R0Hs0I/AAAAAAAA4Ws/kPHRiXfwpjQWR8mpoQ33ChLYOm8HFvvLgCK8BGAsYHg/s0/2020-08-15.jpg", Zol 106.5 FM | DO
 https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="985" tvg-name="Batalla de Gallos" tvg-logo="https://i2.paste.pics/3c29fc261fbf485bad52c705e4c5342a.png", Batalla de Gallos | CL
-https://videostreaming.cloudserverlatam.com:443/Batalladegallos/Batalladegallos/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="437" tvg-name="Campo Abierto TV" tvg-logo="https://i2.paste.pics/44c5f4becc68ee877580eed639645110.png", Campo Abierto TV | CL
 https://v1.tustreaming.cl:19360/campoabierto/campoabierto.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1111" tvg-name="Canal Turismo Travel TV" tvg-logo="https://i2.paste.pics/50d8cde45e0c3efff3bc3fb05c5da6d1.png", Canal Turismo Travel TV | CL
 https://srv.panelcast.net/traveltv/traveltv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1020" tvg-name="Caracola TV" tvg-logo="https://i2.paste.pics/1c5801e48a6cf804950bd1ce5e78a303.png", Caracola TV | CL
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="435" tvg-name="Chile Channel" tvg-logo="https://lh3.googleusercontent.com/-DVzBnJJGsHM/Xzh-ooBVTnI/AAAAAAAA4dk/Gl6kLefOEM0C6UdyAwM1__ki_GZ7OGYQACK8BGAsYHg/s0/2020-08-15.png", Chile Channel | CL
-https://v2.tustreaming.cl/chilechannel/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="47" tvg-name="CSTV" tvg-logo="https://i2.paste.pics/34feb14ad3ee6a17a160ab0635915bf0.png", CSTV | CL
-https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="984" tvg-name="Detras de la Razon" tvg-logo="https://i2.paste.pics/e093f4c39209534fab612187f68c85e4.png", Detras de la Razon | CL
-https://videostreaming.cloudserverlatam.com:443/detrazdelarazon/detrazdelarazon/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="489" tvg-name="FashionTV New York" tvg-logo="https://i2.paste.pics/b68b2245fdf953d233c718afe71c2594.png", FashionTV New York | US
 http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="490" tvg-name="FashionTV Paris" tvg-logo="https://i2.paste.pics/b68b2245fdf953d233c718afe71c2594.png", FashionTV Paris | US
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="432" tvg-name="HiperTV" tvg-logo="https://lh3.googleusercontent.com/-YUlLyA8Pk7Y/X5n9AMtVNNI/AAAAAAAA61E/UkiOjRsCTWMa94h4g35uC424D4E_wU_2gCK8BGAsYHg/s0/2020-10-28.png", HiperTV | CL
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1247" tvg-name="Humor 24/7" tvg-logo="https://i2.paste.pics/580c3e6758f8535bbacfb32fa3155259.png", Humor 24/7 | CR
 https://srv.panelcast.net/humor247/humor247/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="910" tvg-name="Raices Arabes TV" tvg-logo="https://i2.paste.pics/632a740768764ab4dd8208568ae61b01.png", Raices Arabes TV | CL
 https://videostreaming.cloudserverlatam.com:443/gsnzdymwdq/gsnzdymwdq/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="895" tvg-name="RLOTV" tvg-logo="https://lh3.googleusercontent.com/-k3Xfmd6KcLo/YL98wEjWBnI/AAAAAAABCzo/6deLMFJ6YUElLm3DMqccKFmz8nyzWoRPQCJEEGAsYHg/s512/2021-06-08.png", RLOTV | CL
 https://593b04c4c5670.streamlock.net:443/8034/8034/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="433" tvg-name="Solo Stand Up" tvg-logo="https://lh3.googleusercontent.com/-vs6bQTy4Dns/X30TqJ-CdrI/AAAAAAAA6M4/WUtqB3d4eiEp7oHE44DkOhh5V0NNTDMSACK8BGAsYHg/s0/2020-10-06.png", Solo Stand Up | CL
 https://paneltv.online:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1058" tvg-name="Spectrum Channel" tvg-logo="https://i2.paste.pics/8e7293ed71d91aac5719c797af4ff208.png", Spectrum Channel | CL
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="434" tvg-name="Teletón TV" tvg-logo="https://lh3.googleusercontent.com/-RsMjPwaqZeE/XlMNZlWurnI/AAAAAAAAwZ4/RmHs1fZ6XLEEoLl-i_-v_bFmCaNF9AYCQCK8BGAsYHg/s0/2020-02-23.png", Teletón TV | CL
-https://mdstrm.com/live-stream-playlist/5d6d5f05a2f6f407b0147965.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="438" tvg-name="Tevex" tvg-logo="https://i2.paste.pics/37360245ae2194a41c9eaca39c5e1ec0.png", Tevex | CL
-https://v2.tustreaming.cl/tevex/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1175" tvg-name="TV Hits" tvg-logo="https://i2.paste.pics/e1258cbc0dc7db659d1cd804226f4d69.png", TV Hits | CL
 https://paneltv.online:1936/8156/8156/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="467" tvg-name="TV Pop" tvg-logo="https://lh3.googleusercontent.com/-XpZwlTaVD70/X5jAxBIjQnI/AAAAAAAA6ys/IoG_B-D9vCwSs4nNVTr2tK_hz-rI7VXCgCK8BGAsYHg/s0/2020-10-27.jpg", TV Pop | CL
 https://v4.tustreaming.cl/poptv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="436" tvg-name="TV Salud" tvg-logo="https://lh3.googleusercontent.com/-Xv_aL34GjFE/XdksOdTnS9I/AAAAAAAAsTs/_WBt4UNy428CuU5dtVeJQZzh4EpQREnDwCK8BGAsYHg/s0/2019-11-23.png", TV Salud | CL
