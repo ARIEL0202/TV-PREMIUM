@@ -603,62 +603,16 @@ http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/
 
 #EXTINF:-1 tvg-id="633" tvg-name="Cultura 365" tvg-logo="https://lh3.googleusercontent.com/-aZ2_EoCAfQ0/X5nNOv1mNvI/AAAAAAAA60k/pYw6P8ZcR2o-urMgH8wbj4K2IQQULyZ0wCK8BGAsYHg/s0/2020-10-28.png", Cultura 365 | ES
 http://cultural-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="607" tvg-name="El 33" tvg-logo="https://lh3.googleusercontent.com/-GPB99YuXPuk/Xx2nD_lZBHI/AAAAAAAA3dc/4W4oe61XDa0y9uXybNEAby32GSl3rf_IQCK8BGAsYHg/s0/2020-07-26.png", El 33 | ES
-https://directes-tv-int.ccma.cat/int/ngrp:c33_web/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="885" tvg-name="El Futuro en tu Mano" tvg-logo="https://lh3.googleusercontent.com/-IQ_nfMVQgsw/YLKSUeZPa6I/AAAAAAABCks/8ShGNJcxtH8FOY_K_Ilp_vfjTa20crS-gCJEEGAsYHg/s512/2021-05-29.jpg", El Futuro en tu Mano | ES
-https://limited24.todostreaming.es/live/renjillo-livestream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="608" tvg-name="El Toro" tvg-logo="https://lh3.googleusercontent.com/-55umuRjqO2Q/Xx2neYrhN-I/AAAAAAAA3dk/hkmZ6LNWT6kQVEogMR4m-En8IZIckJzOQCK8BGAsYHg/s0/2020-07-26.png", El Toro | ES
-https://live-edge-bhs-1.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/live-1000/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="609" tvg-name="ETB SAT Pais Vasco" tvg-logo="https://lh3.googleusercontent.com/-IseW80BaV28/Xx2n1Ou0l3I/AAAAAAAA3ds/dDORzRAo_JcUbN0U6USZBIHWfIdw5mb3ACK8BGAsYHg/s0/2020-07-26.png", ETB SAT Pais Vasco | ES
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="611" tvg-name="Euskal Telebista 1 Pais Vasco" tvg-logo="https://lh3.googleusercontent.com/-IseW80BaV28/Xx2n1Ou0l3I/AAAAAAAA3ds/dDORzRAo_JcUbN0U6USZBIHWfIdw5mb3ACK8BGAsYHg/s0/2020-07-26.png", Euskal Telebista 1 Pais Vasco | ES
-https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-p.m3u8?sd=8&rebase=on&PlaylistM3UCL
-#EXTINF:-1 tvg-id="610" tvg-name="Euskal Telebista 1 Pais Vasco" tvg-logo="https://lh3.googleusercontent.com/-IseW80BaV28/Xx2n1Ou0l3I/AAAAAAAA3ds/dDORzRAo_JcUbN0U6USZBIHWfIdw5mb3ACK8BGAsYHg/s0/2020-07-26.png", Euskal Telebista 1 Pais Vasco | ES
-https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-p.m3u8?sd=8&rebase=on&PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="612" tvg-name="Extremadura" tvg-logo="https://lh3.googleusercontent.com/-p9-6d9vT0uY/Xx2n-05zdoI/AAAAAAAA3dw/agUomYCEMhICdnShYWyhQtFnn2f5RCQwgCK8BGAsYHg/s0/2020-07-26.png", Extremadura | ES
 https://cdnlive.shooowit.net/canalextremaduralive/channel1DVR.smil/chunklist_b1500000_DVR.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="613" tvg-name="La 1" tvg-logo="https://lh3.googleusercontent.com/-Hd0_KsYNEKc/Xx2obYS2UTI/AAAAAAAA3d8/oJszUPsiegM3CCvZNZL7IU_VvYnObfctACK8BGAsYHg/s0/2020-07-26.png", La 1 | ES
-http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0650_av-p.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="614" tvg-name="La 2" tvg-logo="https://lh3.googleusercontent.com/-SMd3sJg7ayY/Xx2oi7fP_QI/AAAAAAAA3eA/42GwqT-qtVsSgv5vKmxzeyYJCRGZ8K6FgCK8BGAsYHg/s0/2020-07-26.png", La 2 | ES
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on&PlaylistM3UCL
-#EXTINF:-1 tvg-id="626" tvg-name="La Otra" tvg-logo="https://lh3.googleusercontent.com/-nIxgbiYMeA4/Xx2p6jECXfI/AAAAAAAA3ek/1M4pWs7XcG83F8cylmwjJ9734zG_ZgcvgCK8BGAsYHg/s0/2020-07-26.png", La Otra | ES
-http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_2.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="615" tvg-name="Lancelot TV Canarias" tvg-logo="https://lh3.googleusercontent.com/-Ij7vn_LJKpE/XxuAFf2UfPI/AAAAAAAA3SY/cRiM7H81W5sS4kaUwhjQfmDLMPp3uDjeQCK8BGAsYHg/s0/2020-07-24.png", Lancelot TV Canarias | ES
-http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="616" tvg-name="Levante TV" tvg-logo="https://lh3.googleusercontent.com/-M-XeelP5_Y0/Xx2owEDeMjI/AAAAAAAA3eE/9HFnHjVvVToLTdQXT_CPHC85lBCeCIjugCK8BGAsYHg/s0/2020-07-26.png", Levante TV | ES
-https://i.imgur.com/Cc1CypC.mp4?PlaylistM3UCL
-#EXTINF:-1 tvg-id="597" tvg-name="Momentos G" tvg-logo="https://lh3.googleusercontent.com/-E7ikRmgAVYA/Xx2pnksjUrI/AAAAAAAA3ec/Tc4uW4xNC2kBWOOLqI38ggl5eegaQ1n8ACK8BGAsYHg/s0/2020-07-26.png", Momentos G | ES
-http://momentog-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="617" tvg-name="Onda Algeciras" tvg-logo="https://lh3.googleusercontent.com/-B-OwT32lY1o/Xx2o5faSVBI/AAAAAAAA3eI/lRLv59WokKIxfFsaCRuwR5tMbmnd9EZ1wCK8BGAsYHg/s0/2020-07-26.png", Onda Algeciras | ES
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="618" tvg-name="Onda Mezquita" tvg-logo="https://i.imgur.com/nALRFiU.png", Onda Mezquita | ES
-https://593fa17dec176.streamlock.net//mezquita/mezquita/chunklist_w1592524042.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="619" tvg-name="Radio Television Ceuta" tvg-logo="https://lh3.googleusercontent.com/-3KZln7KqlkY/Xx2pAHJhLbI/AAAAAAAA3eM/E2a_M6E8ZaAE14hpGSOia_7_1R60mEQPQCK8BGAsYHg/s0/2020-07-26.png", Radio Television Ceuta | ES
-http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="620" tvg-name="Radiotelevision del Principado de Asturias" tvg-logo="https://lh3.googleusercontent.com/-RKM9bRx0Jgs/Xx2pFRZ5nmI/AAAAAAAA3eQ/yNWuF2Ww8wkbvP0SLBa96c4Lpb1x3P-LACK8BGAsYHg/s0/2020-07-26.png", Radiotelevision del Principado de Asturias | ES
-https://cdnlive.shooowit.net/rtpalive/directo.smil/chunklist_b1500000.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="630" tvg-name="Real Madrid TV (English)" tvg-logo="https://lh3.googleusercontent.com/-jyKmowvS3kk/Xx2qO2ad4_I/AAAAAAAA3es/QWSaJGbkRks6sVy2qGSg13_Pzfe9krwAgCK8BGAsYHg/s0/2020-07-26.png", Real Madrid TV (English) | ES
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="631" tvg-name="Real Madrid TV HD" tvg-logo="https://lh3.googleusercontent.com/-jyKmowvS3kk/Xx2qO2ad4_I/AAAAAAAA3es/QWSaJGbkRks6sVy2qGSg13_Pzfe9krwAgCK8BGAsYHg/s0/2020-07-26.png", Real Madrid TV HD | ES
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1080" tvg-name="Super 3" tvg-logo="https://i2.paste.pics/af7752653675a3a57c39d74278c10cde.png", Super 3 | ES
-https://directes-tv-int.ccma.cat/int/ngrp:c33_web/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="886" tvg-name="Taroteame" tvg-logo="https://lh3.googleusercontent.com/-WixLQXukTRU/YLKTHS1Aq7I/AAAAAAABCk0/0vJj8oGwa-AI1kYu7qrAq9nOf9QLt-7CgCJEEGAsYHg/s512/2021-05-29.jpg", Taroteame | ES
-https://5b45171a7ade6.streamlock.net/taroteame/tarot_web/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="621" tvg-name="Telemadrid" tvg-logo="https://lh3.googleusercontent.com/-5TYou-SVGrs/Xx2pLv3pVqI/AAAAAAAA3eU/83GKy9h3WbsnUo61hYeLg7bp19zab5UEACK8BGAsYHg/s0/2020-07-26.png", Telemadrid | ES
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="622" tvg-name="Television Municipal de Cordoba" tvg-logo="https://lh3.googleusercontent.com/-sfBs4tX_FNU/Xx2pZ1gCRWI/AAAAAAAA3eY/mzuq2hPVIdQQ_CvCVopMym4pcK3sFhcHQCK8BGAsYHg/s0/2020-07-26.png", Television Municipal de Cordoba | ES
 http://teledifusion.tv/cordoba/cordobalive/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="623" tvg-name="Travel TV" tvg-logo="https://i.imgur.com/AVMyiyX.png", Travel TV | ES
-http://194.179.53.124:1935/live/traveltv/chunklist_w706671974.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="624" tvg-name="TV Galicia Europa" tvg-logo="https://lh3.googleusercontent.com/-E7ikRmgAVYA/Xx2pnksjUrI/AAAAAAAA3ec/Tc4uW4xNC2kBWOOLqI38ggl5eegaQ1n8ACK8BGAsYHg/s0/2020-07-26.png", TV Galicia Europa | ES
-http://europa-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="625" tvg-name="TV3 Television de Catalunya" tvg-logo="https://lh3.googleusercontent.com/-s1_Yn73J9Jc/Xx2p0OHPYgI/AAAAAAAA3eg/rYgtHyDWlEsaV6DEVwGZL_KG2oSJ8yw5wCK8BGAsYHg/s0/2020-07-26.png", TV3 Television de Catalunya | ES
-https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="628" tvg-name="Xabarin TV" tvg-logo="https://lh3.googleusercontent.com/-xtIFcA9E93w/X5nM7R708-I/AAAAAAAA60c/YpDjeGtwiss-irwhyy-h5mCzL39AOoqHQCK8BGAsYHg/s0/2020-10-28.png", Xabarin TV | ES
-http://infantil-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1169" tvg-name="AniTV" tvg-logo="https://i2.paste.pics/5493510668c5a5ad847c25e53b6e86ef.png", AniTV | BR
-https://tv01.livemustv.com.br/livemustv1358/livemustv1358/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="559" tvg-name="Canal 29" tvg-logo="https://lh3.googleusercontent.com/-rqwv7VWv5MY/X0EdvriEGRI/AAAAAAAA42Q/dICId1HhEWs0HceSVwcd7e210pkv3SpjACK8BGAsYHg/s0/2020-08-22.png", Canal 29 | BR
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="528" tvg-name="Gospel Cartoon" tvg-logo="https://lh3.googleusercontent.com/-s_HLwIsFJps/X0KO6B17wJI/AAAAAAAA45I/OP1sosoxH1006mmOa57GfY0wIkIqzL_3QCK8BGAsYHg/s0/2020-08-23.png", Gospel Cartoon | BR
