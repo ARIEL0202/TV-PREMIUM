@@ -615,56 +615,31 @@ http://teledifusion.tv/cordoba/cordobalive/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="559" tvg-name="Canal 29" tvg-logo="https://lh3.googleusercontent.com/-rqwv7VWv5MY/X0EdvriEGRI/AAAAAAAA42Q/dICId1HhEWs0HceSVwcd7e210pkv3SpjACK8BGAsYHg/s0/2020-08-22.png", Canal 29 | BR
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="528" tvg-name="Gospel Cartoon" tvg-logo="https://lh3.googleusercontent.com/-s_HLwIsFJps/X0KO6B17wJI/AAAAAAAA45I/OP1sosoxH1006mmOa57GfY0wIkIqzL_3QCK8BGAsYHg/s0/2020-08-23.png", Gospel Cartoon | BR
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="554" tvg-name="ISTV" tvg-logo="https://lh3.googleusercontent.com/-IzqBYCwdt7Q/X0KDyGZYvBI/AAAAAAAA44Q/vNDscdAeRIwjt51aYUycFcpwo8k4JjWcwCK8BGAsYHg/s0/2020-08-23.jpg", ISTV | BR
-https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="534" tvg-name="Kuriakos Kids" tvg-logo="https://lh3.googleusercontent.com/-W_jscxhf96c/X0KPYPMq3XI/AAAAAAAA45Q/G-98h8idnbA08Z_uIiGV9IHWZHDkI6r2gCK8BGAsYHg/s0/2020-08-23.png", Kuriakos Kids | BR
-http://c2.manasat.com:1935/kkids/kkids2/playlist-480p.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="555" tvg-name="Retro Cartoon" tvg-logo="https://lh3.googleusercontent.com/-7_I1pkRvdW8/X0KBdavYe3I/AAAAAAAA43w/Rd8o3DFUPWMMZO8Z3tV9YWukDy64UBkIACK8BGAsYHg/s0/2020-08-23.png", Retro Cartoon | BR
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="556" tvg-name="TV Aracati" tvg-logo="https://lh3.googleusercontent.com/-1egJ_ESGqRU/X0KDUpZlkxI/AAAAAAAA44E/IFwF14W1WfgIaMwwzohJQrVPj_-6YmPbACK8BGAsYHg/s0/2020-08-23.jpg", TV Aracati | BR
 https://livefocamundo.com:8081/tvaracati/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="579" tvg-name="TV J.SID" tvg-logo="https://lh3.googleusercontent.com/-wF_2aDpOhpg/X0KP5o5MN-I/AAAAAAAA45k/_bhDjh2onMAqL2ShSZiG0Z5asBAbO172wCK8BGAsYHg/s0/2020-08-23.jpg", TV J.SID | BR
 https://livefocamundo.com:8081/tvjsid/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="550" tvg-name="TV Japi" tvg-logo="https://lh3.googleusercontent.com/-zUnkYCsmslI/X0KQXxpuqCI/AAAAAAAA45s/sEyrHm54DY0bc8luE0LigeOCMKfBVZPUQCK8BGAsYHg/s0/2020-08-23.png", TV Japi | BR
 https://srv2.zcast.com.br/tvjapi/tvjapi/playlist-480p.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="558" tvg-name="TV Machete" tvg-logo="https://lh3.googleusercontent.com/-qHAL_DhgPB0/X0KDFftfA7I/AAAAAAAA44A/3n9x1MAS_qQUx-vRzem8AcpbxJlPLCrOwCK8BGAsYHg/s0/2020-08-23.jpg", TV Machete | BR
-https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1197" tvg-name="Yellow TV" tvg-logo="https://i2.paste.pics/11bffdb9eddaef27afaaa3f97d2a652c.png", Yellow TV | BR
-https://serv3.videovox.pw/gilferson4004/gilferson4004/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1114" tvg-name="Aljazeera Arabic" tvg-logo="https://i2.paste.pics/49f6a9e41cdc5b7b2e1676c53cd45d63.png", Aljazeera Arabic | QA
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1113" tvg-name="Aljazeera English" tvg-logo="https://i2.paste.pics/49f6a9e41cdc5b7b2e1676c53cd45d63.png", Aljazeera English | QA
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="506" tvg-name="Arirang" tvg-logo="https://lh3.googleusercontent.com/-EjspQDMJTv8/XbIv0DmeI5I/AAAAAAAArp4/sxviem-Fy9skCw30jz2aykgMXeffZqW_wCK8BGAsYHg/s0/2019-10-24.png", Arirang | KR
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="495" tvg-name="Canal Capital" tvg-logo="https://lh3.googleusercontent.com/-Emi_jrNT71c/XqeMwoB2P-I/AAAAAAAAyS4/pUS5P-UYKsoW5xFT9RQjmCl7ONAL0oG4wCK8BGAsYHg/s0/2020-04-27.png", Canal Capital | CO
-https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="496" tvg-name="Canal IPE" tvg-logo="https://lh3.googleusercontent.com/-oIEzY0G7pYY/XbI3QjoY6OI/AAAAAAAArqw/caCNpRl6FRoMHn1l0F-Tc9HmhrZRtxgggCK8BGAsYHg/s0/2019-10-24.png", Canal IPE | PE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="664" tvg-name="Canal Once Internacional" tvg-logo="https://lh3.googleusercontent.com/-VZdwHbttDos/Xzgor6TjGYI/AAAAAAAA4ak/BIlD0jyTAE4A4uDQSWit8eEw20noJbW0wCK8BGAsYHg/s0/2020-08-15.png", Canal Once Internacional | MX
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="504" tvg-name="CBS News" tvg-logo="https://lh3.googleusercontent.com/-7Oed2S5Ee9w/XxzKnAYw4II/AAAAAAAA3Y4/_2SonQ-u60grRFzqT4h4bp3WYXEhwg92ACK8BGAsYHg/s0/2020-07-25.png", CBS News | US
-https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="508" tvg-name="CGNTV Japan" tvg-logo="https://lh3.googleusercontent.com/-8hlrp2wlRUQ/X0Wne5IOlsI/AAAAAAAA49E/EtbwfTTFSYMZSkHL02HpR93MzyvS9ppPwCK8BGAsYHg/s0/2020-08-25.png", CGNTV Japan | JP
-http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="503" tvg-name="Cubavisión" tvg-logo="https://lh3.googleusercontent.com/-nT-Q98F4FeQ/Xp8MhhgpZNI/AAAAAAAAyFM/p0M3gJVu9hQskeY4D1DMdAHyiaV22pjsQCK8BGAsYHg/s0/2020-04-21.png", Cubavisión | CU
-https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1031" tvg-name="DW Deutsch" tvg-logo="https://i2.paste.pics/1cddbd9cd3845156f265141d41311612.png", DW Deutsch | DE
-https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="517" tvg-name="DW Deutsch+" tvg-logo="https://i2.paste.pics/597ee9bbe96d12d6ab26ce3f1a7a5fc3.png", DW Deutsch+ | DE
-https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1030" tvg-name="DW English" tvg-logo="https://i2.paste.pics/1cddbd9cd3845156f265141d41311612.png", DW English | DE
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="511" tvg-name="DW Español" tvg-logo="https://lh3.googleusercontent.com/--AW1Ecwc3mA/XkCKi0vJyKI/AAAAAAAAv8A/EEsjeBXIHI84UAgvUar2SUVbxJv69E9GACK8BGAsYHg/s0/2020-02-09.png", DW Español | DE
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="512" tvg-name="ETB" tvg-logo="https://lh3.googleusercontent.com/-zDoomAn0TMw/XbImW6K389I/AAAAAAAAro0/cwMaz2E9x70_mtd-B9uW_cA6oSLzu4QWwCK8BGAsYHg/s0/2019-10-24.png", ETB | ES
-http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="516" tvg-name="France 24" tvg-logo="https://lh3.googleusercontent.com/-CcQlQ7U7EVI/XbIqQWbGCBI/AAAAAAAArpQ/CyEn-4Mk9xEHuDVVhDBB-vQumKMTSkrUwCK8BGAsYHg/s0/2019-10-24.png", France 24 | FR
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="806" tvg-name="HispanTV" tvg-logo="https://lh3.googleusercontent.com/-36ZvtH-DlwY/YH3RC_yNV7I/AAAAAAABBuw/BZyMcxu0rB8npsk2JFP2hUBz75i_zO0cgCK8BGAsYHg/s512/2021-04-19.png", HispanTV | IR
 https://live.presstv.ir/live/smil:live.smil/hispan.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="510" tvg-name="KCTV Corea del Norte" tvg-logo="https://lh3.googleusercontent.com/-8IpmbgEzups/X4Yu4uVe5qI/AAAAAAAA6Yw/Kye7DILzMEE1iWTRAztURzgLpK9FafwlwCK8BGAsYHg/s0/2020-10-13.png", KCTV Corea del Norte | KP
 https://tv.nknews.org/tvhls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="493" tvg-name="Net TV" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png", Net TV | AR
