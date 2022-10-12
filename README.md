@@ -1,111 +1,52 @@
-#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxi4gCApcU3HLs00cxRcFY6DFADcYDkgjiQ&usqp=CAU" group-title="(TV) ARGENTINA",AR | FOX SPORTS 1 HD
-http://daleplay.club:8080/Super/Super/50495
 #EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 1 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxi4gCApcU3HLs00cxRcFY6DFADcYDkgjiQ&usqp=CAU" group-title="(TV) ARGENTINA",AR | FOX SPORTS 1 SD
 http://daleplay.club:8080/Super/Super/50496
-#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxi4gCApcU3HLs00cxRcFY6DFADcYDkgjiQ&usqp=CAU" group-title="(TV) ARGENTINA",AR | FOX SPORTS 2 HD
-http://daleplay.club:8080/Super/Super/50506
 #EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 2 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxi4gCApcU3HLs00cxRcFY6DFADcYDkgjiQ&usqp=CAU" group-title="(TV) ARGENTINA",AR | FOX SPORTS 2 SD
 http://daleplay.club:8080/Super/Super/50507
-#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxi4gCApcU3HLs00cxRcFY6DFADcYDkgjiQ&usqp=CAU" group-title="(TV) ARGENTINA",AR | FOX SPORTS 3 HD
-http://daleplay.club:8080/Super/Super/50508
 #EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 3 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxi4gCApcU3HLs00cxRcFY6DFADcYDkgjiQ&usqp=CAU" group-title="(TV) ARGENTINA",AR | FOX SPORTS 3 SD
 http://daleplay.club:8080/Super/Super/50509
-#EXTINF:-1 tvg-id="" tvg-name="AR | TELEFE HD" tvg-logo="https://yt3.ggpht.com/uaMgzd4i0iGHxpaBRJVYFYRpWBWBqDJdhysytSXMKvtEo1AsLWj1KIqaMWzMP8q-8MCHRq-_UQ=s900-c-k-c0x00ffffff-no-rj" group-title="(TV) ARGENTINA",AR | TELEFE HD
-http://daleplay.club:8080/Super/Super/50510
-#EXTINF:-1 tvg-id="" tvg-name="AR | TELEFE HD - 02" tvg-logo="https://yt3.ggpht.com/uaMgzd4i0iGHxpaBRJVYFYRpWBWBqDJdhysytSXMKvtEo1AsLWj1KIqaMWzMP8q-8MCHRq-_UQ=s900-c-k-c0x00ffffff-no-rj" group-title="(TV) ARGENTINA",AR | TELEFE HD - 02
-http://daleplay.club:8080/Super/Super/50521
 #EXTINF:-1 tvg-id="" tvg-name="AR | TNT SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNzRaEF7sInMKci-9xC-vXIBVl7h2h9v35ww&usqp=CAU" group-title="(TV) ARGENTINA",AR | TNT SPORTS HD
 http://daleplay.club:8080/Super/Super/81250
-#EXTINF:-1 tvg-id="" tvg-name="AR | TNT SPORTS SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNzRaEF7sInMKci-9xC-vXIBVl7h2h9v35ww&usqp=CAU" group-title="(TV) ARGENTINA",AR | TNT SPORTS SD
-http://daleplay.club:8080/Super/Super/81251
-#EXTINF:-1 tvg-id="" tvg-name="AR | TYC SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu094m8UMzCN8OqX-0NNd4X8Zw7ovhNs1N5w&usqp=CAU" group-title="(TV) ARGENTINA",AR | TYC SPORTS HD
-http://daleplay.club:8080/Super/Super/81252
 #EXTINF:-1 tvg-id="" tvg-name="AR  | TYC SPORTS SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu094m8UMzCN8OqX-0NNd4X8Zw7ovhNs1N5w&usqp=CAU" group-title="(TV) ARGENTINA",AR  | TYC SPORTS SD
 http://daleplay.club:8080/Super/Super/81253
-#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN PREMIUM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiTXfM0ZeYf2m5FbMtVCdFnFEue0bcAiCafQ&usqp=CAU" group-title="(TV) ARGENTINA",AR | ESPN PREMIUM HD
-http://daleplay.club:8080/Super/Super/81254
 #EXTINF:-1 tvg-id="" tvg-name="AR | ESPN PREMIUM SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiTXfM0ZeYf2m5FbMtVCdFnFEue0bcAiCafQ&usqp=CAU" group-title="(TV) ARGENTINA",AR | ESPN PREMIUM SD
 http://daleplay.club:8080/Super/Super/81255
-#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="(TV) ARGENTINA",AR | ESPN 1 HD
-http://daleplay.club:8080/Super/Super/81256
 #EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 1 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="(TV) ARGENTINA",AR | ESPN 1 SD
 http://daleplay.club:8080/Super/Super/81257
-#EXTINF:-1 tvg-id="" tvg-name="AR  | ESPN 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="(TV) ARGENTINA",AR  | ESPN 2 HD
-http://daleplay.club:8080/Super/Super/81258
 #EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 2 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="(TV) ARGENTINA",AR | ESPN 2 SD
 http://daleplay.club:8080/Super/Super/81259
-#EXTINF:-1 tvg-id="" tvg-name="AR | DEPOR TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrG5tgUlK-9tZFIvlaYrszEOhe9HTZmHa36g&usqp=CAU" group-title="(TV) ARGENTINA",AR | DEPOR TV HD
-http://daleplay.club:8080/Super/Super/81262
 #EXTINF:-1 tvg-id="" tvg-name="AR | DEPOR TV SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrG5tgUlK-9tZFIvlaYrszEOhe9HTZmHa36g&usqp=CAU" group-title="(TV) ARGENTINA",AR | DEPOR TV SD
 http://daleplay.club:8080/Super/Super/81263
-#EXTINF:-1 tvg-id="" tvg-name="AR | TV PUBLICA FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qM7GfDTvfBO-q63HLUW-QsbNWXiZEwqhkw&usqp=CAU" group-title="(TV) ARGENTINA",AR | TV PUBLICA FHD
-http://daleplay.club:8080/Super/Super/81264
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | TELEFE HD" tvg-logo="https://yt3.ggpht.com/uaMgzd4i0iGHxpaBRJVYFYRpWBWBqDJdhysytSXMKvtEo1AsLWj1KIqaMWzMP8q-8MCHRq-_UQ=s900-c-k-c0x00ffffff-no-rj" group-title="(TV) ARGENTINA",AR | TELEFE HD
+http://daleplay.club:8080/Super/Super/50510
 #EXTINF:-1 tvg-id="" tvg-name="AR | TV PUBLICA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qM7GfDTvfBO-q63HLUW-QsbNWXiZEwqhkw&usqp=CAU" group-title="(TV) ARGENTINA",AR | TV PUBLICA HD
 http://daleplay.club:8080/Super/Super/81265
-#EXTINF:-1 tvg-id="" tvg-name="AR | TV PUBLICA SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qM7GfDTvfBO-q63HLUW-QsbNWXiZEwqhkw&usqp=CAU" group-title="(TV) ARGENTINA",AR | TV PUBLICA SD
-http://daleplay.club:8080/Super/Super/81266
-#EXTINF:-1 tvg-id="" tvg-name="AR | CANAL 13 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUxd6vjCPiTZWnhGdbdAMoqNTZGbzvCHO1A&usqp=CAU" group-title="(TV) ARGENTINA",AR | CANAL 13 HD
-http://daleplay.club:8080/Super/Super/81268
 #EXTINF:-1 tvg-id="" tvg-name="AR | CANAL 13 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUxd6vjCPiTZWnhGdbdAMoqNTZGbzvCHO1A&usqp=CAU" group-title="(TV) ARGENTINA",AR | CANAL 13 SD
 http://daleplay.club:8080/Super/Super/81269
 #EXTINF:-1 tvg-id="" tvg-name="AR | EL NUEVE FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmX8tjoTHylcaDD3_48yzo6Nzx50MjRojLPA&usqp=CAU" group-title="(TV) ARGENTINA",AR | EL NUEVE FHD
 http://daleplay.club:8080/Super/Super/81270
-#EXTINF:-1 tvg-id="" tvg-name="AR | EL NUEVE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmX8tjoTHylcaDD3_48yzo6Nzx50MjRojLPA&usqp=CAU" group-title="(TV) ARGENTINA",AR | EL NUEVE HD
-http://daleplay.club:8080/Super/Super/81271
-#EXTINF:-1 tvg-id="" tvg-name="AR | EL NUEVE SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmX8tjoTHylcaDD3_48yzo6Nzx50MjRojLPA&usqp=CAU" group-title="(TV) ARGENTINA",AR | EL NUEVE SD
-http://daleplay.club:8080/Super/Super/81272
-#EXTINF:-1 tvg-id="" tvg-name="AR | C5N FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvEHUTKugnqQz7G_9UHyVDuyf_wGYWdQblw&usqp=CAU" group-title="(TV) ARGENTINA",AR | C5N FHD
-http://daleplay.club:8080/Super/Super/81273
 #EXTINF:-1 tvg-id="" tvg-name="AR | C5N HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvEHUTKugnqQz7G_9UHyVDuyf_wGYWdQblw&usqp=CAU" group-title="(TV) ARGENTINA",AR | C5N HD
 http://daleplay.club:8080/Super/Super/81274
 #EXTINF:-1 tvg-id="" tvg-name="AR | VOLVER" tvg-logo="htqQz7G_9UHyVDuyf_wGYWdQblw&usqp=CAU" group-title="(TV) ARGENTINA",AR | VOLVER
 http://daleplay.club:8080/Super/Super/81275
-#EXTINF:-1 tvg-id="" tvg-name="AR | AMERICA TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fgLDmFN8t0LWvb7rkI6ZCCiRJWEQheswpg&usqp=CAU" group-title="(TV) ARGENTINA",AR | AMERICA TV HD
-http://daleplay.club:8080/Super/Super/81276
 #EXTINF:-1 tvg-id="" tvg-name="AR | AMERICA TV FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fgLDmFN8t0LWvb7rkI6ZCCiRJWEQheswpg&usqp=CAU" group-title="(TV) ARGENTINA",AR | AMERICA TV FHD
 http://daleplay.club:8080/Super/Super/81283
-#EXTINF:-1 tvg-id="" tvg-name="AR | PAKAPAKA  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNrBU_jV_Qe1hd-6Itc-2udTYA-GyCW4Ii0g&usqp=CAU" group-title="(TV) ARGENTINA",AR | PAKAPAKA  HD
-http://daleplay.club:8080/Super/Super/81284
 #EXTINF:-1 tvg-id="" tvg-name="AR | Telefe HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUMa6b30HJG6XO79tuoAQ959n0gEh6oSg-A&usqp=CAU" group-title="(TV) ARGENTINA",AR | Telefe HD
 http://daleplay.club:8080/Super/Super/81285
-#EXTINF:-1 tvg-id="" tvg-name="AR | Telemax HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpm9gebQm0ncjH8Oe9S3sX69ShIc7W4Ky7cA&usqp=CAU" group-title="(TV) ARGENTINA",AR | Telemax HD
-http://daleplay.club:8080/Super/Super/81287
 #EXTINF:-1 tvg-id="" tvg-name="AR | Telemax sd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpm9gebQm0ncjH8Oe9S3sX69ShIc7W4Ky7cA&usqp=CAU" group-title="(TV) ARGENTINA",AR | Telemax sd
 http://daleplay.club:8080/Super/Super/81288
 #EXTINF:-1 tvg-id="" tvg-name="AR | A24 HD" tvg-logo="http://daleplay.club:8080/images/1cb6a1a11eace2a531fab793b92864b2.png" group-title="(TV) ARGENTINA",AR | A24 HD
 http://daleplay.club:8080/Super/Super/81289
-#EXTINF:-1 tvg-id="" tvg-name="AR | A24 sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="(TV) ARGENTINA",AR | A24 sd
-http://daleplay.club:8080/Super/Super/81290
 #EXTINF:-1 tvg-id="" tvg-name="AR | CRONICA HD" tvg-logo="http://127.0.0.1/" group-title="(TV) ARGENTINA",AR | CRONICA HD
 http://daleplay.club:8080/Super/Super/81300
 #EXTINF:-1 tvg-id="" tvg-name="AR | ENCUENTRO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmUVWZIKiaE3oHhyEntpWB8lz1Llhn17K3zA&usqp=CAU" group-title="(TV) ARGENTINA",AR | ENCUENTRO HD
 http://daleplay.club:8080/Super/Super/81305
-#EXTINF:-1 tvg-id="" tvg-name="AR | ENCUENTRO SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmUVWZIKiaE3oHhyEntpWB8lz1Llhn17K3zA&usqp=CAU" group-title="(TV) ARGENTINA",AR | ENCUENTRO SD
-http://daleplay.club:8080/Super/Super/81308
 #EXTINF:-1 tvg-id="" tvg-name="AR | CANAL 26 NOTICIAS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShxTPhW_bp7ia83Wwb8ZtN0sE-dqon-Uuj6w&usqp=CAU" group-title="(TV) ARGENTINA",AR | CANAL 26 NOTICIAS HD
 http://daleplay.club:8080/Super/Super/81310
-#EXTINF:-1 tvg-id="" tvg-name="AR-| CANAL 26 NOTICIAS SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShxTPhW_bp7ia83Wwb8ZtN0sE-dqon-Uuj6w&usqp=CAU" group-title="(TV) ARGENTINA",AR-| CANAL 26 NOTICIAS SD
-http://daleplay.club:8080/Super/Super/81317
-#EXTINF:-1 tvg-id="" tvg-name="AR-| ARGENTINISIMA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSme3KO2n4jP4MV4eW2pFgxXKCr4wirNrpQg&usqp=CAU" group-title="(TV) ARGENTINA",AR-| ARGENTINISIMA HD
-http://daleplay.club:8080/Super/Super/81318
-#EXTINF:-1 tvg-id="" tvg-name="AR-| ARGENTINISIMA SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSme3KO2n4jP4MV4eW2pFgxXKCr4wirNrpQg&usqp=CAU" group-title="(TV) ARGENTINA",AR-| ARGENTINISIMA SD
-http://daleplay.club:8080/Super/Super/81319
-#EXTINF:-1 tvg-id="" tvg-name="AR-| CINE AR HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPXa_7GTAh9OpM1yylM2IdMsQOh3jeJ8e0XA&usqp=CAU" group-title="(TV) ARGENTINA",AR-| CINE AR HD
-http://daleplay.club:8080/Super/Super/81320
-#EXTINF:-1 tvg-id="" tvg-name="AR-| CINE AR SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPXa_7GTAh9OpM1yylM2IdMsQOh3jeJ8e0XA&usqp=CAU" group-title="(TV) ARGENTINA",AR-| CINE AR SD
-http://daleplay.club:8080/Super/Super/81321
-#EXTINF:-1 tvg-id="" tvg-name="AR-| EL GARAGE TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRL_0iZ7hJH2d4qbdZ73r_qkKqe8ws4rNkLg&usqp=CAU" group-title="(TV) ARGENTINA",AR-| EL GARAGE TV HD
-http://daleplay.club:8080/Super/Super/81322
 #EXTINF:-1 tvg-id="" tvg-name="AR-| LN+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH8f5raMcEwss9lSlka2g6ppZPj2EnFlJwIw&usqp=CAU" group-title="(TV) ARGENTINA",AR-| LN+
 http://daleplay.club:8080/Super/Super/81323
 #EXTINF:-1 tvg-id="" tvg-name="AR | NOTICIAS NT HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkeFcQtno1fsHYYXHfJDWiBL1fOKmYBjMPVw&usqp=CAU" group-title="(TV) ARGENTINA",AR | NOTICIAS NT HD
 http://daleplay.club:8080/Super/Super/81324
-#EXTINF:-1 tvg-id="" tvg-name="AR | NOTICIAS NT SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkeFcQtno1fsHYYXHfJDWiBL1fOKmYBjMPVw&usqp=CAU" group-title="(TV) ARGENTINA",AR | NOTICIAS NT SD
-http://daleplay.club:8080/Super/Super/81325
-#EXTINF:-1 tvg-id="" tvg-name="AR | MAS CHIC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFVPxtfPGqdC6sq8ijhoEDpZJu9mNYTnHxOg&usqp=CAU" group-title="(TV) ARGENTINA",AR | MAS CHIC HD
-http://daleplay.club:8080/Super/Super/81538
-#EXTINF:-1 tvg-id="" tvg-name="AR | MAS CHIC SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFVPxtfPGqdC6sq8ijhoEDpZJu9mNYTnHxOg&usqp=CAU" group-title="(TV) ARGENTINA",AR | MAS CHIC SD
-http://daleplay.club:8080/Super/Super/81539
 
 #EXTINF:-1 tvg-id="" tvg-name="LAT | ESPN 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtuHBarT2q6mOKgneq08Qg-8npvBKfC-ug-A&usqp=CAU" group-title="ZONA | ESPN HD PREMIUM",LAT | ESPN 1 HD
 http://daleplay.club:8080/Super/Super/99799
