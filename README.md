@@ -1,14 +1,22 @@
 #EXTINF:-1 tvg-ID="" tvg-name="===== ARGENTINA =====" tvg-logo="" group-title="US ARGENTINE",===== ARGENTINA =====
 http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/94729
-#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: FOX SPORT" tvg-logo="" group-title="US ARGENTINE", FOX SPORT
+#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: ESPN" tvg-logo="" group-title="US ARGENTINE", ESPN
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/94761
+#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: ESPN 2" tvg-logo="" group-title="US ARGENTINE", ESPN 2
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/94762
+#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: ESPN 3" tvg-logo="" group-title="US ARGENTINE",ESPN 3
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/94763
+#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: TYC" tvg-logo="" group-title="US ARGENTINE", TyC
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/94764
+#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: FOX SPORT" tvg-logo="" group-title="US ARGENTINE", FOX SPORTS
 http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/94753
-#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: FOX SPORT 2" tvg-logo="" group-title="US ARGENTINE", FOX SPORT 2
+#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: FOX SPORT 2" tvg-logo="" group-title="US ARGENTINE", FOX SPORTS 2
 http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/94754
-#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: FOX SPORT 3" tvg-logo="" group-title="US ARGENTINE", FOX SPORT 3
+#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: FOX SPORT 3" tvg-logo="" group-title="US ARGENTINE", FOX SPORTS 3
 http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/94755
 #EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: ESPN PREMIUM" tvg-logo="" group-title="US ARGENTINE", ESPN PREMIUM
 http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/94756
-#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: TNT SPORT" tvg-logo="" group-title="US ARGENTINE", TNT SPORT
+#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: TNT SPORT" tvg-logo="" group-title="US ARGENTINE", TNT SPORTS
 http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/94757
 #EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: DIRECT TV SPORTS" tvg-logo="" group-title="US ARGENTINE", DIRECT TV SPORTS
 http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/94758
@@ -16,14 +24,6 @@ http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/94758
 http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/94759
 #EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: DIRECT TV SPORTS PLUS" tvg-logo="" group-title="US ARGENTINE", DIRECT TV SPORTS PLUS
 http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/94760
-#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: ESPN" tvg-logo="" group-title="US ARGENTINE", ESPN
-http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/94761
-#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: ESPN 2" tvg-logo="" group-title="US ARGENTINE", ESPN 2
-http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/94762
-#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: ESPN 3" tvg-logo="" group-title="US ARGENTINE",ESPN 3
-http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/94763
-#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: TYC" tvg-logo="" group-title="US ARGENTINE", TYC
-http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/94764
 
 #EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: TV PUBLICA" tvg-logo="" group-title="US ARGENTINE", TV PUBLICA
 http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/94730
