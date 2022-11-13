@@ -88,7 +88,7 @@ http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/95039
 http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/95040
 #EXTINF:-1 tvg-ID="" tvg-name="LATIN: PARAMOUNT" tvg-logo="" group-title="US LATIN", PARAMOUNT
 http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/95041
-#EXTINF:-1 tvg-ID="" tvg-name="LATIN: SONY" tvg-logo="" group-title="US LATIN",LATIN: SONY
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: SONY" tvg-logo="" group-title="US LATIN", SONY
 http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/95042
 #EXTINF:-1 tvg-ID="" tvg-name="LATIN: SPACE" tvg-logo="" group-title="US LATIN", SPACE
 http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/95043
@@ -100,7 +100,7 @@ http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/95045
 http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/95046
 #EXTINF:-1 tvg-ID="" tvg-name="LATIN: TNT" tvg-logo="" group-title="US LATIN",TNT
 http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/95047
-#EXTINF:-1 tvg-ID="" tvg-name="LATIN: GOLDEN EDGE" tvg-logo="" group-title="US LATIN",LATIN: GOLDEN EDGE
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: GOLDEN EDGE" tvg-logo="" group-title="US LATIN", GOLDEN EDGE
 http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/95048
 #EXTINF:-1 tvg-ID="" tvg-name="LATIN: GOLDEN" tvg-logo="" group-title="US LATIN", GOLDEN
 http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/95049
