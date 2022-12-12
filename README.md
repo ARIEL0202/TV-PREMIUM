@@ -1,41 +1,11 @@
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Alerta Aeropuerto SD" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "TV Show"",24/7 Alerta Aeropuerto SD
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/323271
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Alerta Aeropuerto HD" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "TV Show"",24/7 Alerta Aeropuerto HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/327729
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Humor es... los Comediantes SD" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "TV Show"",24/7 Humor es... los Comediantes SD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/327731
 #EXTINF:-1 tvg-id="" tvg-name="24/7 1000 Maneras de Morir" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "TV Show"",24/7 1000 Maneras de Morir
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24658
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Mayday Catastrofes Aereas" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "TV Show"",24/7 Mayday Catastrofes Aereas
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/25178
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Mundo De Beakman SD" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "TV Show"",24/7 El Mundo De Beakman SD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/26537
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Caso Cerrado Inmigracion" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "TV Show"",24/7 Caso Cerrado Inmigracion
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/32432
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Caso Cerrado La Familia 1" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "TV Show"",24/7 Caso Cerrado La Familia 1
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/32433
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Caso Cerrado La Familia 2" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "TV Show"",24/7 Caso Cerrado La Familia 2
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/34213
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Caso Cerrado La Familia 3" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "TV Show"",24/7 Caso Cerrado La Familia 3
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/34214
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Laura Bozzo" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "TV Show"",24/7 Laura Bozzo
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/34219
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Exponiendo Infieles" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "TV Show"",24/7 Exponiendo Infieles
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/34235
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cero en Conducta SD" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "TV Show"",24/7 Cero en Conducta SD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/306613
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cero en Conducta HD" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "TV Show"",24/7 Cero en Conducta HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/306614
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Lo Que Callamos Las Mujeres" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "TV Show"",24/7 Lo Que Callamos Las Mujeres
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/25227
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Como dice el dicho" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "TV Show"",24/7 Como dice el dicho
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/309894
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hablando Huevadas" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "TV Show"",24/7 Hablando Huevadas
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/310034
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Just for Laughs " tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "TV Show"",24/7 Just for Laughs 
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/310193
-#EXTINF:-1 tvg-id="" tvg-name="•●★-- 24/7 Crimen --★●•" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "Crimen"",•●★-- 24/7 Crimen --★●•
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/32887
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Misterios sin Resolver HD (1987)" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "Crimen"",24/7 Misterios sin Resolver HD (1987)
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/451899
 #EXTINF:-1 tvg-id="" tvg-name="24/7 CSI Miami SD" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "Crimen"",24/7 CSI Miami SD
@@ -146,16 +116,6 @@ http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/93727
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/93728
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Transformers Mastersforce (1988)" tvg-logo="" group-title="LAT - Canales 24H "Caricaturas"",24/7 Transformers Mastersforce (1988)
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24613
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Sailor Moon (001-046)" tvg-logo="https://lemoncity.files.wordpress.com/2017/02/a363-1543286731-1411119328.jpg" group-title="LAT - Canales 24H "Caricaturas"",24/7 Sailor Moon (001-046)
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/25143
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Sailor Moon R (047-089)" tvg-logo="" group-title="LAT - Canales 24H "Caricaturas"",24/7 Sailor Moon R (047-089)
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/93740
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Sailor Moon S (090-127)" tvg-logo="" group-title="LAT - Canales 24H "Caricaturas"",24/7 Sailor Moon S (090-127)
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/93741
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Sailor Moon SuperS (128-166)" tvg-logo="" group-title="LAT - Canales 24H "Caricaturas"",24/7 Sailor Moon SuperS (128-166)
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/93742
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Sailor Moon Sailor Stars (167-200)" tvg-logo="" group-title="LAT - Canales 24H "Caricaturas"",24/7 Sailor Moon Sailor Stars (167-200)
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/93743
 #EXTINF:-1 tvg-id="" tvg-name="24/7 La Casa de los Dibujos" tvg-logo="https://2.bp.blogspot.com/-tjsLGoP-feA/UwVEn07MYYI/AAAAAAAAEf0/Sa4-rsqzQvE/s1600/01.png" group-title="LAT - Canales 24H "Caricaturas"",24/7 La Casa de los Dibujos
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/32259
 #EXTINF:-1 tvg-id="" tvg-name="24/7 La Casa de los Dibujos HD" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "Caricaturas"",24/7 La Casa de los Dibujos HD
@@ -164,8 +124,6 @@ http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/125341
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/323265
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Autobus Magico" tvg-logo="" group-title="LAT - Canales 24H "Caricaturas"",24/7 Autobus Magico
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24437
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Animaniacs" tvg-logo="" group-title="LAT - Canales 24H "Caricaturas"",24/7 Animaniacs
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24439
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los Picapiedras" tvg-logo="" group-title="LAT - Canales 24H "Caricaturas"",24/7 Los Picapiedras
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24494
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Coraje el Perro Cobarde" tvg-logo="" group-title="LAT - Canales 24H "Caricaturas"",24/7 Coraje el Perro Cobarde
@@ -770,6 +728,31 @@ http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/127542
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/127543
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Blippi HD" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "Youtubers & Influencers"",24/7 Blippi HD
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/449748
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Humor es... los Comediantes SD" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "TV Show"",24/7 Humor es... los Comediantes SD
+http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/327731
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Caso Cerrado Inmigracion" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "TV Show"",24/7 Caso Cerrado Inmigracion
+http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/32432
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Caso Cerrado La Familia 1" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "TV Show"",24/7 Caso Cerrado La Familia 1
+http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/32433
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Caso Cerrado La Familia 2" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "TV Show"",24/7 Caso Cerrado La Familia 2
+http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/34213
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Caso Cerrado La Familia 3" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "TV Show"",24/7 Caso Cerrado La Familia 3
+http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/34214
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Exponiendo Infieles" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "TV Show"",24/7 Exponiendo Infieles
+http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/34235
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cero en Conducta SD" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "TV Show"",24/7 Cero en Conducta SD
+http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/306613
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cero en Conducta HD" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "TV Show"",24/7 Cero en Conducta HD
+http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/306614
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Lo Que Callamos Las Mujeres" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "TV Show"",24/7 Lo Que Callamos Las Mujeres
+http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/25227
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Como dice el dicho" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "TV Show"",24/7 Como dice el dicho
+http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/309894
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hablando Huevadas" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "TV Show"",24/7 Hablando Huevadas
+http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/310034
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Mundo De Beakman SD" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "TV Show"",24/7 El Mundo De Beakman SD
+http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/26537
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
