@@ -202,6 +202,12 @@ http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/7081
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/7085
 
 
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Friends SD" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "Comedia"",24/7 Friends SD
+http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/34132
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chapulin Colorado" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "Comedia"",24/7 El Chapulin Colorado
+http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/25121
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ALF SD" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "Comedia"",24/7 ALF SD
+http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/26587
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Alerta Aeropuerto SD" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "TV Show"",24/7 Alerta Aeropuerto SD
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/323271
 #EXTINF:-1 tvg-id="" tvg-name="24/7 1000 Maneras de Morir" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "TV Show"",24/7 1000 Maneras de Morir
@@ -251,8 +257,6 @@ http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/102160
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/272417
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Movies Jackie Chan" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "Acción"",24/7 Movies Jackie Chan
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/272419
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Movies Jim Carrey " tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "Acción"",24/7 Movies Jim Carrey 
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/272420
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Movies Steven Seagal " tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "Acción"",24/7 Movies Steven Seagal 
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/272421
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Movies Tom Cruise " tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "Acción"",24/7 Movies Tom Cruise 
@@ -300,10 +304,10 @@ http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/25126
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/27254
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los 3 Chiflados" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "Comedia"",24/7 Los 3 Chiflados
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/27255
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Friends SD" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "Comedia"",24/7 Friends SD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/34132
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Full House SD" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "Comedia"",24/7 Full House SD
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/34277
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hannah Montana Temp 1" tvg-logo="https://larrybrownsports.com/wp-content/uploads/2016/04/hannah-montana.jpg" group-title="LAT - Canales 24H "Caricaturas"",24/7 Hannah Montana Temp 1
+http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/26592
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Hannah Montana Temp 2" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "Comedia"",24/7 Hannah Montana Temp 2
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/94438
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Hannah Montana Temp 3" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "Comedia"",24/7 Hannah Montana Temp 3
@@ -344,10 +348,6 @@ http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/272424
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/272425
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Chavo del 8" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "Comedia"",24/7 El Chavo del 8
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24888
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chapulin Colorado" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "Comedia"",24/7 El Chapulin Colorado
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/25121
-#EXTINF:-1 tvg-id="" tvg-name="24/7 ALF SD" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "Comedia"",24/7 ALF SD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/26587
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Chespirito (1982)" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "Comedia"",24/7 Chespirito (1982)
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/102219
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Chespirito (1984)" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "Comedia"",24/7 Chespirito (1984)
