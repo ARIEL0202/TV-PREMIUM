@@ -22,7 +22,7 @@ http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/32216
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/32215
 #EXTINF:-1 tvg-id="canalcinemadinamita.mx" tvg-name="Cine TV: Cinema Dinamita (MOVIL)" tvg-logo="http://titanicos.net:8080/images/d854f177f9072c0f2d25f38d13706e9e.png" group-title="LAT - Cine TV",Cine TV: Cinema Dinamita (MOVIL)
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/65074
-#EXTINF:-1 tvg-id="canalcinemadinamita.mx" tvg-name="Cine TV: Cinema Dinamita" tvg-logo="http://tvgolatino.com:8080/images/d854f177f9072c0f2d25f38d13706e9e.png" group-title="LAT - Cine TV",Cine TV: Cinema Dinamita
+#EXTINF:-1 tvg-id="canalcinemadinamita.mx" tvg-name="Cine TV: Cinema Dinamita" tvg-logo="http://tvgolatino.com:8080/images/d854f177f9072c0f2d25f38d13706e9e.png" group-title="LAT - Cine TV",Cine TV: Cinema Dinamita     
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/1818
 #EXTINF:-1 tvg-id="cinemax.co" tvg-name="Cine TV: Cinemax (CO)" tvg-logo="http://titanicos.net:8080/images/999be455c65517ed2c6afe8183ef1e42.png" group-title="LAT - Cine TV",Cine TV: Cinemax (CO)
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/4615
