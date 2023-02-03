@@ -1,3 +1,222 @@
+#EXTINF:-1 tvg-id="AEPanregional.us" tvg-name="A&E" tvg-logo="https://vignette.wikia.nocookie.net/newlogosfake/images/7/7e/A%26E_Network_2004.png" group-title="CINE",A&E
+http://azplay.ddns.me:33200/por/por123/7046
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/640px-AMC_logo_2016.png" group-title="CINE",AMC
+http://azplay.ddns.me:33200/por/por123/7047
+#EXTINF:-1 tvg-id="AXNPacific.us" tvg-name="AXN" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/axn.png" group-title="CINE",AXN
+http://azplay.ddns.me:33200/por/por123/7048
+#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="AXN White HD" tvg-logo="https://i.ibb.co/XW1fnH3/axn-white.jpg" group-title="CINE",AXN White HD
+http://azplay.ddns.me:33200/por/por123/29513
+#EXTINF:-1 tvg-id="CinecanalEast.us" tvg-name="Cinecanal" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/cinecanal.png" group-title="CINE",Cinecanal
+http://azplay.ddns.me:33200/por/por123/7054
+#EXTINF:-1 tvg-id="CinemaxPanregional.us" tvg-name="Cinemax " tvg-logo="https://www.ushuaiavision.com.ar/images/canales/cinemax.png" group-title="CINE",Cinemax 
+http://azplay.ddns.me:33200/por/por123/2623
+#EXTINF:-1 tvg-id="CinemaxPanregional.us" tvg-name="Cinemax FHD" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/cinemax.png" group-title="CINE",Cinemax FHD
+http://azplay.ddns.me:33200/por/por123/50833
+#EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="Cine Latino" tvg-logo="https://s3.castbox.fm/29/e1/43/98e45d48d39a208a4d9dd5c2f0.png" group-title="CINE",Cine Latino
+http://azplay.ddns.me:33200/por/por123/49062
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Dinamita" tvg-logo="https://pbs.twimg.com/media/CKoz2slVAAAaSEB.png" group-title="CINE",Cinema Dinamita
+http://azplay.ddns.me:33200/por/por123/49384
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Family" tvg-logo="https://i.pinimg.com/564x/85/28/a7/8528a75f13fbf7c4482ac68007abfd8e.jpg" group-title="CINE",Cinema Disney Family
+http://azplay.ddns.me:33200/por/por123/48949
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Pixar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Disney_cinema_logo.png" group-title="CINE",Cinema Disney Pixar
+http://azplay.ddns.me:33200/por/por123/49063
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Familia " tvg-logo="https://i.pinimg.com/564x/49/e2/d7/49e2d72c9a05d3ee6cf346bc891ced9f.jpg" group-title="CINE",Cinema Familia 
+http://azplay.ddns.me:33200/por/por123/6883
+#EXTINF:-1 tvg-id="" tvg-name="Canal Hollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1200px-HWD_logo.svg.png" group-title="CINE",Canal Hollywood
+http://azplay.ddns.me:33200/por/por123/29483
+#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-name="De Película" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Logo_De_Pelicula.png" group-title="CINE",De Película
+http://azplay.ddns.me:33200/por/por123/2624
+#EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-name="Europa Europa " tvg-logo="https://www.lincolnonline.com.ar/archivos/tv/184.png" group-title="CINE",Europa Europa 
+http://azplay.ddns.me:33200/por/por123/2626
+#EXTINF:-1 tvg-id="FilmArtsPanregional.us" tvg-name="Film & Arts HD" tvg-logo="http://1.bp.blogspot.com/_YkZZPo1aKZU/St0Z_LWhnvI/AAAAAAAALJw/mHFmlgr1Cf0/s400/film_arts.jpg" group-title="CINE",Film & Arts HD
+http://azplay.ddns.me:33200/por/por123/2627
+#EXTINF:-1 tvg-id="FXSouth.us" tvg-name="FX" tvg-logo="https://vignette.wikia.nocookie.net/iceagefanon/images/d/d7/Fx-logo.png/revision/latest?cb=20151205215619" group-title="CINE",FX
+http://azplay.ddns.me:33200/por/por123/30432
+#EXTINF:-1 tvg-id="FXSouth.us" tvg-name="FX HD" tvg-logo="https://vignette.wikia.nocookie.net/iceagefanon/images/d/d7/Fx-logo.png/revision/latest?cb=20151205215619" group-title="CINE",FX HD
+http://azplay.ddns.me:33200/por/por123/2636
+#EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-name="Golden Edge" tvg-logo="http://1.bp.blogspot.com/-3h0AASjOe10/VbVd3tZ5JrI/AAAAAAAAESA/uX-yz5HDPmA/s1600/GOLDEN%2BEDGE.png" group-title="CINE",Golden Edge
+http://azplay.ddns.me:33200/por/por123/2639
+#EXTINF:-1 tvg-id="AEPanregional.us" tvg-name="Golden Plus" tvg-logo="https://i.postimg.cc/Sxd9XyY0/gplus.png" group-title="CINE",Golden Plus
+http://azplay.ddns.me:33200/por/por123/2640
+#EXTINF:-1 tvg-id="AEPanregional.us" tvg-name="Golden Premier" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="CINE",Golden Premier
+http://azplay.ddns.me:33200/por/por123/49061
+#EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-name="HBO" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO
+http://azplay.ddns.me:33200/por/por123/7010
+#EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-name="HBO HD" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO HD
+http://azplay.ddns.me:33200/por/por123/2642
+#EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-name="HBO FHD" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO FHD
+http://azplay.ddns.me:33200/por/por123/2676
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO 2
+http://azplay.ddns.me:33200/por/por123/7011
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBO Family" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO Family
+http://azplay.ddns.me:33200/por/por123/7013
+#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="HBO Mundi " tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO Mundi 
+http://azplay.ddns.me:33200/por/por123/15618
+#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="HBO Mundi  HD" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO Mundi  HD
+http://azplay.ddns.me:33200/por/por123/30415
+#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="HBO Plus" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO Plus
+http://azplay.ddns.me:33200/por/por123/7012
+#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-name="HBO Pop " tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO Pop 
+http://azplay.ddns.me:33200/por/por123/15619
+#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-name="HBO Pop HD" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO Pop HD
+http://azplay.ddns.me:33200/por/por123/30416
+#EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.us" tvg-name="HBO Signature" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO Signature
+http://azplay.ddns.me:33200/por/por123/7014
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO Xtreme
+http://azplay.ddns.me:33200/por/por123/30625
+#EXTINF:-1 tvg-id="AMCPanregional.us" tvg-name="Movistar Cine" tvg-logo="" group-title="CINE",Movistar Cine
+http://azplay.ddns.me:33200/por/por123/2647
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Cinema 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="CINE",Netflix Cinema 2
+http://azplay.ddns.me:33200/por/por123/51452
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Cinema 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="CINE",Netflix Cinema 3
+http://azplay.ddns.me:33200/por/por123/51453
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Cinema 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="CINE",Netflix Cinema 4
+http://azplay.ddns.me:33200/por/por123/51454
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Cinema 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="CINE",Netflix Cinema 6
+http://azplay.ddns.me:33200/por/por123/51456
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Cinema 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="CINE",Netflix Cinema 7
+http://azplay.ddns.me:33200/por/por123/51457
+#EXTINF:-1 tvg-id="" tvg-name="Orbit TV" tvg-logo="http://dominicanchannels.com/wp-content/uploads/2014/10/orbit-tv-1.png" group-title="CINE",Orbit TV
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w863377332.m3u8
+#EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-name="Paramount Channel" tvg-logo="https://i.ya-webdesign.com/images/paramount-pictures-logo-png-14.png" group-title="CINE",Paramount Channel
+http://azplay.ddns.me:33200/por/por123/4884
+#EXTINF:-1 tvg-id="" tvg-name="Panico Tv" tvg-logo="https://i.ibb.co/1fCF2yZ/10449923-671832862898253-3650884333216094980-n.jpg" group-title="CINE",Panico Tv
+http://azplay.ddns.me:33200/por/por123/27625
+#EXTINF:-1 tvg-id="" tvg-name="Plex Movie" tvg-logo="https://i.postimg.cc/pXnNZzXr/plex.jpg" group-title="CINE",Plex Movie
+http://azplay.ddns.me:33200/por/por123/7002
+#EXTINF:-1 tvg-id="" tvg-name="Plex Retro" tvg-logo="https://i.postimg.cc/pXnNZzXr/plex.jpg" group-title="CINE",Plex Retro
+http://azplay.ddns.me:33200/por/por123/7003
+#EXTINF:-1 tvg-id="StarChannelChile.cl" tvg-name="Star Channel" tvg-logo="https://i.postimg.cc/Y0KsKMk5/st-ch.png" group-title="CINE",Star Channel
+http://azplay.ddns.me:33200/por/por123/7015
+#EXTINF:-1 tvg-id="StarChannelChile.cl" tvg-name="Star Channel FHD" tvg-logo="https://i.postimg.cc/Y0KsKMk5/st-ch.png" group-title="CINE",Star Channel FHD
+http://azplay.ddns.me:33200/por/por123/2671
+#EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-name="Sony " tvg-logo="https://la.sonychannel.com/sites/all/themes/responsive/responsive_sony_channel/logo.png" group-title="CINE",Sony 
+http://azplay.ddns.me:33200/por/por123/2648
+#EXTINF:-1 tvg-id="SpacePanregional.us" tvg-name="Space HD" tvg-logo="https://3.bp.blogspot.com/-ifCagZ77nfw/W6ls2LsJInI/AAAAAAAAAN0/_I_JmomLjTQi9WTGmoACu3q4mRNmJW03wCPcBGAYYCw/s1600/space.png" group-title="CINE",Space HD
+http://azplay.ddns.me:33200/por/por123/2649
+#EXTINF:-1 tvg-id="SpacePanregional.us" tvg-name="Space FHD" tvg-logo="https://3.bp.blogspot.com/-ifCagZ77nfw/W6ls2LsJInI/AAAAAAAAAN0/_I_JmomLjTQi9WTGmoACu3q4mRNmJW03wCPcBGAYYCw/s1600/space.png" group-title="CINE",Space FHD
+http://azplay.ddns.me:33200/por/por123/2679
+#EXTINF:-1 tvg-id="StudioUniversalSouth.us" tvg-name="Studio Universal HD" tvg-logo="http://3.bp.blogspot.com/-KDeHIqXKzfQ/ThNLgA6wOlI/AAAAAAAAPyE/W9XoHa0HkuU/s1600/studiouniversal.png" group-title="CINE",Studio Universal HD
+http://azplay.ddns.me:33200/por/por123/30627
+#EXTINF:-1 tvg-id="SyfyPanregional.us" tvg-name="Syfy" tvg-logo="https://www.ad-plus.com/v2017/wp-content/uploads/2017/06/Syfy_w.png" group-title="CINE",Syfy
+http://azplay.ddns.me:33200/por/por123/2660
+#EXTINF:-1 tvg-id="" tvg-name="Showtime 1" tvg-logo="https://static.wixstatic.com/media/e72c62_f88f950900fe4505b0a725a0382045c9~mv2.png" group-title="CINE",Showtime 1
+http://azplay.ddns.me:33200/por/por123/14135
+#EXTINF:-1 tvg-id="" tvg-name="Showtime West " tvg-logo="https://static.wixstatic.com/media/e72c62_f88f950900fe4505b0a725a0382045c9~mv2.png" group-title="CINE",Showtime West 
+http://azplay.ddns.me:33200/por/por123/14717
+#EXTINF:-1 tvg-id="" tvg-name="Showtime Beyond" tvg-logo="https://static.wixstatic.com/media/e72c62_f88f950900fe4505b0a725a0382045c9~mv2.png" group-title="CINE",Showtime Beyond
+http://azplay.ddns.me:33200/por/por123/30725
+#EXTINF:-1 tvg-id="" tvg-name="Showtime East " tvg-logo="https://static.wixstatic.com/media/e72c62_f88f950900fe4505b0a725a0382045c9~mv2.png" group-title="CINE",Showtime East 
+http://azplay.ddns.me:33200/por/por123/30726
+#EXTINF:-1 tvg-id="" tvg-name="Showtime Extreme " tvg-logo="https://static.wixstatic.com/media/e72c62_f88f950900fe4505b0a725a0382045c9~mv2.png" group-title="CINE",Showtime Extreme 
+http://azplay.ddns.me:33200/por/por123/30727
+#EXTINF:-1 tvg-id="" tvg-name="Starz Classic " tvg-logo="http://digipalms.com/images/starz-logo.png" group-title="CINE",Starz Classic 
+http://azplay.ddns.me:33200/por/por123/2655
+#EXTINF:-1 tvg-id="" tvg-name="Starz Comedy " tvg-logo="http://digipalms.com/images/starz-logo.png" group-title="CINE",Starz Comedy 
+http://azplay.ddns.me:33200/por/por123/2651
+#EXTINF:-1 tvg-id="" tvg-name="Starz Edge " tvg-logo="http://digipalms.com/images/starz-logo.png" group-title="CINE",Starz Edge 
+http://azplay.ddns.me:33200/por/por123/2652
+#EXTINF:-1 tvg-id="" tvg-name="Starz Kids & Family " tvg-logo="http://digipalms.com/images/starz-logo.png" group-title="CINE",Starz Kids & Family 
+http://azplay.ddns.me:33200/por/por123/2653
+#EXTINF:-1 tvg-id="" tvg-name="Starz Oeste HD" tvg-logo="http://digipalms.com/images/starz-logo.png" group-title="CINE",Starz Oeste HD
+http://azplay.ddns.me:33200/por/por123/6886
+#EXTINF:-1 tvg-id="" tvg-name="Starz Suspense " tvg-logo="http://digipalms.com/images/starz-logo.png" group-title="CINE",Starz Suspense 
+http://azplay.ddns.me:33200/por/por123/2656
+#EXTINF:-1 tvg-id="" tvg-name="Starz Western HD" tvg-logo="http://digipalms.com/images/starz-logo.png" group-title="CINE",Starz Western HD
+http://azplay.ddns.me:33200/por/por123/2657
+#EXTINF:-1 tvg-id="TBSSouth.us" tvg-name="TBS Very Funny " tvg-logo="https://www.ushuaiavision.com.ar/images/canales/tbs.png" group-title="CINE",TBS Very Funny 
+http://azplay.ddns.me:33200/por/por123/2661
+#EXTINF:-1 tvg-id="TCMSouth.us" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CINE",TCM
+http://azplay.ddns.me:33200/por/por123/2662
+#EXTINF:-1 tvg-id="TNTSouth.us" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="CINE",TNT
+http://azplay.ddns.me:33200/por/por123/6350
+#EXTINF:-1 tvg-id="TNTSouth.us" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="CINE",TNT HD
+http://azplay.ddns.me:33200/por/por123/2663
+#EXTINF:-1 tvg-id="TNTSeriesSouth.us" tvg-name="TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TNT_Serie_Logo_2016.png" group-title="CINE",TNT Series
+http://azplay.ddns.me:33200/por/por123/7053
+#EXTINF:-1 tvg-id="TNTSeriesSouth.us" tvg-name="TNT Series FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TNT_Serie_Logo_2016.png" group-title="CINE",TNT Series FHD
+http://azplay.ddns.me:33200/por/por123/2681
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Kidz" tvg-logo="https://i.postimg.cc/YCwmfMmq/hqdefault.jpg" group-title="CINE",Ultra Kidz
+http://azplay.ddns.me:33200/por/por123/23668
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Cine " tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraCine_NLogo.png" group-title="CINE",Ultra Cine 
+http://azplay.ddns.me:33200/por/por123/5688
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Familia " tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraFamilia_NLogo.png" group-title="CINE",Ultra Familia 
+http://azplay.ddns.me:33200/por/por123/5691
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Film " tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraFilm_NLogo.png" group-title="CINE",Ultra Film 
+http://azplay.ddns.me:33200/por/por123/5687
+#EXTINF:-1 tvg-id="UniversalTVSouth.us" tvg-name="Universal Channel" tvg-logo="http://1.bp.blogspot.com/-vZ7-rkLTaQA/TgeZExzxYcI/AAAAAAAABpM/ZtVIi2OJm2o/s1600/Universal+Channel+logo+2010.png" group-title="CINE",Universal Channel
+http://azplay.ddns.me:33200/por/por123/7051
+#EXTINF:-1 tvg-id="" tvg-name="Universal Cinema" tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png" group-title="CINE",Universal Cinema
+http://azplay.ddns.me:33200/por/por123/50467
+#EXTINF:-1 tvg-id="" tvg-name="Universal Crime" tvg-logo="https://www.universalplus.com/assets/logo_crime_hero.png" group-title="CINE",Universal Crime
+http://azplay.ddns.me:33200/por/por123/50468
+#EXTINF:-1 tvg-id="I505.19787.schedulesdirect.org" tvg-name="Universal Crime 2" tvg-logo="https://www.universalplus.com/assets/logo_crime_hero.png" group-title="CINE",Universal Crime 2
+http://azplay.ddns.me:33200/por/por123/2637
+#EXTINF:-1 tvg-id="" tvg-name="Universal Comedy" tvg-logo="https://www.universalplus.com/assets/logo_comedy_hero.png" group-title="CINE",Universal Comedy
+http://azplay.ddns.me:33200/por/por123/50469
+#EXTINF:-1 tvg-id="" tvg-name="Universal Premiere" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" group-title="CINE",Universal Premiere
+http://azplay.ddns.me:33200/por/por123/50470
+#EXTINF:-1 tvg-id="" tvg-name="Universal Reality" tvg-logo="https://www.universalplus.com/assets/logo_reality_hero.png" group-title="CINE",Universal Reality
+http://azplay.ddns.me:33200/por/por123/50466
+#EXTINF:-1 tvg-id="WarnerChannelSouth.us" tvg-name="Warner Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="CINE",Warner Channel
+http://azplay.ddns.me:33200/por/por123/7049
+#EXTINF:-1 tvg-id="WarnerChannelSouth.us" tvg-name="Warner Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="CINE",Warner Channel HD
+http://azplay.ddns.me:33200/por/por123/2666
+#EXTINF:-1 tvg-id="WarnerChannelSouth.us" tvg-name="Warner Channel FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="CINE",Warner Channel FHD
+http://azplay.ddns.me:33200/por/por123/7050
+#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-name="Animal Planet" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/animal_planet.png" group-title="CULTURA",Animal Planet
+http://azplay.ddns.me:33200/por/por123/2454
+#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-name="Animal Planet FHD" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/animal_planet.png" group-title="CULTURA",Animal Planet FHD
+http://azplay.ddns.me:33200/por/por123/2685
+#EXTINF:-1 tvg-id="" tvg-name="CGTN en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="CULTURA",CGTN en Español
+http://azplay.ddns.me:33200/por/por123/6
+#EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-name="Discovery Channel" tvg-logo="http://img1.wikia.nocookie.net/__cb20141027100430/logopedia/images/b/bd/Discovery_Channel_logo.png" group-title="CULTURA",Discovery Channel
+http://azplay.ddns.me:33200/por/por123/2455
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Familia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Discovery_Familia_logo_%282%29.svg/1200px-Discovery_Familia_logo_%282%29.svg.png" group-title="CULTURA",Discovery Familia
+http://azplay.ddns.me:33200/por/por123/37281
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthSouth.us" tvg-name="Discovery Home & Health" tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/h_h-logo-01.png" group-title="CULTURA",Discovery Home & Health
+http://azplay.ddns.me:33200/por/por123/2457
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthSouth.us" tvg-name="Discovery Home & Health HD" tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/h_h-logo-01.png" group-title="CULTURA",Discovery Home & Health HD
+http://azplay.ddns.me:33200/por/por123/2687
+#EXTINF:-1 tvg-id="InvestigationDiscoverySouth.us" tvg-name="Discovery Investigation " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Idlogo2016.png" group-title="CULTURA",Discovery Investigation 
+http://azplay.ddns.me:33200/por/por123/30608
+#EXTINF:-1 tvg-id="InvestigationDiscoverySouth.us" tvg-name="Discovery Investigation HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Idlogo2016.png" group-title="CULTURA",Discovery Investigation HD
+http://azplay.ddns.me:33200/por/por123/2458
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us" tvg-name="Discovery Science " tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-discovery-science.png" group-title="CULTURA",Discovery Science 
+http://azplay.ddns.me:33200/por/por123/30609
+#EXTINF:-1 tvg-id="DiscoveryTheaterLatinAmerica.us" tvg-name="Discovery Theater" tvg-logo="https://vignette.wikia.nocookie.net/tvcable/images/b/b4/LOGO_THEATER_BLACK1.png/revision/latest?cb=20150325154716&path-prefix=es" group-title="CULTURA",Discovery Theater
+http://azplay.ddns.me:33200/por/por123/38519
+#EXTINF:-1 tvg-id="TLCArgentina.ar" tvg-name="Discovery TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/800px-TLC_Logo_Germany.svg.png" group-title="CULTURA",Discovery TLC
+http://azplay.ddns.me:33200/por/por123/2461
+#EXTINF:-1 tvg-id="TLCArgentina.ar" tvg-name="Discovery TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/800px-TLC_Logo_Germany.svg.png" group-title="CULTURA",Discovery TLC HD
+http://azplay.ddns.me:33200/por/por123/2689
+#EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" group-title="CULTURA",Discovery Turbo
+http://azplay.ddns.me:33200/por/por123/2462
+#EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-name="Discovery Turbo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" group-title="CULTURA",Discovery Turbo HD
+http://azplay.ddns.me:33200/por/por123/2690
+#EXTINF:-1 tvg-id="DiscoveryWorldPanregional.us" tvg-name="Discovery World " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="CULTURA",Discovery World 
+http://azplay.ddns.me:33200/por/por123/30610
+#EXTINF:-1 tvg-id="DiscoveryWorldPanregional.us" tvg-name="Discovery World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="CULTURA",Discovery World HD
+http://azplay.ddns.me:33200/por/por123/4891
+#EXTINF:-1 tvg-id="History2Panregional.us" tvg-name="H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="CULTURA",H2
+http://azplay.ddns.me:33200/por/por123/2463
+#EXTINF:-1 tvg-id="HistorySouth.us" tvg-name="History" tvg-logo="https://i.postimg.cc/C57MNtWL/histiry.png" group-title="CULTURA",History
+http://azplay.ddns.me:33200/por/por123/7062
+#EXTINF:-1 tvg-id="HistorySouth.us" tvg-name="History HD" tvg-logo="https://i.postimg.cc/C57MNtWL/histiry.png" group-title="CULTURA",History HD
+http://azplay.ddns.me:33200/por/por123/2464
+#EXTINF:-1 tvg-id="HistorySouth.us" tvg-name="History FHD" tvg-logo="https://i.postimg.cc/C57MNtWL/histiry.png" group-title="CULTURA",History FHD
+http://azplay.ddns.me:33200/por/por123/2691
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://i.ibb.co/yFWQjGt/descarga.png" group-title="CULTURA",HGTV
+http://azplay.ddns.me:33200/por/por123/30822
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature HD" tvg-logo="https://2.bp.blogspot.com/-WXbh7TcBGoo/W4WLHuVLzLI/AAAAAAABLvM/yUaNuY9jgaQ1tm44c1x_ScT0A3U15oudQCLcBGAs/s1600/brand_love-nature.jpg" group-title="CULTURA",Love Nature HD
+http://azplay.ddns.me:33200/por/por123/51512
+#EXTINF:-1 tvg-id="NationalGeographicSouth.us" tvg-name="National Geographic (op.1)" tvg-logo="https://i.ibb.co/gzxhzPf/2560px-National-Geographic-Logo-svg.png" group-title="CULTURA",National Geographic (op.1)
+http://azplay.ddns.me:33200/por/por123/2465
+#EXTINF:-1 tvg-id="NationalGeographicWildPanregional.us" tvg-name="Nat Geo WILD" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/nat_geo_wild.png" group-title="CULTURA",Nat Geo WILD
+http://azplay.ddns.me:33200/por/por123/2466
+
+
+
 #EXTINF:-1 tvg-id="AMC.mx" tvg-name="Cine TV: AMC (MOVIL)" tvg-logo="http://tvgo.re:8080/images/1a1cbf36d2ae966793cb9b3a3dc45413.png" group-title="LAT - Cine TV",Cine TV: AMC (MOVIL)
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/64722
 #EXTINF:-1 tvg-id="amchd.co" tvg-name="Cine TV: AMC (CO)" tvg-logo="https://static.epg.best/mx/AMC.mx.png" group-title="LAT - Cine TV",Cine TV: AMC (CO)
