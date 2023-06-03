@@ -1,223 +1,146 @@
-#EXTINF:-1,Marvel P
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/182986
-#EXTINF:-1,Disney Live
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/182945
-#EXTINF:-1,Terror P
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/183000
+#EXTINF:-1,STAR
+http://181.78.8.90:16123/play/ch07
+#EXTINF:-1,FX
+http://181.78.8.90:16123/play/ch08
+#EXTINF:-1,EUROCHANNEL
+http://181.78.8.90:16123/play/ch09
+#EXTINF:-1,CINECANAL
+http://181.78.8.90:16123/play/ch10
+#EXTINF:-1,FILM & ARTES
+http://181.78.8.90:16123/play/ch11
+#EXTINF:-1,CINEMA+
+http://181.78.8.90:16123/play/ch12a
+#EXTINF:-1,TBS
+http://181.78.8.90:16123/play/ch12
+#EXTINF:-1,AMC
+http://181.78.8.90:16123/play/ch13
+#EXTINF:-1,DHE
+http://181.78.8.90:16123/play/ch14
+#EXTINF:-1,CONEXION
+http://181.78.8.90:16123/play/ch15
 
-#EXTINF:-1,UNIVERSAL REALITY HD
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/156820
-#EXTINF:-1,SD | HBO 2
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/156903
-#EXTINF:-1,SD | HBO XTREME SD
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/156907
-#EXTINF:-1,History Channel
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/156908
-#EXTINF:-1,Home and Health
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/156909
-#EXTINF:-1,SD | TLC
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/156923
-
-#EXTINF:-1,SD | Las Estrellas
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/90123
-#EXTINF:-1,SD | AXN
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/90125
-#EXTINF:-1,SD | E!
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/90127
-#EXTINF:-1,SD | Gourmet
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/90131
-#EXTINF:-1,SD | Glitz
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/90132
-#EXTINF:-1,SD | Mas Chic
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/90135
-#EXTINF:-1,SD | SYFY
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/90136
-#EXTINF:-1,SD | TCM
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/90138
-#EXTINF:-1,SD | Unicable
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/90139
-#EXTINF:-1,SD | Animal planet
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/90140
-#EXTINF:-1,SD | Discovery ID
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/90143
-
-
-#EXTINF:-1,ANIMAL PLANET FHD
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/117254
-#EXTINF:-1,DISCOVERY ID
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/47863
-#EXTINF:-1,DISCOVERY CHANNEL
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/117245
-#EXTINF:-1,DISCOVERY WORLD
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/117246
-#EXTINF:-1,DISCOVERY TURBO
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/117247
-#EXTINF:-1,DISCOVERY THEATER
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/117248
-#EXTINF:-1,DISCOVERY SCIENCE
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/117249
-#EXTINF:-1,DISCOVERY HOME & HEALTH
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/117250
-#EXTINF:-1,HISTORY
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/117252
-#EXTINF:-1,HISTORY 2
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/117257
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/117253
-#EXTINF:-1,HGTV
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/117255
+#EXTINF:-1,DISCOVERY
+http://181.78.8.90:16123/play/ch22
+#EXTINF:-1,ID
+http://181.78.8.90:16123/play/ch23
+#EXTINF:-1,TURBO
+http://181.78.8.90:16123/play/ch24
+#EXTINF:-1,DISCOVERY H&H
+http://181.78.8.90:16123/play/ch25
 #EXTINF:-1,TLC
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/117256
-#EXTINF:-1,LIFETIME HD
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/117258
+http://181.78.8.90:16123/play/ch26
+#EXTINF:-1,EL GOURMET
+http://181.78.8.90:16123/play/ch27
+#EXTINF:-1,FOOD NETWORK
+http://181.78.8.90:16123/play/ch28
+#EXTINF:-1,ANIMAL PLANET
+http://181.78.8.90:16123/play/ch29
+#EXTINF:-1,NATGEO
+http://181.78.8.90:16123/play/ch30
+#EXTINF:-1,AGROTENDENCIA
+http://181.78.8.90:16123/play/ch31
+#EXTINF:-1,CGTN
+http://181.78.8.90:16123/play/ch32
+#EXTINF:-1,MAS CHIC
+http://181.78.8.90:16123/play/ch33
+#EXTINF:-1,GLITZ
+http://181.78.8.90:16123/play/ch34
+#EXTINF:-1,PASIONES
+http://181.78.8.90:16123/play/ch35
+#EXTINF:-1,VE PLUS
+http://181.78.8.90:16123/play/ch36
+#EXTINF:-1,TELEISLAS
+http://181.78.8.90:16123/play/ch37
+#EXTINF:-1,ENLACE
+http://181.78.8.90:16123/play/ch38
+#EXTINF:-1,CRISTOVISION
+http://181.78.8.90:16123/play/ch39
+#EXTINF:-1,EWTN
+http://181.78.8.90:16123/play/ch40
+#EXTINF:-1,LA KALLE
+http://181.78.8.90:16123/play/ch41
+#EXTINF:-1,EL TIEMPO
+http://181.78.8.90:16123/play/ch42
+#EXTINF:-1,FRANCE 24
+http://181.78.8.90:16123/play/a069
+#EXTINF:-1,LAS ESTRELLAS
+http://181.78.8.90:16123/play/ch44
+#EXTINF:-1,TLNOVELAS
+http://181.78.8.90:16123/play/ch45
+#EXTINF:-1,GOLDEN
+http://181.78.8.90:16123/play/ch46
+#EXTINF:-1,GOLDEN EDGE
+http://181.78.8.90:16123/play/ch47
+#EXTINF:-1,SUN CHANNEL
+http://181.78.8.90:16123/play/ch48
+#EXTINF:-1,CINE PREMIUM
+http://181.78.8.90:16123/play/ch49
+#EXTINF:-1,LOVE NATURE
+http://181.78.8.90:16123/play/ch50
+#EXTINF:-1,CINE HISPANO
+http://181.78.8.90:16123/play/ch51
+#EXTINF:-1,CINE FAMILIAR
+http://181.78.8.90:16123/play/ch52
+#EXTINF:-1,MIMUSICA REGAETON
+http://181.78.8.90:16123/play/ch53
+#EXTINF:-1,MIMUSICA ROMANTICA
+http://181.78.8.90:16123/play/ch54
+#EXTINF:-1,MIMUSICA SALSA
+http://181.78.8.90:16123/play/ch55
+#EXTINF:-1,MIMUSICA POPULAR
+http://181.78.8.90:16123/play/ch56
+#EXTINF:-1,DEPELICULA
+http://181.78.8.90:16123/play/ch57
+#EXTINF:-1,CARACOL
+http://181.78.8.90:16123/play/ch58
+#EXTINF:-1,RCN
+http://181.78.8.90:16123/play/ch59
+#EXTINF:-1,TELECARIBE
+http://181.78.8.90:16123/play/ch60
+#EXTINF:-1,SENAL COLOMBIA
+http://181.78.8.90:16123/play/ch61
+#EXTINF:-1,INSTITUCIONAL
+http://181.78.8.90:16123/play/ch62
+#EXTINF:-1,CANAL 1
+http://181.78.8.90:16123/play/ch63
+#EXTINF:-1,TRECE
+http://181.78.8.90:16123/play/ch64
+#EXTINF:-1,TELEANTIOQUIA
+http://181.78.8.90:16123/play/ch65
+#EXTINF:-1,TELEPACIFICO
+http://181.78.8.90:16123/play/ch66
+#EXTINF:-1,TELECAFE
+http://181.78.8.90:16123/play/ch67
+#EXTINF:-1,TRO
+http://181.78.8.90:16123/play/ch68
+#EXTINF:-1,CONGRESO
+http://181.78.8.90:16123/play/ch69
+#EXTINF:-1,CAPITAL
+http://181.78.8.90:16123/play/ch70
+#EXTINF:-1,zoom
+http://181.78.8.90:16123/play/ch71
+#EXTINF:-1,TELEMEDELLIN
+http://181.78.8.90:16123/play/ch73
+#EXTINF:-1,CARTOONITO
+http://181.78.8.90:16123/play/a06a
+#EXTINF:-1,ESPN EXTRA HD
+http://181.78.8.90:16123/play/a064
+#EXTINF:-1,HTV
+http://181.78.8.90:16123/play/a08x
+#EXTINF:-1,ISAT
+http://181.78.8.90:16123/play/711
+#EXTINF:-1,MIGENTE
+http://181.78.8.90:16123/play/a06b
+#EXTINF:-1,Space HD
+http://181.78.8.90:16123/play/a066
+#EXTINF:-1,TNT
+http://181.78.8.90:16123/play/a08i
+#EXTINF:-1,TNT Series HD
+http://181.78.8.90:16123/play/a067
 #EXTINF:-1,TRU TV
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/129467
-#EXTINF:-1,COMEDY CENTRAL HD
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/129473
-#EXTINF:-1,E! ENTERTAINMENT HD
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/129476
-#EXTINF:-1,EL GOURMET HD
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/129477
-#EXTINF:-1,DISCOVERY FAMILIA
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/129481
-#EXTINF:-1,MAS CHIC MEXICO HD
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/129485
-#EXTINF:-1,TBS MEXICO FHD
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/129486
-#EXTINF:-1,IBERALIA TV
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/99791
-
-#EXTINF:-1,DISCOVERY HD
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/159602
-#EXTINF:-1,DISCOVERY SD
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/159603
-#EXTINF:-1,DISCOVERY FAMILIA HD
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/159604
-#EXTINF:-1,DISCOVERY HOME AND HEALTH FHD
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/159606
-#EXTINF:-1,DISCOVERY ID HD
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/159608
-#EXTINF:-1,TLC FHD
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/159609
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/159611
-#EXTINF:-1,DISCOVERY THEATER  FHD
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/159614
-#EXTINF:-1,DISCOVERY THEATER FHD
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/159616
-#EXTINF:-1,DISCOVERY TURBO FHD
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/159617
-#EXTINF:-1,DISCOVERY WORLD FHD
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/159619
-#EXTINF:-1,TRUTV SD
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/159622
-#EXTINF:-1,ANIMAL PLANET HD
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/159626
-#EXTINF:-1,ANIMAL PLANET SD
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/159627
-#EXTINF:-1,COCINA HD
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/159629
-#EXTINF:-1,COMEDY CENTRAL FHD
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/159630
-#EXTINF:-1,NatGeo
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/183384
-
-#EXTINF:-1,CINE | STAR CHANNEL
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149687
-#EXTINF:-1,CINE | AMC
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149688
-#EXTINF:-1,CINE | CINECANAL
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149689
-#EXTINF:-1,CINE | CINEMAX
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149690
-#EXTINF:-1,CINE | PARAMOUNT
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149692
-#EXTINF:-1,CINE | SONY CHANNEL
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149693
-#EXTINF:-1,CINE |  SPACE
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149694
-#EXTINF:-1,CINE |  STUDIO UNIVERSAL
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149696
-#EXTINF:-1,CINE |  SYFY
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149697
-#EXTINF:-1,CINE |  GOLDEN PLUS
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149698
-#EXTINF:-1,CINE |  TNT
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149700
-#EXTINF:-1,CINE |  TNT SERIES
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149701
-#EXTINF:-1,CINE |  UNIVERSAL
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149702
-#EXTINF:-1,CINE |  UNIVERSAL COMEDY FHD
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149703
-#EXTINF:-1,CINE |  UNIVERSAL CRIME
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149704
-#EXTINF:-1,CINE |  UNIVERSAL PREMIERE FHD
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149705
-#EXTINF:-1,CINE |  UNIVERSAL CINEMA
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149706
-#EXTINF:-1,CINE |  WARNER
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149707
-#EXTINF:-1,CINE | AZ CINEMA
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149708
-#EXTINF:-1,CINE | CINE LATINO
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149709
-#EXTINF:-1,CINE | CLARO CINEMA
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149710
-#EXTINF:-1,CINE | DE PELICULA
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149711
-#EXTINF:-1,CINE | DHE
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149712
-#EXTINF:-1,CINE | EUROPA EUROPA
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149713
-#EXTINF:-1,CINE | FX
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149715
-#EXTINF:-1,CINE | HBO
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149716
-#EXTINF:-1,CINE | HBO 2
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149717
-#EXTINF:-1,CINE | HBO FAMILY
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149718
-#EXTINF:-1,CINE | HBO MUNDI
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149719
-#EXTINF:-1,CINE | HBO PLUS
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149720
-#EXTINF:-1,CINE | HBO POP
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149721
-#EXTINF:-1,CINE | HBO SIGNATURE
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149722
-#EXTINF:-1,CINE | HBO EXTREME
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149723
-#EXTINF:-1,CINE | ISAT
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149724
-#EXTINF:-1,CINE | MULTIPREMIER
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149725
-#EXTINF:-1,CINE |  TBS
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149726
-#EXTINF:-1,CINE |  TCM
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149727
-#EXTINF:-1,CINE |  GOLDEN
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149728
-#EXTINF:-1,CINE |  GOLDEN EDGE
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149729
-#EXTINF:-1,CINE |  GOLDEN PREMIERE
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/149730
-#EXTINF:-1,CINE | A&E
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/150542
-#EXTINF:-1,CSI EN ESPAÑOL
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/156335
-#EXTINF:-1,CSI MIAMI EN ESPAÑOL
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/156425
-#EXTINF:-1,CINE TERROR
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/156203
-#EXTINF:-1,CINE XOXO
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/156292
-#EXTINF:-1,CINE | SONY MOVIES
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/157005
-#EXTINF:-1,SyFy
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/162794
-#EXTINF:-1,Warner Channel
-http://arboltv.xyz:8080/D2qUU8hC7s/JbLCFmeucPxd/183434
+http://181.78.8.90:16123/play/ch75
+#EXTINF:-1,Tooncast
+http://181.78.8.90:16123/play/a068
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
