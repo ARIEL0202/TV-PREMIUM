@@ -1,3 +1,69 @@
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Estrenos 2022 HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Estrenos 2022 HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/63827
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Estrenos 2023 HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Estrenos 2023 HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/63850
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Accion HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Accion HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/63798
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Animadas HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Animadas HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/63810
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Artes Marciales HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Artes Marciales HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/68300
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Aventura HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Aventura HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/63824
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Biográficas HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Biográficas HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/65216
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Boxing HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Boxing HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/68447
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Brujas HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Brujas HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/56291
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Bélico HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Bélico HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/64893
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Cantinflas" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Cantinflas
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/62833
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Ciencia Ficcion HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Ciencia Ficcion HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/63825
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Clásicas HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Clásicas HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/64921
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Comedia HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Comedia HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/63826
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema DC Comics HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema DC Comics HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/56300
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema DC Film HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema DC Film HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/56299
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Drama HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Drama HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/63803
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Extraterrestres HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Extraterrestres HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/56288
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Gigantes HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Gigantes HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/56294
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema La India Maria HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema La India Maria HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/63094
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema LEGO HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema LEGO HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/56301
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Marvel Studios HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Marvel Studios HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/56298
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Momias HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Momias HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/56290
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Pedro Infante" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Pedro Infante
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/23247
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Robots HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Robots HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/56284
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Suspenso" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Suspenso
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/65439
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Terror HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Terror HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/63839
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Vampiros HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Vampiros HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/56296
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Viajes en el tiempo" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Viajes en el tiempo
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/65221
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Wéstern HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Wéstern HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/65215
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Zombies HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Zombies HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/56286
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PELICULAS 4K" tvg-logo="http://www.iptbest.xyz/logo/canal4k.png" group-title="4K Channels",CANAL PELICULAS 4K
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/90087
+
+
 #EXTINF:-1,STAR
 http://181.78.8.90:16123/play/ch07
 #EXTINF:-1,FX
