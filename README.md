@@ -1,75 +1,7 @@
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Estrenos 2022 HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Estrenos 2022 HD
-http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/63827
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Estrenos 2023 HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Estrenos 2023 HD
-http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/63850
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Accion HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Accion HD
-http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/63798
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Animadas HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Animadas HD
-http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/63810
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Artes Marciales HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Artes Marciales HD
-http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/68300
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Aventura HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Aventura HD
-http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/63824
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Biográficas HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Biográficas HD
-http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/65216
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Boxing HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Boxing HD
-http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/68447
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Brujas HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Brujas HD
-http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/56291
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Bélico HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Bélico HD
-http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/64893
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Cantinflas" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Cantinflas
-http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/62833
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Ciencia Ficcion HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Ciencia Ficcion HD
-http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/63825
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Clásicas HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Clásicas HD
-http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/64921
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Comedia HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Comedia HD
-http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/63826
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema DC Comics HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema DC Comics HD
-http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/56300
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema DC Film HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema DC Film HD
-http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/56299
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Drama HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Drama HD
-http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/63803
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Extraterrestres HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Extraterrestres HD
-http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/56288
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Gigantes HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Gigantes HD
-http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/56294
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema La India Maria HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema La India Maria HD
-http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/63094
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema LEGO HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema LEGO HD
-http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/56301
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Marvel Studios HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Marvel Studios HD
-http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/56298
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Momias HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Momias HD
-http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/56290
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Pedro Infante" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Pedro Infante
-http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/23247
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Robots HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Robots HD
-http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/56284
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Suspenso" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Suspenso
-http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/65439
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Terror HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Terror HD
-http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/63839
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Vampiros HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Vampiros HD
-http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/56296
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Viajes en el tiempo" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Viajes en el tiempo
-http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/65221
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Wéstern HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Wéstern HD
-http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/65215
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Zombies HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Zombies HD
-http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/56286
-#EXTINF:-1 tvg-id="" tvg-name="CANAL PELICULAS 4K" tvg-logo="http://www.iptbest.xyz/logo/canal4k.png" group-title="4K Channels",CANAL PELICULAS 4K
-http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/90087
-
-
 #EXTINF:-1,STAR
 http://181.78.8.90:16123/play/ch07
 #EXTINF:-1,FX
 http://181.78.8.90:16123/play/ch08
-#EXTINF:-1,EUROCHANNEL
-http://181.78.8.90:16123/play/ch09
 #EXTINF:-1,CINECANAL
 http://181.78.8.90:16123/play/ch10
 #EXTINF:-1,CINEMA+
@@ -78,6 +10,22 @@ http://181.78.8.90:16123/play/ch12a
 http://181.78.8.90:16123/play/ch13
 #EXTINF:-1,DHE
 http://181.78.8.90:16123/play/ch14
+#EXTINF:-1,GOLDEN
+http://181.78.8.90:16123/play/ch46
+#EXTINF:-1,GOLDEN EDGE
+http://181.78.8.90:16123/play/ch47
+#EXTINF:-1,CINE PREMIUM
+http://181.78.8.90:16123/play/ch49
+#EXTINF:-1,TNT
+http://181.78.8.90:16123/play/a08i
+#EXTINF:-1,TNT SERIES
+http://181.78.8.90:16123/play/a067
+#EXTINF:-1,CINE HISPANO
+http://181.78.8.90:16123/play/ch51
+#EXTINF:-1,CINE FAMILIAR
+http://181.78.8.90:16123/play/ch52
+#EXTINF:-1,Tooncast
+http://181.78.8.90:16123/play/a068
 
 #EXTINF:-1,DISCOVERY
 http://181.78.8.90:16123/play/ch22
@@ -89,6 +37,11 @@ http://181.78.8.90:16123/play/ch24
 http://181.78.8.90:16123/play/ch25
 #EXTINF:-1,TLC
 http://181.78.8.90:16123/play/ch26
+#EXTINF:-1,SUN CHANNEL
+http://181.78.8.90:16123/play/ch48
+#EXTINF:-1,LOVE NATURE
+http://181.78.8.90:16123/play/ch50
+
 #EXTINF:-1,EL GOURMET
 http://181.78.8.90:16123/play/ch27
 #EXTINF:-1,FOOD NETWORK
@@ -103,92 +56,25 @@ http://181.78.8.90:16123/play/ch32
 http://181.78.8.90:16123/play/ch33
 #EXTINF:-1,GLITZ
 http://181.78.8.90:16123/play/ch34
-#EXTINF:-1,FRANCE 24
+#EXTINF:-1,TELESUR
 http://181.78.8.90:16123/play/a069
 #EXTINF:-1,LAS ESTRELLAS
 http://181.78.8.90:16123/play/ch44
 #EXTINF:-1,TLNOVELAS
 http://181.78.8.90:16123/play/ch45
-#EXTINF:-1,GOLDEN
-http://181.78.8.90:16123/play/ch46
-#EXTINF:-1,GOLDEN EDGE
-http://181.78.8.90:16123/play/ch47
-#EXTINF:-1,ESPN EXTRA HD
-http://181.78.8.90:16123/play/a064
-#EXTINF:-1,ISAT
-http://181.78.8.90:16123/play/711
-#EXTINF:-1,TNT
-http://181.78.8.90:16123/play/a08i
-#EXTINF:-1,A3 SERIES
-http://181.78.8.90:16123/play/a067
+
 #EXTINF:-1,RAI
 http://181.78.8.90:16123/play/ch75
-#EXTINF:-1,Tooncast
-http://181.78.8.90:16123/play/a068
-#EXTINF:-1,SUN CHANNEL
-http://181.78.8.90:16123/play/ch48
-#EXTINF:-1,CINE PREMIUM
-http://181.78.8.90:16123/play/ch49
-#EXTINF:-1,LOVE NATURE
-http://181.78.8.90:16123/play/ch50
-#EXTINF:-1,CINE HISPANO
-http://181.78.8.90:16123/play/ch51
-#EXTINF:-1,CINE FAMILIAR
-http://181.78.8.90:16123/play/ch52
-#EXTINF:-1,MIMUSICA REGAETON
-http://181.78.8.90:16123/play/ch53
 #EXTINF:-1,MIMUSICA ROMANTICA
 http://181.78.8.90:16123/play/ch54
 #EXTINF:-1,MIMUSICA SALSA
 http://181.78.8.90:16123/play/ch55
 #EXTINF:-1,MIMUSICA POPULAR
 http://181.78.8.90:16123/play/ch56
+#EXTINF:-1,MIMUSICA REGAETON
+http://181.78.8.90:16123/play/ch53
 #EXTINF:-1,DEPELICULA
 http://181.78.8.90:16123/play/ch57
-#EXTINF:-1,CARACOL
-http://181.78.8.90:16123/play/ch58
-#EXTINF:-1,RCN
-http://181.78.8.90:16123/play/ch59
-#EXTINF:-1,TELECARIBE
-http://181.78.8.90:16123/play/ch60
-#EXTINF:-1,SENAL COLOMBIA
-http://181.78.8.90:16123/play/ch61
-#EXTINF:-1,INSTITUCIONAL
-http://181.78.8.90:16123/play/ch62
-#EXTINF:-1,CANAL 1
-http://181.78.8.90:16123/play/ch63
-#EXTINF:-1,TRECE
-http://181.78.8.90:16123/play/ch64
-#EXTINF:-1,TELEANTIOQUIA
-http://181.78.8.90:16123/play/ch65
-#EXTINF:-1,TELEPACIFICO
-http://181.78.8.90:16123/play/ch66
-#EXTINF:-1,TELECAFE
-http://181.78.8.90:16123/play/ch67
-#EXTINF:-1,TRO
-http://181.78.8.90:16123/play/ch68
-#EXTINF:-1,CAPITAL
-http://181.78.8.90:16123/play/ch70
-#EXTINF:-1,zoom
-http://181.78.8.90:16123/play/ch71
-#EXTINF:-1,TELEMEDELLIN
-http://181.78.8.90:16123/play/ch73
-#EXTINF:-1,PASIONES
-http://181.78.8.90:16123/play/ch35
-#EXTINF:-1,VE PLUS
-http://181.78.8.90:16123/play/ch36
-#EXTINF:-1,TELEISLAS
-http://181.78.8.90:16123/play/ch37
-#EXTINF:-1,LA KALLE
-http://181.78.8.90:16123/play/ch41
-#EXTINF:-1,EL TIEMPO
-http://181.78.8.90:16123/play/ch42
-#EXTINF:-1,CONEXION
-http://181.78.8.90:16123/play/ch15
-#EXTINF:-1,MIGENTE
-http://181.78.8.90:16123/play/a06b
-#EXTINF:-1,AGROTENDENCIA
-http://181.78.8.90:16123/play/ch31
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
@@ -203,9 +89,6 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE", MY TIME MOVIES 2
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="138227" tvg-name="HOLA TV " tvg-logo="https://fotografias.antena3.com/clipping/cmsimages02/2014/01/13/54697E0F-8599-45F8-8DED-51FB09BD5AE3/58.jpg" group-title="00 - Argentina", HOLA TV 
-https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="84" tvg-name="T-Vinet" tvg-logo="https://lh3.googleusercontent.com/-EtM2JBuVazM/XxzIhLJW5PI/AAAAAAAA3YE/zmlykaL06y4tNI5JbuLPm-I1BSYsWCZYACK8BGAsYHg/s0/2020-07-25.png", T-Vinet | CL    
 https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/playlist.m3u8?PlaylistM3UCL
