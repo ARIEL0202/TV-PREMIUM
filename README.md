@@ -1,6 +1,3 @@
-#EXTINF:-1 tvg-id="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" tvg-name="ESPN PRE" group-title="DEPORTE",ESPN PRE
-http://redima.pro:8880/1234567/1234567/367
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" tvg-name="ESPN" group-title="DEPORTE",ESPN
 http://redima.pro:8880/1234567/1234567/317
 
@@ -15,6 +12,9 @@ http://redima.pro:8880/1234567/1234567/327
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" tvg-name="ESPN MX" group-title="DEPORTE",ESPN MX
 http://redima.pro:8880/1234567/1234567/1003
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" tvg-name="ESPN PRE" group-title="DEPORTE",ESPN PRE
+http://redima.pro:8880/1234567/1234567/367
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" tvg-name="GOL TV ECU" group-title="DEPORTE",GOL TV ECU
 http://redima.pro:8880/1234567/1234567/569
@@ -166,13 +166,10 @@ https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/playlist.m3u8?PlaylistM3UCL
 
 ----------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/363/541/png-transparent-telemundo-internacional-logo-wkaq-tv-others-television-blue-text.png" tvg-name="Telemundo HD" group-title="VARIOS",Telemundo HD
-http://redima.pro:8880/1234567/1234567/1042
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" tvg-name="OROMAR" group-title="VARIOS",OROMAR
+http://redima.pro:8880/1234567/1234567/466
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/es/BabyTV.es.png" tvg-name="UNIVISION" group-title="VARIOS",UNIVISION
-http://redima.pro:8880/1234567/1234567/389
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png" tvg-name="TELESUR" group-title="VARIOS",TELESUR
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png" tvg-name="ATV" group-title="VARIOS",ATV
 http://redima.pro:8880/1234567/1234567/446
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" tvg-name="RT" group-title="VARIOS",RT
@@ -184,7 +181,7 @@ http://redima.pro:8880/1234567/1234567/300
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.caracolinternacional.com/static/media/CARACOLTV_LOGO_WEB.27d59d62.png" tvg-name="CARACOL INTERNACIONAL" group-title="VARIOS",CARACOL INTERNACIONAL
 http://redima.pro:8880/1234567/1234567/423
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/co/RCNNovelas.co.png" tvg-name="RCN NOVELA HD" group-title="VARIOS",RCN NOVELA HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/co/RCNNovelas.co.png" tvg-name="RCN NOVELA HD" group-title="VARIOS",RCN NOVELA 
 http://redima.pro:8880/1234567/1234567/414
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/125px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" tvg-name="NTN24" group-title="VARIOS",NTN24
@@ -193,10 +190,10 @@ http://redima.pro:8880/1234567/1234567/419
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mx/NickJr.mx.png" tvg-name="INTI" group-title="VARIOS",INTI
 http://redima.pro:8880/1234567/1234567/392
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1280px-Logo_Ecuavisa.svg.png" tvg-name="ECUAVISA 2" group-title="VARIOS",ECUAVISA 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1280px-Logo_Ecuavisa.svg.png" tvg-name="ECUAVISA" group-title="VARIOS",ECUAVISA
 http://redima.pro:8880/1234567/1234567/448
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" tvg-name="TELEAMAZONAS 1" group-title="VARIOS",TELEAMAZONAS 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" tvg-name="TELEAMAZONAS 1" group-title="VARIOS",TELEAMAZONAS 
 http://redima.pro:8880/1234567/1234567/451
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" tvg-name="TC" group-title="VARIOS",TC
@@ -204,9 +201,6 @@ http://redima.pro:8880/1234567/1234567/461
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" tvg-name="GAMA TV" group-title="VARIOS",GAMA TV
 http://redima.pro:8880/1234567/1234567/463
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" tvg-name="OROMAR" group-title="VARIOS",OROMAR
-http://redima.pro:8880/1234567/1234567/466
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1024px-ESPN_7_logo.svg.png" tvg-name="HISPAN TV" group-title="VARIOS",HISPAN TV
 http://redima.pro:8880/1234567/1234567/1005
@@ -229,8 +223,14 @@ http://redima.pro:8880/1234567/1234567/989
 #EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/806/670/png-transparent-discovery-kids-discovery-channel-television-channel-tlc-axe-logo-miscellaneous-television-text.png" tvg-name="DISCOVERY KIDS HD" group-title="VARIOS",DISCOVERY KIDS 
 http://redima.pro:8880/1234567/1234567/393
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png" tvg-name="DISCOVERY KIDS" group-title="VARIOS",NICKELODEON
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png" tvg-name="NICKELODEON" group-title="VARIOS",NICKELODEON
 http://redima.pro:8880/1234567/1234567/399
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/363/541/png-transparent-telemundo-internacional-logo-wkaq-tv-others-television-blue-text.png" tvg-name="Telemundo" group-title="VARIOS",Telemundo
+http://redima.pro:8880/1234567/1234567/1042
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/es/BabyTV.es.png" tvg-name="UNIVISION" group-title="VARIOS",UNIVISION
+http://redima.pro:8880/1234567/1234567/389
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/800px-TD_M%C3%A1s_2_Logo.svg.png" tvg-name="TD+2 HD CR" group-title="VARIOS",TD+2 HD CR
 http://redima.pro:8880/1234567/1234567/1026
@@ -261,10 +261,10 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playli
 #EXTINF:-1 tvg-id="1275" tvg-name="Juntos - Freetv.com" tvg-logo="https://i2.paste.pics/ecac0da442f722d93b2a607b74c149df.png", Juntos - Freetv.com | US
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1273" tvg-name="Top Cine - Freetv.com" tvg-logo="https://i2.paste.pics/ecac0da442f722d93b2a607b74c149df.png", Top Cine - Freetv.com | US
+#EXTINF:-1 tvg-id="1273" tvg-name="Top Cine - Freetv.com" tvg-logo="https://i2.paste.pics/ecac0da442f722d93b2a607b74c149df.png", Top Cine - Freetv.com 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1280" tvg-name="Tu Cine - Freetv.com" tvg-logo="https://i2.paste.pics/ecac0da442f722d93b2a607b74c149df.png", Tu Cine - Freetv.com | US
+#EXTINF:-1 tvg-id="1280" tvg-name="Tu Cine - Freetv.com" tvg-logo="https://i2.paste.pics/ecac0da442f722d93b2a607b74c149df.png", Tu Cine - Freetv.com 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8?PlaylistM3UCL
 
 -------------------------------------------------------------------------------------------------------------------------------------
