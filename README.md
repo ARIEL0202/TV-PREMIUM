@@ -98,10 +98,10 @@ http://redima.pro:8880/1234567/1234567/681
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" tvg-name="ANTENA 3" group-title="CINE",ANTENA 3
 http://redima.pro:8880/1234567/1234567/418
 
-#EXTINF:0 tvg-id="ext" group-title="Amerika_*CINE",A3S SERIES
+#EXTINF:0 tvg-id="ext" group-title="CINE",A3S SERIES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aca8310a30e00074fab92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-id="ext" group-title="Amerika_*CINE",ORBIT TV
+#EXTINF:0 tvg-id="ext" group-title="CINE",ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1625501623.m3u8
 
 #EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE", MY TIME MOVIES 1
