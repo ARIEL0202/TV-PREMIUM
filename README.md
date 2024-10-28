@@ -269,64 +269,73 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/pla
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="ESPN2Chile.cl" tvg-name="ESPN 1 | CL ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-cl-hd.png" group-title="⚽ ESPN / FOX SPORTS",ESPN 1 | CL ᴴᴰ
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-cl-hd.png" group-title="DEPORTE",ESPN
 http://nxt.plus:8080/olmos/1234guz/58201
-#EXTINF:-1 tvg-id="ESPN2Chile.cl" tvg-name="ESPN 2 | CL ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-cl-hd.png" group-title="⚽ ESPN / FOX SPORTS",ESPN 2 | CL ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/58202
-#EXTINF:-1 tvg-id="Win.Sports+.co" tvg-name="WIN SPORTS+" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/win-sports-plus.png" group-title="⚽ DEPORTES",WIN SPORTS+
-http://nxt.plus:8080/olmos/1234guz/46973
-#EXTINF:-1 tvg-id="FOXSports2.uy" tvg-name="FOX SPORTS 2 | SUR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-2-sur-hd.png" group-title="⚽ ESPN / FOX SPORTS",FOX SPORTS 2 | SUR ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/13229
-#EXTINF:-1 tvg-id="ESPNExtra.uy" tvg-name="ESPN EXTRA | SUR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-extra-sur-hd.png" group-title="⚽ ESPN / FOX SPORTS",ESPN EXTRA | SUR ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/16915
-#EXTINF:-1 tvg-id="FOXSports3.uy" tvg-name="FOX SPORTS 3 | SUR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-3-sur-hd.png" group-title="⚽ ESPN / FOX SPORTS",FOX SPORTS 3 | SUR ᴴᴰ
+
+#EXTINF:-1 tvg-id="FOXSports3.uy" tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-3-sur-hd.png" group-title="DEPORTE",ESPN 6
 http://nxt.plus:8080/olmos/1234guz/24405
-#EXTINF:-1 tvg-id="AztecaGuatemala.gt" tvg-name="TNT SPORTS 3 (CL)" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-3-cl.png" group-title="⚽ TNT SPORTS",TNT SPORTS 3 (CL)
-http://nxt.plus:8080/olmos/1234guz/8
-#EXTINF:-1 tvg-id="TNT Sport 2" tvg-name="TNT SPORTS 2 (CL)" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-2-cl.png" group-title="⚽ TNT SPORTS",TNT SPORTS 2 (CL)
+
+#EXTINF:-1 tvg-id="FOXSports2.uy" tvg-name="FOX SPORTS 2 | SUR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-2-sur-hd.png" group-title="DEPORTE",FOX SPORTS 2 | SUR
+http://nxt.plus:8080/olmos/1234guz/13229
+
+#EXTINF:-1 tvg-id="ESPN 2 Brasil " tvg-name="ESPN 2 | BR" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-cl-hd.png" group-title="DEPORTE",ESPN 2 (BR)
+http://nxt.plus:8080/olmos/1234guz/58202
+
+#EXTINF:-1 tvg-id="Win.Sports+.co" tvg-name="WIN SPORTS+" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/win-sports-plus.png" group-title="DEPORTE",WIN SPORTS+
+http://nxt.plus:8080/olmos/1234guz/46973
+
+#EXTINF:-1 tvg-id="TNT Sport " tvg-name="TNT SPORTS PR (CL)" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-2-cl.png" group-title="⚽ TNT SPORTS",TNT SPORTS PRE (CL)
 http://nxt.plus:8080/olmos/1234guz/7
-#EXTINF:-1 tvg-id="CDOBasico.cl" tvg-name="CDO BASICO" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/cdo-basico.png" group-title="⚽ DEPORTES",CDO BASICO
+
+#EXTINF:-1 tvg-id="AztecaGuatemala.gt" tvg-name="TNT SPORTS (CL)" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-3-cl.png" group-title="DEPORTE",TNT SPORTS (CL)
+http://nxt.plus:8080/olmos/1234guz/8
+
+#EXTINF:-1 tvg-id="CDOBasico.cl" tvg-name="CDO 2" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/cdo-basico.png" group-title="DEPORTE",CDO 2 (CL)
 http://nxt.plus:8080/olmos/1234guz/59071
 
-#EXTINF:0 tvg-id="ext" group-title="Amerika_*Latino_MIX2",ORBIT TV
+#EXTINF:-1 tvg-id="ESPNExtra.uy" tvg-name="ESPN EXTRA | SUR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-extra-sur-hd.png" group-title="⚽ ESPN / FOX SPORTS",ESPN EXTRA | SUR ᴴᴰ
+http://nxt.plus:8080/olmos/1234guz/16915
+
+
+#EXTINF:0 tvg-id="ext" group-title="CINE",ORBIT TV 1
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1625501623.m3u8
 
-#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE", MY TIME MOVIES 2
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="84" tvg-name="T-Vinet" tvg-logo="https://lh3.googleusercontent.com/-EtM2JBuVazM/XxzIhLJW5PI/AAAAAAAA3YE/zmlykaL06y4tNI5JbuLPm-I1BSYsWCZYACK8BGAsYHg/s0/2020-07-25.png", T-Vinet | CL    
-https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="173452" tvg-name="EL TRECE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png"" group-title="00 - Argentina", EL TRECE
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal7Jujuy.ar" tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="Undefined",Canal 7 (Jujuy)
+#EXTINF:-1 tvg-id="Canal7Jujuy.ar" tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="Argentina",Canal 7 (Jujuy)
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal22.ar" tvg-logo="https://canal22web.com/wp-content/uploads/2020/09/80.jpg" group-title="Undefined",Canal 22
+#EXTINF:-1 tvg-id="173452" tvg-name="EL TRECE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png"" group-title="Argentina", EL TRECE
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="Canal22.ar" tvg-logo="https://canal22web.com/wp-content/uploads/2020/09/80.jpg" group-title="Argentina",Canal 22
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
+
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
+
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="",TV MÁS 
+
+#EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="Lista TV",TV MÁS 
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/897e9wy.png" group-title="Canales Mexicanos", Teleritmo | SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/897e9wy.png" group-title="MUSIC", Teleritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/9/99/20200205000404%21Estrella_TV_-_2020_logo.png" group-title="MUNDO", Estrella TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/9/99/20200205000404%21Estrella_TV_-_2020_logo.png" group-title="TV MUNDO", Estrella TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RetroCartoon.br" tvg-logo="https://i.imgur.com/hIlEfhl.png" group-title="Classic",Retrô Cartoon (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="RetroCartoon.br" tvg-logo="https://i.imgur.com/hIlEfhl.png" group-title="24/7",Retrô Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-
