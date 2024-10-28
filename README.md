@@ -83,7 +83,7 @@ http://redima.pro:8880/1234567/1234567/442
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png" tvg-name="GOLDEN" group-title="CINE",GOLDEN
 http://redima.pro:8880/1234567/1234567/372
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Golden_2_2007-2010.png/revision/latest/scale-to-width-down/250?cb=20191215195803&path-prefix=es" tvg-name="GOLDE 2" group-title="CINE",GOLDEN 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Golden_2_2007-2010.png/revision/latest/scale-to-width-down/250?cb=20191215195803&path-prefix=es" tvg-name="GOLDEN 2" group-title="CINE",GOLDEN 2
 http://redima.pro:8880/1234567/1234567/339
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/09/Logo-DHE.png" tvg-name="DHE HD" group-title="CINE",DHE HD
@@ -97,6 +97,18 @@ http://redima.pro:8880/1234567/1234567/681
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" tvg-name="ANTENA 3" group-title="CINE",ANTENA 3
 http://redima.pro:8880/1234567/1234567/418
+
+#EXTINF:0 tvg-id="ext" group-title="Amerika_*CINE",A3S SERIES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aca8310a30e00074fab92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:0 tvg-id="ext" group-title="Amerika_*CINE",ORBIT TV
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1625501623.m3u8
+
+#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE", MY TIME MOVIES 1
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE", MY TIME MOVIES 2
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/949/572/png-transparent-eurochannel-television-channel-television-show-euro-channel-channel-television-blue-text.png" tvg-name="Europa HD" group-title="CINE",Europa HD
 http://redima.pro:8880/1234567/1234567/375
@@ -127,7 +139,7 @@ http://redima.pro:8880/1234567/1234567/413
 
 -----------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pa/History2LatinAmerica.pa.png" tvg-name="││CULT HD││ H2" group-title="CULT",H2
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pa/History2LatinAmerica.pa.png" tvg-name="H2" group-title="CULT",H2
 http://redima.pro:8880/1234567/1234567/411
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/52/310/png-transparent-dream-theater-hd-logo-thumbnail.png" tvg-name="DISC THEATHER HD" group-title="CULT",DISC THEATHER HD
@@ -147,6 +159,10 @@ http://redima.pro:8880/1234567/1234567/436
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" tvg-name="NAT GEO" group-title="CULT",NAT GEO
 http://redima.pro:8880/1234567/1234567/439
+
+#EXTINF:-1 tvg-id="84" tvg-name="T-Vinet" tvg-logo="https://lh3.googleusercontent.com/-EtM2JBuVazM/XxzIhLJW5PI/AAAAAAAA3YE/zmlykaL06y4tNI5JbuLPm-I1BSYsWCZYACK8BGAsYHg/s0/2020-07-25.png" group-title="CULT", T-Vinet   
+https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/playlist.m3u8?PlaylistM3UCL
+
 
 ----------------------------------------------------------------------------------------------------------------
 
