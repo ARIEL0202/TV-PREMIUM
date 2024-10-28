@@ -267,6 +267,36 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/pl
 #EXTINF:-1 tvg-id="1280" tvg-name="Tu Cine - Freetv.com" tvg-logo="https://i2.paste.pics/ecac0da442f722d93b2a607b74c149df.png", Tu Cine - Freetv.com 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="Canal24Horas.es" tvg-logo="https://i.imgur.com/QYGrq71.png" group-title="Undefined",Canal 24 Horas (720p)
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Amerika_*Latino_MIX2",CANAL TRECE 13 
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Amerika_*Latino MIX1",CANAL 34
+http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Amerika_*Latino_MIX2",Canal 2 TV Quellón
+http://unlimited1-us.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Amerika_*Latino MIX1",Canal Visión Dorada 
+https://movil.ejeserver.com/live/visiondorada.m3u8?_=1
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",AFV 
+https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Amerika_*Latino_MIX2",VM Latino EL CANAL DE LA MUSICA
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist_w1943183241.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Amerika_*Latino_MIX2",VTV valle
+http://unlimited1-us.dps.live/vtv/vtv.smil/vtv/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ArabicaTV.lb" tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="Music",Arabica TV 
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CaracolaTV.cl" tvg-logo="https://i.imgur.com/QGvfqug.png" group-title="Undefined",Caracola TV 
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+
 -------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-cl-hd.png" group-title="DEPORTE",ESPN
