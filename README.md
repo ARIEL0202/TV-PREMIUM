@@ -1,95 +1,229 @@
-#EXTINF:-1,STAR
-http://181.78.8.90:16123/play/ch07
-#EXTINF:-1,FX
-http://181.78.8.90:16123/play/ch08
-#EXTINF:-1,CINECANAL
-http://181.78.8.90:16123/play/ch10
-#EXTINF:-1,CINEMA+
-http://181.78.8.90:16123/play/ch12a
-#EXTINF:-1,AMC
-http://181.78.8.90:16123/play/ch13
-#EXTINF:-1,DHE
-http://181.78.8.90:16123/play/ch14
-#EXTINF:-1,GOLDEN
-http://181.78.8.90:16123/play/ch46
-#EXTINF:-1,GOLDEN EDGE
-http://181.78.8.90:16123/play/ch47
-#EXTINF:-1,CINE PREMIUM
-http://181.78.8.90:16123/play/ch49
-#EXTINF:-1,TNT
-http://181.78.8.90:16123/play/a08i
-#EXTINF:-1,TNT SERIES
-http://181.78.8.90:16123/play/a067
-#EXTINF:-1,CINE HISPANO
-http://181.78.8.90:16123/play/ch51
-#EXTINF:-1,CINE FAMILIAR
-http://181.78.8.90:16123/play/ch52
-#EXTINF:-1,Tooncast
-http://181.78.8.90:16123/play/a068
+#EXTINF:-1 tvg-id="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" tvg-name="ESPN PRE" group-title="DEPORTE",ESPN PRE
+http://redima.pro:8880/1234567/1234567/367
 
-#EXTINF:-1,DISCOVERY
-http://181.78.8.90:16123/play/ch22
-#EXTINF:-1,ID
-http://181.78.8.90:16123/play/ch23
-#EXTINF:-1,TURBO
-http://181.78.8.90:16123/play/ch24
-#EXTINF:-1,DISCOVERY H&H
-http://181.78.8.90:16123/play/ch25
-#EXTINF:-1,TLC
-http://181.78.8.90:16123/play/ch26
-#EXTINF:-1,SUN CHANNEL
-http://181.78.8.90:16123/play/ch48
-#EXTINF:-1,LOVE NATURE
-http://181.78.8.90:16123/play/ch50
+#EXTINF:-1 tvg-id="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" tvg-name="ESPN" group-title="DEPORTE",ESPN
+http://redima.pro:8880/1234567/1234567/317
 
-#EXTINF:-1,EL GOURMET
-http://181.78.8.90:16123/play/ch27
-#EXTINF:-1,FOOD NETWORK
-http://181.78.8.90:16123/play/ch28
-#EXTINF:-1,ANIMAL PLANET
-http://181.78.8.90:16123/play/ch29
-#EXTINF:-1,NATGEO
-http://181.78.8.90:16123/play/ch30
-#EXTINF:-1,CGTN
-http://181.78.8.90:16123/play/ch32
-#EXTINF:-1,MAS CHIC
-http://181.78.8.90:16123/play/ch33
-#EXTINF:-1,GLITZ
-http://181.78.8.90:16123/play/ch34
-#EXTINF:-1,TELESUR
-http://181.78.8.90:16123/play/a069
-#EXTINF:-1,LAS ESTRELLAS
-http://181.78.8.90:16123/play/ch44
-#EXTINF:-1,TLNOVELAS
-http://181.78.8.90:16123/play/ch45
+#EXTINF:-1 tvg-id="" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2-300x188.png" tvg-name="ESPN 2" group-title="DEPORTE",ESPN 2
+http://redima.pro:8880/1234567/1234567/328
 
-#EXTINF:-1,RAI
-http://181.78.8.90:16123/play/ch75
-#EXTINF:-1,MIMUSICA ROMANTICA
-http://181.78.8.90:16123/play/ch54
-#EXTINF:-1,MIMUSICA SALSA
-http://181.78.8.90:16123/play/ch55
-#EXTINF:-1,MIMUSICA POPULAR
-http://181.78.8.90:16123/play/ch56
-#EXTINF:-1,MIMUSICA REGAETON
-http://181.78.8.90:16123/play/ch53
-#EXTINF:-1,DEPELICULA
-http://181.78.8.90:16123/play/ch57
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" tvg-name="ESPN6" group-title="DEPORTE",ESPN6
+http://redima.pro:8880/1234567/1234567/329
 
---------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1024px-ESPN_7_logo.svg.png" tvg-name="ESPN 7" group-title="DEPORTE",ESPN 7
+http://redima.pro:8880/1234567/1234567/327
 
-#EXTINF:0 tvg-id="ext" group-title="Amerika_*Latino_MIX2",A3S SERIES HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aca8310a30e00074fab92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-logo="http://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" tvg-name="ESPN MX" group-title="DEPORTE",ESPN MX
+http://redima.pro:8880/1234567/1234567/1003
 
-#EXTINF:0 tvg-id="ext" group-title="Amerika_*Latino_MIX2",ORBIT TV
-https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1625501623.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" tvg-name="GOL TV ECU" group-title="DEPORTE",GOL TV ECU
+http://redima.pro:8880/1234567/1234567/569
 
-#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE", MY TIME MOVIES 1
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE", MY TIME MOVIES 2
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+--------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="84" tvg-name="T-Vinet" tvg-logo="https://lh3.googleusercontent.com/-EtM2JBuVazM/XxzIhLJW5PI/AAAAAAAA3YE/zmlykaL06y4tNI5JbuLPm-I1BSYsWCZYACK8BGAsYHg/s0/2020-07-25.png", T-Vinet | CL    
-https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/playlist.m3u8?PlaylistM3UCL
-    
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mx/HBO.mx.png" tvg-name="HBO" group-title="CINE",HBO
+http://redima.pro:8880/1234567/1234567/334
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mx/HBO2.mx.png" tvg-name="HBO 2" group-title="CINE",HBO 2
+http://redima.pro:8880/1234567/1234567/335
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mx/HBOFamily.mx.png" tvg-name="HBO FAMILY" group-title="CINE",HBO FAMILY
+http://redima.pro:8880/1234567/1234567/336
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mx/HBO.mx.png" tvg-name="HBO HD" group-title="CINE",HBO EXTREME
+http://redima.pro:8880/1234567/1234567/337
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" tvg-name="HBO POP" group-title="CINE",CINEMAX
+http://redima.pro:8880/1234567/1234567/333
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" tvg-name="STAR CHANNEL" group-title="CINE",STAR CHANNEL
+http://redima.pro:8880/1234567/1234567/343
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://uspto.report/TM/90480911/mark.png" tvg-name="AMC" group-title="CINE",AMC
+http://redima.pro:8880/1234567/1234567/360
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/633/904/png-clipart-a-e-networks-television-channel-entertainment-television-show-hd-logo.png" tvg-name="A&E HD" group-title="CINE",A&E HD
+http://redima.pro:8880/1234567/1234567/1015
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/462/535/png-transparent-warner-tv-television-channel-wb-channel-warner-bros-wbtv-the-warner-channel-uk-television-emblem-logo-thumbnail.png" tvg-name="WARNER HD" group-title="CINE",WARNER HD
+http://redima.pro:8880/1234567/1234567/391
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" tvg-name="TNT" group-title="CINE",TNT
+http://redima.pro:8880/1234567/1234567/364
+
+#EXTINF:-1 group-title="CINE",TNTChanel
+http://odenfull.co:2086/play/UHWD7Q3fqU3aUrTQAr3JYz38QKzuRg_318Qezh-rb576mB_xsjD_-sVWRbtPwJIj
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mx/ParamountChannel.mx.png" tvg-name="PARAMOUNT" group-title="CINE",PARAMOUNT
+http://redima.pro:8880/1234567/1234567/338
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/M/mc-graphic-design-logo-ACBAE984D6-seeklogo.com.png" tvg-name="MULTICINE" group-title="CINE",MULTICINE
+http://redima.pro:8880/1234567/1234567/381
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/10/Universal.jpg" tvg-name="UNIVERSAL CINEMA HD" group-title="CINE",UNIVERSAL CINEMA HD
+http://redima.pro:8880/1234567/1234567/445
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNotJoD64S9wCYFLpvay4iHjmL2WlMtZAehGmYUsHuTA&s" tvg-name="UNIVERSAL CRIME HD" group-title="CINE",UNIVERSAL CRIME HD
+http://redima.pro:8880/1234567/1234567/1033
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.brandbucket.com/sites/default/files/logo_uploads/255208/large_universalreality.png" tvg-name="UNIVERSAL REALITY" group-title="CINE",UNIVERSAL REALITY
+http://redima.pro:8880/1234567/1234567/1035
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNotJoD64S9wCYFLpvay4iHjmL2WlMtZAehGmYUsHuTA&s" tvg-name="UNIVERSAL COMEDY " group-title="CINE",UNIVERSAL COMEDY
+http://redima.pro:8880/1234567/1234567/1032
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/studio-universal1896.logowik.com.webp" tvg-name="Studio Universal HD" group-title="CINE",Studio Universal HD
+http://redima.pro:8880/1234567/1234567/1025
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png" tvg-name="FX HD" group-title="CINE",FX HD
+http://redima.pro:8880/1234567/1234567/442
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png" tvg-name="GOLDEN" group-title="CINE",GOLDEN
+http://redima.pro:8880/1234567/1234567/372
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Golden_2_2007-2010.png/revision/latest/scale-to-width-down/250?cb=20191215195803&path-prefix=es" tvg-name="GOLDE 2" group-title="CINE",GOLDEN 2
+http://redima.pro:8880/1234567/1234567/339
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/09/Logo-DHE.png" tvg-name="DHE HD" group-title="CINE",DHE HD
+http://redima.pro:8880/1234567/1234567/410
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.pngfind.com/pngs/m/53-538837_azteca-corazon-logo-4-by-susan-az-clic.png" tvg-name="AZ click HD" group-title="CINE",AZ click HD
+http://redima.pro:8880/1234567/1234567/350
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" tvg-name="Star TVE HD" group-title="CINE",Star TVE HD
+http://redima.pro:8880/1234567/1234567/681
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" tvg-name="ANTENA 3" group-title="CINE",ANTENA 3
+http://redima.pro:8880/1234567/1234567/418
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/949/572/png-transparent-eurochannel-television-channel-television-show-euro-channel-channel-television-blue-text.png" tvg-name="Europa HD" group-title="CINE",Europa HD
+http://redima.pro:8880/1234567/1234567/375
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/250px-DPel%C3%ADcula_2021.svg.png" tvg-name="DPELICULAS" group-title="CINE",DPELICULAS
+http://redima.pro:8880/1234567/1234567/376
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://png.pngtree.com/png-clipart/20230812/original/pngtree-the-word-entertainment-show-card-picture-image_7880383.png" tvg-name="Entertairment HD" group-title="CINE",Entertairment HD
+http://redima.pro:8880/1234567/1234567/378
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.pngaaa.com/717/632717-middle.png" tvg-name="HOLA TV HD" group-title="CINE",HOLA TV HD
+http://redima.pro:8880/1234567/1234567/396
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" tvg-name="Film & arts HD" group-title="CINE",Film & arts HD
+http://redima.pro:8880/1234567/1234567/1036
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Comedy Central HD" group-title="CINE",Comedy Central HD
+http://redima.pro:8880/1234567/1234567/994
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" tvg-name="CANAL DE LAS ESTRELLAS" group-title="CINE",CANAL DE LAS ESTRELLAS
+http://redima.pro:8880/1234567/1234567/406
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/2042px-Sony_Movies_Logo.svg.png" tvg-name="Sony Movies HD" group-title="CINE",Sony Movies HD
+http://redima.pro:8880/1234567/1234567/978
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/1018/63/png-transparent-cinecanal-hd-logo.png" tvg-name="CINECANAL HD" group-title="CINE",CINECANAL HD
+http://redima.pro:8880/1234567/1234567/413
+
+-----------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pa/History2LatinAmerica.pa.png" tvg-name="││CULT HD││ H2" group-title="CULT",H2
+http://redima.pro:8880/1234567/1234567/411
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/52/310/png-transparent-dream-theater-hd-logo-thumbnail.png" tvg-name="DISC THEATHER HD" group-title="CULT",DISC THEATHER HD
+http://redima.pro:8880/1234567/1234567/359
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/219/763/png-transparent-animal-planet-hd-high-definition-television-logo-discovery-channel-brazil-samba-text-rectangle-logo.png" tvg-name="ANIMAL PLANET" group-title="CULT",ANIMAL PLANET
+http://redima.pro:8880/1234567/1234567/380
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" tvg-name="DISCOVERY ID" group-title="CULT",DISCOVERY ID
+http://redima.pro:8880/1234567/1234567/424
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" tvg-name="H&H DISCOVERY" group-title="CULT",H&H DISCOVERY
+http://redima.pro:8880/1234567/1234567/435
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" tvg-name="DISCOVERY WORLD" group-title="CULT",DISCOVERY WORLD
+http://redima.pro:8880/1234567/1234567/436
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" tvg-name="NAT GEO" group-title="CULT",NAT GEO
+http://redima.pro:8880/1234567/1234567/439
+
+----------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/363/541/png-transparent-telemundo-internacional-logo-wkaq-tv-others-television-blue-text.png" tvg-name="Telemundo HD" group-title="VARIOS",Telemundo HD
+http://redima.pro:8880/1234567/1234567/1042
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/es/BabyTV.es.png" tvg-name="UNIVISION" group-title="VARIOS",UNIVISION
+http://redima.pro:8880/1234567/1234567/389
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png" tvg-name="TELESUR" group-title="VARIOS",TELESUR
+http://redima.pro:8880/1234567/1234567/446
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" tvg-name="RT" group-title="VARIOS",RT
+http://redima.pro:8880/1234567/1234567/443
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/fef-seleccion-ecuador-logo-0.png" tvg-name="VISION SPORTS" group-title="VARIOS",VISION SPORTS
+http://redima.pro:8880/1234567/1234567/300
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.caracolinternacional.com/static/media/CARACOLTV_LOGO_WEB.27d59d62.png" tvg-name="CARACOL INTERNACIONAL" group-title="VARIOS",CARACOL INTERNACIONAL
+http://redima.pro:8880/1234567/1234567/423
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/co/RCNNovelas.co.png" tvg-name="RCN NOVELA HD" group-title="VARIOS",RCN NOVELA HD
+http://redima.pro:8880/1234567/1234567/414
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/125px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" tvg-name="NTN24" group-title="VARIOS",NTN24
+http://redima.pro:8880/1234567/1234567/419
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mx/NickJr.mx.png" tvg-name="INTI" group-title="VARIOS",INTI
+http://redima.pro:8880/1234567/1234567/392
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1280px-Logo_Ecuavisa.svg.png" tvg-name="ECUAVISA 2" group-title="VARIOS",ECUAVISA 2
+http://redima.pro:8880/1234567/1234567/448
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" tvg-name="TELEAMAZONAS 1" group-title="VARIOS",TELEAMAZONAS 1
+http://redima.pro:8880/1234567/1234567/451
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" tvg-name="TC" group-title="VARIOS",TC
+http://redima.pro:8880/1234567/1234567/461
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" tvg-name="GAMA TV" group-title="VARIOS",GAMA TV
+http://redima.pro:8880/1234567/1234567/463
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" tvg-name="OROMAR" group-title="VARIOS",OROMAR
+http://redima.pro:8880/1234567/1234567/466
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1024px-ESPN_7_logo.svg.png" tvg-name="HISPAN TV" group-title="VARIOS",HISPAN TV
+http://redima.pro:8880/1234567/1234567/1005
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.ses.com/sites/default/files/inline-images/Asset%201-100.jpg" tvg-name="CANAL 4 URU" group-title="VARIOS",CANAL 4 URU
+http://redima.pro:8880/1234567/1234567/371
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="VENEZOLANA" group-title="VARIOS",VENEZOLANA 
+http://redima.pro:8880/1234567/1234567/377
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Canal_10_%28El_Salvador%29_2019.png/320px-Canal_10_%28El_Salvador%29_2019.png" tvg-name="Canal 10 - ESA" group-title="VARIOS",Canal 10 - ESA
+http://redima.pro:8880/1234567/1234567/986
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Canal_10_de_Tucum%C3%A1n.png" tvg-name="Canal 10 HD - ESA" group-title="VARIOS",Canal 10 HD - ESA
+http://redima.pro:8880/1234567/1234567/988
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/1200px-Canal_4_TCS.png" tvg-name="Canal 4 HD ESA" group-title="VARIOS",Canal 4 HD ESA
+http://redima.pro:8880/1234567/1234567/989
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/806/670/png-transparent-discovery-kids-discovery-channel-television-channel-tlc-axe-logo-miscellaneous-television-text.png" tvg-name="DISCOVERY KIDS HD" group-title="VARIOS",DISCOVERY KIDS 
+http://redima.pro:8880/1234567/1234567/393
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png" tvg-name="DISCOVERY KIDS" group-title="VARIOS",NICKELODEON
+http://redima.pro:8880/1234567/1234567/399
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/800px-TD_M%C3%A1s_2_Logo.svg.png" tvg-name="TD+2 HD CR" group-title="VARIOS",TD+2 HD CR
+http://redima.pro:8880/1234567/1234567/1026
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ar/ESPN3.ar.png" tvg-name="TLN" group-title="VARIOS",TLN
+http://redima.pro:8880/1234567/1234567/573
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" tvg-name="PASIONES" group-title="VARIOS",PASIONES
+http://redima.pro:8880/1234567/1234567/402
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" tvg-name="TELENOVELAS" group-title="VARIOS",TELENOVELAS
+http://redima.pro:8880/1234567/1234567/404
