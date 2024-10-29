@@ -34,6 +34,9 @@ http://nxt.plus:8080/olmos/1234guz/8
 #EXTINF:-1 tvg-id="CDOBasico.cl" tvg-name="CDO 2" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/cdo-basico.png" group-title="DEPORTE",CDO 2 (CL)
 http://nxt.plus:8080/olmos/1234guz/59071
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/fef-seleccion-ecuador-logo-0.png" tvg-name="VISION SPORTS" group-title="DEPORTE",VISION SPORTS
+http://redima.pro:8880/1234567/1234567/300
+
 #EXTINF:-1 tvg-id="ESPNExtra.uy" tvg-name="ESPN EXTRA | SUR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-extra-sur-hd.png" group-title="DEPORTE",ESPN EXTRA | SUR
 http://nxt.plus:8080/olmos/1234guz/16915
 
@@ -177,9 +180,6 @@ http://redima.pro:8880/1234567/1234567/436
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" tvg-name="NAT GEO" group-title="CULT",NAT GEO
 http://redima.pro:8880/1234567/1234567/439
 
-#EXTINF:-1 tvg-id="84" tvg-name="T-Vinet" tvg-logo="https://lh3.googleusercontent.com/-EtM2JBuVazM/XxzIhLJW5PI/AAAAAAAA3YE/zmlykaL06y4tNI5JbuLPm-I1BSYsWCZYACK8BGAsYHg/s0/2020-07-25.png" group-title="CULT", T-Vinet   
-https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/playlist.m3u8?PlaylistM3UCL
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="1274" tvg-name="Saber Mas - Freetv.com" tvg-logo="https://i2.paste.pics/ecac0da442f722d93b2a607b74c149df.png", Saber Mas - Freetv.com
@@ -206,6 +206,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/pla
 
 #EXTINF:-1 tvg-id="RetroCartoon.br" tvg-logo="https://i.imgur.com/hIlEfhl.png" group-title="24/7",Retrô Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png" tvg-name="NICKELODEON" group-title="24/7",NICKELODEON
+http://redima.pro:8880/1234567/1234567/399
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -253,11 +256,11 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist_w1943183241.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ar/ESPN3.ar.png" tvg-name="TLN" group-title="MUSIC",TLN
 http://redima.pro:8880/1234567/1234567/573
 
-#EXTINF:0 tvg-id="ext" group-title="MUSIC",Canal 2 TV Quellón
-http://unlimited1-us.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8
-
 #EXTINF:-1 tvg-id="ArabicaTV.lb" tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="MUSIC",Arabica TV 
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="MUSIC",Canal 2 TV Quellón
+http://unlimited1-us.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -270,41 +273,44 @@ http://redima.pro:8880/1234567/1234567/466
 #EXTINF:0 tvg-id="ext" group-title="VARIOS",CANAL 34
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="VARIOS",Canal Visión Dorada 
+https://movil.ejeserver.com/live/visiondorada.m3u8?_=1
+
 #EXTINF:-1 tvg-id="CaracolaTV.cl" tvg-logo="https://i.imgur.com/QGvfqug.png" group-title="VARIOS",Caracola TV 
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIOS",AFV 
-https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png" tvg-name="ATV" group-title="VARIOS",ATV
-http://redima.pro:8880/1234567/1234567/446
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" tvg-name="RT" group-title="VARIOS",RT
 http://redima.pro:8880/1234567/1234567/443
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/fef-seleccion-ecuador-logo-0.png" tvg-name="VISION SPORTS" group-title="VARIOS",VISION SPORTS
-http://redima.pro:8880/1234567/1234567/300
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIOS",AFV 
+https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="84" tvg-name="T-Vinet" tvg-logo="https://lh3.googleusercontent.com/-EtM2JBuVazM/XxzIhLJW5PI/AAAAAAAA3YE/zmlykaL06y4tNI5JbuLPm-I1BSYsWCZYACK8BGAsYHg/s0/2020-07-25.png" group-title="VARIOS", T-Vinet   
+https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mx/NickJr.mx.png" tvg-name="INTI" group-title="VARIOS",INTI
+http://redima.pro:8880/1234567/1234567/392
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png" tvg-name="ATV" group-title="VARIOS",ATV
+http://redima.pro:8880/1234567/1234567/446
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.caracolinternacional.com/static/media/CARACOLTV_LOGO_WEB.27d59d62.png" tvg-name="CARACOL INTERNACIONAL" group-title="VARIOS",CARACOL INTERNACIONAL
 http://redima.pro:8880/1234567/1234567/423
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/co/RCNNovelas.co.png" tvg-name="RCN NOVELA HD" group-title="VARIOS",RCN NOVELA 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/co/RCNNovelas.co.png" tvg-name="RCN" group-title="VARIOS",RCN
 http://redima.pro:8880/1234567/1234567/414
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/125px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" tvg-name="NTN24" group-title="VARIOS",NTN24
 http://redima.pro:8880/1234567/1234567/419
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mx/NickJr.mx.png" tvg-name="INTI" group-title="VARIOS",INTI
-http://redima.pro:8880/1234567/1234567/392
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1280px-Logo_Ecuavisa.svg.png" tvg-name="ECUAVISA" group-title="VARIOS",ECUAVISA
 http://redima.pro:8880/1234567/1234567/448
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" tvg-name="TELEAMAZONAS 1" group-title="VARIOS",TELEAMAZONAS 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" tvg-name="TELEAMAZONAS" group-title="VARIOS",TELEAMAZONAS 
 http://redima.pro:8880/1234567/1234567/451
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" tvg-name="TC" group-title="VARIOS",TC
-http://redima.pro:8880/1234567/1234567/461
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" tvg-name="GAMA TV" group-title="VARIOS",GAMA TV
 http://redima.pro:8880/1234567/1234567/463
@@ -318,24 +324,15 @@ http://redima.pro:8880/1234567/1234567/371
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="VENEZOLANA" group-title="VARIOS",VENEZOLANA 
 http://redima.pro:8880/1234567/1234567/377
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png" tvg-name="NICKELODEON" group-title="VARIOS",NICKELODEON
-http://redima.pro:8880/1234567/1234567/399
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/800px-TD_M%C3%A1s_2_Logo.svg.png" tvg-name="TD+2 HD CR" group-title="VARIOS",TD+2 HD CR
-http://redima.pro:8880/1234567/1234567/1026
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" tvg-name="PASIONES" group-title="VARIOS",PASIONES
 http://redima.pro:8880/1234567/1234567/402
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" tvg-name="TELENOVELAS" group-title="VARIOS",TELENOVELAS
 http://redima.pro:8880/1234567/1234567/404
 
-#EXTINF:0 tvg-id="ext" group-title="VARIOS",Canal Visión Dorada 
-https://movil.ejeserver.com/live/visiondorada.m3u8?_=1
-
 #EXTINF:0 tvg-id="ext" group-title="VARIOS",VTV valle
 http://unlimited1-us.dps.live/vtv/vtv.smil/vtv/livestream1/chunks.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/9/99/20200205000404%21Estrella_TV_-_2020_logo.png" group-title="TV MUNDO", Estrella TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-
