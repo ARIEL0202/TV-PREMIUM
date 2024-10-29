@@ -264,6 +264,15 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" tvg-name="OROMAR" group-title="VARIOS",OROMAR
 http://redima.pro:8880/1234567/1234567/466
 
+#EXTINF:0 tvg-id="ext" group-title="VARIOS",CANAL 34
+http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
+
+#EXTINF:-1 tvg-id="CaracolaTV.cl" tvg-logo="https://i.imgur.com/QGvfqug.png" group-title="VARIOS",Caracola TV 
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIOS",AFV 
+https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png" tvg-name="ATV" group-title="VARIOS",ATV
 http://redima.pro:8880/1234567/1234567/446
 
@@ -306,26 +315,8 @@ http://redima.pro:8880/1234567/1234567/371
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="VENEZOLANA" group-title="VARIOS",VENEZOLANA 
 http://redima.pro:8880/1234567/1234567/377
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Canal_10_%28El_Salvador%29_2019.png/320px-Canal_10_%28El_Salvador%29_2019.png" tvg-name="Canal 10 - ESA" group-title="VARIOS",Canal 10 - ESA
-http://redima.pro:8880/1234567/1234567/986
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Canal_10_de_Tucum%C3%A1n.png" tvg-name="Canal 10 HD - ESA" group-title="VARIOS",Canal 10 HD - ESA
-http://redima.pro:8880/1234567/1234567/988
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/1200px-Canal_4_TCS.png" tvg-name="Canal 4 HD ESA" group-title="VARIOS",Canal 4 HD ESA
-http://redima.pro:8880/1234567/1234567/989
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/806/670/png-transparent-discovery-kids-discovery-channel-television-channel-tlc-axe-logo-miscellaneous-television-text.png" tvg-name="DISCOVERY KIDS HD" group-title="VARIOS",DISCOVERY KIDS 
-http://redima.pro:8880/1234567/1234567/393
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png" tvg-name="NICKELODEON" group-title="VARIOS",NICKELODEON
 http://redima.pro:8880/1234567/1234567/399
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/363/541/png-transparent-telemundo-internacional-logo-wkaq-tv-others-television-blue-text.png" tvg-name="Telemundo" group-title="VARIOS",Telemundo
-http://redima.pro:8880/1234567/1234567/1042
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/es/BabyTV.es.png" tvg-name="UNIVISION" group-title="VARIOS",UNIVISION
-http://redima.pro:8880/1234567/1234567/389
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/800px-TD_M%C3%A1s_2_Logo.svg.png" tvg-name="TD+2 HD CR" group-title="VARIOS",TD+2 HD CR
 http://redima.pro:8880/1234567/1234567/1026
@@ -336,24 +327,11 @@ http://redima.pro:8880/1234567/1234567/402
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" tvg-name="TELENOVELAS" group-title="VARIOS",TELENOVELAS
 http://redima.pro:8880/1234567/1234567/404
 
-#EXTINF:0 tvg-id="ext" group-title="VARIOS",CANAL 34
-http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="VARIOS",Canal 2 TV Quellón
-http://unlimited1-us.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="VARIOS",Canal Visión Dorada 
 https://movil.ejeserver.com/live/visiondorada.m3u8?_=1
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIOS",AFV 
-https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="VARIOS",VTV valle
 http://unlimited1-us.dps.live/vtv/vtv.smil/vtv/livestream1/chunks.m3u8
-
-#EXTINF:-1 tvg-id="CaracolaTV.cl" tvg-logo="https://i.imgur.com/QGvfqug.png" group-title="VARIOS",Caracola TV 
-https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/9/99/20200205000404%21Estrella_TV_-_2020_logo.png" group-title="TV MUNDO", Estrella TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
