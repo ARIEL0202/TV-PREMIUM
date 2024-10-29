@@ -253,6 +253,9 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist_w1943183241.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ar/ESPN3.ar.png" tvg-name="TLN" group-title="MUSIC",TLN
 http://redima.pro:8880/1234567/1234567/573
 
+#EXTINF:0 tvg-id="ext" group-title="MUSIC",Canal 2 TV Quellón
+http://unlimited1-us.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8
+
 #EXTINF:-1 tvg-id="ArabicaTV.lb" tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="MUSIC",Arabica TV 
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
