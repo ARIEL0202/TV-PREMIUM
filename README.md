@@ -225,6 +225,54 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Canal22.ar" tvg-logo="https://canal22web.com/wp-content/uploads/2020/09/80.jpg" group-title="Argentina",Canal 22
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 1" tvg-logo="" group-title="ITALY ",IT: RAI 1
+http://fortv.cc:8080/54514663/54514663/212895
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 2" tvg-logo="" group-title="ITALY ",IT: RAI 2
+http://fortv.cc:8080/54514663/54514663/212896
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 3" tvg-logo="" group-title="ITALY ",IT: RAI 3
+http://fortv.cc:8080/54514663/54514663/212897
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 4" tvg-logo="" group-title="ITALY ",IT: RAI 4
+http://fortv.cc:8080/54514663/54514663/212898
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI ITALIA" tvg-logo="" group-title="ITALY ",IT: RAI ITALIA
+http://fortv.cc:8080/54514663/54514663/212900
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI PREMIUM" tvg-logo="" group-title="ITALY ",IT: RAI PREMIUM
+http://fortv.cc:8080/54514663/54514663/212901
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI MOVIE" tvg-logo="" group-title="ITALY ",IT: RAI MOVIE
+http://fortv.cc:8080/54514663/54514663/212902
+#EXTINF:-1 tvg-id="" tvg-name="IT: CANALE 5" tvg-logo="" group-title="ITALY ",IT: CANALE 5
+http://fortv.cc:8080/54514663/54514663/212903
+#EXTINF:-1 tvg-id="" tvg-name="IT: MEDIASET ITALIA 1" tvg-logo="" group-title="ITALY ",IT: MEDIASET ITALIA 1
+http://fortv.cc:8080/54514663/54514663/212906
+#EXTINF:-1 tvg-id="" tvg-name="IT: MEDIASET ITALIA 2" tvg-logo="" group-title="ITALY ",IT: MEDIASET ITALIA 2
+http://fortv.cc:8080/54514663/54514663/212907
+#EXTINF:-1 tvg-id="" tvg-name="IT: LA 5" tvg-logo="" group-title="ITALY ",IT: LA 5
+http://fortv.cc:8080/54514663/54514663/212911
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI NEWS 24" tvg-logo="" group-title="ITALY ",IT: RAI NEWS 24
+http://fortv.cc:8080/54514663/54514663/212913
+#EXTINF:-1 tvg-id="" tvg-name="IT: TGCOM 24" tvg-logo="" group-title="ITALY ",IT: TGCOM 24
+http://fortv.cc:8080/54514663/54514663/212915
+#EXTINF:-1 tvg-id="" tvg-name="IT: TG LA 7" tvg-logo="" group-title="ITALY ",IT: TG LA 7
+http://fortv.cc:8080/54514663/54514663/212916
+#EXTINF:-1 tvg-id="" tvg-name="IT: RETE 4" tvg-logo="" group-title="ITALY ",IT: RETE 4
+http://fortv.cc:8080/54514663/54514663/212920
+#EXTINF:-1 tvg-id="" tvg-name="IT: REAL TIME" tvg-logo="" group-title="ITALY ",IT: REAL TIME
+http://fortv.cc:8080/54514663/54514663/212923
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI GULP" tvg-logo="" group-title="ITALY ",IT: RAI GULP
+http://fortv.cc:8080/54514663/54514663/212925
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI YOYO" tvg-logo="" group-title="ITALY ",IT: RAI YOYO
+http://fortv.cc:8080/54514663/54514663/212926
+#EXTINF:-1 tvg-id="" tvg-name="IT: CARTOONITO" tvg-logo="" group-title="ITALY ",IT: CARTOONITO
+http://fortv.cc:8080/54514663/54514663/212928
+#EXTINF:-1 tvg-id="" tvg-name="IT: FRISBEE" tvg-logo="" group-title="ITALY ",IT: FRISBEE
+http://fortv.cc:8080/54514663/54514663/212929
+#EXTINF:-1 tvg-id="" tvg-name="IT: SUPER!" tvg-logo="" group-title="ITALY ",IT: SUPER!
+http://fortv.cc:8080/54514663/54514663/212931
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI STORIA" tvg-logo="" group-title="ITALY ",IT: RAI STORIA
+http://fortv.cc:8080/54514663/54514663/212933
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI SCUOLA" tvg-logo="" group-title="ITALY ",IT: RAI SCUOLA
+http://fortv.cc:8080/54514663/54514663/212934
+#EXTINF:-1 tvg-id="" tvg-name="IT: FOCUS" tvg-logo="" group-title="ITALY ",IT: FOCUS
+http://fortv.cc:8080/54514663/54514663/212941
 
 
 #EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="Lista TV",TV MÁS 
