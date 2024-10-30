@@ -40,6 +40,15 @@ http://redima.pro:8880/1234567/1234567/300
 #EXTINF:-1 tvg-id="ESPNExtra.uy" tvg-name="ESPN EXTRA | SUR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-extra-sur-hd.png" group-title="DEPORTE",ESPN EXTRA | SUR
 http://nxt.plus:8080/olmos/1234guz/16915
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2-300x188.png" tvg-name="ESPN 2" group-title="DEPORTE",ESPN 2
+http://redima.pro:8880/1234567/1234567/328
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" tvg-name="ESPN6" group-title="DEPORTE",ESPN6
+http://redima.pro:8880/1234567/1234567/329
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" tvg-name="ESPN MX" group-title="DEPORTE",ESPN MX
+http://redima.pro:8880/1234567/1234567/1003
+
 --------------------------------------------------------------------------------------------------------------------
 
 
@@ -242,56 +251,6 @@ http://fortv.cc:8080/54514663/54514663/164881
 
 #EXTINF:-1 tvg-id="Canal22.ar" tvg-logo="https://canal22web.com/wp-content/uploads/2020/09/80.jpg" group-title="Argentina",Canal 22
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 1" tvg-logo="" group-title="ITALY ",IT: RAI 1
-http://fortv.cc:8080/54514663/54514663/212895
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 2" tvg-logo="" group-title="ITALY ",IT: RAI 2
-http://fortv.cc:8080/54514663/54514663/212896
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 3" tvg-logo="" group-title="ITALY ",IT: RAI 3
-http://fortv.cc:8080/54514663/54514663/212897
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 4" tvg-logo="" group-title="ITALY ",IT: RAI 4
-http://fortv.cc:8080/54514663/54514663/212898
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI ITALIA" tvg-logo="" group-title="ITALY ",IT: RAI ITALIA
-http://fortv.cc:8080/54514663/54514663/212900
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI PREMIUM" tvg-logo="" group-title="ITALY ",IT: RAI PREMIUM
-http://fortv.cc:8080/54514663/54514663/212901
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI MOVIE" tvg-logo="" group-title="ITALY ",IT: RAI MOVIE
-http://fortv.cc:8080/54514663/54514663/212902
-#EXTINF:-1 tvg-id="" tvg-name="IT: CANALE 5" tvg-logo="" group-title="ITALY ",IT: CANALE 5
-http://fortv.cc:8080/54514663/54514663/212903
-#EXTINF:-1 tvg-id="" tvg-name="IT: MEDIASET ITALIA 1" tvg-logo="" group-title="ITALY ",IT: MEDIASET ITALIA 1
-http://fortv.cc:8080/54514663/54514663/212906
-#EXTINF:-1 tvg-id="" tvg-name="IT: MEDIASET ITALIA 2" tvg-logo="" group-title="ITALY ",IT: MEDIASET ITALIA 2
-http://fortv.cc:8080/54514663/54514663/212907
-#EXTINF:-1 tvg-id="" tvg-name="IT: LA 5" tvg-logo="" group-title="ITALY ",IT: LA 5
-http://fortv.cc:8080/54514663/54514663/212911
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI NEWS 24" tvg-logo="" group-title="ITALY ",IT: RAI NEWS 24
-http://fortv.cc:8080/54514663/54514663/212913
-#EXTINF:-1 tvg-id="" tvg-name="IT: TGCOM 24" tvg-logo="" group-title="ITALY ",IT: TGCOM 24
-http://fortv.cc:8080/54514663/54514663/212915
-#EXTINF:-1 tvg-id="" tvg-name="IT: TG LA 7" tvg-logo="" group-title="ITALY ",IT: TG LA 7
-http://fortv.cc:8080/54514663/54514663/212916
-#EXTINF:-1 tvg-id="" tvg-name="IT: RETE 4" tvg-logo="" group-title="ITALY ",IT: RETE 4
-http://fortv.cc:8080/54514663/54514663/212920
-#EXTINF:-1 tvg-id="" tvg-name="IT: REAL TIME" tvg-logo="" group-title="ITALY ",IT: REAL TIME
-http://fortv.cc:8080/54514663/54514663/212923
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI GULP" tvg-logo="" group-title="ITALY ",IT: RAI GULP
-http://fortv.cc:8080/54514663/54514663/212925
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI YOYO" tvg-logo="" group-title="ITALY ",IT: RAI YOYO
-http://fortv.cc:8080/54514663/54514663/212926
-#EXTINF:-1 tvg-id="" tvg-name="IT: CARTOONITO" tvg-logo="" group-title="ITALY ",IT: CARTOONITO
-http://fortv.cc:8080/54514663/54514663/212928
-#EXTINF:-1 tvg-id="" tvg-name="IT: FRISBEE" tvg-logo="" group-title="ITALY ",IT: FRISBEE
-http://fortv.cc:8080/54514663/54514663/212929
-#EXTINF:-1 tvg-id="" tvg-name="IT: SUPER!" tvg-logo="" group-title="ITALY ",IT: SUPER!
-http://fortv.cc:8080/54514663/54514663/212931
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI STORIA" tvg-logo="" group-title="ITALY ",IT: RAI STORIA
-http://fortv.cc:8080/54514663/54514663/212933
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI SCUOLA" tvg-logo="" group-title="ITALY ",IT: RAI SCUOLA
-http://fortv.cc:8080/54514663/54514663/212934
-#EXTINF:-1 tvg-id="" tvg-name="IT: FOCUS" tvg-logo="" group-title="ITALY ",IT: FOCUS
-http://fortv.cc:8080/54514663/54514663/212941
-
 
 #EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="Lista TV",TV MÁS 
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
