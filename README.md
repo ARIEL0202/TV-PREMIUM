@@ -219,8 +219,26 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1 tvg-id="173452" tvg-name="EL TRECE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png"" group-title="Argentina", EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:0 tvg-id="ext" group-title="Argentina",CANAL TRECE 13 
-https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG: EL NUEVE HD" tvg-logo="" group-title="Argentina",ARG: EL NUEVE HD
+http://fortv.cc:8080/54514663/54514663/164869
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEFE INTERNACIONAL HD" tvg-logo="" group-title="Argentina",ARG: TELEFE INTERNACIONAL HD
+http://fortv.cc:8080/54514663/54514663/164870
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CINE ARGENTINO" tvg-logo="" group-title="Argentina",ARG: CINE ARGENTINO
+http://fortv.cc:8080/54514663/54514663/164871
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TN NOTICIAS" tvg-logo="" group-title="Argentina",ARG: TN NOTICIAS
+http://fortv.cc:8080/54514663/54514663/164873
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CRONICA HD" tvg-logo="" group-title="Argentina",ARG: CRONICA HD
+http://fortv.cc:8080/54514663/54514663/164875
+#EXTINF:-1 tvg-id="" tvg-name="ARG: C5N HD" tvg-logo="" group-title="Argentina",ARG: C5N HD
+http://fortv.cc:8080/54514663/54514663/164876
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ENCUENTRO HD" tvg-logo="" group-title="Argentina",ARG: ENCUENTRO HD
+http://fortv.cc:8080/54514663/54514663/164878
+#EXTINF:-1 tvg-id="" tvg-name="ARG: INFORMACION PERIODISTICA HD" tvg-logo="" group-title="Argentina",ARG: INFORMACION PERIODISTICA HD
+http://fortv.cc:8080/54514663/54514663/164879
+#EXTINF:-1 tvg-id="" tvg-name="ARG: GARAGE TV HD" tvg-logo="" group-title="Argentina",ARG: GARAGE TV HD
+http://fortv.cc:8080/54514663/54514663/164880
+#EXTINF:-1 tvg-id="" tvg-name="ARG: AMERICA TV HD" tvg-logo="" group-title="Argentina",ARG: AMERICA TV HD
+http://fortv.cc:8080/54514663/54514663/164881
 
 #EXTINF:-1 tvg-id="Canal22.ar" tvg-logo="https://canal22web.com/wp-content/uploads/2020/09/80.jpg" group-title="Argentina",Canal 22
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
