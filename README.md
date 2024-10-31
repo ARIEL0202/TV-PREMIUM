@@ -1,3 +1,6 @@
+#EXTINF:-1 tvg-id="" tvg-name="TYC Sports" tvg-logo="" group-title="DEPORTE",TYC Sports
+http://hdhd.tk:80/JasonMARKIEWICZ/JasonMARKIEWICZ/47214
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" tvg-name="ESPN" group-title="DEPORTE",ESPN
 http://redima.pro:8880/1234567/1234567/317
 
