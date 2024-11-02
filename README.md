@@ -309,6 +309,9 @@ http://nxt.plus:8080/olmos/1234guz/109547
 http://nxt.plus:8080/olmos/1234guz/109548
 
 
+#EXTINF:-58 tvg-logo="https://www.threestooges.com/wp-content/uploads/2017/11/TSHeadsLogo-copy.png" group-title="24/7", LOS TRES CHIFLADOS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
+
 #EXTINF:-1 tvg-id="RetroCartoon.br" tvg-logo="https://i.imgur.com/hIlEfhl.png" group-title="24/7",Retrô Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
@@ -344,9 +347,11 @@ http://fortv.cc:8080/54514663/54514663/164879
 http://fortv.cc:8080/54514663/54514663/164880
 #EXTINF:-1 tvg-id="" tvg-name="ARG: AMERICA TV HD" tvg-logo="" group-title="Argentina",ARG: AMERICA TV HD
 http://fortv.cc:8080/54514663/54514663/164881
-
+#EXTINF:-1 tvg-id="141068" tvg-name="149 Telefe Clasico" tvg-logo="" group-title="Argentina", Telefe Clasico
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=128fbcf4-4117-471c-9c90-95780410b922&userId=&serverSideAds=true&PlaylistM3UCL
 #EXTINF:-1 tvg-id="Canal22.ar" tvg-logo="https://canal22web.com/wp-content/uploads/2020/09/80.jpg" group-title="Argentina",Canal 22
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="Lista TV",TV MÁS 
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
@@ -451,6 +456,5 @@ http://redima.pro:8880/1234567/1234567/404
 #EXTINF:0 tvg-id="ext" group-title="VARIOS",VTV valle
 http://unlimited1-us.dps.live/vtv/vtv.smil/vtv/livestream1/chunks.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/9/99/20200205000404%21Estrella_TV_-_2020_logo.png" group-title="TV MUNDO", Estrella TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/9/99/20200205000404%21Estrella_TV_-_2020_logo.png" group-title="VARIOS", Estrella TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
