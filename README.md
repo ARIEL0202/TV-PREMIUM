@@ -214,6 +214,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/pl
 
 #EXTINF:-1 tvg-id="1280" tvg-name="Tu Cine - Freetv.com" tvg-logo="https://i2.paste.pics/ecac0da442f722d93b2a607b74c149df.png", Tu Cine - Freetv.com
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8?PlaylistM3UCL
+
 ----------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="247-Aladin" tvg-name="| HOUSE" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| HOUSE
 http://nxt.plus:8080/olmos/1234guz/94210
@@ -249,8 +250,6 @@ http://nxt.plus:8080/olmos/1234guz/94519
 http://nxt.plus:8080/olmos/1234guz/91925
 #EXTINF:-1 tvg-id="247-Dinosaurios" tvg-name="| CHICAGO PD" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| CHICAGO PD
 http://nxt.plus:8080/olmos/1234guz/106001
-#EXTINF:-1 tvg-id="TVSRetro.gt" tvg-name="REG | TVS RETRO" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/guatemala/gt-reg-tvs-retro.png" group-title="GUATEMALA",REG | TVS RETRO
-http://nxt.plus:8080/olmos/1234guz/59308
 #EXTINF:-1 tvg-id="247-Inspector" tvg-name="| GARGOLAS" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| GARGOLAS
 http://nxt.plus:8080/olmos/1234guz/114411
 #EXTINF:-1 tvg-id="247-Cinema2" tvg-name="| EL ZORRO RETRO" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| EL ZORRO RETRO
@@ -315,6 +314,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e
 #EXTINF:-1 tvg-id="RetroCartoon.br" tvg-logo="https://i.imgur.com/hIlEfhl.png" group-title="24/7",Retrô Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TVSRetro.gt" tvg-name="REG | TVS RETRO" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/guatemala/gt-reg-tvs-retro.png" group-title="24/7",TVS RETRO
+http://nxt.plus:8080/olmos/1234guz/59308
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png" tvg-name="NICKELODEON" group-title="24/7",NICKELODEON
 http://redima.pro:8880/1234567/1234567/399
 
@@ -347,7 +349,7 @@ http://fortv.cc:8080/54514663/54514663/164879
 http://fortv.cc:8080/54514663/54514663/164880
 #EXTINF:-1 tvg-id="" tvg-name="ARG: AMERICA TV HD" tvg-logo="" group-title="Argentina",ARG: AMERICA TV HD
 http://fortv.cc:8080/54514663/54514663/164881
-#EXTINF:-1 tvg-id="141068" tvg-name="149 Telefe Clasico" tvg-logo="" group-title="Argentina", Telefe Clasico
+#EXTINF:-1 tvg-id="141068" tvg-name="Telefe Clasico" tvg-logo="" group-title="Argentina", Telefe Clasico
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=128fbcf4-4117-471c-9c90-95780410b922&userId=&serverSideAds=true&PlaylistM3UCL
 #EXTINF:-1 tvg-id="Canal22.ar" tvg-logo="https://canal22web.com/wp-content/uploads/2020/09/80.jpg" group-title="Argentina",Canal 22
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
