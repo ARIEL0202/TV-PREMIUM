@@ -315,7 +315,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVSRetro.gt" tvg-name="REG | TVS RETRO" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/guatemala/gt-reg-tvs-retro.png" group-title="24/7",TVS RETRO
-http://nxt.plus:8080/olmos/1234guz/59308
+http://nxt.plus:8080/olmos/1234guz/59308   
+
+#EXTINF:-1 tvg-id="5f1aca0b4e448e00075e7c5e" tvg-name="Bob Esponja" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="24/7",Bob Esponja
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png" tvg-name="NICKELODEON" group-title="24/7",NICKELODEON
 http://redima.pro:8880/1234567/1234567/399
