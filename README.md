@@ -1,3 +1,18 @@
+#EXTINF:-1 tvg-id="" tvg-name="El Protegido (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjFzPg7MwDD7T6KgL3rtyy2PHwW.jpg" group-title="TRILOGIA EL PROTEGIDO",El Protegido (2000) 
+http://nxt.plus:8080/movie/olmos/1234guz/150569.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="El Protegido (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjFzPg7MwDD7T6KgL3rtyy2PHwW.jpg" ,El Protegido (2000) 
+http://nxt.plus:8080/movie/olmos/1234guz/150569.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="El Protegido (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjFzPg7MwDD7T6KgL3rtyy2PHwW.jpg" group-title="TRILOGIA EL PROTEGIDO",El Protegido (2000)
+http://nxt.plus:8080/movie/olmos/1234guz/150569.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sDoXpaKZmrzCSJH63zZvQQ9A7VK.jpg",Robot salvaje (2024)
+https://github.com/tokio14-dot/Q.5825/releases/download/Q.563737/614790245467.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Robot salvaje (2024)" tvg-logo="https://image.tmdb.org/t/p/original/sDoXpaKZmrzCSJH63zZvQQ9A7VK.jpg",Robot salvaje (2024)
+https://github.com/tokio14-dot/Q.5825/releases/download/Q.563737/614790245467.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="TYC Sports" tvg-logo="" group-title="DEPORTE",TYC Sports
 http://hdhd.tk:80/JasonMARKIEWICZ/JasonMARKIEWICZ/47214
 
