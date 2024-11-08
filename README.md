@@ -52,15 +52,15 @@ http://redima.pro:8880/1234567/1234567/329
 #EXTINF:-1 tvg-id="" tvg-logo="http://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" tvg-name="ESPN MX" group-title="⚽ DEPORTES",ESPN MX
 http://redima.pro:8880/1234567/1234567/1003
 
-#EXTINF:-1 tvg-id="Torneos.y.Competencias.(Argentina).(TYC).ar" tvg-name="TyC SPORTS | AR** ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tyc-sports-ar-hd.png" group-title="⚽ DEPORTE",TyC SPORTS | AR** ᴴᴰ
+#EXTINF:-1 tvg-id="Torneos.y.Competencias.(Argentina).(TYC).ar" tvg-name="TyC SPORTS | AR** ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tyc-sports-ar-hd.png" group-title="⚽ DEPORTES",TyC SPORTS | AR** ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/169849
-#EXTINF:-1 tvg-id="TyCSports2.ar" tvg-name="TyC SPORTS INT ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tyc-internacional.png" group-title="⚽ DEPORTE",TyC SPORTS INT ᴴᴰ
+#EXTINF:-1 tvg-id="TyCSports2.ar" tvg-name="TyC SPORTS INT ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tyc-internacional.png" group-title="⚽ DEPORTES",TyC SPORTS INT ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/60567
-#EXTINF:-1 tvg-id="TNT Sports Argentina" tvg-name="TNT SPORTS | AR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-hd-ar.png" group-title="⚽ DEPORTE",TNT SPORTS | AR ᴴᴰ
+#EXTINF:-1 tvg-id="TNT Sports Argentina" tvg-name="TNT SPORTS | AR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-hd-ar.png" group-title="⚽ DEPORTES",TNT SPORTS | AR ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/25121
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN 1 | AR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-arg-hd.png" group-title="⚽ DEPORTE",ESPN 1 | AR ᴴᴰ
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN 1 | AR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-arg-hd.png" group-title="⚽ DEPORTES",ESPN 1 | AR ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/16497
-#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2 | AR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-arg-hd.png" group-title="⚽ DEPORTE",ESPN 2 | AR ᴴᴰ
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2 | AR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-arg-hd.png" group-title="⚽ DEPORTES",ESPN 2 | AR ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/81343
 #EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ESPN 3 | AR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-3-ar-hd.png" group-title="⚽ DEPORTES",ESPN 3 | AR ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/81344
