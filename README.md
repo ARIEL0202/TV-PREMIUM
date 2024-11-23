@@ -126,7 +126,26 @@ http://nxt.plus:8080/olmos/1234guz/23245
 http://nxt.plus:8080/olmos/1234guz/116424
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="MOVISTAR LIGA DE CAMPEONES ᴴᴰ" tvg-logo="https://i.ibb.co/VMyLwv0/Screenshot-3.png" group-title="⚽ DEPORTES",MOVISTAR LIGA DE CAMPEONES ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/160243
-
+#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="US Latin TUDN (A)" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2019/05/TUDN.png" group-title="⚽ DEPORTES",TUDN
+http://fortv.cc:8080/54514663/54514663/11885
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK-Sky Sports Action" tvg-logo="" group-title="⚽ DEPORTES",Sky Sports Action
+http://fortv.cc:8080/54514663/54514663/53705
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK Sky Sports F1 FHD (D)" tvg-logo="" group-title="⚽ DEPORTES",Sky Sports F1 
+http://fortv.cc:8080/54514663/54514663/53704
+#EXTINF:-1 tvg-id="sky.sports.main.event.gb" tvg-name="UK-Sky Sports Main Event" tvg-logo="" group-title="⚽ DEPORTES",Sky Sports Main Event
+http://fortv.cc:8080/54514663/54514663/35243
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK Sky Sports Mix FHD (D)" tvg-logo="" group-title="⚽ DEPORTES",Sky Sports Mix 
+http://fortv.cc:8080/54514663/54514663/53706
+#EXTINF:-1 tvg-id="sky.sports.news.gb" tvg-name="UK-Sky Sports News" tvg-logo="" group-title="⚽ DEPORTES",Sky Sports News
+http://fortv.cc:8080/54514663/54514663/35241
+#EXTINF:-1 tvg-id="sky.sports.f1.gb" tvg-name="UK Sky Sports F1 FHD" tvg-logo="" group-title="⚽ DEPORTES",Sky Sports F1
+http://fortv.cc:8080/54514663/54514663/35244
+#EXTINF:-1 tvg-id="3abn.latino.houston.tx.us" tvg-name="PT Eleven Sports 1 FHD " tvg-logo="" group-title="⚽ DEPORTES",PT Eleven Sports 1 
+http://fortv.cc:8080/54514663/54514663/35264
+#EXTINF:-1 tvg-id="tudnu.us" tvg-name="US TUDN " tvg-logo="" group-title="⚽ DEPORTES",TUDN 
+http://fortv.cc:8080/54514663/54514663/82241
+#EXTINF:-1 tvg-id="" tvg-name="CO: ESPN COLOMBIA" tvg-logo="" group-title="⚽ DEPORTES",ESPN COLOMBIA
+http://fortv.cc:8080/54514663/54514663/86765
 --------------------------------------------------------------------------------------------------------------------
 
 
@@ -399,6 +418,54 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075
 http://redima.pro:8880/1234567/1234567/399
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 1" tvg-logo="" group-title="ITALY ",IT: RAI 1
+http://fortv.cc:8080/54514663/54514663/212895
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 2" tvg-logo="" group-title="ITALY ",IT: RAI 2
+http://fortv.cc:8080/54514663/54514663/212896
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 3" tvg-logo="" group-title="ITALY ",IT: RAI 3
+http://fortv.cc:8080/54514663/54514663/212897
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 4" tvg-logo="" group-title="ITALY ",IT: RAI 4
+http://fortv.cc:8080/54514663/54514663/212898
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI ITALIA" tvg-logo="" group-title="ITALY ",IT: RAI ITALIA
+http://fortv.cc:8080/54514663/54514663/212900
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI PREMIUM" tvg-logo="" group-title="ITALY ",IT: RAI PREMIUM
+http://fortv.cc:8080/54514663/54514663/212901
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI MOVIE" tvg-logo="" group-title="ITALY ",IT: RAI MOVIE
+http://fortv.cc:8080/54514663/54514663/212902
+#EXTINF:-1 tvg-id="" tvg-name="IT: CANALE 5" tvg-logo="" group-title="ITALY ",IT: CANALE 5
+http://fortv.cc:8080/54514663/54514663/212903
+#EXTINF:-1 tvg-id="" tvg-name="IT: MEDIASET ITALIA 1" tvg-logo="" group-title="ITALY ",IT: MEDIASET ITALIA 1
+http://fortv.cc:8080/54514663/54514663/212906
+#EXTINF:-1 tvg-id="" tvg-name="IT: MEDIASET ITALIA 2" tvg-logo="" group-title="ITALY ",IT: MEDIASET ITALIA 2
+http://fortv.cc:8080/54514663/54514663/212907
+#EXTINF:-1 tvg-id="" tvg-name="IT: LA 5" tvg-logo="" group-title="ITALY ",IT: LA 5
+http://fortv.cc:8080/54514663/54514663/212911
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI NEWS 24" tvg-logo="" group-title="ITALY ",IT: RAI NEWS 24
+http://fortv.cc:8080/54514663/54514663/212913
+#EXTINF:-1 tvg-id="" tvg-name="IT: TGCOM 24" tvg-logo="" group-title="ITALY ",IT: TGCOM 24
+http://fortv.cc:8080/54514663/54514663/212915
+#EXTINF:-1 tvg-id="" tvg-name="IT: TG LA 7" tvg-logo="" group-title="ITALY ",IT: TG LA 7
+http://fortv.cc:8080/54514663/54514663/212916
+#EXTINF:-1 tvg-id="" tvg-name="IT: RETE 4" tvg-logo="" group-title="ITALY ",IT: RETE 4
+http://fortv.cc:8080/54514663/54514663/212920
+#EXTINF:-1 tvg-id="" tvg-name="IT: REAL TIME" tvg-logo="" group-title="ITALY ",IT: REAL TIME
+http://fortv.cc:8080/54514663/54514663/212923
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI GULP" tvg-logo="" group-title="ITALY ",IT: RAI GULP
+http://fortv.cc:8080/54514663/54514663/212925
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI YOYO" tvg-logo="" group-title="ITALY ",IT: RAI YOYO
+http://fortv.cc:8080/54514663/54514663/212926
+#EXTINF:-1 tvg-id="" tvg-name="IT: CARTOONITO" tvg-logo="" group-title="ITALY ",IT: CARTOONITO
+http://fortv.cc:8080/54514663/54514663/212928
+#EXTINF:-1 tvg-id="" tvg-name="IT: FRISBEE" tvg-logo="" group-title="ITALY ",IT: FRISBEE
+http://fortv.cc:8080/54514663/54514663/212929
+#EXTINF:-1 tvg-id="" tvg-name="IT: SUPER!" tvg-logo="" group-title="ITALY ",IT: SUPER!
+http://fortv.cc:8080/54514663/54514663/212931
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI STORIA" tvg-logo="" group-title="ITALY ",IT: RAI STORIA
+http://fortv.cc:8080/54514663/54514663/212933
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI SCUOLA" tvg-logo="" group-title="ITALY ",IT: RAI SCUOLA
+http://fortv.cc:8080/54514663/54514663/212934
+#EXTINF:-1 tvg-id="" tvg-name="IT: FOCUS" tvg-logo="" group-title="ITALY ",IT: FOCUS
+http://fortv.cc:8080/54514663/54514663/212941
 
 
 #EXTINF:-1 tvg-id="Canal7Jujuy.ar" tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="Argentina",Canal 7 (Jujuy)
