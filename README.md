@@ -92,12 +92,6 @@ http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/471
 #EXTINF:-1 tvg-id="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" tvg-name="ESPN" group-title="⚽ DEPORTES",ESPN
 http://redima.pro:8880/1234567/1234567/317
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1024px-ESPN_7_logo.svg.png" tvg-name="ESPN 7" group-title=⚽ DEPORTES"",ESPN 7
-http://redima.pro:8880/1234567/1234567/327
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" tvg-name="ESPN PRE" group-title="⚽ DEPORTES",ESPN PRE
-http://redima.pro:8880/1234567/1234567/367
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" tvg-name="GOL TV ECU" group-title="⚽ DEPORTES",GOL TV ECU
 http://redima.pro:8880/1234567/1234567/569
 
@@ -122,26 +116,12 @@ http://nxt.plus:8080/olmos/1234guz/7
 #EXTINF:-1 tvg-id="AztecaGuatemala.gt" tvg-name="TNT SPORTS (CL)" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-3-cl.png" group-title="⚽ DEPORTES",TNT SPORTS (CL)
 http://nxt.plus:8080/olmos/1234guz/8
 
-#EXTINF:-1 tvg-id="CDOBasico.cl" tvg-name="CDO 2" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/cdo-basico.png" group-title="⚽ DEPORTES",CDO 2 (CL)
-http://nxt.plus:8080/olmos/1234guz/59071
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/fef-seleccion-ecuador-logo-0.png" tvg-name="VISION SPORTS" group-title="⚽ DEPORTES",VISION SPORTS
 http://redima.pro:8880/1234567/1234567/300
 
 #EXTINF:-1 tvg-id="ESPNExtra.uy" tvg-name="ESPN EXTRA | SUR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-extra-sur-hd.png" group-title="⚽ DEPORTES",ESPN EXTRA | SUR
 http://nxt.plus:8080/olmos/1234guz/16915
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2-300x188.png" tvg-name="ESPN 2" group-title="⚽ DEPORTES",ESPN 2
-http://redima.pro:8880/1234567/1234567/328
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" tvg-name="ESPN6" group-title="⚽ DEPORTES",ESPN6
-http://redima.pro:8880/1234567/1234567/329
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" tvg-name="ESPN MX" group-title="⚽ DEPORTES",ESPN MX
-http://redima.pro:8880/1234567/1234567/1003
-
-#EXTINF:-1 tvg-id="Torneos.y.Competencias.(Argentina).(TYC).ar" tvg-name="TyC SPORTS | AR** ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tyc-sports-ar-hd.png" group-title="⚽ DEPORTES", TyC SPORTS | AR** ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/169849
 #EXTINF:-1 tvg-id="TyCSports2.ar" tvg-name="TyC SPORTS INT ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tyc-internacional.png" group-title="⚽ DEPORTES", TyC SPORTS INT ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/60567
 #EXTINF:-1 tvg-id="TNT Sports Argentina" tvg-name="TNT SPORTS | AR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-hd-ar.png" group-title="⚽ DEPORTES", TNT SPORTS | AR ᴴᴰ
@@ -156,6 +136,7 @@ http://nxt.plus:8080/olmos/1234guz/81344
 http://nxt.plus:8080/olmos/1234guz/11476
 #EXTINF:-1 tvg-id="FOXSports3.ar" tvg-name="FOX SPORTS 3 | AR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-3-ar-hd.png" group-title="⚽ DEPORTES",FOX SPORTS 3 | AR ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/81342
+
 #EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2 | BR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-br-hd.png" group-title="⚽ DEPORTES",ESPN 2 | BR ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/56902
 #EXTINF:-1 tvg-id="ESPN.3.br" tvg-name="ESPN 3 | BR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-3-br-hd.png" group-title="⚽ DEPORTES",ESPN 3 | BR ᴴᴰ
@@ -236,81 +217,6 @@ http://fortv.cc:8080/54514663/54514663/82241
 http://fortv.cc:8080/54514663/54514663/86765
 --------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 01 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 01 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/11987
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 02 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 02 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/11988
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 03 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 03 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/11989
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 04 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 04 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/11990
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 05 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 05 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/11991
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 06 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 06 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/11992
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 07 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 07 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/11993
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 08 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 08 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/11994
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 09 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 09 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/11995
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 10 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 10 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/11996
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 11 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 11 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/11997
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 12 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 12 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/11998
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 13 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 13 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/11999
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 14 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 14 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12000
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 15 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 15 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12001
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 16 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 16 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12002
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 17 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 17 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12003
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 18 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 18 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12004
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 19 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 19 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12005
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 20 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 20 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12006
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 21 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 21 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12007
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 22 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 22 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12008
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 23 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 23 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12009
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 24 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 24 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12010
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 25 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 25 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12011
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 26 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 26 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12012
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 27 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 27 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12013
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 28 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 28 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12014
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 29 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 29 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12015
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 30 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 30 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12016
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 31 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 31 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12017
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 32 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 32 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12018
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 33 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 33 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12019
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 34 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 34 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12020
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 35 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 35 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12021
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 36 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 36 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12022
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 37 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 37 PPV
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12023
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mx/HBO.mx.png" tvg-name="HBO" group-title="CINE",HBO
 http://redima.pro:8880/1234567/1234567/334
 
@@ -340,6 +246,9 @@ http://redima.pro:8880/1234567/1234567/391
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" tvg-name="TNT" group-title="CINE",TNT
 http://redima.pro:8880/1234567/1234567/364
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" tvg-name="TNT" group-title="CINE",TNT
+http://redima.pro:8880/1234567/1234567/367
 
 #EXTINF:-1 group-title="CINE",TNT Channel
 http://odenfull.co:2086/play/UHWD7Q3fqU3aUrTQAr3JYz38QKzuRg_318Qezh-rb576mB_xsjD_-sVWRbtPwJIj
