@@ -136,13 +136,8 @@ http://nxt.plus:8080/olmos/1234guz/81344
 http://nxt.plus:8080/olmos/1234guz/11476
 #EXTINF:-1 tvg-id="FOXSports3.ar" tvg-name="FOX SPORTS 3 | AR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-3-ar-hd.png" group-title="⚽ DEPORTES",FOX SPORTS 3 | AR ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/81342
-
-#EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2 | BR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-br-hd.png" group-title="⚽ DEPORTES",ESPN 2 | BR ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/56902
 #EXTINF:-1 tvg-id="ESPN.3.br" tvg-name="ESPN 3 | BR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-3-br-hd.png" group-title="⚽ DEPORTES",ESPN 3 | BR ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/117637
-#EXTINF:-1 tvg-id="SV - ESPN" tvg-name="ESPN 1 | CENTRO ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-centro-hd.png" group-title="⚽ DEPORTES",ESPN 1 | CENTRO ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/25201
 #EXTINF:-1 tvg-id="SV - ESPN 2" tvg-name="ESPN 2 | CENTRO AME ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-centro-hd.png" group-title="⚽ DEPORTES",ESPN 2 | CENTRO AME ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/25210
 #EXTINF:-1 tvg-id="GT - ESPN 3" tvg-name="ESPN 3 | CENTRO AME ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-3-centro-hd.png" group-title="⚽ DEPORTES",ESPN 3 | CENTRO AME ᴴᴰ
@@ -161,16 +156,10 @@ http://nxt.plus:8080/olmos/1234guz/58200
 http://nxt.plus:8080/olmos/1234guz/65714
 #EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-name="DSPORTS 1 | AR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/dsports/dsports-1-ar-hd.png" group-title="⚽ DEPORTES",DSPORTS 1 | AR ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/160612
-#EXTINF:-1 tvg-id="TNTChile.cl" tvg-name="TNT ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/tnt-hd.png" group-title="⚽ DEPORTES",TNT ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/25213
 #EXTINF:-1 tvg-id="FUTV.HDTV.(Costa.Rica).(FUTVHD).[786].cr" tvg-name="FUTV ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/futv-hd.png" group-title="⚽ DEPORTES",FUTV ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/69657
 #EXTINF:-1 tvg-id="GOLPERU.HD.(GOLPERU.HD).pe" tvg-name="GOLPERU" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/gol-peru.png" group-title="⚽ DEPORTES",GOLPERU
 http://nxt.plus:8080/olmos/1234guz/9758
-#EXTINF:-1 tvg-id="GolTV" tvg-name="GOL TV | EC" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/gol-tv.png" group-title="⚽ DEPORTES",GOL TV | EC
-http://nxt.plus:8080/olmos/1234guz/53691
-#EXTINF:-1 tvg-id="ESPNExtra.uy" tvg-name="ESPN EXTRA | SUR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-extra-sur-hd.png" group-title="⚽ DEPORTES",ESPN EXTRA | SUR ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/16915
 #EXTINF:-1 tvg-id="FOXSports3.uy" tvg-name="FOX SPORTS 3 | SUR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-3-sur-hd.png" group-title="⚽ DEPORTES",FOX SPORTS 3 | SUR ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/24405
 #EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN 1 | CO" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-co.png" group-title="⚽ DEPORTES",ESPN 1 | CO
@@ -185,20 +174,15 @@ http://nxt.plus:8080/olmos/1234guz/46973
 http://nxt.plus:8080/olmos/1234guz/8
 #EXTINF:-1 tvg-id="TNT Sport 2" tvg-name="TNT SPORTS 2 (CL)" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-2-cl.png" group-title="⚽ DEPORTES",TNT SPORTS 2 (CL)
 http://nxt.plus:8080/olmos/1234guz/7
-#EXTINF:-1 tvg-id="CDOBasico.cl" tvg-name="CDO BASICO" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/cdo-basico.png" group-title="⚽ DEPORTES",CDO BASICO
-http://nxt.plus:8080/olmos/1234guz/59071
 #EXTINF:-1 tvg-id="ESPN.2.(Colombia).(ESPN.2)..ec" tvg-name="ESPN 2 | EC" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-ec.png" group-title="⚽ DEPORTES",ESPN 2 | EC
 http://nxt.plus:8080/olmos/1234guz/59099
-#EXTINF:-1 tvg-id="M+ Deportes" tvg-name="MOVISTAR DEPORTES 1 | ES ᴴᴰ" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mplus-deportes-es.png" group-title="⚽ DEPORTES",MOVISTAR DEPORTES 1 | ES ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/23245
 #EXTINF:-1 tvg-id="" tvg-name="DSPORTS 1 | PE ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/dsports/dsports-1-pe-hd.png" group-title="⚽ DEPORTES",DSPORTS 1 | PE ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/116424
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="MOVISTAR LIGA DE CAMPEONES ᴴᴰ" tvg-logo="https://i.ibb.co/VMyLwv0/Screenshot-3.png" group-title="⚽ DEPORTES",MOVISTAR LIGA DE CAMPEONES ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/160243
 #EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="US Latin TUDN (A)" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2019/05/TUDN.png" group-title="⚽ DEPORTES",TUDN
 http://fortv.cc:8080/54514663/54514663/11885
-#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK-Sky Sports Action" tvg-logo="" group-title="⚽ DEPORTES",Sky Sports Action
-http://fortv.cc:8080/54514663/54514663/53705
+
 #EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK Sky Sports F1 FHD (D)" tvg-logo="" group-title="⚽ DEPORTES",Sky Sports F1 
 http://fortv.cc:8080/54514663/54514663/53704
 #EXTINF:-1 tvg-id="sky.sports.main.event.gb" tvg-name="UK-Sky Sports Main Event" tvg-logo="" group-title="⚽ DEPORTES",Sky Sports Main Event
@@ -249,6 +233,9 @@ http://redima.pro:8880/1234567/1234567/364
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" tvg-name="TNT" group-title="CINE",TNT
 http://redima.pro:8880/1234567/1234567/367
+
+#EXTINF:-1 tvg-id="TNTChile.cl" tvg-name="TNT ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/tnt-hd.png" group-title="CINE",TNT
+http://nxt.plus:8080/olmos/1234guz/25213
 
 #EXTINF:-1 group-title="CINE",TNT Channel
 http://odenfull.co:2086/play/UHWD7Q3fqU3aUrTQAr3JYz38QKzuRg_318Qezh-rb576mB_xsjD_-sVWRbtPwJIj
