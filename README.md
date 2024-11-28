@@ -1,3 +1,5 @@
+
+
 #EXTINF:-1 tvg-id="" tvg-name="TYC Sports" tvg-logo="" group-title="⚽ DEPORTES",TYC Sports
 http://hdhd.tk:80/JasonMARKIEWICZ/JasonMARKIEWICZ/47214
 #EXTINF:-1 tvg-id="" tvg-name="DEP• TYC SPORTS AR (HD) »1«" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="⚽ DEPORTES",DEP• TYC SPORTS 
@@ -33,7 +35,7 @@ http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/509
 http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/513
 #EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 3 MX (HD)" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="⚽ DEPORTES",DEP• ESPN 3 MX 
 http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/511
-#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 4 MX (HD) »1«" tvg-logo="https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 4 MX 
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 4 MX (HD) »1«" tvg-logo="https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png" group-title="⚽ DEPORTES",DEP• ESPN 4 MX 
 http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/515
 #EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 4 MX (HD) »2«" tvg-logo="https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png" group-title="⚽ DEPORTES",DEP• ESPN 4 MX 
 http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/516
@@ -201,32 +203,14 @@ http://fortv.cc:8080/54514663/54514663/82241
 http://fortv.cc:8080/54514663/54514663/86765
 --------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mx/HBO.mx.png" tvg-name="HBO" group-title="CINE",HBO
-http://redima.pro:8880/1234567/1234567/334
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mx/HBO2.mx.png" tvg-name="HBO 2" group-title="CINE",HBO 2
-http://redima.pro:8880/1234567/1234567/335
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mx/HBOFamily.mx.png" tvg-name="HBO FAMILY" group-title="CINE",HBO FAMILY
-http://redima.pro:8880/1234567/1234567/336
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mx/HBO.mx.png" tvg-name="HBO HD" group-title="CINE",HBO EXTREME
 http://redima.pro:8880/1234567/1234567/337
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" tvg-name="HBO POP" group-title="CINE",CINEMAX
-http://redima.pro:8880/1234567/1234567/333
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" tvg-name="STAR CHANNEL" group-title="CINE",STAR CHANNEL
 http://redima.pro:8880/1234567/1234567/343
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://uspto.report/TM/90480911/mark.png" tvg-name="AMC" group-title="CINE",AMC
 http://redima.pro:8880/1234567/1234567/360
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/633/904/png-clipart-a-e-networks-television-channel-entertainment-television-show-hd-logo.png" tvg-name="A&E HD" group-title="CINE",A&E HD
-http://redima.pro:8880/1234567/1234567/1015
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/462/535/png-transparent-warner-tv-television-channel-wb-channel-warner-bros-wbtv-the-warner-channel-uk-television-emblem-logo-thumbnail.png" tvg-name="WARNER HD" group-title="CINE",WARNER HD
-http://redima.pro:8880/1234567/1234567/391
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" tvg-name="TNT" group-title="CINE",TNT
 http://redima.pro:8880/1234567/1234567/364
@@ -237,29 +221,8 @@ http://redima.pro:8880/1234567/1234567/367
 #EXTINF:-1 tvg-id="TNTChile.cl" tvg-name="TNT ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/tnt-hd.png" group-title="CINE",TNT
 http://nxt.plus:8080/olmos/1234guz/25213
 
-#EXTINF:-1 group-title="CINE",TNT Channel
-http://odenfull.co:2086/play/UHWD7Q3fqU3aUrTQAr3JYz38QKzuRg_318Qezh-rb576mB_xsjD_-sVWRbtPwJIj
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mx/ParamountChannel.mx.png" tvg-name="PARAMOUNT" group-title="CINE",PARAMOUNT
-http://redima.pro:8880/1234567/1234567/338
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/M/mc-graphic-design-logo-ACBAE984D6-seeklogo.com.png" tvg-name="MULTICINE" group-title="CINE",MULTICINE
 http://redima.pro:8880/1234567/1234567/381
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/10/Universal.jpg" tvg-name="UNIVERSAL CINEMA" group-title="CINE",UNIVERSAL CINEMA
-http://redima.pro:8880/1234567/1234567/445
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNotJoD64S9wCYFLpvay4iHjmL2WlMtZAehGmYUsHuTA&s" tvg-name="UNIVERSAL CRIME" group-title="CINE",UNIVERSAL CRIME
-http://redima.pro:8880/1234567/1234567/1033
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.brandbucket.com/sites/default/files/logo_uploads/255208/large_universalreality.png" tvg-name="UNIVERSAL REALITY" group-title="CINE",UNIVERSAL REALITY
-http://redima.pro:8880/1234567/1234567/1035
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNotJoD64S9wCYFLpvay4iHjmL2WlMtZAehGmYUsHuTA&s" tvg-name="UNIVERSAL COMEDY " group-title="CINE",UNIVERSAL COMEDY
-http://redima.pro:8880/1234567/1234567/1032
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/studio-universal1896.logowik.com.webp" tvg-name="Studio Universal HD" group-title="CINE",Studio Universal HD
-http://redima.pro:8880/1234567/1234567/1025
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png" tvg-name="FX HD" group-title="CINE",FX HD
 http://redima.pro:8880/1234567/1234567/442
@@ -267,17 +230,8 @@ http://redima.pro:8880/1234567/1234567/442
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png" tvg-name="GOLDEN" group-title="CINE",GOLDEN
 http://redima.pro:8880/1234567/1234567/372
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Golden_2_2007-2010.png/revision/latest/scale-to-width-down/250?cb=20191215195803&path-prefix=es" tvg-name="GOLDEN 2" group-title="CINE",GOLDEN 2
-http://redima.pro:8880/1234567/1234567/339
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/09/Logo-DHE.png" tvg-name="DHE" group-title="CINE",DHE
 http://redima.pro:8880/1234567/1234567/410
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.pngfind.com/pngs/m/53-538837_azteca-corazon-logo-4-by-susan-az-clic.png" tvg-name="AZ click" group-title="CINE",AZ click
-http://redima.pro:8880/1234567/1234567/350
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" tvg-name="Star TVE" group-title="CINE",Star TVE
-http://redima.pro:8880/1234567/1234567/681
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" tvg-name="ANTENA 3" group-title="CINE",ANTENA 3
 http://redima.pro:8880/1234567/1234567/418
@@ -285,7 +239,7 @@ http://redima.pro:8880/1234567/1234567/418
 #EXTINF:0 tvg-id="ext" group-title="CINE",A3S SERIES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aca8310a30e00074fab92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE",,ORBIT TV
+#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE",ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1625501623.m3u8
 
 #EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE", MY TIME MOVIES 1
@@ -294,32 +248,14 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE", MY TIME MOVIES 2
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/949/572/png-transparent-eurochannel-television-channel-television-show-euro-channel-channel-television-blue-text.png" tvg-name="Europa HD" group-title="CINE",Europa HD
-http://redima.pro:8880/1234567/1234567/375
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/250px-DPel%C3%ADcula_2021.svg.png" tvg-name="DPELICULAS" group-title="CINE",DPELICULAS
 http://redima.pro:8880/1234567/1234567/376
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://png.pngtree.com/png-clipart/20230812/original/pngtree-the-word-entertainment-show-card-picture-image_7880383.png" tvg-name="Entertairment HD" group-title="CINE",Entertairment HD
-http://redima.pro:8880/1234567/1234567/378
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.pngaaa.com/717/632717-middle.png" tvg-name="HOLA TV" group-title="CINE",HOLA TV
-http://redima.pro:8880/1234567/1234567/396
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" tvg-name="Film & arts" group-title="CINE",Film & arts
-http://redima.pro:8880/1234567/1234567/1036
 
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Comedy Central" group-title="CINE",Comedy Central
 http://redima.pro:8880/1234567/1234567/994
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" tvg-name="CANAL DE LAS ESTRELLAS" group-title="CINE",CANAL DE LAS ESTRELLAS
 http://redima.pro:8880/1234567/1234567/406
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/2042px-Sony_Movies_Logo.svg.png" tvg-name="Sony Movies" group-title="CINE",Sony Movies
-http://redima.pro:8880/1234567/1234567/978
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/1018/63/png-transparent-cinecanal-hd-logo.png" tvg-name="CINECANAL" group-title="CINE",CINECANAL
-http://redima.pro:8880/1234567/1234567/413
 
 -----------------------------------------------------------------------------------------------------------------
 
@@ -344,7 +280,7 @@ http://redima.pro:8880/1234567/1234567/436
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" tvg-name="NAT GEO" group-title="CULT",NAT GEO
 http://redima.pro:8880/1234567/1234567/439
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="1274" tvg-name="Saber Mas - Freetv.com" tvg-logo="https://i2.paste.pics/ecac0da442f722d93b2a607b74c149df.png", Saber Mas - Freetv.com
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8?PlaylistM3UCL
@@ -369,6 +305,18 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/pla
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LOS SIMPSON (1-5)" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS SIMPSON (1-5)
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/789
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LOS SIMPSON (12-17)" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS SIMPSON (12-17)
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/790
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LOS SIMPSON (18-21)" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS SIMPSON (18-21)
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/791
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LOS SIMPSON (22-26)" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS SIMPSON (22-26)
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/792
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LOS SIMPSON (27-30)" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS SIMPSON (27-30)
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/793
+#EXTINF:-1 tvg-id="" tvg-name="24/7: CHAPULIN COLORADO" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: CHAPULIN COLORADO
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/704
 #EXTINF:-1 tvg-id="" tvg-name="24/7: BOB ESPONJA" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: BOB ESPONJA
 http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/690
 #EXTINF:-1 tvg-id="" tvg-name="24/7: CHESPIRITO" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: CHESPIRITO
@@ -381,24 +329,12 @@ http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/693
 http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/694
 #EXTINF:-1 tvg-id="" tvg-name="24/7: EL PAJARO LOCO" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: EL PAJARO LOCO
 http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/695
-#EXTINF:-1 tvg-id="" tvg-name="24/7: DRAGON BALL GT" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: DRAGON BALL GT
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/696
-#EXTINF:-1 tvg-id="" tvg-name="24/7: DRAGON BALL" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: DRAGON BALL
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/697
 #EXTINF:-1 tvg-id="" tvg-name="24/7: GAMES OF THRONES" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: GAMES OF THRONES
 http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/698
-#EXTINF:-1 tvg-id="" tvg-name="24/7: FAMILY GUY" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: FAMILY GUY
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/699
-#EXTINF:-1 tvg-id="" tvg-name="24/7: RANMA ½" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: RANMA ½
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/700
 #EXTINF:-1 tvg-id="" tvg-name="24/7: TWO AND A HALF" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: TWO AND A HALF
 http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/701
-#EXTINF:-1 tvg-id="" tvg-name="24/7: SAKURA" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: SAKURA
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/702
 #EXTINF:-1 tvg-id="" tvg-name="24/7: MR BEAN" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: MR BEAN
 http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/703
-#EXTINF:-1 tvg-id="" tvg-name="24/7: CHAPULIN COLORADO" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: CHAPULIN COLORADO
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/704
 #EXTINF:-1 tvg-id="" tvg-name="24/7: EL CHAVO DEL 8" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: EL CHAVO DEL 8
 http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/705
 #EXTINF:-1 tvg-id="" tvg-name="24/7: ALF" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: ALF
@@ -411,44 +347,16 @@ http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/771
 http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/773
 #EXTINF:-1 tvg-id="" tvg-name="24/7: TOM & JERRY" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: TOM & JERRY
 http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/774
-#EXTINF:-1 tvg-id="" tvg-name="24/7: SOUTH PARK" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: SOUTH PARK
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/775
-#EXTINF:-1 tvg-id="" tvg-name="24/7: DORAEMON" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: DORAEMON
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/776
-#EXTINF:-1 tvg-id="" tvg-name="24/7: SMALLVILLELA" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: SMALLVILLELA
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SMALLVILLE" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: SMALLVILLE
 http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/777
-#EXTINF:-1 tvg-id="" tvg-name="24/7: LOS SUPERCAMPEONES" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS SUPERCAMPEONES
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/778
 #EXTINF:-1 tvg-id="" tvg-name="24/7: SCOOBY DOO" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: SCOOBY DOO
 http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/779
-#EXTINF:-1 tvg-id="" tvg-name="24/7: SAMURAI" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: SAMURAI
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/780
-#EXTINF:-1 tvg-id="" tvg-name="24/7: POKEMON" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: POKEMON
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/781
-#EXTINF:-1 tvg-id="" tvg-name="24/7: ONE PUNCH MAN" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: ONE PUNCH MAN
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/782
-#EXTINF:-1 tvg-id="" tvg-name="24/7: YU-GI-OH" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: YU-GI-OH
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/783
 #EXTINF:-1 tvg-id="" tvg-name="24/7: LOS PICAPIEDRAS" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS PICAPIEDRAS
 http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/784
-#EXTINF:-1 tvg-id="" tvg-name="24/7: NARUTO" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: NARUTO
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/785
 #EXTINF:-1 tvg-id="" tvg-name="24/7: LOONEY TUNES" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOONEY TUNES
 http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/786
 #EXTINF:-1 tvg-id="" tvg-name="24/7: EL PRINCIPE DEL RAP" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: EL PRINCIPE DEL RAP
 http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/787
-#EXTINF:-1 tvg-id="" tvg-name="24/7: LOS SIMPSON (1-5)" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS SIMPSON (1-5)
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/789
-#EXTINF:-1 tvg-id="" tvg-name="24/7: LOS SIMPSON (12-17)" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS SIMPSON (12-17)
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/790
-#EXTINF:-1 tvg-id="" tvg-name="24/7: LOS SIMPSON (18-21)" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS SIMPSON (18-21)
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/791
-#EXTINF:-1 tvg-id="" tvg-name="24/7: LOS SIMPSON (22-26)" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS SIMPSON (22-26)
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/792
-#EXTINF:-1 tvg-id="" tvg-name="24/7: LOS SIMPSON (27-30)" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS SIMPSON (27-30)
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/793
-#EXTINF:-1 tvg-id="" tvg-name="24/7: YU-GI-OH" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: YU-GI-OH
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/794
 #EXTINF:-1 tvg-id="" tvg-name="24/7: ANIMANIACS" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: ANIMANIACS
 http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/795
 #EXTINF:-1 tvg-id="" tvg-name="24/7: BREAKING BAD" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: BREAKING BAD
@@ -459,14 +367,10 @@ http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/798
 http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/805
 #EXTINF:-1 tvg-id="" tvg-name="24/7: MALCOLM" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: MALCOLM
 http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/806
-#EXTINF:-1 tvg-id="" tvg-name="24/7: ONE PUNCH MAN" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: ONE PUNCH MAN
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/807
 #EXTINF:-1 tvg-id="" tvg-name="24/7: PINKY & CEREBRO" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: PINKY & CEREBRO
 http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/808
 #EXTINF:-1 tvg-id="" tvg-name="24/7: TROLLHUNTERS" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: TROLLHUNTERS
 http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/810
-#EXTINF:-1 tvg-id="" tvg-name="24/7: YU-GI-OH" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: YU-GI-OH
-http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/811
 #EXTINF:-1 tvg-id="" tvg-name="24/7: COMEDIA" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: COMEDIA
 http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/812
 
@@ -568,9 +472,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e
 
 #EXTINF:-1 tvg-id="RetroCartoon.br" tvg-logo="https://i.imgur.com/hIlEfhl.png" group-title="24/7",Retrô Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVSRetro.gt" tvg-name="REG | TVS RETRO" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/guatemala/gt-reg-tvs-retro.png" group-title="24/7",TVS RETRO
-http://nxt.plus:8080/olmos/1234guz/59308   
 
 #EXTINF:-1 tvg-id="5f1aca0b4e448e00075e7c5e" tvg-name="Bob Esponja" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="24/7",Bob Esponja
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
@@ -676,7 +577,7 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/897e9wy.png" group-title="MUSIC", Teleritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
