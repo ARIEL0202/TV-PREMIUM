@@ -236,6 +236,80 @@ http://fortv.cc:8080/54514663/54514663/82241
 http://fortv.cc:8080/54514663/54514663/86765
 --------------------------------------------------------------------------------------------------------------------
 
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 01 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 01 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/11987
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 02 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 02 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/11988
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 03 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 03 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/11989
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 04 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 04 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/11990
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 05 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 05 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/11991
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 06 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 06 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/11992
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 07 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 07 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/11993
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 08 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 08 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/11994
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 09 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 09 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/11995
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 10 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 10 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/11996
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 11 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 11 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/11997
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 12 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 12 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/11998
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 13 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 13 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/11999
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 14 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 14 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12000
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 15 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 15 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12001
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 16 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 16 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12002
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 17 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 17 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12003
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 18 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 18 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12004
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 19 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 19 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12005
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 20 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 20 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12006
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 21 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 21 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12007
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 22 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 22 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12008
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 23 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 23 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12009
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 24 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 24 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12010
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 25 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 25 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12011
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 26 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 26 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12012
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 27 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 27 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12013
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 28 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 28 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12014
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 29 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 29 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12015
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 30 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 30 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12016
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 31 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 31 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12017
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 32 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 32 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12018
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 33 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 33 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12019
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 34 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 34 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12020
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 35 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 35 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12021
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 36 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 36 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12022
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 37 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 37 PPV
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/12023
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mx/HBO.mx.png" tvg-name="HBO" group-title="CINE",HBO
 http://redima.pro:8880/1234567/1234567/334
@@ -398,6 +472,109 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/pl
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8?PlaylistM3UCL
 
 ----------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7: BOB ESPONJA" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: BOB ESPONJA
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/690
+#EXTINF:-1 tvg-id="" tvg-name="24/7: CHESPIRITO" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: CHESPIRITO
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/691
+#EXTINF:-1 tvg-id="" tvg-name="24/7: CORAJE EL PERRO COBARDE" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: CORAJE EL PERRO COBARDE
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/692
+#EXTINF:-1 tvg-id="" tvg-name="24/7: DINOSAURIOS" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: DINOSAURIOS
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/693
+#EXTINF:-1 tvg-id="" tvg-name="24/7: HEY ARNOLD" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: HEY ARNOLD
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/694
+#EXTINF:-1 tvg-id="" tvg-name="24/7: EL PAJARO LOCO" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: EL PAJARO LOCO
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/695
+#EXTINF:-1 tvg-id="" tvg-name="24/7: DRAGON BALL GT" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: DRAGON BALL GT
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/696
+#EXTINF:-1 tvg-id="" tvg-name="24/7: DRAGON BALL" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: DRAGON BALL
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/697
+#EXTINF:-1 tvg-id="" tvg-name="24/7: GAMES OF THRONES" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: GAMES OF THRONES
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/698
+#EXTINF:-1 tvg-id="" tvg-name="24/7: FAMILY GUY" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: FAMILY GUY
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/699
+#EXTINF:-1 tvg-id="" tvg-name="24/7: RANMA ½" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: RANMA ½
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/700
+#EXTINF:-1 tvg-id="" tvg-name="24/7: TWO AND A HALF" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: TWO AND A HALF
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/701
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SAKURA" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: SAKURA
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/702
+#EXTINF:-1 tvg-id="" tvg-name="24/7: MR BEAN" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: MR BEAN
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/703
+#EXTINF:-1 tvg-id="" tvg-name="24/7: CHAPULIN COLORADO" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: CHAPULIN COLORADO
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/704
+#EXTINF:-1 tvg-id="" tvg-name="24/7: EL CHAVO DEL 8" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: EL CHAVO DEL 8
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/705
+#EXTINF:-1 tvg-id="" tvg-name="24/7: ALF" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: ALF
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/706
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LOS SIMPSON" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS SIMPSON
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/769
+#EXTINF:-1 tvg-id="" tvg-name="24/7: CANTINFLAS" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: CANTINFLAS
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/771
+#EXTINF:-1 tvg-id="" tvg-name="24/7: CABALLEROS DEL ZODIACO" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: CABALLEROS DEL ZODIACO
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/773
+#EXTINF:-1 tvg-id="" tvg-name="24/7: TOM & JERRY" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: TOM & JERRY
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/774
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SOUTH PARK" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: SOUTH PARK
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/775
+#EXTINF:-1 tvg-id="" tvg-name="24/7: DORAEMON" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: DORAEMON
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/776
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SMALLVILLELA" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: SMALLVILLELA
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/777
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LOS SUPERCAMPEONES" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS SUPERCAMPEONES
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/778
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SCOOBY DOO" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: SCOOBY DOO
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/779
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SAMURAI" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: SAMURAI
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/780
+#EXTINF:-1 tvg-id="" tvg-name="24/7: POKEMON" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: POKEMON
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/781
+#EXTINF:-1 tvg-id="" tvg-name="24/7: ONE PUNCH MAN" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: ONE PUNCH MAN
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/782
+#EXTINF:-1 tvg-id="" tvg-name="24/7: YU-GI-OH" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: YU-GI-OH
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/783
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LOS PICAPIEDRAS" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS PICAPIEDRAS
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/784
+#EXTINF:-1 tvg-id="" tvg-name="24/7: NARUTO" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: NARUTO
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/785
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LOONEY TUNES" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOONEY TUNES
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/786
+#EXTINF:-1 tvg-id="" tvg-name="24/7: EL PRINCIPE DEL RAP" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: EL PRINCIPE DEL RAP
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/787
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LOS SIMPSON (1-5)" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS SIMPSON (1-5)
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/789
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LOS SIMPSON (12-17)" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS SIMPSON (12-17)
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/790
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LOS SIMPSON (18-21)" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS SIMPSON (18-21)
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/791
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LOS SIMPSON (22-26)" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS SIMPSON (22-26)
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/792
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LOS SIMPSON (27-30)" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS SIMPSON (27-30)
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/793
+#EXTINF:-1 tvg-id="" tvg-name="24/7: YU-GI-OH" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: YU-GI-OH
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/794
+#EXTINF:-1 tvg-id="" tvg-name="24/7: ANIMANIACS" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: ANIMANIACS
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/795
+#EXTINF:-1 tvg-id="" tvg-name="24/7: BREAKING BAD" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: BREAKING BAD
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/796
+#EXTINF:-1 tvg-id="" tvg-name="24/7: EL GALLO CLAUDIO" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: EL GALLO CLAUDIO
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/798
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LOS PICAPIEDRAS" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS PICAPIEDRAS
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/805
+#EXTINF:-1 tvg-id="" tvg-name="24/7: MALCOLM" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: MALCOLM
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/806
+#EXTINF:-1 tvg-id="" tvg-name="24/7: ONE PUNCH MAN" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: ONE PUNCH MAN
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/807
+#EXTINF:-1 tvg-id="" tvg-name="24/7: PINKY & CEREBRO" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: PINKY & CEREBRO
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/808
+#EXTINF:-1 tvg-id="" tvg-name="24/7: TROLLHUNTERS" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: TROLLHUNTERS
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/810
+#EXTINF:-1 tvg-id="" tvg-name="24/7: YU-GI-OH" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: YU-GI-OH
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/811
+#EXTINF:-1 tvg-id="" tvg-name="24/7: COMEDIA" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: COMEDIA
+http://ultrapremium.cloud:8080/kPSk2bx3SWZE/Wteu6urndGNK/812
+
+
 #EXTINF:-1 tvg-id="247-Aladin" tvg-name="| HOUSE" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| HOUSE
 http://nxt.plus:8080/olmos/1234guz/94210
 #EXTINF:-1 tvg-id="247-DisneyClasico" tvg-name="COMEDIA" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",COMEDIA
