@@ -140,7 +140,7 @@ http://redima.pro:8880/1234567/1234567/994
 http://redima.pro:8880/1234567/1234567/337
 
 #EXTINF:-1 tvg-id="TNTChile.cl" tvg-name="TNT ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/tnt-hd.png" group-title="CINE",TNT
-http://nxt.plus:8080/olmos/1234guz/25213
+http://nxt.plus:8080/olmos/1234guz/25213   
 
 #EXTINF:-1 tvg-id="1274" tvg-name="Saber Mas - Freetv.com" tvg-logo="https://i2.paste.pics/ecac0da442f722d93b2a607b74c149df.png" group-title="CINE", Saber Mas
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8?PlaylistM3UCL
