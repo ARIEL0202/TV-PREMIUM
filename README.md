@@ -385,6 +385,14 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 -----------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC", ONE 0
+http://rtmp.one.by:1200
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC", ONE 1 HD
+http://rtmp.one.by:1300
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC", ONE 4 HD
+http://rtmp.one.by:2300
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/897e9wy.png" group-title="MUSIC", Teleritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
