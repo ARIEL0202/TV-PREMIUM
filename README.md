@@ -336,7 +336,6 @@ http://fortv.cc:8080/54514663/54514663/212934
 #EXTINF:-1 tvg-id="" tvg-name="IT: FOCUS" tvg-logo="" group-title="ITALY ",IT: FOCUS
 http://fortv.cc:8080/54514663/54514663/212941
 
-
 #EXTINF:-1 tvg-id="Canal7Jujuy.ar" tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="Argentina",Canal 7 (Jujuy)
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
@@ -411,3 +410,6 @@ https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TLN" group-title="MUSIC",TLN
 http://redima.pro:8880/1234567/1234567/573
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIOS", Radio Number One TV
+http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8?CANALANDRONALTAS.ts
