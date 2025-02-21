@@ -1,6 +1,7 @@
-#EXTINF:-1 tvg-id="" tvg-name="TYC Sports" tvg-logo="" group-title="⚽ DEPORTES",TYC Sports
-http://hdhd.tk:80/JasonMARKIEWICZ/JasonMARKIEWICZ/47214
-
+#EXTINF:-1 tvg-id="" tvg-name="DEP I TYC SPORTS INTERNACIONAL" tvg-logo="https://app.newtvmx.com/Imagenes/LOGOTIPOS/DEPORTES/tycsportsint.png" group-title="TV I DEPORTES SUR",DEP I TYC SPORTS INTERNACIONAL
+http://new-tv.cloud:25461/Emmanuel2/HGXFUyKv7gUN/690018
+#EXTINF:-1 tvg-id="I469.111046.zap2it.com" tvg-name="DEP I TYC SPORTS" tvg-logo="https://app.newtvmx.com/Imagenes/LOGOTIPOS/DEPORTES/tycsports.png" group-title="TV I DEPORTES SUR",DEP I TYC SPORTS
+http://new-tv.cloud:25461/Emmanuel2/HGXFUyKv7gUN/690016
 #EXTINF:-1 tvg-id="TNT Sports Argentina" tvg-name="TNT SPORTS | AR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-hd-ar.png" group-title="⚽ DEPORTES", TNT SPORTS | AR ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/25121
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN 1 | AR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-arg-hd.png" group-title="⚽ DEPORTES", ESPN 1 | AR ᴴᴰ
