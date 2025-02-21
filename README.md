@@ -28,6 +28,10 @@ http://redima.pro:8880/1234567/1234567/317
 
 #EXTINF:-1 tvg-id="FOXSports3.uy" tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-3-sur-hd.png" group-title="⚽ DEPORTES",ESPN 6
 http://nxt.plus:8080/olmos/1234guz/24405
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-cl-hd.png" group-title="⚽ DEPORTES",ESPN
+http://nxt.plus:8080/olmos/1234guz/58201
+#EXTINF:-1 tvg-id="" tvg-logo="https://uspto.report/TM/90480911/mark.png" tvg-name="ESPN 2" group-title="⚽ DEPORTES",ESPN 2
+http://redima.pro:8880/1234567/1234567/360
 
 #EXTINF:-1 tvg-id="ESPN 2 Brasil " tvg-name="ESPN 2 | BR" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-cl-hd.png" group-title="⚽ DEPORTES",ESPN 2 (BR)
 http://nxt.plus:8080/olmos/1234guz/58202
@@ -38,16 +42,11 @@ http://nxt.plus:8080/olmos/1234guz/81342
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" tvg-name="GOL TV ECU" group-title="⚽ DEPORTES",GOL TV ECU
 http://redima.pro:8880/1234567/1234567/569
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-cl-hd.png" group-title="⚽ DEPORTES",ESPN
-http://nxt.plus:8080/olmos/1234guz/58201
-
 #EXTINF:-1 tvg-id="FOXSports2.uy" tvg-name="FOX SPORTS 2 | SUR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-2-sur-hd.png" group-title="⚽ DEPORTES",FOX SPORTS 2 | SUR
 http://nxt.plus:8080/olmos/1234guz/13229
 
 #EXTINF:-1 tvg-id="TNT Sport " tvg-name="TNT SPORTS PR (CL)" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-2-cl.png" group-title="⚽ DEPORTES",TNT SPORTS PRE (CL)
 http://nxt.plus:8080/olmos/1234guz/7
-#EXTINF:-1 tvg-id="" tvg-logo="https://uspto.report/TM/90480911/mark.png" tvg-name="ESPN 2" group-title="⚽ DEPORTES",ESPN 2
-http://redima.pro:8880/1234567/1234567/360
 
 #EXTINF:-1 tvg-id="ESPN.3.br" tvg-name="ESPN 3 | BR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-3-br-hd.png" group-title="⚽ DEPORTES",ESPN 3 | BR ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/117637
@@ -65,6 +64,9 @@ http://nxt.plus:8080/olmos/1234guz/134386
 http://nxt.plus:8080/olmos/1234guz/29764
 #EXTINF:-1 tvg-id="ESPN.HD.(ESPN.HD).pe" tvg-name="ESPN 1 | PE ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-pe-hd.png" group-title="⚽ DEPORTES",ESPN 1 | PE ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/58200
+#EXTINF:-1 tvg-id="ESPN.2.(Colombia).(ESPN.2)..ec" tvg-name="ESPN 2 | EC" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-ec.png" group-title="⚽ DEPORTES",ESPN 2 | EC
+http://nxt.plus:8080/olmos/1234guz/59099
+
 #EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-name="FS 1 | US ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fs1-usa-hd.png" group-title="⚽ DEPORTES",FS 1 | US ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/65714
 #EXTINF:-1 tvg-id="FUTV.HDTV.(Costa.Rica).(FUTVHD).[786].cr" tvg-name="FUTV ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/futv-hd.png" group-title="⚽ DEPORTES",FUTV ᴴᴰ
@@ -79,8 +81,6 @@ http://nxt.plus:8080/olmos/1234guz/58201
 http://nxt.plus:8080/olmos/1234guz/58202
 #EXTINF:-1 tvg-id="TNT Sport 2" tvg-name="TNT SPORTS 2 (CL)" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-2-cl.png" group-title="⚽ DEPORTES",TNT SPORTS 2 (CL)
 http://nxt.plus:8080/olmos/1234guz/7
-#EXTINF:-1 tvg-id="ESPN.2.(Colombia).(ESPN.2)..ec" tvg-name="ESPN 2 | EC" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-ec.png" group-title="⚽ DEPORTES",ESPN 2 | EC
-http://nxt.plus:8080/olmos/1234guz/59099
 
 #EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK Sky Sports F1 FHD (D)" tvg-logo="" group-title="⚽ DEPORTES",Sky Sports F1 
 http://fortv.cc:8080/54514663/54514663/53704
