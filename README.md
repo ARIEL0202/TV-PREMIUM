@@ -387,7 +387,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 -----------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="CaliforniaMusicChannel.us" tvg-logo="https://i.imgur.com/L38mC6H.png" group-title="MUSIC",CMC (California Music Channel)
 https://cmc-ono.amagi.tv/playlist.m3u8
-
+    
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC", ONE 0
 http://rtmp.one.by:1200
 
