@@ -1,5 +1,6 @@
-#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS INTERNACIONAL" tvg-logo="https://app.newtvmx.com/Imagenes/LOGOTIPOS/DEPORTES/tycsportsint.png" group-title="⚽ DEPORTES",TYC SPORTS INTERNACIONAL
-http://new-tv.cloud:25461/Emmanuel2/HGXFUyKv7gUN/690018
+#EXTINF:-1 tvg-id="TyCSports2.ar" tvg-name="TyC SPORTS INT ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tyc-internacional.png" group-title="⚽ DEPORTES", TyC SPORTS INT ᴴᴰ
+http://nxt.plus:8080/olmos/1234guz/60567
+
 #EXTINF:-1 tvg-id="I469.111046.zap2it.com" tvg-name="TYC SPORTS" tvg-logo="https://app.newtvmx.com/Imagenes/LOGOTIPOS/DEPORTES/tycsports.png" group-title="⚽ DEPORTES",TYC SPORTS
 http://new-tv.cloud:25461/Emmanuel2/HGXFUyKv7gUN/690016
 #EXTINF:-1 tvg-id="TNT Sports Argentina" tvg-name="TNT SPORTS | AR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-hd-ar.png" group-title="⚽ DEPORTES", TNT SPORTS | AR ᴴᴰ
@@ -69,8 +70,6 @@ http://nxt.plus:8080/olmos/1234guz/58200
 http://nxt.plus:8080/olmos/1234guz/65714
 #EXTINF:-1 tvg-id="FUTV.HDTV.(Costa.Rica).(FUTVHD).[786].cr" tvg-name="FUTV ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/futv-hd.png" group-title="⚽ DEPORTES",FUTV ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/69657
-#EXTINF:-1 tvg-id="GOLPERU.HD.(GOLPERU.HD).pe" tvg-name="GOLPERU" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/gol-peru.png" group-title="⚽ DEPORTES",GOLPERU
-http://nxt.plus:8080/olmos/1234guz/9758
 #EXTINF:-1 tvg-id="FOXSports3.uy" tvg-name="FOX SPORTS 3 | SUR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-3-sur-hd.png" group-title="⚽ DEPORTES",FOX SPORTS 3 | SUR ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/24405
 #EXTINF:-1 tvg-id="ESPN2Chile.cl" tvg-name="ESPN 1 | CL ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-cl-hd.png" group-title="⚽ DEPORTES",ESPN 1 | CL ᴴᴰ
@@ -82,16 +81,12 @@ http://nxt.plus:8080/olmos/1234guz/7
 #EXTINF:-1 tvg-id="ESPN.2.(Colombia).(ESPN.2)..ec" tvg-name="ESPN 2 | EC" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-ec.png" group-title="⚽ DEPORTES",ESPN 2 | EC
 http://nxt.plus:8080/olmos/1234guz/59099
 
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK Sky Sports F1 FHD (D)" tvg-logo="" group-title="⚽ DEPORTES",Sky Sports F1 
-http://fortv.cc:8080/54514663/54514663/53704
 #EXTINF:-1 tvg-id="sky.sports.main.event.gb" tvg-name="UK-Sky Sports Main Event" tvg-logo="" group-title="⚽ DEPORTES",Sky Sports Main Event
 http://fortv.cc:8080/54514663/54514663/35243
 #EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK Sky Sports Mix FHD (D)" tvg-logo="" group-title="⚽ DEPORTES",Sky Sports Mix 
 http://fortv.cc:8080/54514663/54514663/53706
 #EXTINF:-1 tvg-id="sky.sports.news.gb" tvg-name="UK-Sky Sports News" tvg-logo="" group-title="⚽ DEPORTES",Sky Sports News
 http://fortv.cc:8080/54514663/54514663/35241
-#EXTINF:-1 tvg-id="sky.sports.f1.gb" tvg-name="UK Sky Sports F1 FHD" tvg-logo="" group-title="⚽ DEPORTES",Sky Sports F1
-http://fortv.cc:8080/54514663/54514663/35244
 #EXTINF:-1 tvg-id="3abn.latino.houston.tx.us" tvg-name="PT Eleven Sports 1 FHD " tvg-logo="" group-title="⚽ DEPORTES",PT Eleven Sports 1 
 http://fortv.cc:8080/54514663/54514663/35264
 #EXTINF:-1 tvg-id="tudnu.us" tvg-name="US TUDN " tvg-logo="" group-title="⚽ DEPORTES",TUDN 
@@ -99,8 +94,8 @@ http://fortv.cc:8080/54514663/54514663/82241
 #EXTINF:-1 tvg-id="" tvg-name="CO: ESPN COLOMBIA" tvg-logo="" group-title="⚽ DEPORTES",ESPN COLOMBIA
 http://fortv.cc:8080/54514663/54514663/86765
 
-#EXTINF:-1 tvg-id="TyCSports2.ar" tvg-name="TyC SPORTS INT ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tyc-internacional.png" group-title="⚽ DEPORTES", TyC SPORTS INT ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/60567
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS INTERNACIONAL" tvg-logo="https://app.newtvmx.com/Imagenes/LOGOTIPOS/DEPORTES/tycsportsint.png" group-title="⚽ DEPORTES",TYC SPORTS INTERNACIONAL
+http://new-tv.cloud:25461/Emmanuel2/HGXFUyKv7gUN/690018
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -137,12 +132,6 @@ http://redima.pro:8880/1234567/1234567/376
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Comedy Central" group-title="CINE",Comedy Central
 http://redima.pro:8880/1234567/1234567/994
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mx/HBO.mx.png" tvg-name="HBO HD" group-title="CINE",HBO EXTREME
-http://redima.pro:8880/1234567/1234567/337
-
-#EXTINF:-1 tvg-id="TNTChile.cl" tvg-name="TNT ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/tnt-hd.png" group-title="CINE",TNT
-http://nxt.plus:8080/olmos/1234guz/25213   
-
 #EXTINF:-1 tvg-id="1274" tvg-name="Saber Mas - Freetv.com" tvg-logo="https://i2.paste.pics/ecac0da442f722d93b2a607b74c149df.png" group-title="CINE", Saber Mas
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8?PlaylistM3UCL
 
@@ -164,22 +153,11 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/pl
 #EXTINF:-1 tvg-id="1280" tvg-name="Tu Cine - Freetv.com" tvg-logo="https://i2.paste.pics/ecac0da442f722d93b2a607b74c149df.png" group-title="CINE", Tu Cine 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8?PlaylistM3UCL
 
------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mx/HBO.mx.png" tvg-name="HBO HD" group-title="CINE",HBO EXTREME
+http://redima.pro:8880/1234567/1234567/337
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pa/History2LatinAmerica.pa.png" tvg-name="H2" group-title="CULT",H2
-http://redima.pro:8880/1234567/1234567/411
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/52/310/png-transparent-dream-theater-hd-logo-thumbnail.png" tvg-name="DISC THEATHER HD" group-title="CULT",DISC THEATHER HD
-http://redima.pro:8880/1234567/1234567/359
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" tvg-name="DISCOVERY ID" group-title="CULT",DISCOVERY ID
-http://redima.pro:8880/1234567/1234567/424
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" tvg-name="DISCOVERY WORLD" group-title="CULT",DISCOVERY WORLD
-http://redima.pro:8880/1234567/1234567/436
-
-#EXTINF:-1 tvg-id="Canal24Horas.es" tvg-logo="https://i.imgur.com/QYGrq71.png" group-title="CULT",Canal 24 Horas
-https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-id="TNTChile.cl" tvg-name="TNT ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/tnt-hd.png" group-title="CINE",TNT
+http://nxt.plus:8080/olmos/1234guz/25213   
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -286,6 +264,23 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png" tvg-name="NICKELODEON" group-title="24/7",NICKELODEON
 http://redima.pro:8880/1234567/1234567/399
+
+-----------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pa/History2LatinAmerica.pa.png" tvg-name="H2" group-title="CULT",H2
+http://redima.pro:8880/1234567/1234567/411
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/52/310/png-transparent-dream-theater-hd-logo-thumbnail.png" tvg-name="DISC THEATHER HD" group-title="CULT",DISC THEATHER HD
+http://redima.pro:8880/1234567/1234567/359
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" tvg-name="DISCOVERY ID" group-title="CULT",DISCOVERY ID
+http://redima.pro:8880/1234567/1234567/424
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" tvg-name="DISCOVERY WORLD" group-title="CULT",DISCOVERY WORLD
+http://redima.pro:8880/1234567/1234567/436
+
+#EXTINF:-1 tvg-id="Canal24Horas.es" tvg-logo="https://i.imgur.com/QYGrq71.png" group-title="CULT",Canal 24 Horas
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="IT: RAI 1" tvg-logo="" group-title="ITALY ",IT: RAI 1
