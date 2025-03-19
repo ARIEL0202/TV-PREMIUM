@@ -440,6 +440,9 @@ http://streaming02.arcast.com.ar:1935/la90fm/la90fm/playlist.m3u8
 #EXTINF:-1   tvg-logo="http://www.wtango.com.ar/wtango00.jpg" group-title="RADIOS", W TANGO 
 http://streaming.localhost.net.ar:8020/;stream.mp3
 
+#EXTINF:-1 tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="RADIOS", FM Love Classics
+http://strm112.1.fm/loveclassics_mobile_mp3?CANALANDRONALTAS
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Radio_Del_Plata_%28Logo_2020%29.jpg/600px-Radio_Del_Plata_%28Logo_2020%29.jpg" group-title="RADIOS", RADIO DEL PLATA 
 http://181.119.157.98:8800/amdelplata.mp3
 
