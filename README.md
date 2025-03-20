@@ -94,6 +94,11 @@ http://fortv.cc:8080/54514663/54514663/82241
 #EXTINF:-1 tvg-id="" tvg-name="CO: ESPN COLOMBIA" tvg-logo="" group-title="⚽ DEPORTES",ESPN COLOMBIA
 http://fortv.cc:8080/54514663/54514663/86765
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ar/ESPN3.ar.png" tvg-name="ESPN 3" group-title="⚽ DEPORTES",ESPN 3
+http://redima.pro:8880/1234567/1234567/573
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" tvg-name="ESPN 4" group-title="⚽ DEPORTES",ESPN 4
+http://redima.pro:8880/1234567/1234567/574
+
 #EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS INTERNACIONAL" tvg-logo="https://app.newtvmx.com/Imagenes/LOGOTIPOS/DEPORTES/tycsportsint.png" group-title="⚽ DEPORTES",TYC SPORTS INTERNACIONAL
 http://new-tv.cloud:25461/Emmanuel2/HGXFUyKv7gUN/690018
 
