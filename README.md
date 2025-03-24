@@ -293,7 +293,11 @@ http://redima.pro:8880/1234567/1234567/419
 #EXTINF:-1 tvg-id="Canal24Horas.es" tvg-logo="https://i.imgur.com/QYGrq71.png" group-title="CULT",Canal 24 Horas
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-logo="http://tvagro.tv/wp-content/uploads/2017/08/Logo180.png" tvg-name="TV AGRO" group-title="CULT",TV AGRO
+http://redima.pro:8880/1234567/1234567/429
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
 #EXTINF:-1 tvg-id="" tvg-name="IT: RAI 1" tvg-logo="" group-title="ITALY ",IT: RAI 1
 http://fortv.cc:8080/54514663/54514663/212895
 #EXTINF:-1 tvg-id="" tvg-name="IT: RAI 2" tvg-logo="" group-title="ITALY ",IT: RAI 2
