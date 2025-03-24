@@ -287,6 +287,9 @@ http://redima.pro:8880/1234567/1234567/424
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" tvg-name="DISCOVERY WORLD" group-title="CULT",DISCOVERY WORLD
 http://redima.pro:8880/1234567/1234567/436
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/125px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" tvg-name="CNN" group-title="CULT",CNN
+http://redima.pro:8880/1234567/1234567/419
+
 #EXTINF:-1 tvg-id="Canal24Horas.es" tvg-logo="https://i.imgur.com/QYGrq71.png" group-title="CULT",Canal 24 Horas
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
