@@ -110,6 +110,9 @@ http://redima.pro:8880/1234567/1234567/343
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" tvg-name="TNT" group-title="CINE",TNT
 http://redima.pro:8880/1234567/1234567/364
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" tvg-name="TNT SERIES" group-title="CINE",TNT SERIES
+http://redima.pro:8880/1234567/1234567/436
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/A/amc-logo-33DED15376-seeklogo.com.png" tvg-name="AMC" group-title="CINE",AMC
 http://redima.pro:8880/1234567/1234567/384
 
