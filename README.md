@@ -401,17 +401,11 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="CaliforniaMusicChannel.us" tvg-logo="https://i.imgur.com/L38mC6H.png" group-title="MUSIC",CMC (California Music Channel)
 https://cmc-ono.amagi.tv/playlist.m3u8
     
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC", ONE 0
-http://rtmp.one.by:1200
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC", ONE 1 HD
-http://rtmp.one.by:1300
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC", ONE 4 HD
-http://rtmp.one.by:2300
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/897e9wy.png" group-title="MUSIC", Teleritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-id="PeraviaVision.do" tvg-logo="https://i.imgur.com/k1Wj5ka.png" group-title="MUSIC",Peravía Visión
+https://ss5.domint.net:3048/pvv_str/peravia/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="MUSIC",VM Latino EL CANAL DE LA MUSICA
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist_w1943183241.m3u8
@@ -424,6 +418,15 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
 
 #EXTINF:-1 tvg-id="173508" tvg-name="The Retro Channel" tvg-logo="https://i.imgur.com/t3i1HtE.jpg" group-title="MUSIC",The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC", ONE 0
+http://rtmp.one.by:1200
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC", ONE 1 HD
+http://rtmp.one.by:1300
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC", ONE 4 HD
+http://rtmp.one.by:2300
 
 #EXTINF:-1 group-title="MUSIC",Play TV (New!)
 http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
@@ -442,11 +445,9 @@ http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSIC",Fort TV
 http://fort.co-works.org:8080/hls/live.stream.m3u8
+
 #EXTINF:-1 tvg-id="ArabicaTV.lb" tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="MUSIC",Arabica TV 
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CaracolaTV.cl" tvg-logo="https://i.imgur.com/QGvfqug.png" group-title="MUSIC",Caracola TV 
-https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TLN" group-title="MUSIC",TLN
 http://redima.pro:8880/1234567/1234567/573
