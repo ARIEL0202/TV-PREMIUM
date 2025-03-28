@@ -293,6 +293,12 @@ http://redima.pro:8880/1234567/1234567/424
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" tvg-name="DISCOVERY WORLD" group-title="CULT",DISCOVERY WORLD
 http://redima.pro:8880/1234567/1234567/436
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULT",Gusto TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bonappetit.us" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="CULT",bon appétit 
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/125px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" tvg-name="CNN" group-title="CULT",CNN
 http://redima.pro:8880/1234567/1234567/419
 
@@ -399,6 +405,9 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MEXICO", ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="MEXICO",AMX Noticias 
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="CaliforniaMusicChannel.us" tvg-logo="https://i.imgur.com/L38mC6H.png" group-title="MUSIC",CMC (California Music Channel)
