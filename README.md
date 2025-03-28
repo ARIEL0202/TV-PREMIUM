@@ -466,6 +466,9 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
 #EXTINF:-1 tvg-id="173508" tvg-name="The Retro Channel" tvg-logo="https://i.imgur.com/t3i1HtE.jpg" group-title="MUSIC",The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="http://doutico.com/wpimages/wp284c9e60_06.png" group-title="MUSIC",CANAL NICOYA TV 36 CR
+http://k4.usastreams.com/nicoyatv/nicoyatv/chunklist_w1409466758.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC", ONE 0
 http://rtmp.one.by:1200
 
