@@ -293,6 +293,9 @@ http://redima.pro:8880/1234567/1234567/424
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" tvg-name="DISCOVERY WORLD" group-title="CULT",DISCOVERY WORLD
 http://redima.pro:8880/1234567/1234567/436
 
+#EXTINF:-1 tvg-id="CaribbeanTravelingNetwork.do" tvg-logo="https://i.imgur.com/8J3oyfq.png" group-title="CULT",Caribbean Traveling Network 
+https://59ef525c24caa.streamlock.net/ctn/ctn/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULT",Gusto TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
 
