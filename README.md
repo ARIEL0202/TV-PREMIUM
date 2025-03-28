@@ -273,6 +273,9 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="5f1aca0b4e448e00075e7c5e" tvg-name="Bob Esponja" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="24/7",Bob Esponja
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="24/7",AFV 
+https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png" tvg-name="NICKELODEON" group-title="24/7",NICKELODEON
 http://redima.pro:8880/1234567/1234567/399
 
@@ -427,6 +430,9 @@ http://rtmp.one.by:1300
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC", ONE 4 HD
 http://rtmp.one.by:2300
+
+#EXTINF:-1 tvg-id="Radio51TV.it" tvg-logo="https://i.imgur.com/UupkBt6.png" group-title="MUSIC",Radio 51 TV 
+http://178.32.140.155/canale51/canale51/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC",Play TV (New!)
 http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
