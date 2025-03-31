@@ -139,6 +139,9 @@ http://redima.pro:8880/1234567/1234567/573
 #EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" tvg-name="STAR CHANNEL" group-title="CINE",STAR CHANNEL
 http://redima.pro:8880/1234567/1234567/343
 
+#EXTINF:-1 group-title="CINE",HBO Plus
+http://ky-iptv.com:80/12345678/12345678/1041237.ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" tvg-name="TNT" group-title="CINE",TNT
 http://redima.pro:8880/1234567/1234567/364
 
@@ -147,6 +150,9 @@ http://redima.pro:8880/1234567/1234567/436
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/A/amc-logo-33DED15376-seeklogo.com.png" tvg-name="AMC" group-title="CINE",AMC
 http://redima.pro:8880/1234567/1234567/384
+
+#EXTINF:-1 group-title="CINE",Paramount Network
+http://ky-iptv.com:80/12345678/12345678/176339.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/M/mc-graphic-design-logo-ACBAE984D6-seeklogo.com.png" tvg-name="MULTICINE" group-title="CINE",MULTICINE
 http://redima.pro:8880/1234567/1234567/381
@@ -165,6 +171,9 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE", MY TIME MOVIES 2
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="CINE",Kanal D Drama
+http://ky-iptv.com:80/12345678/12345678/1830863.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/250px-DPel%C3%ADcula_2021.svg.png" tvg-name="DPELICULAS" group-title="CINE",DPELICULAS
 http://redima.pro:8880/1234567/1234567/376
@@ -321,6 +330,9 @@ http://redima.pro:8880/1234567/1234567/399
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pa/History2LatinAmerica.pa.png" tvg-name="H2" group-title="CULT",H2
 http://redima.pro:8880/1234567/1234567/411
 
+#EXTINF:-1 group-title="CULT",Discovery Familia*
+http://ky-iptv.com:80/12345678/12345678/176293.ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/52/310/png-transparent-dream-theater-hd-logo-thumbnail.png" tvg-name="DISC THEATHER HD" group-title="CULT",DISC THEATHER HD
 http://redima.pro:8880/1234567/1234567/359
 
@@ -342,8 +354,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-s
 #EXTINF:-1 tvg-id="bonappetit.us" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="CULT",bon appétit 
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/125px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" tvg-name="CNN" group-title="CULT",CNN
-http://redima.pro:8880/1234567/1234567/419
+#EXTINF:-1 group-title="CULT",CNN en Español
+http://ky-iptv.com:80/12345678/12345678/176290.ts
 
 #EXTINF:-1 tvg-id="Canal24Horas.es" tvg-logo="https://i.imgur.com/QYGrq71.png" group-title="CULT",Canal 24 Horas
 https://ztnr.rtve.es/ztnr/1694255.m3u8
