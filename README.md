@@ -128,6 +128,12 @@ http://nxt.plus:8080/olmos/1234guz/29764
 #EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-name="FS 1 | US ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fs1-usa-hd.png" group-title="⚽ DEPORTES",FS 1 | US ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/65714
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" tvg-name="ESPN" group-title="⚽ DEPORTES",ESPN
+http://redima.pro:8880/1234567/1234567/317
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ESPN" group-title="⚽ DEPORTES",ESPN
+http://redima.pro:8880/1234567/1234567/573
+
 --------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" tvg-name="STAR CHANNEL" group-title="CINE",STAR CHANNEL
@@ -142,20 +148,14 @@ http://redima.pro:8880/1234567/1234567/436
 #EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/A/amc-logo-33DED15376-seeklogo.com.png" tvg-name="AMC" group-title="CINE",AMC
 http://redima.pro:8880/1234567/1234567/384
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" tvg-name="SONY" group-title="CINE",SONY
-http://redima.pro:8880/1234567/1234567/356
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" tvg-name="UNIVERSAL" group-title="CINE", UNIVERSAL
-http://redima.pro:8880/1234567/1234567/443
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/09/Logo-DHE.png" tvg-name="DHE HD" group-title="CINE",DHE HD
-http://redima.pro:8880/1234567/1234567/410
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/M/mc-graphic-design-logo-ACBAE984D6-seeklogo.com.png" tvg-name="MULTICINE" group-title="CINE",MULTICINE
 http://redima.pro:8880/1234567/1234567/381
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" tvg-name="ANTENA 3" group-title="CINE",ANTENA 3
 http://redima.pro:8880/1234567/1234567/418
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CINE ARGENTINO" tvg-logo="" group-title="CINE",CINE ARGENTINO
+http://fortv.cc:8080/54514663/54514663/164871
 
 #EXTINF:0 tvg-id="ext" group-title="CINE",A3S SERIES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aca8310a30e00074fab92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -202,6 +202,14 @@ http://redima.pro:8880/1234567/1234567/337
 #EXTINF:-1 tvg-id="TNTChile.cl" tvg-name="TNT ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/tnt-hd.png" group-title="CINE",TNT
 http://nxt.plus:8080/olmos/1234guz/25213   
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" tvg-name="SONY" group-title="CINE",SONY
+http://redima.pro:8880/1234567/1234567/356
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" tvg-name="UNIVERSAL" group-title="CINE", UNIVERSAL
+http://redima.pro:8880/1234567/1234567/443
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/09/Logo-DHE.png" tvg-name="DHE HD" group-title="CINE",DHE HD
+http://redima.pro:8880/1234567/1234567/410
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="247-Aladin" tvg-name="| HOUSE" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| HOUSE
@@ -328,6 +336,9 @@ http://redima.pro:8880/1234567/1234567/436
 #EXTINF:-1 tvg-id="CaribbeanTravelingNetwork.do" tvg-logo="https://i.imgur.com/8J3oyfq.png" group-title="CULT",Caribbean Traveling Network 
 https://59ef525c24caa.streamlock.net/ctn/ctn/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ENCUENTRO HD" tvg-logo="" group-title="Argentina",ARG: ENCUENTRO HD
+http://fortv.cc:8080/54514663/54514663/164878
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULT",Gusto TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
 
@@ -349,50 +360,53 @@ http://redima.pro:8880/1234567/1234567/429
 http://fortv.cc:8080/54514663/54514663/212895
 #EXTINF:-1 tvg-id="" tvg-name="IT: RAI 2" tvg-logo="" group-title="ITALY ",IT: RAI 2
 http://fortv.cc:8080/54514663/54514663/212896
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 3" tvg-logo="" group-title="ITALY ",IT: RAI 3
-http://fortv.cc:8080/54514663/54514663/212897
 #EXTINF:-1 tvg-id="" tvg-name="IT: RAI 4" tvg-logo="" group-title="ITALY ",IT: RAI 4
 http://fortv.cc:8080/54514663/54514663/212898
 #EXTINF:-1 tvg-id="" tvg-name="IT: RAI ITALIA" tvg-logo="" group-title="ITALY ",IT: RAI ITALIA
 http://fortv.cc:8080/54514663/54514663/212900
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI PREMIUM" tvg-logo="" group-title="ITALY ",IT: RAI PREMIUM
-http://fortv.cc:8080/54514663/54514663/212901
 #EXTINF:-1 tvg-id="" tvg-name="IT: RAI MOVIE" tvg-logo="" group-title="ITALY ",IT: RAI MOVIE
 http://fortv.cc:8080/54514663/54514663/212902
 #EXTINF:-1 tvg-id="" tvg-name="IT: CANALE 5" tvg-logo="" group-title="ITALY ",IT: CANALE 5
 http://fortv.cc:8080/54514663/54514663/212903
-#EXTINF:-1 tvg-id="" tvg-name="IT: MEDIASET ITALIA 1" tvg-logo="" group-title="ITALY ",IT: MEDIASET ITALIA 1
-http://fortv.cc:8080/54514663/54514663/212906
 #EXTINF:-1 tvg-id="" tvg-name="IT: MEDIASET ITALIA 2" tvg-logo="" group-title="ITALY ",IT: MEDIASET ITALIA 2
 http://fortv.cc:8080/54514663/54514663/212907
 #EXTINF:-1 tvg-id="" tvg-name="IT: LA 5" tvg-logo="" group-title="ITALY ",IT: LA 5
 http://fortv.cc:8080/54514663/54514663/212911
 #EXTINF:-1 tvg-id="" tvg-name="IT: RAI NEWS 24" tvg-logo="" group-title="ITALY ",IT: RAI NEWS 24
 http://fortv.cc:8080/54514663/54514663/212913
+#EXTINF:-1 tvg-id="" tvg-name="IT: RETE 4" tvg-logo="" group-title="ITALY ",IT: RETE 4
+http://fortv.cc:8080/54514663/54514663/212920
+#EXTINF:-1 tvg-id="" tvg-name="IT: CARTOONITO" tvg-logo="" group-title="ITALY ",IT: CARTOONITO
+http://fortv.cc:8080/54514663/54514663/212928
+#EXTINF:-1 tvg-id="" tvg-name="IT: FRISBEE" tvg-logo="" group-title="ITALY ",IT: FRISBEE
+http://fortv.cc:8080/54514663/54514663/212929
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI SCUOLA" tvg-logo="" group-title="ITALY ",IT: RAI SCUOLA
+http://fortv.cc:8080/54514663/54514663/212934
+#EXTINF:-1 tvg-id="" tvg-name="IT: FOCUS" tvg-logo="" group-title="ITALY ",IT: FOCUS
+http://fortv.cc:8080/54514663/54514663/212941
+
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 3" tvg-logo="" group-title="ITALY ",IT: RAI 3
+http://fortv.cc:8080/54514663/54514663/212897
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI PREMIUM" tvg-logo="" group-title="ITALY ",IT: RAI PREMIUM
+http://fortv.cc:8080/54514663/54514663/212901
+#EXTINF:-1 tvg-id="" tvg-name="IT: MEDIASET ITALIA 1" tvg-logo="" group-title="ITALY ",IT: MEDIASET ITALIA 1
+http://fortv.cc:8080/54514663/54514663/212906
 #EXTINF:-1 tvg-id="" tvg-name="IT: TGCOM 24" tvg-logo="" group-title="ITALY ",IT: TGCOM 24
 http://fortv.cc:8080/54514663/54514663/212915
 #EXTINF:-1 tvg-id="" tvg-name="IT: TG LA 7" tvg-logo="" group-title="ITALY ",IT: TG LA 7
 http://fortv.cc:8080/54514663/54514663/212916
-#EXTINF:-1 tvg-id="" tvg-name="IT: RETE 4" tvg-logo="" group-title="ITALY ",IT: RETE 4
-http://fortv.cc:8080/54514663/54514663/212920
 #EXTINF:-1 tvg-id="" tvg-name="IT: REAL TIME" tvg-logo="" group-title="ITALY ",IT: REAL TIME
 http://fortv.cc:8080/54514663/54514663/212923
 #EXTINF:-1 tvg-id="" tvg-name="IT: RAI GULP" tvg-logo="" group-title="ITALY ",IT: RAI GULP
 http://fortv.cc:8080/54514663/54514663/212925
 #EXTINF:-1 tvg-id="" tvg-name="IT: RAI YOYO" tvg-logo="" group-title="ITALY ",IT: RAI YOYO
 http://fortv.cc:8080/54514663/54514663/212926
-#EXTINF:-1 tvg-id="" tvg-name="IT: CARTOONITO" tvg-logo="" group-title="ITALY ",IT: CARTOONITO
-http://fortv.cc:8080/54514663/54514663/212928
-#EXTINF:-1 tvg-id="" tvg-name="IT: FRISBEE" tvg-logo="" group-title="ITALY ",IT: FRISBEE
-http://fortv.cc:8080/54514663/54514663/212929
 #EXTINF:-1 tvg-id="" tvg-name="IT: SUPER!" tvg-logo="" group-title="ITALY ",IT: SUPER!
 http://fortv.cc:8080/54514663/54514663/212931
 #EXTINF:-1 tvg-id="" tvg-name="IT: RAI STORIA" tvg-logo="" group-title="ITALY ",IT: RAI STORIA
 http://fortv.cc:8080/54514663/54514663/212933
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI SCUOLA" tvg-logo="" group-title="ITALY ",IT: RAI SCUOLA
-http://fortv.cc:8080/54514663/54514663/212934
-#EXTINF:-1 tvg-id="" tvg-name="IT: FOCUS" tvg-logo="" group-title="ITALY ",IT: FOCUS
-http://fortv.cc:8080/54514663/54514663/212941
+
+---------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="Canal7Jujuy.ar" tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="Argentina",Canal 7 (Jujuy)
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
@@ -404,16 +418,12 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
 http://fortv.cc:8080/54514663/54514663/164869
 #EXTINF:-1 tvg-id="" tvg-name="ARG: TELEFE INTERNACIONAL HD" tvg-logo="" group-title="Argentina",ARG: TELEFE INTERNACIONAL HD
 http://fortv.cc:8080/54514663/54514663/164870
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CINE ARGENTINO" tvg-logo="" group-title="Argentina",ARG: CINE ARGENTINO
-http://fortv.cc:8080/54514663/54514663/164871
 #EXTINF:-1 tvg-id="" tvg-name="ARG: TN NOTICIAS" tvg-logo="" group-title="Argentina",ARG: TN NOTICIAS
 http://fortv.cc:8080/54514663/54514663/164873
 #EXTINF:-1 tvg-id="" tvg-name="ARG: CRONICA HD" tvg-logo="" group-title="Argentina",ARG: CRONICA HD
 http://fortv.cc:8080/54514663/54514663/164875
 #EXTINF:-1 tvg-id="" tvg-name="ARG: C5N HD" tvg-logo="" group-title="Argentina",ARG: C5N HD
 http://fortv.cc:8080/54514663/54514663/164876
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ENCUENTRO HD" tvg-logo="" group-title="Argentina",ARG: ENCUENTRO HD
-http://fortv.cc:8080/54514663/54514663/164878
 #EXTINF:-1 tvg-id="" tvg-name="ARG: INFORMACION PERIODISTICA HD" tvg-logo="" group-title="Argentina",ARG: INFORMACION PERIODISTICA HD
 http://fortv.cc:8080/54514663/54514663/164879
 #EXTINF:-1 tvg-id="" tvg-name="ARG: GARAGE TV HD" tvg-logo="" group-title="Argentina",ARG: GARAGE TV HD
@@ -425,6 +435,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009
 #EXTINF:-1 tvg-id="Canal22.ar" tvg-logo="https://canal22web.com/wp-content/uploads/2020/09/80.jpg" group-title="Argentina",Canal 22
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
 
+--------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="MEXICO", TV MÁS 
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
@@ -487,24 +498,16 @@ http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it" tvg-logo="https://i.imgur.com/lF0iofX.png" group-title="MUSIC",Euro Indie Music Chart TV 
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DSTV.bg" tvg-logo="https://i.imgur.com/Dhp3WVn.png" group-title="MUSIC",DSTV 
-http://46.249.95.140:8081/hls/data.m3u8
-
 #EXTINF:-1 tvg-id="M2.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="MUSIC",M2 
 http://live.m2.tv/hls3/stream.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.perezzeledon.net/wp-content/uploads/8811.gif" group-title="MUSIC",CANAL 88 STEREO CR
 http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSIC",Fort TV
-http://fort.co-works.org:8080/hls/live.stream.m3u8
-
 #EXTINF:-1 tvg-id="ArabicaTV.lb" tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="MUSIC",Arabica TV 
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TLN" group-title="MUSIC",TLN
-http://redima.pro:8880/1234567/1234567/573
-
+------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIOS", Radio Number One TV
 http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8?CANALANDRONALTAS.ts
