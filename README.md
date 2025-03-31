@@ -151,9 +151,6 @@ http://redima.pro:8880/1234567/1234567/384
 #EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/M/mc-graphic-design-logo-ACBAE984D6-seeklogo.com.png" tvg-name="MULTICINE" group-title="CINE",MULTICINE
 http://redima.pro:8880/1234567/1234567/381
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" tvg-name="ANTENA 3" group-title="CINE",ANTENA 3
-http://redima.pro:8880/1234567/1234567/418
-
 #EXTINF:-1 tvg-id="" tvg-name="ARG: CINE ARGENTINO" tvg-logo="" group-title="CINE",CINE ARGENTINO
 http://fortv.cc:8080/54514663/54514663/164871
 
@@ -353,6 +350,19 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://tvagro.tv/wp-content/uploads/2017/08/Logo180.png" tvg-name="TV AGRO" group-title="CULT",TV AGRO
 http://redima.pro:8880/1234567/1234567/429
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="SPAIN", LA 1
+http://ky-iptv.com:80/12345678/12345678/176325.ts
+#EXTINF:-1 group-title="SPAIN", La 2
+http://ky-iptv.com:80/12345678/12345678/176327.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" tvg-name="ANTENA 3" group-title="SPAIN",ANTENA 3
+http://redima.pro:8880/1234567/1234567/418
+#EXTINF:-1 group-title="SPAIN", La Sexta
+http://ky-iptv.com:80/12345678/12345678/176328.ts
+#EXTINF:-1 group-title="SPAIN",NOVA
+http://ky-iptv.com:80/12345678/12345678/176335.ts
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
