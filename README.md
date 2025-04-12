@@ -478,9 +478,15 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
 -----------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="NoroesteTV.es" tvg-logo="https://i.imgur.com/s6V8rQd.png" group-title="MUSIC",Noroeste TV
+https://cloudvideo.servers10.com:8081/8032/index.m3u8
+
 #EXTINF:-1 tvg-id="CaliforniaMusicChannel.us" tvg-logo="https://i.imgur.com/L38mC6H.png" group-title="MUSIC",CMC (California Music Channel)
 https://cmc-ono.amagi.tv/playlist.m3u8
-    
+
+#EXTINF:-1 tvg-id="112615" tvg-name="Video Tour Channel" tvg-logo="https://lh3.googleusercontent.com/-QUz4UviUPiE/X3YnewzIm7I/AAAAAAAA6Ho/xpUvyAvSX6Qj0Lvl8qhuZnDdz9VPZWy4QCK8BGAsYHg/s0/2020-10-01.png" group-title="MUSIC", Video Tour Channel
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/897e9wy.png" group-title="MUSIC", Teleritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
@@ -530,6 +536,15 @@ http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
 ------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="RADIOS", FM Love Classics
+http://strm112.1.fm/loveclassics_mobile_mp3?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/576378177/logo_toplatino_radio_200x200_400x400.png" group-title="RADIOS",TOP LATINO RADIO PERU
+http://online.radiodifusion.net:8028/stream/1/
+
+#EXTINF:-1 tvg-logo="https://si.cultura.cr/sites/default/files/styles/ficha_full/public/disney.jpg?itok=ihXPbHqj" group-title="RADIOS",RADIO DISNEY CR
+http://ic.streann.com:8000/disneycostarica
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIOS", Radio Number One TV
 http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8?CANALANDRONALTAS.ts
