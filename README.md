@@ -1,6 +1,6 @@
 #EXTINF:-1 tvg-id="TyCSports2.ar" tvg-name="TyC SPORTS INT ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tyc-internacional.png" group-title="⚽ DEPORTES", TyC SPORTS INT ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/60567
-
+     
 #EXTINF:-1 tvg-id="I469.111046.zap2it.com" tvg-name="TYC SPORTS" tvg-logo="https://app.newtvmx.com/Imagenes/LOGOTIPOS/DEPORTES/tycsports.png" group-title="⚽ DEPORTES",TYC SPORTS
 http://new-tv.cloud:25461/Emmanuel2/HGXFUyKv7gUN/690016
 
@@ -136,27 +136,6 @@ http://redima.pro:8880/1234567/1234567/573
 
 --------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" tvg-name="STAR CHANNEL" group-title="CINE",STAR CHANNEL
-http://redima.pro:8880/1234567/1234567/343
-
-#EXTINF:-1 group-title="CINE",HBO Plus
-http://ky-iptv.com:80/12345678/12345678/1041237.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" tvg-name="TNT" group-title="CINE",TNT
-http://redima.pro:8880/1234567/1234567/364
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" tvg-name="TNT SERIES" group-title="CINE",TNT SERIES
-http://redima.pro:8880/1234567/1234567/436
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/A/amc-logo-33DED15376-seeklogo.com.png" tvg-name="AMC" group-title="CINE",AMC
-http://redima.pro:8880/1234567/1234567/384
-
-#EXTINF:-1 group-title="CINE",Paramount Network
-http://ky-iptv.com:80/12345678/12345678/176339.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/M/mc-graphic-design-logo-ACBAE984D6-seeklogo.com.png" tvg-name="MULTICINE" group-title="CINE",MULTICINE
-http://redima.pro:8880/1234567/1234567/381
-
 #EXTINF:-1 tvg-id="" tvg-name="ARG: CINE ARGENTINO" tvg-logo="" group-title="CINE",CINE ARGENTINO
 http://fortv.cc:8080/54514663/54514663/164871
 
@@ -216,6 +195,28 @@ http://redima.pro:8880/1234567/1234567/443
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/09/Logo-DHE.png" tvg-name="DHE HD" group-title="CINE",DHE HD
 http://redima.pro:8880/1234567/1234567/410
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" tvg-name="STAR CHANNEL" group-title="CINE",STAR CHANNEL
+http://redima.pro:8880/1234567/1234567/343
+
+#EXTINF:-1 group-title="CINE",HBO Plus
+http://ky-iptv.com:80/12345678/12345678/1041237.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" tvg-name="TNT" group-title="CINE",TNT
+http://redima.pro:8880/1234567/1234567/364
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" tvg-name="TNT SERIES" group-title="CINE",TNT SERIES
+http://redima.pro:8880/1234567/1234567/436
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/A/amc-logo-33DED15376-seeklogo.com.png" tvg-name="AMC" group-title="CINE",AMC
+http://redima.pro:8880/1234567/1234567/384
+
+#EXTINF:-1 group-title="CINE",Paramount Network
+http://ky-iptv.com:80/12345678/12345678/176339.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/M/mc-graphic-design-logo-ACBAE984D6-seeklogo.com.png" tvg-name="MULTICINE" group-title="CINE",MULTICINE
+http://redima.pro:8880/1234567/1234567/381
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="247-Aladin" tvg-name="| HOUSE" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| HOUSE
@@ -490,6 +491,9 @@ https://cloudvideo.servers10.com:8081/8032/index.m3u8
 
 #EXTINF:-1 tvg-id="VClassicTV.cl" tvg-logo="https://www.radiocoquimbo.cl/wp-content/uploads/2022/06/281336152_108970288486083_7336224258612856686_n-e1655673117480.png" group-title="MUSIC",V Classic TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CadenaElite.es" tvg-country="ES" tvg-language="" tvg-logo="" group-title="MUSIC",Cadena Elite (720p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
 
 #EXTINF:-1 tvg-id="CaliforniaMusicChannel.us" tvg-logo="https://i.imgur.com/L38mC6H.png" group-title="MUSIC",CMC (California Music Channel)
 https://cmc-ono.amagi.tv/playlist.m3u8
