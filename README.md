@@ -498,8 +498,14 @@ https://cloudvideo.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1 tvg-id="CaliforniaMusicChannel.us" tvg-logo="https://i.imgur.com/L38mC6H.png" group-title="MUSIC",CMC (California Music Channel)
 https://cmc-ono.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="PowerHD.ar" tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="MUSIC",PowerHD
+https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
+
 #EXTINF:-1 tvg-id="112615" tvg-name="Video Tour Channel" tvg-logo="https://lh3.googleusercontent.com/-QUz4UviUPiE/X3YnewzIm7I/AAAAAAAA6Ho/xpUvyAvSX6Qj0Lvl8qhuZnDdz9VPZWy4QCK8BGAsYHg/s0/2020-10-01.png" group-title="MUSIC", Video Tour Channel
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="RCR.pe" tvg-logo="https://i.imgur.com/DvRbrFy.png" group-title="MUSIC",Red de Comunicación Regional (RCR) 
+https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ActivaTV.es" tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="MUSIC",Activa TV 
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
