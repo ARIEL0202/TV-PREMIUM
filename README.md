@@ -486,6 +486,7 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Now90s.uk" tvg-logo="https://i.imgur.com/yo8lEu1.png" group-title="MUSIC",Now 90's
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="NoroesteTV.es" tvg-logo="https://i.imgur.com/s6V8rQd.png" group-title="MUSIC",Noroeste TV
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
 
