@@ -383,6 +383,8 @@ http://ky-iptv.com:80/12345678/12345678/176335.ts
 http://fortv.cc:8080/54514663/54514663/212895
 #EXTINF:-1 tvg-id="" tvg-name="IT: RAI 2" tvg-logo="" group-title="ITALY ",IT: RAI 2
 http://fortv.cc:8080/54514663/54514663/212896
+#EXTINF:-1 tvg-id="Rai3.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png" group-title="Undefined",Rai 3
+http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IT: RAI 4" tvg-logo="" group-title="ITALY ",IT: RAI 4
 http://fortv.cc:8080/54514663/54514663/212898
 #EXTINF:-1 tvg-id="" tvg-name="IT: RAI ITALIA" tvg-logo="" group-title="ITALY ",IT: RAI ITALIA
@@ -531,6 +533,12 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
 
 #EXTINF:-1 tvg-id="173508" tvg-name="The Retro Channel" tvg-logo="https://i.imgur.com/t3i1HtE.jpg" group-title="MUSIC",The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="WTVCanal20.ni" tvg-logo="https://i.imgur.com/jMw3fS3.png" group-title="MUSIC",WTV Canal 20 
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+
+#EXTINF:-1 tvg-id="RadioImpacto2.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YvK1hm7.png" group-title="MUSIC",Radio Impacto 2 
+https://sv72.ecuaradiotv.net/impacto2tv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC", ONE 0
 http://rtmp.one.by:1200
