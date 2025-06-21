@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="TyCSports2.ar" tvg-name="TyC SPORTS INT ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tyc-internacional.png" group-title="⚽ DEPORTES", TyC SPORTS INT ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/60567
+http://nxt.plus:8080/olmos/1234guz/60567      
      
 #EXTINF:-1 tvg-id="I469.111046.zap2it.com" tvg-name="TYC SPORTS" tvg-logo="https://app.newtvmx.com/Imagenes/LOGOTIPOS/DEPORTES/tycsports.png" group-title="⚽ DEPORTES",TYC SPORTS
 http://new-tv.cloud:25461/Emmanuel2/HGXFUyKv7gUN/690016
