@@ -106,9 +106,6 @@ https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:-1 tvg-id="Nortevision.es" tvg-logo="https://i.imgur.com/C5SYw7B.png" group-title="VARIOS",NORTEvisión 
 http://amaru.dyndns.org:8870/0.m3u8
 
-#EXTINF:-1 tvg-id="STEuropeChannel.it" tvg-logo="https://i.imgur.com/M5j7y2N.png" group-title="VARIOS",ST Europe Channel 
-https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TuMusicaHD.do" tvg-logo="https://i.imgur.com/HnjUjog.png" group-title="VARIOS",Tu Música HD (1080p)
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
@@ -117,9 +114,6 @@ https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TopTV.pe" tvg-logo="https://i.imgur.com/N5auYKR.png" group-title="VARIOS",Top FM TV (Atalaya) 
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PY3566n.png" group-title="VARIOS", WOW TV 
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NicoyaTV.cr" tvg-logo="https://i.imgur.com/UlOap5t.png" group-title="VARIOS",Nicoya TV 
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
@@ -139,14 +133,14 @@ http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8
 #EXTINF:-1 tvg-id="AsiriTV.pe" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="VARIOS",AsiriTV (Lima)
 https://video2.lhdserver.es/asiritv/live.m3u8
 
+#EXTINF:-1 tvg-id="WTVCanal20.ni" tvg-logo="https://i.imgur.com/jMw3fS3.png" group-title="VARIOS",WTV Canal 20 
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PY3566n.png" group-title="VARIOS", WOW TV 
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Boreal.do" tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="VARIOS",Boreal
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
-
-#EXTINF:-1 tvg-id="WTVCanal20.ni" tvg-logo="https://i.imgur.com/jMw3fS3.png" group-title="VARIOS",WTV Canal 20 
-https://cloudvideo.servers10.com:8081/8130/index.m3u8
-
-#EXTINF:-1 tvg-id="WTVCanal20.ni" tvg-logo="https://i.imgur.com/jMw3fS3.png" group-title="VARIOS",WTV Canal 20 
-https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
@@ -234,6 +228,8 @@ http://fortv.cc:8080/54514663/54514663/212926
 http://fortv.cc:8080/54514663/54514663/212931
 #EXTINF:-1 tvg-id="Rai3.it" tvg-country="IT" tvg-language="ITALY " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png" group-title="ITALY ",Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
+#EXTINF:-1 tvg-id="STEuropeChannel.it" tvg-logo="https://i.imgur.com/M5j7y2N.png" group-title="VARIOS",ST Europe Channel 
+https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8
 
 ---------------------------------------------------------------------------------------------------------------------
 
