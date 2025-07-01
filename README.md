@@ -147,9 +147,6 @@ https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 #EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i.imgur.com/9FDqljV.png" group-title="VARIOS",Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
-#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="VARIOS",Ciudad Magazine 
-https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-
 #EXTINF:-1 tvg-id="Telecinco.ar" tvg-logo="https://i.imgur.com/ZDenyAE.png" group-title="VARIOS",TeleCinco Trelew 
 https://videohd.live:19360/8016/8016.m3u8
 
@@ -164,6 +161,9 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
   
 #EXTINF:-1 tvg-id="5TV Corrientes" tvg-name= "5TV Corrientes" tvg-logo = "http://vivotvhd.com/img/cha/948.gif" group-title = "VARIOS", 5TV Corrientes
 http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
+
+#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="VARIOS",Ciudad Magazine 
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
