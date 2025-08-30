@@ -171,9 +171,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acce7f1779700071
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acd36779de70007a680d1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
 
 ---------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:-1 group-title="VARIOS",El Salvador digital
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIOS",Sol TV 
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 
@@ -264,6 +261,33 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u
 #EXTINF:-1 tvg-id="TelecolorYurimaguas.pe" tvg-logo="https://i.imgur.com/Ug6XNIU.png" group-title="VARIOS",Telecolor (Yurimaguas) 
 https://live.obslivestream.com/telecolormux/index.m3u8
 
+#EXTINF:-1 tvg-id="CNCCajamarca.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/l9OJjoT.png" group-title="VARIOS",CNC (Cajamarca) 
+https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
+
+#EXTINF:-1 tvg-id="ITVPatagonia.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9sKGsmt.png" group-title="VARIOS",ITV Patagonia 
+https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Millenium109FM.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sfNL6Bv.png" group-title="VARIOS",Millenium 109 FM (Lamas) 
+https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
+
+#EXTINF:-1 tvg-id="CRTelevisionMoyobamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/crtvmoyobamba/picture?width=320&height=320" group-title="VARIOS",CR Television (Moyobamba) 
+https://live.obslivestream.com/crtvmux/index.m3u8
+
+#EXTINF:-1 tvg-id="BuinSomosTodos.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="" group-title="VARIOS",Buin Somos Todos 
+https://bst.buin.cl/0.m3u8
+
+#EXTINF:-1 tvg-id="CanalC.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/canal-c-2584.jpg" group-title="VARIOS",Canal C (Santiago de Cali | Valle del Cauca) 
+https://cloud2.streaminglivehd.com:1936/8104/8104/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GoldenLatinoamerica.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png" group-title="VARIOS",Golden Latinoamérica 
+https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MaticesTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/aldiaconmatices/picture?width=320&height=320" group-title="VARIOS",MaticesTV (Cañete) 
+http://v4.tustreaming.cl/matices/index.m3u8
+
+#EXTINF:-1 group-title="VARIOS",El Salvador digital
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="Telecinco.ar" tvg-logo="https://i.imgur.com/ZDenyAE.png" group-title="VARIOS",TeleCinco Trelew 
@@ -281,8 +305,14 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="5TV Corrientes" tvg-name= "5TV Corrientes" tvg-logo = "http://vivotvhd.com/img/cha/948.gif" group-title = "VARIOS", 5TV Corrientes
 http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
 
+#EXTINF:-1 tvg-id="CN3Pinamar.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="" group-title="VARIOS",CN3 Pinamar 
+https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="VARIOS",Ciudad Magazine 
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+
+#EXTINF:-200 tvg-logo="https://i.postimg.cc/25fDFDNy/neotv.png" group-title="VARIOS", NEO TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
@@ -308,6 +338,9 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-s
 #EXTINF:-1 tvg-id="bonappetit.us" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="CULT",bon appétit 
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CookingPanda.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Z6pDpzl.png" group-title="CULT",Cooking Panda 
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULT",Tastemade International
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8
 
@@ -329,6 +362,9 @@ https://hls.yourtime.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="FashionTVCzechSlovak.fr" tvg-logo="https://i.imgur.com/7Bigo7u.png" group-title="Entertainment",FashionTV Czech&Slovak 
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/fashion_tv_2009_symbol.png?cVFRoMuFTxEWh0CmC_3DoU.NenvZVtOW&itok=auBIH1Oi" group-title="Entertainment",FTV Midnight Secret
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
