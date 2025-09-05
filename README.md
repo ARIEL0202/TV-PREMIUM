@@ -1,3 +1,63 @@
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Deportv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/DeporTVLogo2020.png" group-title="DEPORTES",AR | Deportv
+http://live.detodotvplay.com:8080/Risario8/Pineda13/29401
+#EXTINF:-1 tvg-id="" tvg-name="AR | Deportv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/DeporTVLogo2020.png" group-title="ARGENTINA",AR | Deportv
+http://live.detodotvplay.com:8080/Risario8/Pineda13/29401
+#EXTINF:-1 tvg-id="" tvg-name="AR | DIrectv Sports 2 (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES",AR | DIrectv Sports 2 (Argentina)
+http://live.detodotvplay.com:8080/Risario8/Pineda13/75988
+#EXTINF:-1 tvg-id="" tvg-name="AR | DIrectv Sports 2 (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="ARGENTINA",AR | DIrectv Sports 2 (Argentina)
+http://live.detodotvplay.com:8080/Risario8/Pineda13/75988
+#EXTINF:-1 tvg-id="" tvg-name="AR | Directv Sports Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png" group-title="DEPORTES",AR | Directv Sports Argentina
+http://live.detodotvplay.com:8080/Risario8/Pineda13/167
+#EXTINF:-1 tvg-id="" tvg-name="AR | Directv Sports Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png" group-title="ARGENTINA",AR | Directv Sports Argentina
+http://live.detodotvplay.com:8080/Risario8/Pineda13/167
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 2" tvg-logo="https://logos.xbots.com.mx/169.png" group-title="DEPORTES",AR | ESPN 2
+http://live.detodotvplay.com:8080/Risario8/Pineda13/173
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 2" tvg-logo="https://logos.xbots.com.mx/169.png" group-title="ARGENTINA",AR | ESPN 2
+http://live.detodotvplay.com:8080/Risario8/Pineda13/173
+#EXTINF:-1 tvg-id="directvgocl/espn2chile" tvg-name="AR | ESPN 3 Sur" tvg-logo="https://logos.xbots.com.mx/Espn3.png" group-title="DEPORTES",AR | ESPN 3 Sur
+http://live.detodotvplay.com:8080/Risario8/Pineda13/174
+#EXTINF:-1 tvg-id="directvgocl/espn2chile" tvg-name="AR | ESPN 3 Sur" tvg-logo="https://logos.xbots.com.mx/Espn3.png" group-title="ARGENTINA",AR | ESPN 3 Sur
+http://live.detodotvplay.com:8080/Risario8/Pineda13/174
+#EXTINF:-1 tvg-id="203mvstr.ar" tvg-name="AR | ESPN 4" tvg-logo="https://logos.xbots.com.mx/3925.png" group-title="DEPORTES",AR | ESPN 4
+http://live.detodotvplay.com:8080/Risario8/Pineda13/78829
+#EXTINF:-1 tvg-id="203mvstr.ar" tvg-name="AR | ESPN 4" tvg-logo="https://logos.xbots.com.mx/3925.png" group-title="ARGENTINA",AR | ESPN 4
+http://live.detodotvplay.com:8080/Risario8/Pineda13/78829
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN HD" tvg-logo="https://logos.xbots.com.mx/espn.png" group-title="DEPORTES",AR | ESPN HD
+http://live.detodotvplay.com:8080/Risario8/Pineda13/31416
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN HD" tvg-logo="https://logos.xbots.com.mx/espn.png" group-title="ARGENTINA",AR | ESPN HD
+http://live.detodotvplay.com:8080/Risario8/Pineda13/31416
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN PREMIUM" tvg-logo="https://packfutbol.com.ar/imagenes/base/es.png" group-title="DEPORTES",AR | ESPN PREMIUM
+http://live.detodotvplay.com:8080/Risario8/Pineda13/474
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN PREMIUM" tvg-logo="https://packfutbol.com.ar/imagenes/base/es.png" group-title="ARGENTINA",AR | ESPN PREMIUM
+http://live.detodotvplay.com:8080/Risario8/Pineda13/474
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1200px-Fox_Sports_1_logo.svg.png" group-title="DEPORTES",AR | FOX SPORTS 1
+http://live.detodotvplay.com:8080/Risario8/Pineda13/175
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1200px-Fox_Sports_1_logo.svg.png" group-title="ARGENTINA",AR | FOX SPORTS 1
+http://live.detodotvplay.com:8080/Risario8/Pineda13/175
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/1200px-Fox_Sports_2_Argentina_2023.svg.png" group-title="DEPORTES",AR | FOX SPORTS 2
+http://live.detodotvplay.com:8080/Risario8/Pineda13/176
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/1200px-Fox_Sports_2_Argentina_2023.svg.png" group-title="ARGENTINA",AR | FOX SPORTS 2
+http://live.detodotvplay.com:8080/Risario8/Pineda13/176
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1200px-Fox_Sports_3_Argentina_2023.svg.png" group-title="DEPORTES",AR | FOX SPORTS 3
+http://live.detodotvplay.com:8080/Risario8/Pineda13/177
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1200px-Fox_Sports_3_Argentina_2023.svg.png" group-title="ARGENTINA",AR | FOX SPORTS 3
+http://live.detodotvplay.com:8080/Risario8/Pineda13/177
+#EXTINF:-1 tvg-id="" tvg-name="AR | TNT SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="DEPORTES",AR | TNT SPORTS HD
+http://live.detodotvplay.com:8080/Risario8/Pineda13/338
+#EXTINF:-1 tvg-id="" tvg-name="AR | TNT SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="ARGENTINA",AR | TNT SPORTS HD
+http://live.detodotvplay.com:8080/Risario8/Pineda13/338
+#EXTINF:-1 tvg-id="" tvg-name="AR | TNT SPORTS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="DEPORTES",AR | TNT SPORTS SD
+http://live.detodotvplay.com:8080/Risario8/Pineda13/31415
+#EXTINF:-1 tvg-id="" tvg-name="AR | TNT SPORTS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="ARGENTINA",AR | TNT SPORTS SD
+http://live.detodotvplay.com:8080/Risario8/Pineda13/31415
+#EXTINF:-1 tvg-id="" tvg-name="AR | TV PUBLICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="ARGENTINA",AR | TV PUBLICA
+http://live.detodotvplay.com:8080/Risario8/Pineda13/31422
+#EXTINF:-1 tvg-id="" tvg-name="AR | TyC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="ARGENTINA",AR | TyC SPORTS
+http://live.detodotvplay.com:8080/Risario8/Pineda13/434
+#EXTINF:-1 tvg-id="" tvg-name="AR | TYC SPORTS INTERNACIONAL" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-cl-1246.png" group-title="DEPORTES",AR | TYC SPORTS INTERNACIONAL
+http://live.detodotvplay.com:8080/Risario8/Pineda13/84089
+
 #EXTINF:-1 tvg-id="I469.111046.zap2it.com" tvg-name="TYC SPORTS" tvg-logo="https://app.newtvmx.com/Imagenes/LOGOTIPOS/DEPORTES/tycsports.png" group-title="⚽ DEPORTES",TYC SPORTS
 http://new-tv.cloud:25461/Emmanuel2/HGXFUyKv7gUN/690016
 
