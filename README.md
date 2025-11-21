@@ -1,65 +1,32 @@
-
-#EXTINF:-1 tvg-id="" tvg-name="AR | Deportv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/DeporTVLogo2020.png" group-title="DEPORTES",AR | Deportv
-http://live.detodotvplay.com:8080/Risario8/Pineda13/29401
-#EXTINF:-1 tvg-id="" tvg-name="AR | Deportv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/DeporTVLogo2020.png" group-title="ARGENTINA",AR | Deportv
-http://live.detodotvplay.com:8080/Risario8/Pineda13/29401
-#EXTINF:-1 tvg-id="" tvg-name="AR | DIrectv Sports 2 (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES",AR | DIrectv Sports 2 (Argentina)
-http://live.detodotvplay.com:8080/Risario8/Pineda13/75988
-#EXTINF:-1 tvg-id="" tvg-name="AR | DIrectv Sports 2 (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="ARGENTINA",AR | DIrectv Sports 2 (Argentina)
-http://live.detodotvplay.com:8080/Risario8/Pineda13/75988
-#EXTINF:-1 tvg-id="" tvg-name="AR | Directv Sports Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png" group-title="DEPORTES",AR | Directv Sports Argentina
-http://live.detodotvplay.com:8080/Risario8/Pineda13/167
-#EXTINF:-1 tvg-id="" tvg-name="AR | Directv Sports Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png" group-title="ARGENTINA",AR | Directv Sports Argentina
-http://live.detodotvplay.com:8080/Risario8/Pineda13/167
-#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 2" tvg-logo="https://logos.xbots.com.mx/169.png" group-title="DEPORTES",AR | ESPN 2
-http://live.detodotvplay.com:8080/Risario8/Pineda13/173
-#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 2" tvg-logo="https://logos.xbots.com.mx/169.png" group-title="ARGENTINA",AR | ESPN 2
-http://live.detodotvplay.com:8080/Risario8/Pineda13/173
-#EXTINF:-1 tvg-id="directvgocl/espn2chile" tvg-name="AR | ESPN 3 Sur" tvg-logo="https://logos.xbots.com.mx/Espn3.png" group-title="DEPORTES",AR | ESPN 3 Sur
-http://live.detodotvplay.com:8080/Risario8/Pineda13/174
-#EXTINF:-1 tvg-id="directvgocl/espn2chile" tvg-name="AR | ESPN 3 Sur" tvg-logo="https://logos.xbots.com.mx/Espn3.png" group-title="ARGENTINA",AR | ESPN 3 Sur
-http://live.detodotvplay.com:8080/Risario8/Pineda13/174
-#EXTINF:-1 tvg-id="203mvstr.ar" tvg-name="AR | ESPN 4" tvg-logo="https://logos.xbots.com.mx/3925.png" group-title="DEPORTES",AR | ESPN 4
-http://live.detodotvplay.com:8080/Risario8/Pineda13/78829
-#EXTINF:-1 tvg-id="203mvstr.ar" tvg-name="AR | ESPN 4" tvg-logo="https://logos.xbots.com.mx/3925.png" group-title="ARGENTINA",AR | ESPN 4
-http://live.detodotvplay.com:8080/Risario8/Pineda13/78829
-#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN HD" tvg-logo="https://logos.xbots.com.mx/espn.png" group-title="DEPORTES",AR | ESPN HD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/31416
-#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN HD" tvg-logo="https://logos.xbots.com.mx/espn.png" group-title="ARGENTINA",AR | ESPN HD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/31416
-#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN PREMIUM" tvg-logo="https://packfutbol.com.ar/imagenes/base/es.png" group-title="DEPORTES",AR | ESPN PREMIUM
-http://live.detodotvplay.com:8080/Risario8/Pineda13/474
-#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN PREMIUM" tvg-logo="https://packfutbol.com.ar/imagenes/base/es.png" group-title="ARGENTINA",AR | ESPN PREMIUM
-http://live.detodotvplay.com:8080/Risario8/Pineda13/474
-#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1200px-Fox_Sports_1_logo.svg.png" group-title="DEPORTES",AR | FOX SPORTS 1
-http://live.detodotvplay.com:8080/Risario8/Pineda13/175
-#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1200px-Fox_Sports_1_logo.svg.png" group-title="ARGENTINA",AR | FOX SPORTS 1
-http://live.detodotvplay.com:8080/Risario8/Pineda13/175
-#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/1200px-Fox_Sports_2_Argentina_2023.svg.png" group-title="DEPORTES",AR | FOX SPORTS 2
-http://live.detodotvplay.com:8080/Risario8/Pineda13/176
-#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/1200px-Fox_Sports_2_Argentina_2023.svg.png" group-title="ARGENTINA",AR | FOX SPORTS 2
-http://live.detodotvplay.com:8080/Risario8/Pineda13/176
-#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1200px-Fox_Sports_3_Argentina_2023.svg.png" group-title="DEPORTES",AR | FOX SPORTS 3
-http://live.detodotvplay.com:8080/Risario8/Pineda13/177
-#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1200px-Fox_Sports_3_Argentina_2023.svg.png" group-title="ARGENTINA",AR | FOX SPORTS 3
-http://live.detodotvplay.com:8080/Risario8/Pineda13/177
-#EXTINF:-1 tvg-id="" tvg-name="AR | TNT SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="DEPORTES",AR | TNT SPORTS HD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/338
-#EXTINF:-1 tvg-id="" tvg-name="AR | TNT SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="ARGENTINA",AR | TNT SPORTS HD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/338
-#EXTINF:-1 tvg-id="" tvg-name="AR | TNT SPORTS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="DEPORTES",AR | TNT SPORTS SD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/31415
-#EXTINF:-1 tvg-id="" tvg-name="AR | TNT SPORTS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="ARGENTINA",AR | TNT SPORTS SD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/31415
-#EXTINF:-1 tvg-id="" tvg-name="AR | TV PUBLICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="ARGENTINA",AR | TV PUBLICA
-http://live.detodotvplay.com:8080/Risario8/Pineda13/31422
-#EXTINF:-1 tvg-id="" tvg-name="AR | TyC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="ARGENTINA",AR | TyC SPORTS
-http://live.detodotvplay.com:8080/Risario8/Pineda13/434
 #EXTINF:-1 tvg-id="" tvg-name="AR | TYC SPORTS INTERNACIONAL" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-cl-1246.png" group-title="DEPORTES",AR | TYC SPORTS INTERNACIONAL
 http://live.detodotvplay.com:8080/Risario8/Pineda13/84089
 
-#EXTINF:-1 tvg-id="I469.111046.zap2it.com" tvg-name="TYC SPORTS" tvg-logo="https://app.newtvmx.com/Imagenes/LOGOTIPOS/DEPORTES/tycsports.png" group-title="⚽ DEPORTES",TYC SPORTS
-http://new-tv.cloud:25461/Emmanuel2/HGXFUyKv7gUN/690016
+#EXTINF:-1 tvg-id="" tvg-name="AR | DIrectv Sports 2 (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES",AR | DIrectv Sports 2 (Argentina)
+http://live.detodotvplay.com:8080/Risario8/Pineda13/75988
+#EXTINF:-1 tvg-id="" tvg-name="AR | Directv Sports Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png" group-title="DEPORTES",AR | Directv Sports Argentina
+http://live.detodotvplay.com:8080/Risario8/Pineda13/167
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 2" tvg-logo="https://logos.xbots.com.mx/169.png" group-title="DEPORTES",AR | ESPN 2
+http://live.detodotvplay.com:8080/Risario8/Pineda13/173
+#EXTINF:-1 tvg-id="directvgocl/espn2chile" tvg-name="AR | ESPN 3 Sur" tvg-logo="https://logos.xbots.com.mx/Espn3.png" group-title="DEPORTES",AR | ESPN 3 Sur
+http://live.detodotvplay.com:8080/Risario8/Pineda13/174
+#EXTINF:-1 tvg-id="203mvstr.ar" tvg-name="AR | ESPN 4" tvg-logo="https://logos.xbots.com.mx/3925.png" group-title="DEPORTES",AR | ESPN 4
+http://live.detodotvplay.com:8080/Risario8/Pineda13/78829
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN HD" tvg-logo="https://logos.xbots.com.mx/espn.png" group-title="DEPORTES",AR | ESPN HD
+http://live.detodotvplay.com:8080/Risario8/Pineda13/31416
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN PREMIUM" tvg-logo="https://packfutbol.com.ar/imagenes/base/es.png" group-title="DEPORTES",AR | ESPN PREMIUM
+http://live.detodotvplay.com:8080/Risario8/Pineda13/474
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1200px-Fox_Sports_1_logo.svg.png" group-title="DEPORTES",AR | FOX SPORTS 1
+http://live.detodotvplay.com:8080/Risario8/Pineda13/175
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/1200px-Fox_Sports_2_Argentina_2023.svg.png" group-title="DEPORTES",AR | FOX SPORTS 2
+http://live.detodotvplay.com:8080/Risario8/Pineda13/176
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1200px-Fox_Sports_3_Argentina_2023.svg.png" group-title="DEPORTES",AR | FOX SPORTS 3
+http://live.detodotvplay.com:8080/Risario8/Pineda13/177
+#EXTINF:-1 tvg-id="" tvg-name="AR | TNT SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="DEPORTES",AR | TNT SPORTS HD
+http://live.detodotvplay.com:8080/Risario8/Pineda13/338
+#EXTINF:-1 tvg-id="" tvg-name="S2 FUTBOL" tvg-logo="" group-title="DEPORTES ", S2 FUTBOL
+http://fortv.cc:8080/54514663/54514663/212934
+#EXTINF:-1 tvg-id="" tvg-name="AR | TyC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="ARGENTINA",AR | TyC SPORTS
+http://live.detodotvplay.com:8080/Risario8/Pineda13/434
 
 #EXTINF:-1 tvg-id="" tvg-name="CO: ESPN COLOMBIA" tvg-logo="" group-title="⚽ DEPORTES",ESPN COLOMBIA
 http://fortv.cc:8080/54514663/54514663/86765
@@ -79,19 +46,13 @@ http://fortv.cc:8080/54514663/54514663/53706
 #EXTINF:-1 tvg-id="sky.sports.news.gb" tvg-name="UK-Sky Sports News" tvg-logo="" group-title="⚽ DEPORTES",Sky Sports News
 http://fortv.cc:8080/54514663/54514663/35241
 
-#EXTINF:-1 tvg-id="MotorvisionTV.de" tvg-logo="https://i.imgur.com/aeDaRl4.png" group-title="⚽ DEPORTES",Motorvision.TV
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="⚽ DEPORTES",Swerve Sports
-https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="tudnu.us" tvg-name="US TUDN " tvg-logo="" group-title="⚽ DEPORTES",TUDN 
 http://fortv.cc:8080/54514663/54514663/82241
 
---------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="AR | Deportv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/DeporTVLogo2020.png" group-title="DEPORTES",AR | Deportv
+http://live.detodotvplay.com:8080/Risario8/Pineda13/29401
 
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CINE ARGENTINO" tvg-logo="" group-title="CINE",CINE ARGENTINO
-http://fortv.cc:8080/54514663/54514663/164871
+--------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:0 tvg-id="ext" group-title="CINE",A3S SERIES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aca8310a30e00074fab92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -231,8 +192,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acce7f1779700071
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acd36779de70007a680d1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
 
 ---------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIOS",Sol TV 
-https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 
 #EXTINF:-1 tvg-id="SarapiquiTV.cr" tvg-logo="https://i.imgur.com/obTnd32.png" group-title="VARIOS",STV
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
@@ -246,9 +205,6 @@ https://v2.tustreaming.cl/atacamatv/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VARIOS",Canal 2 TV Quellón
 http://unlimited1-us.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.clker.com/cliparts/B/x/g/L/h/v/blue-rounded-with-number-9-md.png" group-title="VARIOS",CANAL 9 TV SUR CR
-http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8
-
 #EXTINF:-1 tvg-id="CaracolaTV.cl" tvg-logo="https://i.imgur.com/QGvfqug.png" group-title="VARIOS",Caracola TV (Peñalolén) 
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
  
@@ -258,9 +214,6 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-id="UCV3TV.cl" tvg-logo="https://i.imgur.com/evLTaDq.png" group-title="VARIOS",UCV3 TV 
 http://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="VARIOS",Extrema TV 
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://microvision.com.do/wp-content/uploads/Microvision_567-150.png" group-title="VARIOS", TELEUNION
 http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
 
@@ -269,9 +222,6 @@ https://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MegaVisionTV.do" tvg-logo="https://i.imgur.com/u5ECnZd.png" group-title="VARIOS",Megavisión
 http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SolidariaTV.es" tvg-logo="https://i.imgur.com/Bgm2iZY.png" group-title="VARIOS",Solidaria TV 
-https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 
 #EXTINF:-1 tvg-id="Nortevision.es" tvg-logo="https://i.imgur.com/C5SYw7B.png" group-title="VARIOS",NORTEvisión 
 http://amaru.dyndns.org:8870/0.m3u8
@@ -291,9 +241,6 @@ https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 #EXTINF:-1 tvg-id="TN8.ni" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Tn8_logotipo_2021.png" group-title="VARIOS",Telenica Canal 8 (tn8)
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ViaAltomayo.pe" tvg-logo="https://i.imgur.com/Yr7d8rg.png" group-title="VARIOS",Vía Altomayo 
-https://live.obslivestream.com/viaaltomayomux/index.m3u8
-
 #EXTINF:-1 tvg-id="PopularTVCantabria.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hwlTrtF.png" group-title="VARIOS",Popular TV Cantabria
 https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
 
@@ -302,12 +249,6 @@ https://video2.lhdserver.es/asiritv/live.m3u8
 
 #EXTINF:-1 tvg-id="WTVCanal20.ni" tvg-logo="https://i.imgur.com/jMw3fS3.png" group-title="VARIOS",WTV Canal 20 
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PY3566n.png" group-title="VARIOS", WOW TV 
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Boreal.do" tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="VARIOS",Boreal
-https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 
 #EXTINF:-1 tvg-id="EnfoqueDigitalTV.cl" tvg-logo="https://i.imgur.com/GaJzjt5.png" group-title="VARIOS",Enfoque Digital TV 
 https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
@@ -342,9 +283,31 @@ https://cloud2.streaminglivehd.com:1936/8104/8104/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenLatinoamerica.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png" group-title="VARIOS",Golden Latinoamérica 
 https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="MEXICO", AZTECA 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MEXICO", A+
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
 #EXTINF:-1 tvg-id="MaticesTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/aldiaconmatices/picture?width=320&height=320" group-title="VARIOS",MaticesTV (Cañete) 
 http://v4.tustreaming.cl/matices/index.m3u8
 
+#EXTINF:-1 tvg-id="SolidariaTV.es" tvg-logo="https://i.imgur.com/Bgm2iZY.png" group-title="VARIOS",Solidaria TV 
+https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="VARIOS",Extrema TV 
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIOS",Sol TV 
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+#EXTINF:-1 tvg-logo="http://www.clker.com/cliparts/B/x/g/L/h/v/blue-rounded-with-number-9-md.png" group-title="VARIOS",CANAL 9 TV SUR CR
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8
+#EXTINF:-1 tvg-id="ViaAltomayo.pe" tvg-logo="https://i.imgur.com/Yr7d8rg.png" group-title="VARIOS",Vía Altomayo 
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PY3566n.png" group-title="VARIOS", WOW TV 
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Boreal.do" tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="VARIOS",Boreal
+https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 #EXTINF:-1 group-title="VARIOS",El Salvador digital
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
@@ -368,19 +331,13 @@ http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
 #EXTINF:-1 tvg-id="CN3Pinamar.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="" group-title="VARIOS",CN3 Pinamar 
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="VARIOS",Ciudad Magazine 
-https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/25fDFDNy/neotv.png" group-title="VARIOS", NEO TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
+#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="VARIOS",Ciudad Magazine 
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+
 -----------------------------------------------------------------------------------------------------------------------------------
-
-#EXTINF:-58 tvg-logo="https://www.threestooges.com/wp-content/uploads/2017/11/TSHeadsLogo-copy.png" group-title="24/7", LOS TRES CHIFLADOS
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="RetroCartoon.br" tvg-logo="https://i.imgur.com/hIlEfhl.png" group-title="24/7",Retrô Cartoon
-https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5f1aca0b4e448e00075e7c5e" tvg-name="Bob Esponja" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="24/7",Bob Esponja
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
@@ -389,6 +346,13 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075
 https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
 
 -----------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="Canal24Horas.es" tvg-logo="https://i.imgur.com/QYGrq71.png" group-title="CULT",Canal 24 Horas
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="CULT",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULT",POP TV 
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8
 
@@ -404,12 +368,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULT",Tastemade International
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal24Horas.es" tvg-logo="https://i.imgur.com/QYGrq71.png" group-title="CULT",Canal 24 Horas
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-
-#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="CULT",DW Español
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULT",Waterbear
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungse/playlist.m3u8
 
@@ -423,39 +381,19 @@ https://hls.yourtime.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="FashionTVCzechSlovak.fr" tvg-logo="https://i.imgur.com/7Bigo7u.png" group-title="Entertainment",FashionTV Czech&Slovak 
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/fashion_tv_2009_symbol.png?cVFRoMuFTxEWh0CmC_3DoU.NenvZVtOW&itok=auBIH1Oi" group-title="Entertainment",FTV Midnight Secret
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-
 -----------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="" tvg-name="IT: RAI 1" tvg-logo="" group-title="ITALY ",IT: RAI 1
 http://fortv.cc:8080/54514663/54514663/212895
 #EXTINF:-1 tvg-id="" tvg-name="IT: RAI 2" tvg-logo="" group-title="ITALY ",IT: RAI 2
 http://fortv.cc:8080/54514663/54514663/212896
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 3" tvg-logo="" group-title="ITALY ",IT: RAI 3
-http://fortv.cc:8080/54514663/54514663/212897
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 4" tvg-logo="" group-title="ITALY ",IT: RAI 4
-http://fortv.cc:8080/54514663/54514663/212898
 #EXTINF:-1 tvg-id="" tvg-name="IT: RAI ITALIA" tvg-logo="" group-title="ITALY ",IT: RAI ITALIA
 http://fortv.cc:8080/54514663/54514663/212900
 #EXTINF:-1 tvg-id="" tvg-name="IT: RAI MOVIE" tvg-logo="" group-title="ITALY ",IT: RAI MOVIE
 http://fortv.cc:8080/54514663/54514663/212902
-#EXTINF:-1 tvg-id="" tvg-name="IT: CANALE 5" tvg-logo="" group-title="ITALY ",IT: CANALE 5
-http://fortv.cc:8080/54514663/54514663/212903
-#EXTINF:-1 tvg-id="" tvg-name="IT: MEDIASET ITALIA 2" tvg-logo="" group-title="ITALY ",IT: MEDIASET ITALIA 2
-http://fortv.cc:8080/54514663/54514663/212907
-#EXTINF:-1 tvg-id="" tvg-name="IT: LA 5" tvg-logo="" group-title="ITALY ",IT: LA 5
-http://fortv.cc:8080/54514663/54514663/212911
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI NEWS 24" tvg-logo="" group-title="ITALY ",IT: RAI NEWS 24
-http://fortv.cc:8080/54514663/54514663/212913
-#EXTINF:-1 tvg-id="" tvg-name="IT: RETE 4" tvg-logo="" group-title="ITALY ",IT: RETE 4
-http://fortv.cc:8080/54514663/54514663/212920
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI SCUOLA" tvg-logo="" group-title="ITALY ",IT: RAI SCUOLA
-http://fortv.cc:8080/54514663/54514663/212934
 #EXTINF:-1 tvg-id="" tvg-name="IT: FOCUS" tvg-logo="" group-title="ITALY ",IT: FOCUS
 http://fortv.cc:8080/54514663/54514663/212941
-#EXTINF:-1 tvg-id="" tvg-name="IT: SUPER!" tvg-logo="" group-title="ITALY ",IT: SUPER!
-http://fortv.cc:8080/54514663/54514663/212931
+
 #EXTINF:-1 tvg-id="Rai3.it" tvg-country="IT" tvg-language="ITALY " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png" group-title="ITALY ",Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
 
@@ -468,13 +406,27 @@ https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playli
 #EXTINF:-1 tvg-id="SuperSix.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/SuperSix_TV_Logo.png" group-title="ITALY",SuperSix Lombardia 
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 3" tvg-logo="" group-title="ITALY ",IT: RAI 3
+http://fortv.cc:8080/54514663/54514663/212897
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 4" tvg-logo="" group-title="ITALY ",IT: RAI 4
+http://fortv.cc:8080/54514663/54514663/212898
+#EXTINF:-1 tvg-id="" tvg-name="IT: CANALE 5" tvg-logo="" group-title="ITALY ",IT: CANALE 5
+http://fortv.cc:8080/54514663/54514663/212903
+#EXTINF:-1 tvg-id="" tvg-name="IT: MEDIASET ITALIA 2" tvg-logo="" group-title="ITALY ",IT: MEDIASET ITALIA 2
+http://fortv.cc:8080/54514663/54514663/212907
+#EXTINF:-1 tvg-id="" tvg-name="IT: LA 5" tvg-logo="" group-title="ITALY ",IT: LA 5
+http://fortv.cc:8080/54514663/54514663/212911
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI NEWS 24" tvg-logo="" group-title="ITALY ",IT: RAI NEWS 24
+http://fortv.cc:8080/54514663/54514663/212913
+#EXTINF:-1 tvg-id="" tvg-name="IT: RETE 4" tvg-logo="" group-title="ITALY ",IT: RETE 4
+http://fortv.cc:8080/54514663/54514663/212920
+#EXTINF:-1 tvg-id="" tvg-name="IT: SUPER!" tvg-logo="" group-title="ITALY ",IT: SUPER!
+http://fortv.cc:8080/54514663/54514663/212931
+
 ---------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="Canal7Jujuy.ar" tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="Argentina",Canal 7 (Jujuy)
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="173452" tvg-name="EL TRECE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png"" group-title="Argentina", EL TRECE
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="" tvg-name="ARG: EL NUEVE HD" tvg-logo="" group-title="Argentina",ARG: EL NUEVE HD
 http://fortv.cc:8080/54514663/54514663/164869
@@ -482,17 +434,20 @@ http://fortv.cc:8080/54514663/54514663/164869
 #EXTINF:-1 tvg-id="" tvg-name="ARG: AMERICA TV HD" tvg-logo="" group-title="Argentina",ARG: AMERICA TV HD
 http://fortv.cc:8080/54514663/54514663/164881
 
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TN NOTICIAS" tvg-logo="" group-title="Argentina",ARG: TN NOTICIAS
-http://fortv.cc:8080/54514663/54514663/164873
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CRONICA HD" tvg-logo="" group-title="Argentina",ARG: CRONICA HD
-http://fortv.cc:8080/54514663/54514663/164875
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: INFORMACION PERIODISTICA HD" tvg-logo="" group-title="Argentina",ARG: INFORMACION PERIODISTICA HD
-http://fortv.cc:8080/54514663/54514663/164879
+#EXTINF:-1 tvg-id="" tvg-name="AR | TV PUBLICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="ARGENTINA",AR | TV PUBLICA
+http://live.detodotvplay.com:8080/Risario8/Pineda13/31422
 
 #EXTINF:-1 tvg-id="Canal22.ar" tvg-logo="https://canal22web.com/wp-content/uploads/2020/09/80.jpg" group-title="Argentina",Canal 22
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
+
+#EXTINF:-1 tvg-id="173452" tvg-name="EL TRECE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png"" group-title="Argentina", EL TRECE
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TN NOTICIAS" tvg-logo="" group-title="Argentina",ARG: TN NOTICIAS
+http://fortv.cc:8080/54514663/54514663/164873
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CRONICA HD" tvg-logo="" group-title="Argentina",ARG: CRONICA HD
+http://fortv.cc:8080/54514663/54514663/164875
+#EXTINF:-1 tvg-id="" tvg-name="ARG: INFORMACION PERIODISTICA HD" tvg-logo="" group-title="Argentina",ARG: INFORMACION PERIODISTICA HD
+http://fortv.cc:8080/54514663/54514663/164879
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -513,9 +468,6 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MEXICO",Milenio Televisión Noroeste 
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="MEXICO",ADN 40 
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="MEXICO",AMX Noticias 
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
@@ -549,9 +501,6 @@ https://cloudvideo.servers10.com:8081/8032/index.m3u8
 
 #EXTINF:-1 tvg-id="VClassicTV.cl" tvg-logo="https://www.radiocoquimbo.cl/wp-content/uploads/2022/06/281336152_108970288486083_7336224258612856686_n-e1655673117480.png" group-title="MUSIC",V Classic TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CadenaElite.es" tvg-country="ES" tvg-language="" tvg-logo="" group-title="MUSIC",Cadena Elite
-https://cloudvideo.servers10.com:8081/8004/index.m3u8
 
 #EXTINF:-1 tvg-id="CaliforniaMusicChannel.us" tvg-logo="https://i.imgur.com/L38mC6H.png" group-title="MUSIC",CMC (California Music Channel)
 https://cmc-ono.amagi.tv/playlist.m3u8
@@ -606,6 +555,8 @@ http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
 
 #EXTINF:-1 tvg-id="ArabicaTV.lb" tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="MUSIC",Arabica TV 
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+#EXTINF:-1 tvg-id="CadenaElite.es" tvg-country="ES" tvg-language="" tvg-logo="" group-title="MUSIC",Cadena Elite
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
 
 ------------------------------------------------------------------------------------------------------------------------------
 
