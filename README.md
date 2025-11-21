@@ -63,6 +63,9 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE", MY TIME MOVIES 2
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2022/01/Canal-retro-plus-cine-en-vivo.jpg" group-title="CINE",RETRO PLUS 
+https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w1351996930.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1274" tvg-name="Saber Mas - Freetv.com" tvg-logo="https://i2.paste.pics/ecac0da442f722d93b2a607b74c149df.png" group-title="CINE", Saber Mas
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8?PlaylistM3UCL
 
@@ -192,6 +195,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acce7f1779700071
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acd36779de70007a680d1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
 
 ---------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RkXVSvDr/inbigtv2.png" group-title="VARIOS",BIG TV
+https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ScesUbHV-aMYDjL6TsdyJZRPRYckjFty_A&s" group-title="VARIOS",OPINION SUR CINE
+https://live20.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SarapiquiTV.cr" tvg-logo="https://i.imgur.com/obTnd32.png" group-title="VARIOS",STV
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
@@ -292,6 +300,12 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-id="MaticesTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/aldiaconmatices/picture?width=320&height=320" group-title="VARIOS",MaticesTV (Cañete) 
 http://v4.tustreaming.cl/matices/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREfNrEKR73O3lew1Zl_-AqAgt28P1TFdBrTA&s" group-title="VARIOS",EnerGeek Retro
+https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.ts.m3u8?token=D3m0M3UCLWeb
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_0z15g4--HI9hBbGX_iivyOLyqf2oNi0Epg&s" group-title="VARIOS",EnerGeek FAN
+https://backend.energeek.cl/webtv/egfanweb/tracks-v1a1/mono.ts.m3u8?token=D3m0M3UCLWeb
+
 #EXTINF:-1 tvg-id="SolidariaTV.es" tvg-logo="https://i.imgur.com/Bgm2iZY.png" group-title="VARIOS",Solidaria TV 
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 
@@ -338,9 +352,14 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
 -----------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/styles/og_image/public/2023-05/tvretro-palmares-costa-rica.png.webp?itok=Bcs7bhqg" group-title="24/7",TV RETRO PALMARES
+https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
 
 #EXTINF:-1 tvg-id="5f1aca0b4e448e00075e7c5e" tvg-name="Bob Esponja" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="24/7",Bob Esponja
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 tvg-logo="https://mi-television.com/img/logo_2024.png" group-title="24/7",MI TV
+https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="24/7",AFV 
 https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
@@ -439,6 +458,9 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/31422
 
 #EXTINF:-1 tvg-id="Canal22.ar" tvg-logo="https://canal22web.com/wp-content/uploads/2020/09/80.jpg" group-title="Argentina",Canal 22
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3299-800x450-FFFFFF.jpg" group-title="Argentina",CIUDAD MAGICA
+https://tuvideoonline.com.ar:3145/live/grupocitylive.m3u8
 
 #EXTINF:-1 tvg-id="173452" tvg-name="EL TRECE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png"" group-title="Argentina", EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
