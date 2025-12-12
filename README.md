@@ -1,35 +1,47 @@
-#EXTINF:-1 tvg-id="" tvg-name="AR | TYC SPORTS INTERNACIONAL" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-cl-1246.png" group-title="DEPORTES",AR | TYC SPORTS INTERNACIONAL
+#EXTINF:-1 tvg-id="" tvg-name="AR | TYC SPORTS INTERNACIONAL" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-cl-1246.png" group-title="⚽ DEPORTES",AR | TYC SPORTS INTERNACIONAL
 http://live.detodotvplay.com:8080/Risario8/Pineda13/84089
 
-#EXTINF:-1 tvg-id="" tvg-name="AR | DIrectv Sports 2 (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES",AR | DIrectv Sports 2 (Argentina)
-http://live.detodotvplay.com:8080/Risario8/Pineda13/75988
-#EXTINF:-1 tvg-id="" tvg-name="AR | Directv Sports Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png" group-title="DEPORTES",AR | Directv Sports Argentina
-http://live.detodotvplay.com:8080/Risario8/Pineda13/167
-#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 2" tvg-logo="https://logos.xbots.com.mx/169.png" group-title="DEPORTES",AR | ESPN 2
-http://live.detodotvplay.com:8080/Risario8/Pineda13/173
-#EXTINF:-1 tvg-id="directvgocl/espn2chile" tvg-name="AR | ESPN 3 Sur" tvg-logo="https://logos.xbots.com.mx/Espn3.png" group-title="DEPORTES",AR | ESPN 3 Sur
-http://live.detodotvplay.com:8080/Risario8/Pineda13/174
-#EXTINF:-1 tvg-id="203mvstr.ar" tvg-name="AR | ESPN 4" tvg-logo="https://logos.xbots.com.mx/3925.png" group-title="DEPORTES",AR | ESPN 4
-http://live.detodotvplay.com:8080/Risario8/Pineda13/78829
-#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN HD" tvg-logo="https://logos.xbots.com.mx/espn.png" group-title="DEPORTES",AR | ESPN HD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/31416
-#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN PREMIUM" tvg-logo="https://packfutbol.com.ar/imagenes/base/es.png" group-title="DEPORTES",AR | ESPN PREMIUM
-http://live.detodotvplay.com:8080/Risario8/Pineda13/474
-#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1200px-Fox_Sports_1_logo.svg.png" group-title="DEPORTES",AR | FOX SPORTS 1
-http://live.detodotvplay.com:8080/Risario8/Pineda13/175
-#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/1200px-Fox_Sports_2_Argentina_2023.svg.png" group-title="DEPORTES",AR | FOX SPORTS 2
-http://live.detodotvplay.com:8080/Risario8/Pineda13/176
-#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1200px-Fox_Sports_3_Argentina_2023.svg.png" group-title="DEPORTES",AR | FOX SPORTS 3
-http://live.detodotvplay.com:8080/Risario8/Pineda13/177
-#EXTINF:-1 tvg-id="" tvg-name="AR | TNT SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="DEPORTES",AR | TNT SPORTS HD
+#EXTINF:-1 tvg-id="" tvg-name="AR | TNT SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="⚽ DEPORTES",AR | TNT SPORTS HD
 http://live.detodotvplay.com:8080/Risario8/Pineda13/338
-#EXTINF:-1 tvg-id="" tvg-name="S2 FUTBOL" tvg-logo="" group-title="DEPORTES ", S2 FUTBOL
-http://fortv.cc:8080/54514663/54514663/212934
-#EXTINF:-1 tvg-id="" tvg-name="AR | TyC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="ARGENTINA",AR | TyC SPORTS
-http://live.detodotvplay.com:8080/Risario8/Pineda13/434
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Directv Sports Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png" group-title="⚽ DEPORTES",AR | Directv Sports Argentina
+http://live.detodotvplay.com:8080/Risario8/Pineda13/167
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | DIrectv Sports 2 (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="⚽ DEPORTES",AR | DIrectv Sports 2 (Argentina)
+http://live.detodotvplay.com:8080/Risario8/Pineda13/75988
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN PREMIUM" tvg-logo="https://packfutbol.com.ar/imagenes/base/es.png" group-title="⚽ DEPORTES",AR | ESPN PREMIUM
+http://live.detodotvplay.com:8080/Risario8/Pineda13/474
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN HD" tvg-logo="https://logos.xbots.com.mx/espn.png" group-title="⚽ DEPORTES",AR | ESPN HD
+http://live.detodotvplay.com:8080/Risario8/Pineda13/31416
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 2" tvg-logo="https://logos.xbots.com.mx/169.png" group-title="⚽ DEPORTES",AR | ESPN 2
+http://live.detodotvplay.com:8080/Risario8/Pineda13/173
+
+#EXTINF:-1 tvg-id="directvgocl/espn2chile" tvg-name="AR | ESPN 3 Sur" tvg-logo="https://logos.xbots.com.mx/Espn3.png" group-title="⚽ DEPORTES",AR | ESPN 3 Sur
+http://live.detodotvplay.com:8080/Risario8/Pineda13/174
+
+#EXTINF:-1 tvg-id="203mvstr.ar" tvg-name="AR | ESPN 4" tvg-logo="https://logos.xbots.com.mx/3925.png" group-title="⚽ DEPORTES",AR | ESPN 4
+http://live.detodotvplay.com:8080/Risario8/Pineda13/78829
 
 #EXTINF:-1 tvg-id="" tvg-name="CO: ESPN COLOMBIA" tvg-logo="" group-title="⚽ DEPORTES",ESPN COLOMBIA
 http://fortv.cc:8080/54514663/54514663/86765
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1200px-Fox_Sports_1_logo.svg.png" group-title="⚽ DEPORTES",AR | FOX SPORTS 1
+http://live.detodotvplay.com:8080/Risario8/Pineda13/175
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/1200px-Fox_Sports_2_Argentina_2023.svg.png" group-title="⚽ DEPORTES",AR | FOX SPORTS 2
+http://live.detodotvplay.com:8080/Risario8/Pineda13/176
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1200px-Fox_Sports_3_Argentina_2023.svg.png" group-title="⚽ DEPORTES",AR | FOX SPORTS 3
+http://live.detodotvplay.com:8080/Risario8/Pineda13/177
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | TyC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="⚽ DEPORTES",AR | TyC SPORTS
+http://live.detodotvplay.com:8080/Risario8/Pineda13/434
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Deportv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/DeporTVLogo2020.png" group-title="⚽ DEPORTES",AR | Deportv
+http://live.detodotvplay.com:8080/Risario8/Pineda13/29401
 
 #EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="US Latin TUDN (A)" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2019/05/TUDN.png" group-title="⚽ DEPORTES",TUDN
 http://fortv.cc:8080/54514663/54514663/11885
@@ -49,13 +61,7 @@ http://fortv.cc:8080/54514663/54514663/35241
 #EXTINF:-1 tvg-id="tudnu.us" tvg-name="US TUDN " tvg-logo="" group-title="⚽ DEPORTES",TUDN 
 http://fortv.cc:8080/54514663/54514663/82241
 
-#EXTINF:-1 tvg-id="" tvg-name="AR | Deportv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/DeporTVLogo2020.png" group-title="DEPORTES",AR | Deportv
-http://live.detodotvplay.com:8080/Risario8/Pineda13/29401
-
 --------------------------------------------------------------------------------------------------------------------
-
-#EXTINF:0 tvg-id="ext" group-title="CINE",A3S SERIES
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aca8310a30e00074fab92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE", MY TIME MOVIES 1
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
@@ -65,6 +71,9 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2022/01/Canal-retro-plus-cine-en-vivo.jpg" group-title="CINE",RETRO PLUS 
 https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w1351996930.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ScesUbHV-aMYDjL6TsdyJZRPRYckjFty_A&s" group-title="CINE",OPINION SUR CINE
+https://live20.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/chunks.m3u8
 
 #EXTINF:-1 tvg-id="1274" tvg-name="Saber Mas - Freetv.com" tvg-logo="https://i2.paste.pics/ecac0da442f722d93b2a607b74c149df.png" group-title="CINE", Saber Mas
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8?PlaylistM3UCL
@@ -89,120 +98,145 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/pla
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-71 tvg-logo="https://i.postimg.cc/cLt4CXxJ/SCIFI.png" group-title="CINE Y SERIES", SCI-FI    
+#EXTINF:-71 tvg-logo="https://i.postimg.cc/cLt4CXxJ/SCIFI.png" group-title="CINE-SERIES PLUTO", SCI-FI    
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff29881-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=69952490-17b7-4b2b-92ec-4525b187cbe6&userId=&serverSideAds=true
 
-#EXTINF:-72 tvg-logo="https://i.postimg.cc/dVT7Tqsr/CSI.png" group-title="CINE Y SERIES", CSI EN ESPAÑOL
+#EXTINF:-72 tvg-logo="https://i.postimg.cc/dVT7Tqsr/CSI.png" group-title="CINE-SERIES PLUTO", CSI EN ESPAÑOL
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a11f8a50-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=38041b3f-c9d2-4524-8784-12dc0b2a0c11&userId=&serverSideAds=true
    
-#EXTINF:-71 tvg-logo="https://i.postimg.cc/k5ZDjspW/CINE.png" group-title="CINE Y SERIES", CINE
+#EXTINF:-71 tvg-logo="https://i.postimg.cc/k5ZDjspW/CINE.png" group-title="CINE-SERIES PLUTO", CINE
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae24-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b1c7f116-fa08-488b-a213-5bb1f7ee5ad2&userId=&serverSideAds=true
 
-#EXTINF:-71 tvg-logo="https://i.postimg.cc/k5ZDjspW/CINE.png" group-title="CINE Y SERIES", CINE 2
+#EXTINF:-71 tvg-logo="https://i.postimg.cc/k5ZDjspW/CINE.png" group-title="CINE-SERIES PLUTO", CINE 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3548ea01-ec9a-4077-95c1-67068b0dfecd&userId=&serverSideAds=true
 
-#EXTINF:-71 tvg-logo="https://i.postimg.cc/NjS9j6rR/CINE_PREMIERE.png" group-title="CINE Y SERIES", CINE PREMIERE
+#EXTINF:-71 tvg-logo="https://i.postimg.cc/NjS9j6rR/CINE_PREMIERE.png" group-title="CINE-SERIES PLUTO", CINE PREMIERE
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0eeb650-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9d68de35-eba9-49ed-8345-3e39294775b8&userId=&serverSideAds=true
 
-#EXTINF:-71 tvg-logo="https://i.postimg.cc/vZCdkKG8/CINE-ESTELAR.png" group-title="CINE Y SERIES", CINE ESTELAR
+#EXTINF:-71 tvg-logo="https://i.postimg.cc/vZCdkKG8/CINE-ESTELAR.png" group-title="CINE-SERIES PLUTO", CINE ESTELAR
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=&serverSideAds=true
 
-#EXTINF:-71 tvg-logo="https://i.postimg.cc/vZCdkKG8/CINE-ESTELAR.png" group-title="CINE Y SERIES", CINE ESTELAR 2
+#EXTINF:-71 tvg-logo="https://i.postimg.cc/vZCdkKG8/CINE-ESTELAR.png" group-title="CINE-SERIES PLUTO", CINE ESTELAR 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f59f50cc36a94000749fd3f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44aff04-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236222be-74f0-4d28-b58b-70f75ce8319a&userId=&serverSideAds=true
 
-#EXTINF:-71 tvg-logo="https://i.postimg.cc/vZCdkKG8/CINE-ESTELAR.png" group-title="CINE Y SERIES", CINE ESTELAR 3
+#EXTINF:-71 tvg-logo="https://i.postimg.cc/vZCdkKG8/CINE-ESTELAR.png" group-title="CINE-SERIES PLUTO", CINE ESTELAR 3
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0592c791-fce9-4adb-b161-20f61b7145ae&userId=&serverSideAds=true
 
-#EXTINF:-71 tvg-logo="https://i.postimg.cc/vZCdkKG8/CINE-ESTELAR.png" group-title="CINE Y SERIES", CINE ESTELAR (España)
+#EXTINF:-71 tvg-logo="https://i.postimg.cc/vZCdkKG8/CINE-ESTELAR.png" group-title="CINE-SERIES PLUTO", CINE ESTELAR (España)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a14a1-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e0810bdb-3103-4d41-9950-68244def5c07&userId=&serverSideAds=true
 
-#EXTINF:-64 tvg-logo="https://i.postimg.cc/W4bSTNSs/CINE-FAMILIA.png" group-title="CINE Y SERIES", CINE FAMILIA
+#EXTINF:-64 tvg-logo="https://i.postimg.cc/W4bSTNSs/CINE-FAMILIA.png" group-title="CINE-SERIES PLUTO", CINE FAMILIA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fa508f20-2870-486b-a716-7a14ab7ab7fb&userId=&serverSideAds=true
 
-#EXTINF:-71 tvg-logo="https://i.postimg.cc/R0Dhhd1N/CINE-ACCI-N.png" group-title="CINE Y SERIES", CINE ACCIÓN
+#EXTINF:-71 tvg-logo="https://i.postimg.cc/R0Dhhd1N/CINE-ACCI-N.png" group-title="CINE-SERIES PLUTO", CINE ACCIÓN
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=true
   
-#EXTINF:-71 tvg-logo="https://i.postimg.cc/R0Dhhd1N/CINE-ACCI-N.png" group-title="CINE Y SERIES", CINE ACCIÓN (España)
+#EXTINF:-71 tvg-logo="https://i.postimg.cc/R0Dhhd1N/CINE-ACCI-N.png" group-title="CINE-SERIES PLUTO", CINE ACCIÓN (España)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4ba1f1-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2ef6bc3f-95cc-43bd-98df-11ffd10b28fc&userId=&serverSideAds=true
 
-#EXTINF:-71 tvg-logo="https://i.postimg.cc/bwcfYdws/ADRENALINA.png" group-title="CINE Y SERIES", CINE ADRENALINA
+#EXTINF:-71 tvg-logo="https://i.postimg.cc/bwcfYdws/ADRENALINA.png" group-title="CINE-SERIES PLUTO", CINE ADRENALINA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0ffcd50-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6a432784-0445-4dce-b1c8-3ec58a005793&userId=&serverSideAds=true
 
-#EXTINF:-71 tvg-logo="https://i.postimg.cc/XJ7dX5Np/CINE-SUSPENSO.png" group-title="CINE Y SERIES", CINE SUSPENSO
+#EXTINF:-71 tvg-logo="https://i.postimg.cc/XJ7dX5Np/CINE-SUSPENSO.png" group-title="CINE-SERIES PLUTO", CINE SUSPENSO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18710-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6602c30d-29cf-40ea-9379-390b2d9b72bb&userId=&serverSideAds=true
 
-#EXTINF:-71 tvg-logo="https://i.postimg.cc/XJQhy9wh/CINE-TERROR.png" group-title="CINE Y SERIES", CINE TERROR
+#EXTINF:-71 tvg-logo="https://i.postimg.cc/XJQhy9wh/CINE-TERROR.png" group-title="CINE-SERIES PLUTO", CINE TERROR
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff00070-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c808f376-3c51-4ce4-8dc1-f9b1e9c494cc&userId=&serverSideAds=true
 
-#EXTINF:-71 tvg-logo="https://i.postimg.cc/XJQhy9wh/CINE-TERROR.png" group-title="CINE Y SERIES", CINE TERROR 2
+#EXTINF:-71 tvg-logo="https://i.postimg.cc/XJQhy9wh/CINE-TERROR.png" group-title="CINE-SERIES PLUTO", CINE TERROR 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8068a0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31d6ed5a-e18e-40e7-86c3-072f2b86df3c&userId=&serverSideAds=true
 
-#EXTINF:-71 tvg-logo="https://i.postimg.cc/cLgRNQqQ/CINE-COMEDIA.png" group-title="CINE Y SERIES", CINE COMEDIA
+#EXTINF:-71 tvg-logo="https://i.postimg.cc/cLgRNQqQ/CINE-COMEDIA.png" group-title="CINE-SERIES PLUTO", CINE COMEDIA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfefd960-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=91842cfa-96ff-4c3a-b034-234b53b31245&userId=&serverSideAds=true
 
-#EXTINF:-71 tvg-logo="https://i.postimg.cc/cLgRNQqQ/CINE-COMEDIA.png" group-title="CINE Y SERIES", CINE COMEDIA (España)
+#EXTINF:-71 tvg-logo="https://i.postimg.cc/cLgRNQqQ/CINE-COMEDIA.png" group-title="CINE-SERIES PLUTO", CINE COMEDIA (España)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8099c49f600076579b2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb0-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9679f680-433b-41b5-b65b-d3f9c407f275&userId=&serverSideAds=true
 
-#EXTINF:-71 tvg-logo="https://i.postimg.cc/MpT3SSyv/JAJA.png" group-title="CINE Y SERIES", CINE JAJA!!
+#EXTINF:-71 tvg-logo="https://i.postimg.cc/MpT3SSyv/JAJA.png" group-title="CINE-SERIES PLUTO", CINE JAJA!!
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a115c650-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c2c24e3d-01f5-4d23-a4be-a53210dbc21c&userId=&serverSideAds=true
 
-#EXTINF:-71 tvg-logo="https://i.postimg.cc/HxQB2sCP/xoxo.png" group-title="CINE Y SERIES", CINE XOXO
+#EXTINF:-71 tvg-logo="https://i.postimg.cc/HxQB2sCP/xoxo.png" group-title="CINE-SERIES PLUTO", CINE XOXO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a115ed60-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f83ca203-9359-411e-a06a-f401bb16ab3a&userId=&serverSideAds=true
 
-#EXTINF:-71 tvg-logo="https://i.postimg.cc/yNSgq7gv/CINE-ROMANCE.png" group-title="CINE Y SERIES", CINE ROMANCE
+#EXTINF:-71 tvg-logo="https://i.postimg.cc/yNSgq7gv/CINE-ROMANCE.png" group-title="CINE-SERIES PLUTO", CINE ROMANCE
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9d5191c-e833-44e1-b5c5-067f5a57a102&userId=&serverSideAds=true
 
-#EXTINF:-71 tvg-logo="https://i.postimg.cc/B6XNrcDk/cineromantico.png" group-title="CINE Y SERIES", CINE ROMÁNTICO
+#EXTINF:-71 tvg-logo="https://i.postimg.cc/B6XNrcDk/cineromantico.png" group-title="CINE-SERIES PLUTO", CINE ROMÁNTICO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac9a2d3611d0007a844bb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a89d0-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b946b5ad-df98-4df0-a5c3-637b325d942e&userId=&serverSideAds=true
 
-#EXTINF:-71 tvg-logo="https://i.postimg.cc/ZK7CCW6w/CINE-DRAMA.png" group-title="CINE Y SERIES", CINE DRAMA
+#EXTINF:-71 tvg-logo="https://i.postimg.cc/ZK7CCW6w/CINE-DRAMA.png" group-title="CINE-SERIES PLUTO", CINE DRAMA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff00072-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6e24734a-39dc-48e4-8068-40d233385993&userId=&serverSideAds=true
 
-#EXTINF:-71 tvg-logo="https://i.postimg.cc/ZK7CCW6w/CINE-DRAMA.png" group-title="CINE Y SERIES", CINE DRAMA (España)
+#EXTINF:-71 tvg-logo="https://i.postimg.cc/ZK7CCW6w/CINE-DRAMA.png" group-title="CINE-SERIES PLUTO", CINE DRAMA (España)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a62c1-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99870be5-05f2-48d8-b695-39dfabde3232&userId=&serverSideAds=true
 
-#EXTINF:-71 tvg-logo="https://i.postimg.cc/KzDYFjZr/ESTRELLAS-DE-ACCI-N.png" group-title="CINE Y SERIES", ESTRELLAS DE ACCIÓN
+#EXTINF:-71 tvg-logo="https://i.postimg.cc/KzDYFjZr/ESTRELLAS-DE-ACCI-N.png" group-title="CINE-SERIES PLUTO", ESTRELLAS DE ACCIÓN
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22351-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=988908ef-9cb1-4bfd-9346-d817932e3a37&userId=&serverSideAds=true
 
-#EXTINF:-71 tvg-logo="https://i.postimg.cc/W1BzvsQn/7ARTE.png" group-title="CINE Y SERIES", SÉPTIMO ARTE
+#EXTINF:-71 tvg-logo="https://i.postimg.cc/W1BzvsQn/7ARTE.png" group-title="CINE-SERIES PLUTO", SÉPTIMO ARTE
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0eedd60-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=05e50493-989d-41b8-b7ad-f17f965c8f4a&userId=&serverSideAds=true
 
-#EXTINF:-71 tvg-logo="https://i.postimg.cc/vm80zdmQ/thrillers.png" group-title="CINE Y SERIES", PLUTOTV THRILLERS
+#EXTINF:-71 tvg-logo="https://i.postimg.cc/vm80zdmQ/thrillers.png" group-title="CINE-SERIES PLUTO", PLUTOTV THRILLERS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb2-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bec2cd61-c8bf-4269-8475-9b5cdf24d1f0&userId=&serverSideAds=true
 
-#EXTINF:-64 tvg-logo="https://i.postimg.cc/TY6HW91N/SERIES.png" group-title="CINE Y SERIES", SERIES
+#EXTINF:-64 tvg-logo="https://i.postimg.cc/TY6HW91N/SERIES.png" group-title="CINE-SERIES PLUTO", SERIES
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e90-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7937749a-cec8-47cd-b6d9-43b0c4fea6c8&userId=&serverSideAds=true
 
-#EXTINF:-64 tvg-logo="https://i.postimg.cc/TY6HW91N/SERIES.png" group-title="CINE Y SERIES", SERIES 2
+#EXTINF:-64 tvg-logo="https://i.postimg.cc/TY6HW91N/SERIES.png" group-title="CINE-SERIES PLUTO", SERIES 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8f49205650007bc15f1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a62c0-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=59508532-73e8-480a-a7ac-ca658e672783&userId=&serverSideAds=true
 
-#EXTINF:-64 tvg-logo="https://i.postimg.cc/850XcnNT/seriescomedia.png" group-title="CINE Y SERIES", SERIES COMEDIA
+#EXTINF:-64 tvg-logo="https://i.postimg.cc/850XcnNT/seriescomedia.png" group-title="CINE-SERIES PLUTO", SERIES COMEDIA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9853138d19af0007104a8d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b4d24-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7b6b94ee-3d86-4a59-b406-f3548f232fe2&userId=&serverSideAds=true
 
-#EXTINF:-64 tvg-logo="https://i.postimg.cc/yd9kg98B/SERIES-LATINAS.png" group-title="CINE Y SERIES", SERIES LATINAS
+#EXTINF:-64 tvg-logo="https://i.postimg.cc/yd9kg98B/SERIES-LATINAS.png" group-title="CINE-SERIES PLUTO", SERIES LATINAS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff138f1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=66035293-500c-4b3d-8f02-dc855d5f476d&userId=&serverSideAds=true
 
-#EXTINF:-64 tvg-logo="https://i.postimg.cc/CxmvXnYF/SERIES-RETRO.png" group-title="CINE Y SERIES", SERIES RETRO
+#EXTINF:-64 tvg-logo="https://i.postimg.cc/CxmvXnYF/SERIES-RETRO.png" group-title="CINE-SERIES PLUTO", SERIES RETRO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae21-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=efb5479a-1735-4d57-9b8e-16487d9760c3&userId=&serverSideAds=true
 
-#EXTINF:-72 tvg-logo="https://i.postimg.cc/kgGwbRzG/TWD.png" group-title="CINE Y SERIES", THE WALKING DEAD
+#EXTINF:0 tvg-id="ext" group-title="CINE-SERIES PLUTO",Los Asesinatos de Midsomer
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aca8310a30e00074fab92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-72 tvg-logo="https://i.postimg.cc/kgGwbRzG/TWD.png" group-title="CINE-SERIES PLUTO", THE WALKING DEAD
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a109b860-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=89e7768a-d856-44a6-ba93-5bff4d40757c&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1acce7f17797000718f9be/colorLogoPNG.png" group-title="CINE Y SERIES", ANA Y LOS 7
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1acce7f17797000718f9be/colorLogoPNG.png" group-title="CINE-SERIES PLUTO", ANA Y LOS 7
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acce7f17797000718f9be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png" group-title="CINE Y SERIES", CURRO JIMENEZ
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png" group-title="CINE-SERIES PLUTO", CURRO JIMENEZ
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acd36779de70007a680d1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
 
 ---------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RkXVSvDr/inbigtv2.png" group-title="VARIOS",BIG TV
-https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ScesUbHV-aMYDjL6TsdyJZRPRYckjFty_A&s" group-title="VARIOS",OPINION SUR CINE
-https://live20.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SarapiquiTV.cr" tvg-logo="https://i.imgur.com/obTnd32.png" group-title="VARIOS",STV
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.clker.com/cliparts/B/x/g/L/h/v/blue-rounded-with-number-9-md.png" group-title="VARIOS",CANAL 9 TV SUR CR
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8
+
+#EXTINF:-1 tvg-id="CaracolaTV.cl" tvg-logo="https://i.imgur.com/QGvfqug.png" group-title="VARIOS",Caracola TV (Peñalolén) 
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NicoyaTV.cr" tvg-logo="https://i.imgur.com/UlOap5t.png" group-title="VARIOS",Nicoya TV 
+https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ViaAltomayo.pe" tvg-logo="https://i.imgur.com/Yr7d8rg.png" group-title="VARIOS",Vía Altomayo 
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
+
+#EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="VARIOS",Antares Televisión 
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AsiriTV.pe" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="VARIOS",AsiriTV (Lima)
+https://video2.lhdserver.es/asiritv/live.m3u8
+
+#EXTINF:-1 tvg-id="VoiceOverRadioTV.cr" tvg-logo="https://i.imgur.com/HzGs1Eh.png" group-title="VARIOS",VoiceOver Radio TV 
+https://cloudvideo.servers10.com:8081/8198/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal2SanAntonio.cl" tvg-logo="https://i.imgur.com/eLres7d.png" group-title="VARIOS",Canal 2 (San Antonio)
+https://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CRTelevisionMoyobamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/crtvmoyobamba/picture?width=320&height=320" group-title="VARIOS",CR Television (Moyobamba) 
+https://live.obslivestream.com/crtvmux/index.m3u8
 
 #EXTINF:-1 tvg-id="TeleAragua.ve" tvg-logo="https://i.imgur.com/jPzcb2S.png" group-title="VARIOS",TeleAragua 
 http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
@@ -213,9 +247,6 @@ https://v2.tustreaming.cl/atacamatv/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VARIOS",Canal 2 TV Quellón
 http://unlimited1-us.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8
 
-#EXTINF:-1 tvg-id="CaracolaTV.cl" tvg-logo="https://i.imgur.com/QGvfqug.png" group-title="VARIOS",Caracola TV (Peñalolén) 
-https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
- 
 #EXTINF:-1 tvg-id="CanalVisionDorada.co" tvg-logo="https://i.imgur.com/TerY4iM.png" group-title="VARIOS",Canal Visión Dorada 
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
@@ -224,9 +255,6 @@ http://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://microvision.com.do/wp-content/uploads/Microvision_567-150.png" group-title="VARIOS", TELEUNION
 http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal2SanAntonio.cl" tvg-logo="https://i.imgur.com/eLres7d.png" group-title="VARIOS",Canal 2 (San Antonio)
-https://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MegaVisionTV.do" tvg-logo="https://i.imgur.com/u5ECnZd.png" group-title="VARIOS",Megavisión
 http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
@@ -237,14 +265,14 @@ http://amaru.dyndns.org:8870/0.m3u8
 #EXTINF:-1 tvg-id="TuMusicaHD.do" tvg-logo="https://i.imgur.com/HnjUjog.png" group-title="VARIOS",Tu Música HD 
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
-#EXTINF:-1 tvg-id="PromovideoTV.it" tvg-logo="https://i.imgur.com/eKpS5Ck.png" group-title="VARIOS",Promovideo TV 
-https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TopTV.pe" tvg-logo="https://i.imgur.com/N5auYKR.png" group-title="VARIOS",Top FM TV (Atalaya) 
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 
-#EXTINF:-1 tvg-id="NicoyaTV.cr" tvg-logo="https://i.imgur.com/UlOap5t.png" group-title="VARIOS",Nicoya TV 
-https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="VARIOS", AZTECA 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIOS", A+
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 tvg-id="TN8.ni" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Tn8_logotipo_2021.png" group-title="VARIOS",Telenica Canal 8 (tn8)
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
@@ -252,20 +280,11 @@ https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 #EXTINF:-1 tvg-id="PopularTVCantabria.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hwlTrtF.png" group-title="VARIOS",Popular TV Cantabria
 https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
 
-#EXTINF:-1 tvg-id="AsiriTV.pe" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="VARIOS",AsiriTV (Lima)
-https://video2.lhdserver.es/asiritv/live.m3u8
-
 #EXTINF:-1 tvg-id="WTVCanal20.ni" tvg-logo="https://i.imgur.com/jMw3fS3.png" group-title="VARIOS",WTV Canal 20 
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
 #EXTINF:-1 tvg-id="EnfoqueDigitalTV.cl" tvg-logo="https://i.imgur.com/GaJzjt5.png" group-title="VARIOS",Enfoque Digital TV 
 https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
-
-#EXTINF:-1 tvg-id="VoiceOverRadioTV.cr" tvg-logo="https://i.imgur.com/HzGs1Eh.png" group-title="VARIOS",VoiceOver Radio TV 
-https://cloudvideo.servers10.com:8081/8198/index.m3u8
-
-#EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="VARIOS",Antares Televisión 
-https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TelecolorYurimaguas.pe" tvg-logo="https://i.imgur.com/Ug6XNIU.png" group-title="VARIOS",Telecolor (Yurimaguas) 
 https://live.obslivestream.com/telecolormux/index.m3u8
@@ -279,9 +298,6 @@ https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Millenium109FM.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sfNL6Bv.png" group-title="VARIOS",Millenium 109 FM (Lamas) 
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 
-#EXTINF:-1 tvg-id="CRTelevisionMoyobamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/crtvmoyobamba/picture?width=320&height=320" group-title="VARIOS",CR Television (Moyobamba) 
-https://live.obslivestream.com/crtvmux/index.m3u8
-
 #EXTINF:-1 tvg-id="BuinSomosTodos.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="" group-title="VARIOS",Buin Somos Todos 
 https://bst.buin.cl/0.m3u8
 
@@ -291,37 +307,29 @@ https://cloud2.streaminglivehd.com:1936/8104/8104/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenLatinoamerica.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png" group-title="VARIOS",Golden Latinoamérica 
 https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MEXICO", AZTECA 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MEXICO", A+
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-
-#EXTINF:-1 tvg-id="MaticesTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/aldiaconmatices/picture?width=320&height=320" group-title="VARIOS",MaticesTV (Cañete) 
-http://v4.tustreaming.cl/matices/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREfNrEKR73O3lew1Zl_-AqAgt28P1TFdBrTA&s" group-title="VARIOS",EnerGeek Retro
 https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.ts.m3u8?token=D3m0M3UCLWeb
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_0z15g4--HI9hBbGX_iivyOLyqf2oNi0Epg&s" group-title="VARIOS",EnerGeek FAN
 https://backend.energeek.cl/webtv/egfanweb/tracks-v1a1/mono.ts.m3u8?token=D3m0M3UCLWeb
 
-#EXTINF:-1 tvg-id="SolidariaTV.es" tvg-logo="https://i.imgur.com/Bgm2iZY.png" group-title="VARIOS",Solidaria TV 
-https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+#EXTINF:-1 tvg-id="Boreal.do" tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="VARIOS",Boreal
+https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="VARIOS",Extrema TV 
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SolidariaTV.es" tvg-logo="https://i.imgur.com/Bgm2iZY.png" group-title="VARIOS",Solidaria TV 
+https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RkXVSvDr/inbigtv2.png" group-title="VARIOS",BIG TV
+https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
+#EXTINF:-1 tvg-id="MaticesTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/aldiaconmatices/picture?width=320&height=320" group-title="VARIOS",MaticesTV (Cañete) 
+http://v4.tustreaming.cl/matices/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIOS",Sol TV 
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
-#EXTINF:-1 tvg-logo="http://www.clker.com/cliparts/B/x/g/L/h/v/blue-rounded-with-number-9-md.png" group-title="VARIOS",CANAL 9 TV SUR CR
-http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8
-#EXTINF:-1 tvg-id="ViaAltomayo.pe" tvg-logo="https://i.imgur.com/Yr7d8rg.png" group-title="VARIOS",Vía Altomayo 
-https://live.obslivestream.com/viaaltomayomux/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PY3566n.png" group-title="VARIOS", WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 tvg-id="Boreal.do" tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="VARIOS",Boreal
-https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 #EXTINF:-1 group-title="VARIOS",El Salvador digital
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
@@ -348,18 +356,16 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/25fDFDNy/neotv.png" group-title="VARIOS", NEO TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="VARIOS",Ciudad Magazine 
-https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-
 -----------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://mi-television.com/img/logo_2024.png" group-title="24/7",MI TV
+https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
+
 #EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/styles/og_image/public/2023-05/tvretro-palmares-costa-rica.png.webp?itok=Bcs7bhqg" group-title="24/7",TV RETRO PALMARES
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
 
 #EXTINF:-1 tvg-id="5f1aca0b4e448e00075e7c5e" tvg-name="Bob Esponja" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="24/7",Bob Esponja
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-
-#EXTINF:-1 tvg-logo="https://mi-television.com/img/logo_2024.png" group-title="24/7",MI TV
-https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="24/7",AFV 
 https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
@@ -378,7 +384,7 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULT",Gusto TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="bonappetit.us" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="CULT",bon appétit 
+#EXTINF:-1 tvg-id="bonappetit.us" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="CULT",Bon appétit 
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CookingPanda.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Z6pDpzl.png" group-title="CULT",Cooking Panda 
@@ -406,6 +412,23 @@ http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 http://fortv.cc:8080/54514663/54514663/212895
 #EXTINF:-1 tvg-id="" tvg-name="IT: RAI 2" tvg-logo="" group-title="ITALY ",IT: RAI 2
 http://fortv.cc:8080/54514663/54514663/212896
+#EXTINF:-1 tvg-id="" tvg-name="RAI 3" tvg-logo="" group-title="ITALY", RAI 3
+http://fortv.cc:8080/54514663/54514663/212934
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 3" tvg-logo="" group-title="ITALY ",IT: RAI 3
+http://fortv.cc:8080/54514663/54514663/212897
+#EXTINF:-1 tvg-id="" tvg-name="IT: CANALE 5" tvg-logo="" group-title="ITALY ",IT: CANALE 5
+http://fortv.cc:8080/54514663/54514663/212903
+#EXTINF:-1 tvg-id="" tvg-name="IT: MEDIASET ITALIA 2" tvg-logo="" group-title="ITALY ",IT: MEDIASET ITALIA 2
+http://fortv.cc:8080/54514663/54514663/212907
+#EXTINF:-1 tvg-id="" tvg-name="IT: LA 5" tvg-logo="" group-title="ITALY ",IT: LA 5
+http://fortv.cc:8080/54514663/54514663/212911
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI NEWS 24" tvg-logo="" group-title="ITALY ",IT: RAI NEWS 24
+http://fortv.cc:8080/54514663/54514663/212913
+#EXTINF:-1 tvg-id="" tvg-name="IT: RETE 4" tvg-logo="" group-title="ITALY ",IT: RETE 4
+http://fortv.cc:8080/54514663/54514663/212920
+#EXTINF:-1 tvg-id="" tvg-name="IT: SUPER!" tvg-logo="" group-title="ITALY ",IT: SUPER!
+http://fortv.cc:8080/54514663/54514663/212931
+
 #EXTINF:-1 tvg-id="" tvg-name="IT: RAI ITALIA" tvg-logo="" group-title="ITALY ",IT: RAI ITALIA
 http://fortv.cc:8080/54514663/54514663/212900
 #EXTINF:-1 tvg-id="" tvg-name="IT: RAI MOVIE" tvg-logo="" group-title="ITALY ",IT: RAI MOVIE
@@ -420,41 +443,35 @@ http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
 https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8
 #EXTINF:-1 tvg-id="EuroTV.it" tvg-logo="https://i.imgur.com/HFWWzKT.png" group-title="ITALY",Euro TV 
 https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
-#EXTINF:-1 tvg-id="QuartoCanaleFlegreo.it" tvg-logo="https://i.imgur.com/XfNSWp0.png" group-title="ITALY",Quarto Canale Flegreo 
-https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperSix.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/SuperSix_TV_Logo.png" group-title="ITALY",SuperSix Lombardia 
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:-1 tvg-id="PromovideoTV.it" tvg-logo="https://i.imgur.com/eKpS5Ck.png" group-title="ITALY",Promovideo TV 
+https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 3" tvg-logo="" group-title="ITALY ",IT: RAI 3
-http://fortv.cc:8080/54514663/54514663/212897
+#EXTINF:-1 tvg-id="QuartoCanaleFlegreo.it" tvg-logo="https://i.imgur.com/XfNSWp0.png" group-title="ITALY",Quarto Canale Flegreo 
+https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IT: RAI 4" tvg-logo="" group-title="ITALY ",IT: RAI 4
 http://fortv.cc:8080/54514663/54514663/212898
-#EXTINF:-1 tvg-id="" tvg-name="IT: CANALE 5" tvg-logo="" group-title="ITALY ",IT: CANALE 5
-http://fortv.cc:8080/54514663/54514663/212903
-#EXTINF:-1 tvg-id="" tvg-name="IT: MEDIASET ITALIA 2" tvg-logo="" group-title="ITALY ",IT: MEDIASET ITALIA 2
-http://fortv.cc:8080/54514663/54514663/212907
-#EXTINF:-1 tvg-id="" tvg-name="IT: LA 5" tvg-logo="" group-title="ITALY ",IT: LA 5
-http://fortv.cc:8080/54514663/54514663/212911
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI NEWS 24" tvg-logo="" group-title="ITALY ",IT: RAI NEWS 24
-http://fortv.cc:8080/54514663/54514663/212913
-#EXTINF:-1 tvg-id="" tvg-name="IT: RETE 4" tvg-logo="" group-title="ITALY ",IT: RETE 4
-http://fortv.cc:8080/54514663/54514663/212920
-#EXTINF:-1 tvg-id="" tvg-name="IT: SUPER!" tvg-logo="" group-title="ITALY ",IT: SUPER!
-http://fortv.cc:8080/54514663/54514663/212931
 
 ---------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="Canal7Jujuy.ar" tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="Argentina",Canal 7 (Jujuy)
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TN NOTICIAS" tvg-logo="" group-title="Argentina",ARG: TN NOTICIAS
+http://fortv.cc:8080/54514663/54514663/164873
+
 #EXTINF:-1 tvg-id="" tvg-name="ARG: EL NUEVE HD" tvg-logo="" group-title="Argentina",ARG: EL NUEVE HD
 http://fortv.cc:8080/54514663/54514663/164869
 
-#EXTINF:-1 tvg-id="" tvg-name="ARG: AMERICA TV HD" tvg-logo="" group-title="Argentina",ARG: AMERICA TV HD
-http://fortv.cc:8080/54514663/54514663/164881
-
-#EXTINF:-1 tvg-id="" tvg-name="AR | TV PUBLICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="ARGENTINA",AR | TV PUBLICA
+#EXTINF:-1 tvg-id="" tvg-name="AR | TV PUBLICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="Argentina",AR | TV PUBLICA
 http://live.detodotvplay.com:8080/Risario8/Pineda13/31422
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CRONICA HD" tvg-logo="" group-title="Argentina",ARG: CRONICA HD
+http://fortv.cc:8080/54514663/54514663/164875
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: INFORMACION PERIODISTICA HD" tvg-logo="" group-title="Argentina",ARG: INFORMACION PERIODISTICA HD
+http://fortv.cc:8080/54514663/54514663/164879
 
 #EXTINF:-1 tvg-id="Canal22.ar" tvg-logo="https://canal22web.com/wp-content/uploads/2020/09/80.jpg" group-title="Argentina",Canal 22
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
@@ -462,14 +479,10 @@ https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3299-800x450-FFFFFF.jpg" group-title="Argentina",CIUDAD MAGICA
 https://tuvideoonline.com.ar:3145/live/grupocitylive.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ARG: AMERICA TV HD" tvg-logo="" group-title="Argentina",ARG: AMERICA TV HD
+http://fortv.cc:8080/54514663/54514663/164881
 #EXTINF:-1 tvg-id="173452" tvg-name="EL TRECE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png"" group-title="Argentina", EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TN NOTICIAS" tvg-logo="" group-title="Argentina",ARG: TN NOTICIAS
-http://fortv.cc:8080/54514663/54514663/164873
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CRONICA HD" tvg-logo="" group-title="Argentina",ARG: CRONICA HD
-http://fortv.cc:8080/54514663/54514663/164875
-#EXTINF:-1 tvg-id="" tvg-name="ARG: INFORMACION PERIODISTICA HD" tvg-logo="" group-title="Argentina",ARG: INFORMACION PERIODISTICA HD
-http://fortv.cc:8080/54514663/54514663/164879
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -494,12 +507,6 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="MEXICO",AMX Noticias 
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVCuatro41.mx" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="MEXICO",TV Cuatro 4.1 
-https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
-
-#EXTINF:-1 tvg-id="TVCuatro42.mx" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="MEXICO",TV Cuatro 4.2 
-https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
-
 #EXTINF:-1 tvg-id="AztecaHonduras.hn" tvg-logo="https://i.imgur.com/b3nh01E.png" group-title="MEXICO",Azteca Honduras 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
@@ -508,6 +515,11 @@ https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 
 #EXTINF:-1 tvg-id="XEWHTDT.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Telemax_2022.png" group-title="MEXICO",Telemax 
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCuatro41.mx" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="MEXICO",TV Cuatro 4.1 
+https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
+#EXTINF:-1 tvg-id="TVCuatro42.mx" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="MEXICO",TV Cuatro 4.2 
+https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -518,14 +530,14 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Now90s.uk" tvg-logo="https://i.imgur.com/yo8lEu1.png" group-title="MUSIC",Now 90's
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CadenaElite.es" tvg-country="ES" tvg-language="" tvg-logo="" group-title="MUSIC",Cadena Elite
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+
 #EXTINF:-1 tvg-id="NoroesteTV.es" tvg-logo="https://i.imgur.com/s6V8rQd.png" group-title="MUSIC",Noroeste TV
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
 
 #EXTINF:-1 tvg-id="VClassicTV.cl" tvg-logo="https://www.radiocoquimbo.cl/wp-content/uploads/2022/06/281336152_108970288486083_7336224258612856686_n-e1655673117480.png" group-title="MUSIC",V Classic TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CaliforniaMusicChannel.us" tvg-logo="https://i.imgur.com/L38mC6H.png" group-title="MUSIC",CMC (California Music Channel)
-https://cmc-ono.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PowerHD.ar" tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="MUSIC",PowerHD
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
@@ -577,8 +589,9 @@ http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
 
 #EXTINF:-1 tvg-id="ArabicaTV.lb" tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="MUSIC",Arabica TV 
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:-1 tvg-id="CadenaElite.es" tvg-country="ES" tvg-language="" tvg-logo="" group-title="MUSIC",Cadena Elite
-https://cloudvideo.servers10.com:8081/8004/index.m3u8
+
+#EXTINF:-1 tvg-id="CaliforniaMusicChannel.us" tvg-logo="https://i.imgur.com/L38mC6H.png" group-title="MUSIC",CMC (California Music Channel)
+https://cmc-ono.amagi.tv/playlist.m3u8
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -600,8 +613,8 @@ http://181.119.157.98:8800/amdelplata.mp3
 #EXTINF:-1   tvg-logo="http://masradio.ar/wp-content/uploads/2019/03/radio-color@2x.png" group-title="RADIOS", MAS RADIO 
 http://centova.questreaming.com:4250/stream
 
-#EXTINF:-1 tvg-logo="http://la90fm.com/wp-content/uploads/2021/03/logo.png" group-title="RADIOS", LA MEGA 90.9 AZUL
-http://streaming02.arcast.com.ar:1935/la90fm/la90fm/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/576378177/logo_toplatino_radio_200x200_400x400.png" group-title="RADIOS",TOP LATINO RADIO PERU
 http://online.radiodifusion.net:8028/stream/1/
+
+#EXTINF:-1 tvg-logo="http://la90fm.com/wp-content/uploads/2021/03/logo.png" group-title="RADIOS", LA MEGA 90.9 AZUL
+http://streaming02.arcast.com.ar:1935/la90fm/la90fm/playlist.m3u8
