@@ -69,7 +69,7 @@ http://fortv.cc:8080/54514663/54514663/82241
 
 --------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="ESBC400001QQ" tvg-name="Runtime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC400001QQ_20241022T050617SQUARE.png" group-title="CINE" , Runtime
+#EXTINF:-1 tvg-id="ESBC400001QQ" tvg-name="Runtime cine y series" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC400001QQ_20241022T050617SQUARE.png" group-title="CINE" , Runtime cine y series
 https://jmp2.uk/stvp-ESBC400001QQ
 
 #EXTINF:-1 tvg-id="ES2600013H4" tvg-name="Películas Top - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600013H4_20241022T050605SQUARE.png" group-title="CINE" , Películas Top - Rakuten TV
@@ -405,8 +405,10 @@ https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RkXVSvDr/inbigtv2.png" group-title="VARIOS",BIG TV
 https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MaticesTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/aldiaconmatices/picture?width=320&height=320" group-title="VARIOS",MaticesTV (Cañete) 
 http://v4.tustreaming.cl/matices/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIOS",Sol TV 
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PY3566n.png" group-title="VARIOS", WOW TV 
@@ -448,7 +450,7 @@ https://jmp2.uk/stvp-ES500005BP
 #EXTINF:-1 tvg-id="ES2800002MM" tvg-name="Mayday: Catástrofe Aérea" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800002MM_20251013T053451SQUARE.png" group-title="24/7" , Mayday: Catástrofe Aérea
 https://jmp2.uk/stvp-ES2800002MM
 
-#EXTINF:-1 tvg-id="ESBA3300033PL" tvg-name="Encantador de Perros" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300033PL_20241022T050532SQUARE.png" group-title="Entertainment" , Encantador de Perros
+#EXTINF:-1 tvg-id="ESBA3300033PL" tvg-name="Encantador de Perros" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300033PL_20241022T050532SQUARE.png" group-title="24/7" , Encantador de Perros
 https://jmp2.uk/stvp-ESBA3300033PL
 
 #EXTINF:-1 tvg-id="ESBA3300029UG" tvg-name="El Comisario" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300029UG_20241022T051014SQUARE.png" group-title="24/7" , El Comisario
@@ -716,7 +718,7 @@ https://cloudvideo.servers10.com:8081/8032/index.m3u8
 #EXTINF:-1 tvg-id="VClassicTV.cl" tvg-logo="https://www.radiocoquimbo.cl/wp-content/uploads/2022/06/281336152_108970288486083_7336224258612856686_n-e1655673117480.png" group-title="MUSIC",V Classic TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ES3900001QG" tvg-name="ES3900001QG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3900001QG_20251111T011938SQUARE.png" group-title="MUSIC" , K-POP 
+#EXTINF:-1 tvg-id="ES3900001QG" tvg-name="K-POP " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3900001QG_20251111T011938SQUARE.png" group-title="MUSIC" , K-POP 
 https://jmp2.uk/stvp-ES3900001QG
 
 #EXTINF:-1 tvg-id="PowerHD.ar" tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="MUSIC",PowerHD
