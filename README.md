@@ -49,23 +49,14 @@ https://jmp2.uk/stvp-ESBC2700009B4
 #EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="US Latin TUDN (A)" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2019/05/TUDN.png" group-title="⚽ DEPORTES",TUDN
 http://fortv.cc:8080/54514663/54514663/11885
 
-#EXTINF:-1 tvg-id="3abn.latino.houston.tx.us" tvg-name="PT Eleven Sports 1 FHD " tvg-logo="" group-title="⚽ DEPORTES",PT Eleven Sports 1 
-http://fortv.cc:8080/54514663/54514663/35264
-
 #EXTINF:-1 tvg-id="sky.sports.main.event.gb" tvg-name="UK-Sky Sports Main Event" tvg-logo="" group-title="⚽ DEPORTES",Sky Sports Main Event
 http://fortv.cc:8080/54514663/54514663/35243
-
-#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK Sky Sports Mix FHD (D)" tvg-logo="" group-title="⚽ DEPORTES",Sky Sports Mix 
-http://fortv.cc:8080/54514663/54514663/53706
 
 #EXTINF:-1 tvg-id="sky.sports.news.gb" tvg-name="UK-Sky Sports News" tvg-logo="" group-title="⚽ DEPORTES",Sky Sports News
 http://fortv.cc:8080/54514663/54514663/35241
 
 #EXTINF:-1 tvg-id="ES3200003OC" tvg-name="DFB Play TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200003OC_20250318T040657SQUARE.png" group-title="⚽ DEPORTES" , DFB Play TV
 https://jmp2.uk/stvp-ES3200003OC
-
-#EXTINF:-1 tvg-id="tudnu.us" tvg-name="US TUDN " tvg-logo="" group-title="⚽ DEPORTES",TUDN 
-http://fortv.cc:8080/54514663/54514663/82241
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -86,12 +77,6 @@ https://jmp2.uk/stvp-ESBD8000033W
 
 #EXTINF:-1 tvg-id="ES260000700" tvg-name="Comedia - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260000700_20241022T051222SQUARE.png" group-title="CINE" , Comedia - Rakuten TV
 https://jmp2.uk/stvp-ES260000700
-
-#EXTINF:-1 tvg-id="ESBC2700002LO" tvg-name="Grjngo - Películas Del Oeste" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700002LO_20251028T011352SQUARE.png" group-title="CINE" , Grjngo - Películas Del Oeste
-https://jmp2.uk/stvp-ESBC2700002LO
-
-#EXTINF:-1 tvg-id="ES2300005G7" tvg-name="Cine Western" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20251111T011930SQUARE.png" group-title="CINE" , Cine Western
-https://jmp2.uk/stvp-ES2300005G7
 
 #EXTINF:-1 tvg-id="ESBC2700003T8" tvg-name="Bigtime - Películas Gratis" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700003T8_20241022T050457SQUARE.png" group-title="CINE" , Bigtime - Películas Gratis
 https://jmp2.uk/stvp-ESBC2700003T8
@@ -152,6 +137,12 @@ https://jmp2.uk/stvp-ES1700003C6
 
 #EXTINF:-1 tvg-id="ESBC1700001QI" tvg-name="Vive Kanal D Drama" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700001QI_20241022T051151SQUARE.png" group-title="CINE" , Vive Kanal D Drama
 https://jmp2.uk/stvp-ESBC1700001QI
+
+#EXTINF:-1 tvg-id="ESBC2700002LO" tvg-name="Grjngo - Películas Del Oeste" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700002LO_20251028T011352SQUARE.png" group-title="CINE" , Grjngo - Películas Del Oeste
+https://jmp2.uk/stvp-ESBC2700002LO
+
+#EXTINF:-1 tvg-id="ES2300005G7" tvg-name="Cine Western" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20251111T011930SQUARE.png" group-title="CINE" , Cine Western
+https://jmp2.uk/stvp-ES2300005G7
 
 #EXTINF:-1 tvg-id="1274" tvg-name="Saber Mas - Freetv.com" tvg-logo="https://i2.paste.pics/ecac0da442f722d93b2a607b74c149df.png" group-title="CINE", Saber Mas
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8?PlaylistM3UCL
@@ -263,9 +254,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b
 #EXTINF:-64 tvg-logo="https://i.postimg.cc/TY6HW91N/SERIES.png" group-title="CINE-SERIES PLUTO", SERIES 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8f49205650007bc15f1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a62c0-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=59508532-73e8-480a-a7ac-ca658e672783&userId=&serverSideAds=true
 
-#EXTINF:-64 tvg-logo="https://i.postimg.cc/850XcnNT/seriescomedia.png" group-title="CINE-SERIES PLUTO", SERIES COMEDIA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9853138d19af0007104a8d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b4d24-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7b6b94ee-3d86-4a59-b406-f3548f232fe2&userId=&serverSideAds=true
-
 #EXTINF:-64 tvg-logo="https://i.postimg.cc/yd9kg98B/SERIES-LATINAS.png" group-title="CINE-SERIES PLUTO", SERIES LATINAS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff138f1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=66035293-500c-4b3d-8f02-dc855d5f476d&userId=&serverSideAds=true
 
@@ -278,14 +266,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aca8310a30e00074fab
 #EXTINF:-72 tvg-logo="https://i.postimg.cc/kgGwbRzG/TWD.png" group-title="CINE-SERIES PLUTO", THE WALKING DEAD
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a109b860-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=89e7768a-d856-44a6-ba93-5bff4d40757c&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1acce7f17797000718f9be/colorLogoPNG.png" group-title="CINE-SERIES PLUTO", ANA Y LOS 7
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acce7f17797000718f9be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png" group-title="CINE-SERIES PLUTO", CURRO JIMENEZ
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acd36779de70007a680d1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="ES400002P5" tvg-name="ES400002P5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES400002P5_20251013T053438SQUARE.png" group-title="CINE-SERIES PLUTO" , Cuéntame cómo pasó
-https://jmp2.uk/stvp-ES400002P5
+#EXTINF:-64 tvg-logo="https://i.postimg.cc/850XcnNT/seriescomedia.png" group-title="CINE-SERIES PLUTO", SERIES COMEDIA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9853138d19af0007104a8d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b4d24-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7b6b94ee-3d86-4a59-b406-f3548f232fe2&userId=&serverSideAds=true
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
@@ -294,6 +276,9 @@ http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.clker.com/cliparts/B/x/g/L/h/v/blue-rounded-with-number-9-md.png" group-title="VARIOS",CANAL 9 TV SUR CR
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RkXVSvDr/inbigtv2.png" group-title="VARIOS",BIG TV
+https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CaracolaTV.cl" tvg-logo="https://i.imgur.com/QGvfqug.png" group-title="VARIOS",Caracola TV (Peñalolén) 
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
@@ -394,27 +379,14 @@ https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.ts.m3u8?token=D3m0
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_0z15g4--HI9hBbGX_iivyOLyqf2oNi0Epg&s" group-title="VARIOS",EnerGeek FAN
 https://backend.energeek.cl/webtv/egfanweb/tracks-v1a1/mono.ts.m3u8?token=D3m0M3UCLWeb
 
-#EXTINF:-1 tvg-id="Boreal.do" tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="VARIOS",Boreal
-https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="VARIOS",Extrema TV 
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SolidariaTV.es" tvg-logo="https://i.imgur.com/Bgm2iZY.png" group-title="VARIOS",Solidaria TV 
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RkXVSvDr/inbigtv2.png" group-title="VARIOS",BIG TV
-https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MaticesTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/aldiaconmatices/picture?width=320&height=320" group-title="VARIOS",MaticesTV (Cañete) 
 http://v4.tustreaming.cl/matices/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIOS",Sol TV 
-https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PY3566n.png" group-title="VARIOS", WOW TV 
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 group-title="VARIOS",El Salvador digital
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
@@ -433,25 +405,25 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="5TV Corrientes" tvg-name= "5TV Corrientes" tvg-logo = "http://vivotvhd.com/img/cha/948.gif" group-title = "VARIOS", 5TV Corrientes
 http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
 
-#EXTINF:-1 tvg-id="CN3Pinamar.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="" group-title="VARIOS",CN3 Pinamar 
-https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
-
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/25fDFDNy/neotv.png" group-title="VARIOS", NEO TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
+#EXTINF:-1 tvg-id="CN3Pinamar.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="" group-title="VARIOS",CN3 Pinamar 
+https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+
 -----------------------------------------------------------------------------------------------------------------------------------
-
-#EXTINF:-1 tvg-id="ESBD1300001EP" tvg-name="Baywatch – Los Vigilantes de la Playa" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300001EP_20251028T011342SQUARE.png" group-title="24/7" , Baywatch – Los Vigilantes de la Playa
-https://jmp2.uk/stvp-ESBD1300001EP
-
-#EXTINF:-1 tvg-id="ES500005BP" tvg-name="Águila Roja" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500005BP_20250610T010520SQUARE.png" group-title="24/7" , Águila Roja
-https://jmp2.uk/stvp-ES500005BP
 
 #EXTINF:-1 tvg-id="ES2800002MM" tvg-name="Mayday: Catástrofe Aérea" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800002MM_20251013T053451SQUARE.png" group-title="24/7" , Mayday: Catástrofe Aérea
 https://jmp2.uk/stvp-ES2800002MM
 
+#EXTINF:-1 tvg-id="ES500005BP" tvg-name="Águila Roja" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500005BP_20250610T010520SQUARE.png" group-title="24/7" , Águila Roja
+https://jmp2.uk/stvp-ES500005BP
+
 #EXTINF:-1 tvg-id="ESBA3300033PL" tvg-name="Encantador de Perros" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300033PL_20241022T050532SQUARE.png" group-title="24/7" , Encantador de Perros
 https://jmp2.uk/stvp-ESBA3300033PL
+
+#EXTINF:-1 tvg-id="ESBD1300001EP" tvg-name="Baywatch – Los Vigilantes de la Playa" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300001EP_20251028T011342SQUARE.png" group-title="24/7" , Baywatch – Los Vigilantes de la Playa
+https://jmp2.uk/stvp-ESBD1300001EP
 
 #EXTINF:-1 tvg-id="ESBA3300029UG" tvg-name="El Comisario" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300029UG_20241022T051014SQUARE.png" group-title="24/7" , El Comisario
 https://jmp2.uk/stvp-ESBA3300029UG
@@ -489,11 +461,8 @@ https://jmp2.uk/stvp-ESBD3200002V5
 #EXTINF:-1 tvg-id="ESBA33000324U" tvg-name="Rugrats" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000324U_20241022T050615SQUARE.png" group-title="24/7" , Rugrats
 https://jmp2.uk/stvp-ESBA33000324U
 
-#EXTINF:-1 tvg-id="ES2600008NX" tvg-name="Rantaró, El Ninja Boy" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600008NX_20241210T052643SQUARE.png" group-title="24/7" , Rantaró, El Ninja Boy
+#EXTINF:-1 tvg-id="ES2600008NX" tvg-name="Rantaró,El Ninja Boy" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600008NX_20241210T052643SQUARE.png" group-title="24/7" , Rantaró, El Ninja Boy
 https://jmp2.uk/stvp-ES2600008NX
-
-#EXTINF:-1 tvg-id="ESAJ3800005C5" tvg-name="Comedia Made in Spain" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20241022T050710SQUARE.png" group-title="24/7" , Comedia Made in Spain
-https://jmp2.uk/stvp-ESAJ3800005C5
 
 #EXTINF:-1 tvg-id="ESBA1400006NP" tvg-name="FailArmy" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400006NP_20241022T050721SQUARE.png" group-title="24/7" , FailArmy
 https://jmp2.uk/stvp-ESBA1400006NP
@@ -506,9 +475,6 @@ https://jmp2.uk/stvp-ESAJ4500016BH
 
 #EXTINF:-1 tvg-id="ESBC2700008SK" tvg-name="Just For Laughs" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20241022T051028SQUARE.png" group-title="24/7" , Just For Laughs
 https://jmp2.uk/stvp-ESBC2700008SK
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="24/7",AFV 
-https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
 
 -----------------------------------------------------------------------------------------------------------------
 
@@ -556,6 +522,9 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ESBC1700004PX" tvg-name="Trailers" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20250715T004332SQUARE.png" group-title="Entertainment" , Trailers
 https://jmp2.uk/stvp-ESBC1700004PX
 
+#EXTINF:-1 tvg-id="ESBC3500002PW" tvg-name="Ideas en 5 Minutos" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20241022T051025SQUARE.png" group-title="Entertainment" , Ideas en 5 Minutos
+https://jmp2.uk/stvp-ESBC3500002PW
+
 #EXTINF:-1 tvg-id="ESBD1400003QN" tvg-name="Royalworld - Nobleza y Dinastias" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400003QN_20241106T142225SQUARE.png" group-title="Entertainment" , Royalworld - Nobleza y Dinastias
 https://jmp2.uk/stvp-ESBD1400003QN
 
@@ -564,9 +533,6 @@ https://jmp2.uk/stvp-ES26000068D
 
 #EXTINF:-1 tvg-id="ES26000025M" tvg-name="¡Hola! Play" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES26000025M_20241210T052650SQUARE.png" group-title="Entertainment" , ¡Hola! Play
 https://jmp2.uk/stvp-ES26000025M
-
-#EXTINF:-1 tvg-id="ESBC3500002PW" tvg-name="Ideas en 5 Minutos" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20241022T051025SQUARE.png" group-title="Entertainment" , Ideas en 5 Minutos
-https://jmp2.uk/stvp-ESBC3500002PW
 
 #EXTINF:-1 tvg-id="YourTimeTV.ir" tvg-logo="https://i.imgur.com/X38vWJ1.png" group-title="Entertainment",YourTime TV 
 https://hls.yourtime.live/hls/stream.m3u8
@@ -663,6 +629,18 @@ https://jmp2.uk/stvp-ESBD3000002GP
 #EXTINF:-1 tvg-id="ESBC4100003WE" tvg-name="Clan" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100003WE_20250819T033220SQUARE.png" group-title="ESPAÑA" , Clan
 https://jmp2.uk/stvp-ESBC4100003WE
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1acce7f17797000718f9be/colorLogoPNG.png" group-title="ESPAÑA", ANA Y LOS 7
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acce7f17797000718f9be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png" group-title="ESPAÑA", CURRO JIMENEZ
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acd36779de70007a680d1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="ES400002P5" tvg-name="ES400002P5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES400002P5_20251013T053438SQUARE.png" group-title="ESPAÑA" , Cuéntame cómo pasó
+https://jmp2.uk/stvp-ES400002P5
+
+#EXTINF:-1 tvg-id="ESAJ3800005C5" tvg-name="Comedia Made in Spain" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20241022T050710SQUARE.png" group-title="ESPAÑA" , Comedia Made in Spain
+https://jmp2.uk/stvp-ESAJ3800005C5
+
 --------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="MEXICO", TV MÁS 
@@ -733,9 +711,6 @@ https://streamtv.mediasector.es/hls/activatv/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/897e9wy.png" group-title="MUSIC", Teleritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:-1 tvg-id="TVinet.cl" tvg-logo="https://i.imgur.com/KisHIpA.png" group-title="MUSIC",T-Vinet
-https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="MUSIC",VM Latino EL CANAL DE LA MUSICA
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist_w1943183241.m3u8
 
@@ -774,6 +749,8 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CaliforniaMusicChannel.us" tvg-logo="https://i.imgur.com/L38mC6H.png" group-title="MUSIC",CMC (California Music Channel)
 https://cmc-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVinet.cl" tvg-logo="https://i.imgur.com/KisHIpA.png" group-title="MUSIC",T-Vinet
+https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
 
 ------------------------------------------------------------------------------------------------------------------------------
 
