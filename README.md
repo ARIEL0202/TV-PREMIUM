@@ -514,6 +514,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-sam
 #EXTINF:-1 tvg-id="RealWild.us" tvg-logo="https://i.imgur.com/T9HHmAO.png" group-title="CULT",Real Wild
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TravelTV.bg" tvg-logo="https://i.imgur.com/eZjcf2R.png" group-title="CULT",Travel TV 
+https://streamer103.neterra.tv/travel/live.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULT",POP TV 
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8
 
@@ -740,6 +743,9 @@ http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 
 #EXTINF:-1 tvg-id="M2.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="MUSIC",M2 
 http://live.m2.tv/hls3/stream.m3u8
+
+#EXTINF:-1 tvg-id="TMA.gp" tvg-logo="https://i.imgur.com/1iOAl2j.png" group-title="MUSIC",TMA 
+http://hls.tmacaraibes.com/live/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.perezzeledon.net/wp-content/uploads/8811.gif" group-title="MUSIC",CANAL 88 STEREO CR
 http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
