@@ -373,8 +373,11 @@ https://cloud2.streaminglivehd.com:1936/8104/8104/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenLatinoamerica.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png" group-title="VARIOS",Golden Latinoamérica 
 https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREfNrEKR73O3lew1Zl_-AqAgt28P1TFdBrTA&s" group-title="VARIOS",EnerGeek Retro
-https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.ts.m3u8?token=D3m0M3UCLWeb
+#EXTINF:-1 tvg-id="TVSistemasCuzco.pe" tvg-logo="https://i.imgur.com/yo1oTIh.png" group-title="VARIOS",TV Sistemas Cuzco (Cuzco) 
+https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RSelvaTV" tvg-logo="https://radioselvatv.pe/wp-content/uploads/2020/12/LOGO-web.png" group-title="VARIOS",RSelvaTV (Tarapoto) 
+https://live.obslivestream.com/selvatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_0z15g4--HI9hBbGX_iivyOLyqf2oNi0Epg&s" group-title="VARIOS",EnerGeek FAN
 https://backend.energeek.cl/webtv/egfanweb/tracks-v1a1/mono.ts.m3u8?token=D3m0M3UCLWeb
@@ -692,6 +695,9 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CadenaElite.es" tvg-country="ES" tvg-language="" tvg-logo="" group-title="MUSIC",Cadena Elite
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
+
+#EXTINF:-1 tvg-id="7080TV.it" tvg-logo="https://i.imgur.com/y4kNV3Q.png" group-title="MUSIC",70-80 TV 
+https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NoroesteTV.es" tvg-logo="https://i.imgur.com/s6V8rQd.png" group-title="MUSIC",Noroeste TV
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
