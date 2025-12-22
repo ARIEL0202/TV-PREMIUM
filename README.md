@@ -373,11 +373,20 @@ https://cloud2.streaminglivehd.com:1936/8104/8104/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenLatinoamerica.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png" group-title="VARIOS",Golden Latinoamérica 
 https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CNCCajamarca.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/l9OJjoT.png" group-title="VARIOS",CNC (Cajamarca) 
+https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
+
 #EXTINF:-1 tvg-id="TVSistemasCuzco.pe" tvg-logo="https://i.imgur.com/yo1oTIh.png" group-title="VARIOS",TV Sistemas Cuzco (Cuzco) 
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RSelvaTV" tvg-logo="https://radioselvatv.pe/wp-content/uploads/2020/12/LOGO-web.png" group-title="VARIOS",RSelvaTV (Tarapoto) 
 https://live.obslivestream.com/selvatv/index.m3u8
+
+#EXTINF:-1 tvg-id="CRTelevisionMoyobamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/crtvmoyobamba/picture?width=320&height=320" group-title="VARIOS",CR Television (Moyobamba) 
+https://live.obslivestream.com/crtvmux/index.m3u8
+
+#EXTINF:-1 tvg-id="wtv.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://wmediosnicaragua.com/img/LOGO-CANAL.png" group-title="VARIOS",WTV Canal 20 
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_0z15g4--HI9hBbGX_iivyOLyqf2oNi0Epg&s" group-title="VARIOS",EnerGeek FAN
 https://backend.energeek.cl/webtv/egfanweb/tracks-v1a1/mono.ts.m3u8?token=D3m0M3UCLWeb
@@ -755,6 +764,9 @@ http://hls.tmacaraibes.com/live/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.perezzeledon.net/wp-content/uploads/8811.gif" group-title="MUSIC",CANAL 88 STEREO CR
 http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
+
+#EXTINF:-1 tvg-id="30AMusic.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="MUSIC",30A Music 
+https://30a-tv.com/music.m3u8
 
 #EXTINF:-1 tvg-id="ArabicaTV.lb" tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="MUSIC",Arabica TV 
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
