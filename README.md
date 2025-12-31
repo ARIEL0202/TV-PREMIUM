@@ -319,9 +319,6 @@ http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RkXVSvDr/inbigtv2.png" group-title="VARIOS",BIG TV
 https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CaracolaTV.cl" tvg-logo="https://i.imgur.com/QGvfqug.png" group-title="VARIOS",Caracola TV (Peñalolén) 
-https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="NicoyaTV.cr" tvg-logo="https://i.imgur.com/UlOap5t.png" group-title="VARIOS",Nicoya TV 
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 
@@ -403,9 +400,6 @@ https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Millenium109FM.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sfNL6Bv.png" group-title="VARIOS",Millenium 109 FM (Lamas) 
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 
-#EXTINF:-1 tvg-id="CanalC.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/canal-c-2584.jpg" group-title="VARIOS",Canal C (Santiago de Cali | Valle del Cauca) 
-https://cloud2.streaminglivehd.com:1936/8104/8104/playlist.m3u8
-
 #EXTINF:-1 tvg-id="GoldenLatinoamerica.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png" group-title="VARIOS",Golden Latinoamérica 
 https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8
 
@@ -439,6 +433,9 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1 tvg-id="UranioTV.pe" tvg-logo="https://i.imgur.com/EeNpfIr.png" group-title="VARIOS",Uranio TV (Yurimaguas) 
 https://live.obslivestream.com/uraniotv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/968_Contivision_Musica.png" group-title="VARIOS", Contivision Musica
+https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_0z15g4--HI9hBbGX_iivyOLyqf2oNi0Epg&s" group-title="VARIOS",EnerGeek FAN
 https://backend.energeek.cl/webtv/egfanweb/tracks-v1a1/mono.ts.m3u8?token=D3m0M3UCLWeb
 
@@ -453,6 +450,12 @@ http://v4.tustreaming.cl/matices/index.m3u8
 
 #EXTINF:-1 tvg-id="BuinSomosTodos.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="" group-title="VARIOS",Buin Somos Todos 
 https://bst.buin.cl/0.m3u8
+
+#EXTINF:-1 tvg-id="CaracolaTV.cl" tvg-logo="https://i.imgur.com/QGvfqug.png" group-title="VARIOS",Caracola TV (Peñalolén) 
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalC.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/canal-c-2584.jpg" group-title="VARIOS",Canal C (Santiago de Cali | Valle del Cauca) 
+https://cloud2.streaminglivehd.com:1936/8104/8104/playlist.m3u8
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
