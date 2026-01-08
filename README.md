@@ -1,6 +1,6 @@
 #EXTINF:-1 tvg-id="" tvg-name="AR | TYC SPORTS INTERNACIONAL" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-cl-1246.png" group-title="⚽ DEPORTES",AR | TYC SPORTS INTERNACIONAL
-http://live.detodotvplay.com:8080/Risario8/Pineda13/84089
-   
+http://live.detodotvplay.com:8080/Risario8/Pineda13/840
+
 #EXTINF:-1 tvg-id="" tvg-name="AR | TNT SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="⚽ DEPORTES",AR | TNT SPORTS HD
 http://live.detodotvplay.com:8080/Risario8/Pineda13/338
 
