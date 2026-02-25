@@ -1,8 +1,8 @@
-#EXTINF:-1 tvg-id="" tvg-name="AR | TyC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="ARGENTINA",AR | TyC SPORTS
-http://live.detodotvplay.com:8080/Risario8/Pineda13/434
-
 #EXTINF:-1 tvg-id="" tvg-name="AR | TYC SPORTS INTERNACIONAL" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-cl-1246.png" group-title="DEPORTES",AR | TYC SPORTS INTERNACIONAL
 http://live.detodotvplay.com:8080/Risario8/Pineda13/84089
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | TyC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="ARGENTINA",AR | TyC SPORTS
+http://live.detodotvplay.com:8080/Risario8/Pineda13/434
 
 #EXTINF:-1 tvg-id="" tvg-name="AR | TNT SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="⚽ DEPORTES",AR | TNT SPORTS HD
 http://live.detodotvplay.com:8080/Risario8/Pineda13/338
