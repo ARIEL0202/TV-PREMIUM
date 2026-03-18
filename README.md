@@ -1,3 +1,81 @@
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="⚽ DEPORTES",TYC SPORTS
+http://xpaneltv.com:8080/Alirf/78587421/52157
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SUR" tvg-logo="https://pbs.twimg.com/profile_images/693731557299720193/z0EeBAZE_400x400.png" group-title="⚽ DEPORTES",ESPN SUR
+http://xpaneltv.com:8080/Alirf/78587421/52146
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SUR" tvg-logo="https://www.logolynx.com/images/logolynx/f6/f6fc6b0d8b876da9ab2ed9b72e3f7e06.png" group-title="⚽ DEPORTES",ESPN 2 SUR
+http://xpaneltv.com:8080/Alirf/78587421/52147
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 SUR" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/3e99c57a-516c-385d-9c22-2e40aebc7129.png" group-title="⚽ DEPORTES",ESPN 3 SUR
+http://xpaneltv.com:8080/Alirf/78587421/52148
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" group-title="⚽ DEPORTES",ESPN PLUS SUR
+http://xpaneltv.com:8080/Alirf/78587421/52149
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS SUR" tvg-logo="https://i.pinimg.com/originals/fd/60/53/fd60533dfc6686dd40c650e836771231.png" group-title="⚽ DEPORTES",FOX SPORTS SUR
+http://xpaneltv.com:8080/Alirf/78587421/52150
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 SUR" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png" group-title="⚽ DEPORTES",FOX SPORTS 2 SUR
+http://xpaneltv.com:8080/Alirf/78587421/52151
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 SUR" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-3_m.png" group-title="⚽ DEPORTES",FOX SPORTS 3 SUR
+http://xpaneltv.com:8080/Alirf/78587421/52152
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="⚽ DEPORTES",TNT SPORTS
+http://xpaneltv.com:8080/Alirf/78587421/52156
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="⚽ DEPORTES",TNT SPORTS
+http://xpaneltv.com:8080/Alirf/78587421/51339
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://pbs.twimg.com/profile_images/693731557299720193/z0EeBAZE_400x400.png" group-title="⚽ DEPORTES",ESPN
+http://xpaneltv.com:8080/Alirf/78587421/49694
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://www.logolynx.com/images/logolynx/f6/f6fc6b0d8b876da9ab2ed9b72e3f7e06.png" group-title="⚽ DEPORTES",ESPN 2
+http://xpaneltv.com:8080/Alirf/78587421/49695
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/3e99c57a-516c-385d-9c22-2e40aebc7129.png" group-title="⚽ DEPORTES",ESPN 3
+http://xpaneltv.com:8080/Alirf/78587421/49696
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN +" tvg-logo="https://pbs.twimg.com/profile_images/693731557299720193/z0EeBAZE_400x400.png" group-title="⚽ DEPORTES",ESPN +
+http://xpaneltv.com:8080/Alirf/78587421/49698
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="https://i.pinimg.com/originals/fd/60/53/fd60533dfc6686dd40c650e836771231.png" group-title="⚽ DEPORTES",Fox Sports
+http://xpaneltv.com:8080/Alirf/78587421/49700
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 Sur" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png" group-title="⚽ DEPORTES",FOX SPORTS 2 Sur
+http://xpaneltv.com:8080/Alirf/78587421/49701
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png" group-title="⚽ DEPORTES",Fox Sports 2
+http://xpaneltv.com:8080/Alirf/78587421/49702
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3" tvg-logo="https://i.pinimg.com/originals/b3/08/8c/b3088cdf394935e26f9e9da5be7cd946.png" group-title="⚽ DEPORTES",Fox Sports 3
+http://xpaneltv.com:8080/Alirf/78587421/49703
+
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1600px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="⚽ DEPORTES",DIRECTV SPORTS
+http://xpaneltv.com:8080/Alirf/78587421/49705
+
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1600px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="⚽ DEPORTES",DIRECTV SPORTS 2
+http://xpaneltv.com:8080/Alirf/78587421/49709
+
+#EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="⚽ DEPORTES",TUDN
+http://xpaneltv.com:8080/Alirf/78587421/51251
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="https://pbs.twimg.com/profile_images/693731557299720193/z0EeBAZE_400x400.png" group-title="⚽ DEPORTES",ESPN HD
+http://xpaneltv.com:8080/Alirf/78587421/51324
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="https://www.logolynx.com/images/logolynx/f6/f6fc6b0d8b876da9ab2ed9b72e3f7e06.png" group-title="⚽ DEPORTES",ESPN 2 HD
+http://xpaneltv.com:8080/Alirf/78587421/51325
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/3e99c57a-516c-385d-9c22-2e40aebc7129.png" group-title="⚽ DEPORTES",ESPN 3 HD
+http://xpaneltv.com:8080/Alirf/78587421/51326
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN + HD" tvg-logo="https://pbs.twimg.com/profile_images/693731557299720193/z0EeBAZE_400x400.png" group-title="⚽ DEPORTES",ESPN + HD
+http://xpaneltv.com:8080/Alirf/78587421/51327
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT ꜱᴅ" tvg-logo="https://cdn.mitvstatic.com/channels/ar_tnt_s.png" group-title="⚽ DEPORTES",TNT ꜱᴅ
+http://xpaneltv.com:8080/Alirf/78587421/52128
+
 #EXTINF:-1 tvg-id="" tvg-name="CO: ESPN COLOMBIA" tvg-logo="" group-title="⚽ DEPORTES",ESPN COLOMBIA
 http://fortv.cc:8080/54514663/54514663/86765
 
