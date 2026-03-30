@@ -1,10 +1,11 @@
 #EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="⚽ DEPORTES",TYC SPORTS
+http://xpaneltv.com:8080/Alirf/78587421/52157
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="⚽ DEPORTES",TNT SPORTS
+http://xpaneltv.com:8080/Alirf/78587421/52156
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Premium SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="⚽ DEPORTES",ESPN Premium SD
 http://xpaneltv.com:8080/Alirf/78587421/175929
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN SUR" tvg-logo="https://pbs.twimg.com/profile_images/693731557299720193/z0EeBAZE_400x400.png" group-title="⚽ DEPORTES",ESPN SUR
-http://xpaneltv.com:8080/Alirf/78587421/52146
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SUR" tvg-logo="https://www.logolynx.com/images/logolynx/f6/f6fc6b0d8b876da9ab2ed9b72e3f7e06.png" group-title="⚽ DEPORTES",ESPN 2 SUR
 http://xpaneltv.com:8080/Alirf/78587421/52147
@@ -15,6 +16,12 @@ http://xpaneltv.com:8080/Alirf/78587421/52148
 #EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" group-title="⚽ DEPORTES",ESPN PLUS SUR
 http://xpaneltv.com:8080/Alirf/78587421/52149
 
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1600px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="⚽ DEPORTES",DIRECTV SPORTS
+http://xpaneltv.com:8080/Alirf/78587421/49705
+
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1600px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="⚽ DEPORTES",DIRECTV SPORTS 2
+http://xpaneltv.com:8080/Alirf/78587421/49709
+
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS SUR" tvg-logo="https://i.pinimg.com/originals/fd/60/53/fd60533dfc6686dd40c650e836771231.png" group-title="⚽ DEPORTES",FOX SPORTS SUR
 http://xpaneltv.com:8080/Alirf/78587421/52150
 
@@ -23,12 +30,6 @@ http://xpaneltv.com:8080/Alirf/78587421/52151
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 SUR" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-3_m.png" group-title="⚽ DEPORTES",FOX SPORTS 3 SUR
 http://xpaneltv.com:8080/Alirf/78587421/52152
-
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="⚽ DEPORTES",TNT SPORTS
-http://xpaneltv.com:8080/Alirf/78587421/52156
-
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="⚽ DEPORTES",TNT SPORTS
-http://xpaneltv.com:8080/Alirf/78587421/51339
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://pbs.twimg.com/profile_images/693731557299720193/z0EeBAZE_400x400.png" group-title="⚽ DEPORTES",ESPN
 http://xpaneltv.com:8080/Alirf/78587421/49694
@@ -53,12 +54,6 @@ http://xpaneltv.com:8080/Alirf/78587421/49702
 
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3" tvg-logo="https://i.pinimg.com/originals/b3/08/8c/b3088cdf394935e26f9e9da5be7cd946.png" group-title="⚽ DEPORTES",Fox Sports 3
 http://xpaneltv.com:8080/Alirf/78587421/49703
-
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1600px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="⚽ DEPORTES",DIRECTV SPORTS
-http://xpaneltv.com:8080/Alirf/78587421/49705
-
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1600px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="⚽ DEPORTES",DIRECTV SPORTS 2
-http://xpaneltv.com:8080/Alirf/78587421/49709
 
 #EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="⚽ DEPORTES",TUDN
 http://xpaneltv.com:8080/Alirf/78587421/51251
@@ -170,9 +165,6 @@ https://jmp2.uk/stvp-ES500002NY
 #EXTINF:-1 tvg-id="ES1700003C6" tvg-name="Coreano by CJ ENM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700003C6_20250826T004843SQUARE.png" group-title="CINE" , Coreano by CJ ENM
 https://jmp2.uk/stvp-ES1700003C6
 
-#EXTINF:-1 tvg-id="ESBC1700001QI" tvg-name="Vive Kanal D Drama" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700001QI_20241022T051151SQUARE.png" group-title="CINE" , Vive Kanal D Drama
-https://jmp2.uk/stvp-ESBC1700001QI
-
 #EXTINF:-1 tvg-id="ESBC2700002LO" tvg-name="Grjngo - Películas Del Oeste" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700002LO_20251028T011352SQUARE.png" group-title="CINE" , Grjngo - Películas Del Oeste
 https://jmp2.uk/stvp-ESBC2700002LO
 
@@ -214,6 +206,36 @@ https://live.obslivestream.com/viaaltomayomux/index.m3u8
 #EXTINF:-1 tvg-id="AsiriTV.pe" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="VARIOS",AsiriTV (Lima)
 https://video2.lhdserver.es/asiritv/live.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="VARIOS",Canal 2 TV Quellón
+http://unlimited1-us.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="GoldenLatinoamerica.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png" group-title="VARIOS",Golden Latinoamérica 
+https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ImagenUniversalTV.do" tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="VARIOS",Imagen Universal TV
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+
+#EXTINF:-1 tvg-id="LosSantosTV.cr" tvg-logo="https://i.imgur.com/5xw86wu.png" group-title="VARIOS",Los Santos TV
+https://lstv.duckdns.org:449/hls/lstv.m3u8
+
+#EXTINF:-1 tvg-id="NativaTVSatipo.pe" tvg-logo="https://i.imgur.com/ScCAgGB.png" group-title="VARIOS",Nativa TV (Satipo) 
+https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+
+#EXTINF:-1 tvg-id="Telecosta.gt" tvg-logo="https://www.telecostaescuintla.com/gallery_gen/f57408fa00aca6d969248be4b56b48e6.png" group-title="VARIOS",Telecosta
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_0z15g4--HI9hBbGX_iivyOLyqf2oNi0Epg&s" group-title="VARIOS",EnerGeek FAN
+https://backend.energeek.cl/webtv/egfanweb/tracks-v1a1/mono.ts.m3u8?token=D3m0M3UCLWeb
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="VARIOS",Extrema TV 
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CaracolaTV.cl" tvg-logo="https://i.imgur.com/QGvfqug.png" group-title="VARIOS",Caracola TV (Peñalolén) 
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://microvision.com.do/wp-content/uploads/Microvision_567-150.png" group-title="VARIOS", TELEUNION
+http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
+
 #EXTINF:-1 tvg-id="VoiceOverRadioTV.cr" tvg-logo="https://i.imgur.com/HzGs1Eh.png" group-title="VARIOS",VoiceOver Radio TV 
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
 
@@ -229,17 +251,11 @@ http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
 #EXTINF:-1 tvg-id="AtacamaTV.cl" tvg-logo="https://i.imgur.com/GG8y4A9.png" group-title="VARIOS",Atacama TV (Copiapó) 
 https://v2.tustreaming.cl/atacamatv/index.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="VARIOS",Canal 2 TV Quellón
-http://unlimited1-us.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8
-
 #EXTINF:-1 tvg-id="CanalVisionDorada.co" tvg-logo="https://i.imgur.com/TerY4iM.png" group-title="VARIOS",Canal Visión Dorada 
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
 #EXTINF:-1 tvg-id="UCV3TV.cl" tvg-logo="https://i.imgur.com/evLTaDq.png" group-title="VARIOS",UCV3 TV 
 http://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://microvision.com.do/wp-content/uploads/Microvision_567-150.png" group-title="VARIOS", TELEUNION
-http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MegaVisionTV.do" tvg-logo="https://i.imgur.com/u5ECnZd.png" group-title="VARIOS",Megavisión
 http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
@@ -280,29 +296,11 @@ https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Millenium109FM.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sfNL6Bv.png" group-title="VARIOS",Millenium 109 FM (Lamas) 
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 
-#EXTINF:-1 tvg-id="GoldenLatinoamerica.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png" group-title="VARIOS",Golden Latinoamérica 
-https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RSelvaTV" tvg-logo="https://radioselvatv.pe/wp-content/uploads/2020/12/LOGO-web.png" group-title="VARIOS",RSelvaTV (Tarapoto) 
-https://live.obslivestream.com/selvatv/index.m3u8
-
 #EXTINF:-1 tvg-id="AysenTV.cl" tvg-logo="https://i.imgur.com/DmdBf9S.png" group-title="VARIOS",Aysen TV
 http://v1.tustreaming.cl/aysentv/index.m3u8
 
-#EXTINF:-1 tvg-id="ImagenUniversalTV.do" tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="VARIOS",Imagen Universal TV
-https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-
-#EXTINF:-1 tvg-id="LosSantosTV.cr" tvg-logo="https://i.imgur.com/5xw86wu.png" group-title="VARIOS",Los Santos TV
-https://lstv.duckdns.org:449/hls/lstv.m3u8
-
-#EXTINF:-1 tvg-id="NativaTVSatipo.pe" tvg-logo="https://i.imgur.com/ScCAgGB.png" group-title="VARIOS",Nativa TV (Satipo) 
-https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
-
 #EXTINF:-1 tvg-id="RomanaTVCanal42.do" tvg-logo="https://i.imgur.com/EXnsmhx.png" group-title="VARIOS",Romana TV Canal 42
 https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
-
-#EXTINF:-1 tvg-id="Telecosta.gt" tvg-logo="https://www.telecostaescuintla.com/gallery_gen/f57408fa00aca6d969248be4b56b48e6.png" group-title="VARIOS",Telecosta
-https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
 #EXTINF:-1 tvg-id="UranioTV.pe" tvg-logo="https://i.imgur.com/EeNpfIr.png" group-title="VARIOS",Uranio TV (Yurimaguas) 
 https://live.obslivestream.com/uraniotv/index.m3u8
@@ -310,20 +308,11 @@ https://live.obslivestream.com/uraniotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/968_Contivision_Musica.png" group-title="VARIOS", Contivision Musica
 https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_0z15g4--HI9hBbGX_iivyOLyqf2oNi0Epg&s" group-title="VARIOS",EnerGeek FAN
-https://backend.energeek.cl/webtv/egfanweb/tracks-v1a1/mono.ts.m3u8?token=D3m0M3UCLWeb
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="VARIOS",Extrema TV 
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
 #EXTINF:-1 tvg-id="SolidariaTV.es" tvg-logo="https://i.imgur.com/Bgm2iZY.png" group-title="VARIOS",Solidaria TV 
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 
-#EXTINF:-1 tvg-id="MaticesTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/aldiaconmatices/picture?width=320&height=320" group-title="VARIOS",MaticesTV (Cañete) 
-http://v4.tustreaming.cl/matices/index.m3u8
-
-#EXTINF:-1 tvg-id="CaracolaTV.cl" tvg-logo="https://i.imgur.com/QGvfqug.png" group-title="VARIOS",Caracola TV (Peñalolén) 
-https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RSelvaTV" tvg-logo="https://radioselvatv.pe/wp-content/uploads/2020/12/LOGO-web.png" group-title="VARIOS",RSelvaTV (Tarapoto) 
+https://live.obslivestream.com/selvatv/index.m3u8
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
@@ -342,9 +331,6 @@ http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/25fDFDNy/neotv.png" group-title="VARIOS", NEO TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-id="CN3Pinamar.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="" group-title="VARIOS",CN3 Pinamar 
-https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Canal4Posadas.ar" tvg-logo="https://i.imgur.com/tElJr3e.png" group-title="VARIOS",Canal 4 Posadas 
 https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 
@@ -356,6 +342,8 @@ https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CosmosTV.ar" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="VARIOS",Cosmos TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 tvg-id="CN3Pinamar.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="" group-title="VARIOS",CN3 Pinamar 
+https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
