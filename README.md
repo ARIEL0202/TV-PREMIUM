@@ -1,5 +1,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="⚽ DEPORTES",TYC SPORTS
-http://xpaneltv.com:8080/Alirf/78587421/52157
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="⚽ DEPORTES",ESPN Premium SD
+http://xpaneltv.com:8080/Alirf/78587421/175929
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN SUR" tvg-logo="https://pbs.twimg.com/profile_images/693731557299720193/z0EeBAZE_400x400.png" group-title="⚽ DEPORTES",ESPN SUR
 http://xpaneltv.com:8080/Alirf/78587421/52146
