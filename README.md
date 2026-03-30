@@ -445,9 +445,6 @@ https://bonappetit-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CookingPanda.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Z6pDpzl.png" group-title="CULT",Cooking Panda 
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULT",Tastemade International
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULT",Waterbear
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungse/playlist.m3u8
 
@@ -479,11 +476,6 @@ http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI NEWS 24" tvg-logo="" group-title="ITALY ",IT: RAI NEWS 24
-http://fortv.cc:8080/54514663/54514663/212913
-
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 1" tvg-logo="" group-title="ITALY ",IT: RAI 1
-http://fortv.cc:8080/54514663/54514663/212895
 #EXTINF:-1 tvg-id="" tvg-name="IT: RAI 2" tvg-logo="" group-title="ITALY ",IT: RAI 2
 http://fortv.cc:8080/54514663/54514663/212896
 #EXTINF:-1 tvg-id="" tvg-name="RAI 3" tvg-logo="" group-title="ITALY", RAI 3
@@ -501,12 +493,6 @@ http://fortv.cc:8080/54514663/54514663/212902
 http://fortv.cc:8080/54514663/54514663/212903
 #EXTINF:-1 tvg-id="" tvg-name="IT: MEDIASET ITALIA 2" tvg-logo="" group-title="ITALY ",IT: MEDIASET ITALIA 2
 http://fortv.cc:8080/54514663/54514663/212907
-#EXTINF:-1 tvg-id="" tvg-name="IT: LA 5" tvg-logo="" group-title="ITALY ",IT: LA 5
-http://fortv.cc:8080/54514663/54514663/212911
-#EXTINF:-1 tvg-id="" tvg-name="IT: RETE 4" tvg-logo="" group-title="ITALY ",IT: RETE 4
-http://fortv.cc:8080/54514663/54514663/212920
-#EXTINF:-1 tvg-id="" tvg-name="IT: SUPER!" tvg-logo="" group-title="ITALY ",IT: SUPER!
-http://fortv.cc:8080/54514663/54514663/212931
 
 #EXTINF:-1 tvg-id="" tvg-name="IT: FOCUS" tvg-logo="" group-title="ITALY ",IT: FOCUS
 http://fortv.cc:8080/54514663/54514663/212941
@@ -526,31 +512,39 @@ https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playli
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ITALY",CGTV
 https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI NEWS 24" tvg-logo="" group-title="ITALY ",IT: RAI NEWS 24
+http://fortv.cc:8080/54514663/54514663/212913
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 1" tvg-logo="" group-title="ITALY ",IT: RAI 1
+http://fortv.cc:8080/54514663/54514663/212895
+#EXTINF:-1 tvg-id="" tvg-name="IT: LA 5" tvg-logo="" group-title="ITALY ",IT: LA 5
+http://fortv.cc:8080/54514663/54514663/212911
+#EXTINF:-1 tvg-id="" tvg-name="IT: RETE 4" tvg-logo="" group-title="ITALY ",IT: RETE 4
+http://fortv.cc:8080/54514663/54514663/212920
+#EXTINF:-1 tvg-id="" tvg-name="IT: SUPER!" tvg-logo="" group-title="ITALY ",IT: SUPER!
+http://fortv.cc:8080/54514663/54514663/212931
+
 ---------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="Canal7Jujuy.ar" tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="Argentina",Canal 7 (Jujuy)
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TN NOTICIAS" tvg-logo="" group-title="Argentina",ARG: TN NOTICIAS
-http://fortv.cc:8080/54514663/54514663/164873
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: EL NUEVE HD" tvg-logo="" group-title="Argentina",ARG: EL NUEVE HD
-http://fortv.cc:8080/54514663/54514663/164869
-
 #EXTINF:-1 tvg-id="" tvg-name="ARG: AMERICA TV HD" tvg-logo="" group-title="Argentina",ARG: AMERICA TV HD
 http://fortv.cc:8080/54514663/54514663/164881
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CRONICA HD" tvg-logo="" group-title="Argentina",ARG: CRONICA HD
-http://fortv.cc:8080/54514663/54514663/164875
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: INFORMACION PERIODISTICA HD" tvg-logo="" group-title="Argentina",ARG: INFORMACION PERIODISTICA HD
-http://fortv.cc:8080/54514663/54514663/164879
 
 #EXTINF:-1 tvg-id="Canal22.ar" tvg-logo="https://canal22web.com/wp-content/uploads/2020/09/80.jpg" group-title="Argentina",Canal 22
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3299-800x450-FFFFFF.jpg" group-title="Argentina",CIUDAD MAGICA
 https://tuvideoonline.com.ar:3145/live/grupocitylive.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TN NOTICIAS" tvg-logo="" group-title="Argentina",ARG: TN NOTICIAS
+http://fortv.cc:8080/54514663/54514663/164873
+#EXTINF:-1 tvg-id="" tvg-name="ARG: EL NUEVE HD" tvg-logo="" group-title="Argentina",ARG: EL NUEVE HD
+http://fortv.cc:8080/54514663/54514663/164869
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CRONICA HD" tvg-logo="" group-title="Argentina",ARG: CRONICA HD
+http://fortv.cc:8080/54514663/54514663/164875
+#EXTINF:-1 tvg-id="" tvg-name="ARG: INFORMACION PERIODISTICA HD" tvg-logo="" group-title="Argentina",ARG: INFORMACION PERIODISTICA HD
+http://fortv.cc:8080/54514663/54514663/164879
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -668,9 +662,6 @@ http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TMA.gp" tvg-logo="https://i.imgur.com/1iOAl2j.png" group-title="MUSIC",TMA 
 http://hls.tmacaraibes.com/live/index.m3u8
-
-#EXTINF:-1 tvg-id="30AMusic.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="MUSIC",30A Music 
-https://30a-tv.com/music.m3u8
 
 #EXTINF:-1 tvg-id="ArabicaTV.lb" tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="MUSIC",Arabica TV 
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
