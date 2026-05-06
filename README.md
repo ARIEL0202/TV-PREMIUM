@@ -194,6 +194,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/pla
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_0z15g4--HI9hBbGX_iivyOLyqf2oNi0Epg&s" group-title="VARIOS",EnerGeek FAN
+https://backend.energeek.cl/webtv/egfanweb/tracks-v1a1/mono.ts.m3u8?token=D3m0M3UCLWeb
+
 #EXTINF:-1 tvg-id="CaracolaTV.cl" tvg-logo="https://i.imgur.com/QGvfqug.png" group-title="VARIOS",Caracola TV (Peñalolén) 
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 
@@ -202,6 +205,27 @@ https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="VARIOS",Canal 2 TV Quellón
 http://unlimited1-us.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="CRTelevisionMoyobamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/crtvmoyobamba/picture?width=320&height=320" group-title="VARIOS",CR Television (Moyobamba) 
+https://live.obslivestream.com/crtvmux/index.m3u8
+
+#EXTINF:-1 tvg-id="AtacamaTV.cl" tvg-logo="https://i.imgur.com/GG8y4A9.png" group-title="VARIOS",Atacama TV (Copiapó) 
+https://v2.tustreaming.cl/atacamatv/index.m3u8
+
+#EXTINF:-1 tvg-id="Millenium109FM.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sfNL6Bv.png" group-title="VARIOS",Millenium 109 FM (Lamas) 
+https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
+
+#EXTINF:-1 tvg-id="ViaAltomayo.pe" tvg-logo="https://i.imgur.com/Yr7d8rg.png" group-title="VARIOS",Vía Altomayo 
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
+
+#EXTINF:-1 tvg-id="AsiriTV.pe" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="VARIOS",AsiriTV (Lima)
+https://video2.lhdserver.es/asiritv/live.m3u8
+
+#EXTINF:-1 tvg-id="TopTV.pe" tvg-logo="https://i.imgur.com/N5auYKR.png" group-title="VARIOS",Top FM TV (Atalaya) 
+https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIOS", AZTECA 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1 tvg-id="ImagenUniversalTV.do" tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="VARIOS",Imagen Universal TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
@@ -215,8 +239,8 @@ https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 #EXTINF:-1 tvg-id="Telecosta.gt" tvg-logo="https://www.telecostaescuintla.com/gallery_gen/f57408fa00aca6d969248be4b56b48e6.png" group-title="VARIOS",Telecosta
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_0z15g4--HI9hBbGX_iivyOLyqf2oNi0Epg&s" group-title="VARIOS",EnerGeek FAN
-https://backend.energeek.cl/webtv/egfanweb/tracks-v1a1/mono.ts.m3u8?token=D3m0M3UCLWeb
+#EXTINF:-1 tvg-id="TN8.ni" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Tn8_logotipo_2021.png" group-title="VARIOS",Telenica Canal 8 (tn8)
+https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="VARIOS",Extrema TV 
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -230,14 +254,8 @@ https://cloudvideo.servers10.com:8081/8198/index.m3u8
 #EXTINF:-1 tvg-id="Canal2SanAntonio.cl" tvg-logo="https://i.imgur.com/eLres7d.png" group-title="VARIOS",Canal 2 (San Antonio)
 https://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CRTelevisionMoyobamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/crtvmoyobamba/picture?width=320&height=320" group-title="VARIOS",CR Television (Moyobamba) 
-https://live.obslivestream.com/crtvmux/index.m3u8
-
 #EXTINF:-1 tvg-id="TeleAragua.ve" tvg-logo="https://i.imgur.com/jPzcb2S.png" group-title="VARIOS",TeleAragua 
 http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
-
-#EXTINF:-1 tvg-id="AtacamaTV.cl" tvg-logo="https://i.imgur.com/GG8y4A9.png" group-title="VARIOS",Atacama TV (Copiapó) 
-https://v2.tustreaming.cl/atacamatv/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalVisionDorada.co" tvg-logo="https://i.imgur.com/TerY4iM.png" group-title="VARIOS",Canal Visión Dorada 
 https://movil.ejeserver.com/live/visiondorada.m3u8
@@ -251,20 +269,11 @@ http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
 #EXTINF:-1 tvg-id="Nortevision.es" tvg-logo="https://i.imgur.com/C5SYw7B.png" group-title="VARIOS",NORTEvisión 
 http://amaru.dyndns.org:8870/0.m3u8
 
-#EXTINF:-1 tvg-id="TopTV.pe" tvg-logo="https://i.imgur.com/N5auYKR.png" group-title="VARIOS",Top FM TV (Atalaya) 
-https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="VARIOS", AZTECA 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="VARIOS", A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo Puerto Rico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png" group-title="VARIOS",Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
-#EXTINF:-1 tvg-id="TN8.ni" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Tn8_logotipo_2021.png" group-title="VARIOS",Telenica Canal 8 (tn8)
-https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WTVCanal20.ni" tvg-logo="https://i.imgur.com/jMw3fS3.png" group-title="VARIOS",WTV Canal 20 
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
@@ -278,11 +287,11 @@ https://live.obslivestream.com/telecolormux/index.m3u8
 #EXTINF:-1 tvg-id="CNCCajamarca.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/l9OJjoT.png" group-title="VARIOS",CNC (Cajamarca) 
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
 
+#EXTINF:-1 tvg-id="PopularTVCantabria.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hwlTrtF.png" group-title="VARIOS",Popular TV Cantabria
+https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
+
 #EXTINF:-1 tvg-id="ITVPatagonia.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9sKGsmt.png" group-title="VARIOS",ITV Patagonia 
 https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Millenium109FM.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sfNL6Bv.png" group-title="VARIOS",Millenium 109 FM (Lamas) 
-https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 
 #EXTINF:-1 tvg-id="AysenTV.cl" tvg-logo="https://i.imgur.com/DmdBf9S.png" group-title="VARIOS",Aysen TV
 http://v1.tustreaming.cl/aysentv/index.m3u8
@@ -302,12 +311,6 @@ http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 #EXTINF:-1 tvg-id="NicoyaTV.cr" tvg-logo="https://i.imgur.com/UlOap5t.png" group-title="VARIOS",Nicoya TV 
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ViaAltomayo.pe" tvg-logo="https://i.imgur.com/Yr7d8rg.png" group-title="VARIOS",Vía Altomayo 
-https://live.obslivestream.com/viaaltomayomux/index.m3u8
-
-#EXTINF:-1 tvg-id="AsiriTV.pe" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="VARIOS",AsiriTV (Lima)
-https://video2.lhdserver.es/asiritv/live.m3u8
-
 #EXTINF:-1 tvg-id="SolidariaTV.es" tvg-logo="https://i.imgur.com/Bgm2iZY.png" group-title="VARIOS",Solidaria TV 
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 
@@ -319,6 +322,12 @@ https://live.obslivestream.com/selvatv/index.m3u8
 #EXTINF:-1 tvg-id="Telecinco.ar" tvg-logo="https://i.imgur.com/ZDenyAE.png" group-title="VARIOS",TeleCinco Trelew 
 https://videohd.live:19360/8016/8016.m3u8
 
+#EXTINF:-1 tvg-id="CosmosTV.ar" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="VARIOS",Cosmos TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
+#EXTINF:-1 tvg-id="CN3Pinamar.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="" group-title="VARIOS",CN3 Pinamar 
+https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png" group-title="VARIOS", CANAL 34 SAN JUAN
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
@@ -327,9 +336,6 @@ https://stream.arcast.live/ahora/ahora/playlist.m3u8
  
 #EXTINF:-1 tvg-id="5TV Corrientes" tvg-name= "5TV Corrientes" tvg-logo = "http://vivotvhd.com/img/cha/948.gif" group-title = "VARIOS", 5TV Corrientes
 http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
-
-#EXTINF:-200 tvg-logo="https://i.postimg.cc/25fDFDNy/neotv.png" group-title="VARIOS", NEO TV
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-id="Canal4Posadas.ar" tvg-logo="https://i.imgur.com/tElJr3e.png" group-title="VARIOS",Canal 4 Posadas 
 https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
@@ -340,12 +346,13 @@ https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal22.ar" tvg-logo="https://canal22web.com/wp-content/uploads/2020/09/80.jpg" group-title="VARIOS",Canal 22
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CosmosTV.ar" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="VARIOS",Cosmos TV
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF:-1 tvg-id="CN3Pinamar.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="" group-title="VARIOS",CN3 Pinamar 
-https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+#EXTINF:-200 tvg-logo="https://i.postimg.cc/25fDFDNy/neotv.png" group-title="VARIOS", NEO TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 -----------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://mi-television.com/img/logo_2024.png" group-title="24/7",MI TV
+https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
 
 #EXTINF:-1 tvg-id="ES2800002MM" tvg-name="Mayday: Catástrofe Aérea" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800002MM_20251013T053451SQUARE.png" group-title="24/7" , Mayday: Catástrofe Aérea
 https://jmp2.uk/stvp-ES2800002MM
@@ -355,9 +362,6 @@ https://jmp2.uk/stvp-ES500005BP
 
 #EXTINF:-1 tvg-id="ESBA3300033PL" tvg-name="Encantador de Perros" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300033PL_20241022T050532SQUARE.png" group-title="24/7" , Encantador de Perros
 https://jmp2.uk/stvp-ESBA3300033PL
-
-#EXTINF:-1 tvg-id="ESBA3300029UG" tvg-name="El Comisario" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300029UG_20241022T051014SQUARE.png" group-title="24/7" , El Comisario
-https://jmp2.uk/stvp-ESBA3300029UG
 
 #EXTINF:-1 tvg-id="ES24000028L" tvg-name="Ice Pilots" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES24000028L_20251111T011935SQUARE.png" group-title="24/7" , Ice Pilots
 https://jmp2.uk/stvp-ES24000028L
@@ -371,17 +375,11 @@ https://jmp2.uk/stvp-ES2600001MC
 #EXTINF:-1 tvg-id="ES1600004JV" tvg-name="Todo Crimen" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600004JV_20250819T033248SQUARE.png" group-title="24/7" , Todo Crimen
 https://jmp2.uk/stvp-ES1600004JV
 
-#EXTINF:-1 tvg-logo="https://mi-television.com/img/logo_2024.png" group-title="24/7",MI TV
-https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
-
 #EXTINF:-1 tvg-id="ESBA3300028OE" tvg-name="iCarly" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300028OE_20241022T050631SQUARE.png" group-title="24/7" , iCarly
 https://jmp2.uk/stvp-ESBA3300028OE
 
 #EXTINF:-1 tvg-id="ESBD130000205" tvg-name="Pitufo TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20241022T050609SQUARE.png" group-title="24/7" , Pitufo TV
 https://jmp2.uk/stvp-ESBD130000205
-
-#EXTINF:-1 tvg-id="ESBD3200002V5" tvg-name="La Abeja Maya" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3200002V5_20250307T152147SQUARE.png" group-title="24/7" , La Abeja Maya
-https://jmp2.uk/stvp-ESBD3200002V5
 
 #EXTINF:-1 tvg-id="ESBA33000324U" tvg-name="Rugrats" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000324U_20241022T050615SQUARE.png" group-title="24/7" , Rugrats
 https://jmp2.uk/stvp-ESBA33000324U
@@ -413,6 +411,9 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-sam
 #EXTINF:-1 tvg-id="ESBC2700008SK" tvg-name="Just For Laughs" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20241022T051028SQUARE.png" group-title="24/7" , Just For Laughs
 https://jmp2.uk/stvp-ESBC2700008SK
 
+#EXTINF:-1 tvg-id="ESBD3200002V5" tvg-name="La Abeja Maya" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3200002V5_20250307T152147SQUARE.png" group-title="24/7" , La Abeja Maya
+https://jmp2.uk/stvp-ESBD3200002V5
+
 -----------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="Canal24Horas.es" tvg-logo="https://i.imgur.com/QYGrq71.png" group-title="CULT",Canal 24 Horas
@@ -429,9 +430,6 @@ https://jmp2.uk/stvp-ES1600003FF
 
 #EXTINF:-1 tvg-id="ESBC4700002TD" tvg-name="Love the Planet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700002TD_20250722T005644SQUARE.png" group-title="CULT" , Love the Planet
 https://jmp2.uk/stvp-ESBC4700002TD
-
-#EXTINF:-1 tvg-id="ESAJ3800007PC" tvg-name="Pluto TV Cocina" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800007PC_20241022T050753SQUARE.png" group-title="CULT" , Pluto TV Cocina
-https://jmp2.uk/stvp-ESAJ3800007PC
 
 #EXTINF:-1 tvg-id="ESBC27000040I" tvg-name="GoUSA TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000040I_20250610T010506SQUARE.png" group-title="CULT" , GoUSA TV
 https://jmp2.uk/stvp-ESBC27000040I
@@ -454,6 +452,9 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULT",POP TV 
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ESAJ3800007PC" tvg-name="Pluto TV Cocina" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800007PC_20241022T050753SQUARE.png" group-title="CULT" , Pluto TV Cocina
+https://jmp2.uk/stvp-ESAJ3800007PC
+
 -----------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="ESBC1700004PX" tvg-name="Trailers" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20250715T004332SQUARE.png" group-title="Entertainment" , Trailers
@@ -475,27 +476,6 @@ https://jmp2.uk/stvp-ES26000025M
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 
 -----------------------------------------------------------------------------------------------------------------------------------
-
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 2" tvg-logo="" group-title="ITALY ",IT: RAI 2
-http://fortv.cc:8080/54514663/54514663/212896
-#EXTINF:-1 tvg-id="" tvg-name="RAI 3" tvg-logo="" group-title="ITALY", RAI 3
-http://fortv.cc:8080/54514663/54514663/212934
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 3" tvg-logo="" group-title="ITALY ",IT: RAI 3
-http://fortv.cc:8080/54514663/54514663/212897
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 4" tvg-logo="" group-title="ITALY ",IT: RAI 4
-http://fortv.cc:8080/54514663/54514663/212898
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI ITALIA" tvg-logo="" group-title="ITALY ",IT: RAI ITALIA
-http://fortv.cc:8080/54514663/54514663/212900
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI MOVIE" tvg-logo="" group-title="ITALY ",IT: RAI MOVIE
-http://fortv.cc:8080/54514663/54514663/212902
-
-#EXTINF:-1 tvg-id="" tvg-name="IT: CANALE 5" tvg-logo="" group-title="ITALY ",IT: CANALE 5
-http://fortv.cc:8080/54514663/54514663/212903
-#EXTINF:-1 tvg-id="" tvg-name="IT: MEDIASET ITALIA 2" tvg-logo="" group-title="ITALY ",IT: MEDIASET ITALIA 2
-http://fortv.cc:8080/54514663/54514663/212907
-
-#EXTINF:-1 tvg-id="" tvg-name="IT: FOCUS" tvg-logo="" group-title="ITALY ",IT: FOCUS
-http://fortv.cc:8080/54514663/54514663/212941
 
 #EXTINF:-1 tvg-id="STEuropeChannel.it" tvg-logo="https://i.imgur.com/M5j7y2N.png" group-title="ITALY",ST Europe Channel 
 https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8
@@ -523,13 +503,31 @@ http://fortv.cc:8080/54514663/54514663/212920
 #EXTINF:-1 tvg-id="" tvg-name="IT: SUPER!" tvg-logo="" group-title="ITALY ",IT: SUPER!
 http://fortv.cc:8080/54514663/54514663/212931
 
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 2" tvg-logo="" group-title="ITALY ",IT: RAI 2
+http://fortv.cc:8080/54514663/54514663/212896
+#EXTINF:-1 tvg-id="" tvg-name="RAI 3" tvg-logo="" group-title="ITALY", RAI 3
+http://fortv.cc:8080/54514663/54514663/212934
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 3" tvg-logo="" group-title="ITALY ",IT: RAI 3
+http://fortv.cc:8080/54514663/54514663/212897
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 4" tvg-logo="" group-title="ITALY ",IT: RAI 4
+http://fortv.cc:8080/54514663/54514663/212898
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI ITALIA" tvg-logo="" group-title="ITALY ",IT: RAI ITALIA
+http://fortv.cc:8080/54514663/54514663/212900
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI MOVIE" tvg-logo="" group-title="ITALY ",IT: RAI MOVIE
+http://fortv.cc:8080/54514663/54514663/212902
+
+#EXTINF:-1 tvg-id="" tvg-name="IT: CANALE 5" tvg-logo="" group-title="ITALY ",IT: CANALE 5
+http://fortv.cc:8080/54514663/54514663/212903
+#EXTINF:-1 tvg-id="" tvg-name="IT: MEDIASET ITALIA 2" tvg-logo="" group-title="ITALY ",IT: MEDIASET ITALIA 2
+http://fortv.cc:8080/54514663/54514663/212907
+
+#EXTINF:-1 tvg-id="" tvg-name="IT: FOCUS" tvg-logo="" group-title="ITALY ",IT: FOCUS
+http://fortv.cc:8080/54514663/54514663/212941
+
 ---------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="Canal7Jujuy.ar" tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="Argentina",Canal 7 (Jujuy)
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: AMERICA TV HD" tvg-logo="" group-title="Argentina",ARG: AMERICA TV HD
-http://fortv.cc:8080/54514663/54514663/164881
 
 #EXTINF:-1 tvg-id="Canal22.ar" tvg-logo="https://canal22web.com/wp-content/uploads/2020/09/80.jpg" group-title="Argentina",Canal 22
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
@@ -545,20 +543,22 @@ http://fortv.cc:8080/54514663/54514663/164869
 http://fortv.cc:8080/54514663/54514663/164875
 #EXTINF:-1 tvg-id="" tvg-name="ARG: INFORMACION PERIODISTICA HD" tvg-logo="" group-title="Argentina",ARG: INFORMACION PERIODISTICA HD
 http://fortv.cc:8080/54514663/54514663/164879
+#EXTINF:-1 tvg-id="" tvg-name="ARG: AMERICA TV HD" tvg-logo="" group-title="Argentina",ARG: AMERICA TV HD
+http://fortv.cc:8080/54514663/54514663/164881
 
 --------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="ESBD3000002GP" tvg-name="Canal Sur Andalucía" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20241022T050505SQUARE.png" group-title="ESPAÑA" , Canal Sur Andalucía
 https://jmp2.uk/stvp-ESBD3000002GP
 
-#EXTINF:-1 tvg-id="PopularTVCantabria.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hwlTrtF.png" group-title="ESPAÑA",Popular TV Cantabria
-https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
-
 #EXTINF:-1 tvg-id="ES400002P5" tvg-name="Cuéntame cómo pasó" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES400002P5_20251013T053438SQUARE.png" group-title="ESPAÑA" , Cuéntame cómo pasó
 https://jmp2.uk/stvp-ES400002P5
 
 #EXTINF:-1 tvg-id="ESAJ3800005C5" tvg-name="Comedia Made in Spain" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20241022T050710SQUARE.png" group-title="ESPAÑA" , Comedia Made in Spain
 https://jmp2.uk/stvp-ESAJ3800005C5
+
+#EXTINF:-1 tvg-id="ESBA3300029UG" tvg-name="El Comisario" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300029UG_20241022T051014SQUARE.png" group-title="ESPAÑA" , El Comisario
+https://jmp2.uk/stvp-ESBA3300029UG
 
 --------------------------------------------------------------------------------------------------------------------------------
 
