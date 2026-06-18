@@ -1,3 +1,54 @@
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FJBL6zI.png" group-title="⚽ DEPORTES",dep 1https://ww2.sporttsonline.click/channels/pt/sporttv2.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FJBL6zI.png" group-title="⚽ DEPORTES",dep https://ww2.sporttsonline.click/channels/pt/sporttv4.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FJBL6zI.png" group-title="⚽ DEPORTES",dep https://ww2.sporttsonline.click/channels/hd/hd1.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FJBL6zI.png" group-title="⚽ DEPORTES",dep https://ww2.sporttsonline.click/channels/hd/hd2.php
+20:00   Qatar x Switzerland | https://ww2.sporttsonline.click/channels/hd/hd5.php
+20:00   Qatar x Switzerland | https://ww2.sporttsonline.click/channels/hd/hd3.php
+20:00   Qatar x Switzerland | https://ww2.sporttsonline.click/channels/hd/hd4.php
+20:00   Qatar x Switzerland | https://ww2.sporttsonline.click/channels/hd/hd6.php
+20:00   Qatar x Switzerland | https://ww2.sporttsonline.click/channels/hd/hd8.php
+20:00   Qatar x Switzerland | https://ww2.sporttsonline.click/channels/hd/hd9.php
+20:00   Qatar x Switzerland | https://ww2.sporttsonline.click/channels/hd/hd10.php
+20:00   Qatar x Switzerland | https://ww2.sporttsonline.click/channels/hd/hd11.php
+20:00   Qatar x Switzerland | https://ww2.sporttsonline.click/channels/pt/sporttv5.php
+20:00   Qatar x Switzerland | https://ww2.sporttsonline.click/channels/bra/br2.php
+20:00   Qatar x Switzerland | https://ww2.sporttsonline.click/channels/bra/br3.php
+23:00   Brazil x Morocco | https://ww2.sporttsonline.click/channels/hd/hd1.php
+23:00   Brazil x Morocco | https://ww2.sporttsonline.click/channels/hd/hd2.php
+23:00   Brazil x Morocco | https://ww2.sporttsonline.click/channels/hd/hd5.php
+23:00   Brazil x Morocco | https://ww2.sporttsonline.click/channels/hd/hd3.php
+23:00   Brazil x Morocco | https://ww2.sporttsonline.click/channels/hd/hd4.php
+23:00   Brazil x Morocco | https://ww2.sporttsonline.click/channels/hd/hd6.php
+23:00   Brazil x Morocco | https://ww2.sporttsonline.click/channels/hd/hd7.php
+23:00   Brazil x Morocco | https://ww2.sporttsonline.click/channels/hd/hd8.php
+23:00   Brazil x Morocco | https://ww2.sporttsonline.click/channels/hd/hd9.php
+23:00   Brazil x Morocco | https://ww2.sporttsonline.click/channels/hd/hd10.php
+23:00   Brazil x Morocco | https://ww2.sporttsonline.click/channels/hd/hd11.php
+23:00   Brazil x Morocco | https://ww2.sporttsonline.click/channels/pt/sporttv5.php
+23:00   Brazil x Morocco | https://ww2.sporttsonline.click/channels/pt/sporttv1.php
+23:00   Brazil x Morocco | https://ww2.sporttsonline.click/channels/bra/br1.php
+23:00   Brazil x Morocco | https://ww2.sporttsonline.click/channels/bra/br4.php
+23:00   Brazil x Morocco | https://ww2.sporttsonline.click/channels/bra/br5.php
+02:00   Haiti x Scotland | https://ww2.sporttsonline.click/channels/hd/hd1.php
+02:00   Haiti x Scotland | https://ww2.sporttsonline.click/channels/hd/hd5.php
+02:00   Haiti x Scotland | https://ww2.sporttsonline.click/channels/hd/hd2.php
+02:00   Haiti x Scotland | https://ww2.sporttsonline.click/channels/hd/hd3.php
+02:00   Haiti x Scotland | https://ww2.sporttsonline.click/channels/hd/hd4.php
+02:00   Haiti x Scotland | https://ww2.sporttsonline.click/channels/hd/hd6.php
+02:00   Haiti x Scotland | https://ww2.sporttsonline.click/channels/hd/hd7.php
+02:00   Haiti x Scotland | https://ww2.sporttsonline.click/channels/hd/hd8.php
+02:00   Haiti x Scotland | https://ww2.sporttsonline.click/channels/hd/hd9.php
+02:00   Haiti x Scotland | https://ww2.sporttsonline.click/channels/hd/hd10.php
+02:00   Haiti x Scotland | https://ww2.sporttsonline.click/channels/hd/hd11.php
+02:00   Haiti x Scotland | https://ww2.sporttsonline.click/channels/pt/sporttv5.php
+02:00   Haiti x Scotland | https://ww2.sporttsonline.click/channels/bra/br2.php
+02:00   Haiti x Scotland | https://ww2.sporttsonline.click/channels/bra/br3.php
+05:00   Australia x Turkey | https://ww2.sporttsonline.click/channels/hd/hd1.php
+05:00   Australia x Turkey | https://ww2.sporttsonline.click/channels/hd/hd2.php
+05:00   Australia x Turkey | https://ww2.sporttsonline.click/channels/hd/hd5.php
+05:00   Australia x Turkey | https://ww2.sporttsonline.click/channels/hd/hd3.php
+05:00   Australia x Turkey | https://ww2.sporttsonline.click/channels/hd/hd4.php
+
 #EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="US Latin TUDN (A)" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2019/05/TUDN.png" group-title="⚽ DEPORTES",TUDN
 http://fortv.cc:8080/54514663/54514663/11885
 
