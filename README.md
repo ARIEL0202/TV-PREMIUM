@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FJBL6zI.png" group-title="⚽ DEPORTES",dep 1https://ww2.sporttsonline.click/channels/pt/sporttv2.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FJBL6zI.png" group-title="⚽ DEPORTES",dep https://ww2.sporttsonline.click/channels/pt/sporttv2.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FJBL6zI.png" group-title="⚽ DEPORTES",dep https://ww2.sporttsonline.click/channels/pt/sporttv4.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FJBL6zI.png" group-title="⚽ DEPORTES",dep https://ww2.sporttsonline.click/channels/hd/hd1.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FJBL6zI.png" group-title="⚽ DEPORTES",dep https://ww2.sporttsonline.click/channels/hd/hd2.php
