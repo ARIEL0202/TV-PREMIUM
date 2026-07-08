@@ -1,16 +1,16 @@
-#EXTINF:-1 tvg-id="TyCSports" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TyC_Sports_logo.svg" group-title="Deportes",TyC Sports HD
+#EXTINF:-1 tvg-id="TyCSports" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TyC_Sports_logo.svg" group-title="⚽ DEPORTES",TyC Sports HD
 http://190.7.19.197:232/play/a04w/index.m3u8
 
-#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/DSports_logo_2022.svg" group-title="Deportes",DSports (Opción 1)
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/DSports_logo_2022.svg" group-title="⚽ DEPORTES",DSports 
 http://190.108.83.69:8000/play/a05w/index.m3u8
 
-#EXTINF:-1 tvg-id="DeporTV" tvg-name="DeporTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Deportv.svg" group-title="Deportes",DeporTV
+#EXTINF:-1 tvg-id="DeporTV" tvg-name="DeporTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Deportv.svg" group-title="⚽ DEPORTES",DeporTV
 http://190.7.19.197:232/play/a05d/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/ESPN_logo.png" group-title="Deportes",ESPN 2 HD
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/ESPN_logo.png" group-title="⚽ DEPORTES",ESPN 2 HD
 http://190.7.19.197:232/play/a03m/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/FOX_Sports_2022.svg" group-title="Deportes",Fox Sports 2 HD
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/FOX_Sports_2022.svg" group-title="⚽ DEPORTES",Fox Sports 2 HD
 http://190.7.19.197:232/play/a03p/index.m3u8
 
 #EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="US Latin TUDN (A)" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2019/05/TUDN.png" group-title="⚽ DEPORTES",TUDN
@@ -98,9 +98,6 @@ https://jmp2.uk/stvp-ES260001081
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2022/01/Canal-retro-plus-cine-en-vivo.jpg" group-title="RETRO",RETRO PLUS 
-https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w1351996930.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="SarapiquiTV.cr" tvg-logo="https://i.imgur.com/obTnd32.png" group-title="RETRO",STV
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 
@@ -145,6 +142,9 @@ https://jmp2.uk/stvp-ESBD130000205
 
 #EXTINF:-1 tvg-id="ESBA33000324U" tvg-name="Rugrats" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000324U_20241022T050615SQUARE.png" group-title="RETRO" , Rugrats
 https://jmp2.uk/stvp-ESBA33000324U
+
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2022/01/Canal-retro-plus-cine-en-vivo.jpg" group-title="RETRO",RETRO PLUS 
+https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w1351996930.m3u8?PlaylistM3UCL
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
