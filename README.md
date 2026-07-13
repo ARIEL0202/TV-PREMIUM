@@ -101,6 +101,9 @@ https://jmp2.uk/stvp-ES260001081
 #EXTINF:-1 tvg-id="SarapiquiTV.cr" tvg-logo="https://i.imgur.com/obTnd32.png" group-title="RETRO",STV
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TVCentroHD.hn" tvg-logo="https://i.imgur.com/bcfmqHb.png" group-title="RETRO",TV Centro 27.2 
+https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="RETRO",Canal 2 TV Quellón
 http://unlimited1-us.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8
 
@@ -122,7 +125,7 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1 tvg-id="Mijas340TV.es" tvg-logo="https://i.imgur.com/RH1zLLs.png" group-title="RETRO",Mijas 3.40TV
 https://streaming004.gestec-video.com/hls/MIJAS.m3u8
 
-#EXTINF:-1 tvg-id="TeleUno.cr" tvg-logo="https://i.imgur.com/eRwYxc2.png" group-title="RETRO,Tele Uno 
+#EXTINF:-124 tvg-logo="https://i.postimg.cc/63VSjvyk/teleuno.png" group-title="VARIOS", TELE UNO  
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VisionTV.gt" tvg-logo="https://i.imgur.com/OHFYPTW.png" group-title="RETRO",Visión TV 
@@ -131,8 +134,8 @@ https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-id="MiTV.py" tvg-logo="https://lh3.googleusercontent.com/-EvztcqftXgc/YH47C8J3ByI/AAAAAAABBxg/wV8hmM0M5MMPL9Im4r1eQRejLGb9wUIkQCK8BGAsYHg/s512/2021-04-19.png" group-title="RETRO",MiTV
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVCentroHD.hn" tvg-logo="https://i.imgur.com/bcfmqHb.png" group-title="RETRO",TV Centro 27.2 
-https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2022/01/Canal-retro-plus-cine-en-vivo.jpg" group-title="RETRO",RETRO PLUS 
+https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w1351996930.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="ES2200003DA" tvg-name="Runtime Clásicos" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2200003DA_20250916T003539SQUARE.png" group-title="RETRO" , Runtime Clásicos
 https://jmp2.uk/stvp-ES2200003DA
@@ -154,9 +157,6 @@ https://jmp2.uk/stvp-ESBD130000205
 
 #EXTINF:-1 tvg-id="ESBA33000324U" tvg-name="Rugrats" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000324U_20241022T050615SQUARE.png" group-title="RETRO" , Rugrats
 https://jmp2.uk/stvp-ESBA33000324U
-
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2022/01/Canal-retro-plus-cine-en-vivo.jpg" group-title="RETRO",RETRO PLUS 
-https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w1351996930.m3u8?PlaylistM3UCL
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
@@ -293,6 +293,9 @@ http://v1.tustreaming.cl/aysentv/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---4SA.png" group-title="VARIOS",TIV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0173
+
+#EXTINF:-1 tvg-id="TVinet.cl" tvg-logo="https://i.imgur.com/KisHIpA.png" group-title="VARIOS",T-Vinet
+https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
@@ -663,6 +666,15 @@ https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RCGTV.mx" tvg-logo="https://i.imgur.com/kYtAR26.png" group-title="MEXICO",RCG TV 
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yr9M9Kj.png" group-title="MEXICO",Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yr9M9Kj.png" group-title="MEXICO",Multimedios Guadalajara
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yr9M9Kj.png" group-title="MEXICO",Multimedios Laguna
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?fluxustv.m3u8
+
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="Now70s.uk" tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="MUSIC",Now 70's
@@ -732,11 +744,14 @@ http://hls.tmacaraibes.com/live/index.m3u8
 #EXTINF:-1 tvg-id="ArabicaTV.lb" tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="MUSIC",Arabica TV 
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVinet.cl" tvg-logo="https://i.imgur.com/KisHIpA.png" group-title="MUSIC",T-Vinet
-https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="NRG91.gr" tvg-logo="https://i.imgur.com/1Zl1OJ5.png" group-title="MUSIC",NRG 91 
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+
+#EXTINF:-1 tvg-id="V2BEAT.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/O341rZF.png" group-title="MUSIC",V2BEAT
+https://abr.de1se01.v2beat.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TezaurTV.md" tvg-logo="https://i.imgur.com/eAagwLW.png" group-title="MUSIC",Tezaur TV 
+http://tezaur.mlbfan.org/tezaur/index.m3u8
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -862,9 +877,6 @@ https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUNDO",Radio A1 
 https://www.a1mediagroep.nl/hls/a1tv.m3u8
 
-#EXTINF:-1 tvg-id="RadioTVNeuquen.ar" tvg-logo="https://i.imgur.com/HXBLozl.png" group-title="MUNDO",Radio TV Neuquen 
-http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RedPlus.co" tvg-logo="https://i.imgur.com/kuqkTMC.png" group-title="MUNDO",Red+ 
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 
@@ -894,3 +906,70 @@ http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RockAntenne.de" tvg-logo="https://i.imgur.com/nvFXRjH.png" group-title="MUNDO",Rock Antenne 
 https://stream.rockantenne.de/rockantenne/stream/mp3
+---
+
+#EXTINF:-1 tvg-id="YoungHollywood.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="Entertainment",Young Hollywood (720p)
+https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-logo="https://i.imgur.com/YajfXJ1.png" group-title="Documentary",Beach TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CiudadesdelOcioTV.es" tvg-logo="https://i.imgur.com/CTQgqsM.png" group-title="Entertainment",Ciudades Del Ocio TV 
+https://cloudvideo.servers10.com:8081/8024/index.m3u8
+
+#EXTINF:-1 tvg-id="SafariTV.in" tvg-logo="https://i.imgur.com/dSOfYyh.png" group-title="Undefined",Safari TV 
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Sochi Live HD 
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleRadioNorte.do" tvg-logo="https://i.imgur.com/s43eFy0.png" group-title="Undefined",TeleRadioNorte 
+https://angelistic.live:3785/live/tvoficiallive.m3u8
+
+#EXTINF:-1 tvg-id="SchladmingDachsteinTV.at" tvg-logo="https://i.ibb.co/VjnzhMM/Logo-Schl-Dachstein-TV-HP-JPG.jpg" group-title="Travel",Schladming-Dachstein TV 
+https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tevex.cl" tvg-logo="https://i.imgur.com/FnInQRd.png" group-title="Business",Tevex 
+https://v4.tustreaming.cl/tevexinter/index.m3u8
+
+#EXTINF:-1 tvg-id="ThemaTelevision.cl" tvg-logo="https://www.thematelevision.cl/wp-content/uploads/2019/08/fffffffff.png" group-title="Undefined",Thema Televisión (La Serena) 
+https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVUCT.cl" tvg-logo="https://i.imgur.com/tpI0WQH.png" group-title="Undefined",TV UCT 
+https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UATV.cl" tvg-logo="https://i.imgur.com/BdZGS66.png" group-title="Undefined",Universidad Autónoma Temuco (UATV)
+https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UTV.cl" tvg-logo="https://i.imgur.com/ZJNSpfZ.png" group-title="Undefined",UTV 
+https://v2.tustreaming.cl/utv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",WATAN-E-MAA
+https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WattanTV.ps" tvg-logo="https://i.imgur.com/sf2A9vT.png" group-title="Undefined",Wattan TV 
+http://htvmada.mada.ps:8888/wattan/index.m3u8
+
+#EXTINF:-1 tvg-id="AntenaTV.mx" tvg-logo="https://i.imgur.com/1sAgSME.png" group-title="General",Antena TV 
+https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CaminoRealTV.do" tvg-logo="https://i.imgur.com/2GAEWhn.png" group-title="General",Camino Real TV 
+https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CampusTV.cl" tvg-logo="https://i.imgur.com/LvzLg33.png" group-title="Undefined",Campus TV (Talca) 
+https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RomanaTVCanal42.do" tvg-logo="https://i.imgur.com/EXnsmhx.png" group-title="Undefined",Romana TV Canal 42
+https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
+
+#EXTINF:-1 tvg-id="Catve2.br" tvg-country="BR" tvg-language="" tvg-logo="https://imgur.com/pJgILVg.png" group-title="Brazil",Catve2 
+https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIOS",CALI TV
+http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIOS",TV PINGUINO
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
+
+#EXTINF:-1 group-title="VARIOS",CANAL 8 CR
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
