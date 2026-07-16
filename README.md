@@ -475,6 +475,9 @@ https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 #EXTINF:-1 tvg-id="RTTRTrento.it" tvg-logo="https://i.imgur.com/6DyzN8M.png" group-title="ITALY",RTTR Trento 
 https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ITALY",Sportoutdoor.tv
+https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Radio51TV.it" tvg-logo="https://i.imgur.com/UupkBt6.png" group-title="ITALY",Radio 51 TV 
 http://178.32.140.155/canale51/canale51/playlist.m3u8
 
@@ -499,6 +502,9 @@ https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
 #EXTINF:-1 tvg-id="KissKissTV.it" tvg-logo="https://i.imgur.com/ja6c2YZ.png" group-title="ITALY",Kiss Kiss TV 
 https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Stereo5TV.it" tvg-logo="https://i.imgur.com/UKnLDAE.png" group-title="ITALY",Stereo 5 TV 
+https://stream1.aswifi.it/stereo5/live/index.m3u8
+
 #EXTINF:-1 tvg-id="RTL1025News.it" tvg-logo="https://i.imgur.com/5Sh1tWu.png" group-title="ITALY",RTL 102.5 News 
 https://streamcdnb2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 
@@ -518,6 +524,9 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Argentina",NET TV 
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SicardiTV.ar" tvg-logo="https://i.imgur.com/W2EUIL2.png" group-title="Argentina",Sicardi TV (720p)
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3299-800x450-FFFFFF.jpg" group-title="Argentina",CIUDAD MAGICA
 https://tuvideoonline.com.ar:3145/live/grupocitylive.m3u8
@@ -622,6 +631,9 @@ https://jmp2.uk/stvp-ESAJ3800005C5
 
 #EXTINF:-1 tvg-id="ESBA3300029UG" tvg-name="El Comisario" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300029UG_20241022T051014SQUARE.png" group-title="ESPAÑA" , El Comisario
 https://jmp2.uk/stvp-ESBA3300029UG
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPAÑA",Urola Telebista 
+https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PopularTVCantabria.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hwlTrtF.png" group-title="ESPAÑA",Popular TV Cantabria
 https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
@@ -961,9 +973,6 @@ http://138.117.4.70:8075/channel23/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUNDO",CineView
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="MUNDO",Esports Max 
-http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="GenerationsTV.fr" tvg-logo="https://i.imgur.com/NgBrDMe.png" group-title="MUNDO",Generations TV 
 https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 
@@ -987,9 +996,6 @@ https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="MUNDO",Platzi TV 
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
-
-#EXTINF:-1 tvg-id="PlayTV.gr" tvg-logo="https://i.imgur.com/JWFOYuD.png" group-title="MUNDO",Play TV 
-http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PowerTV.tr" tvg-logo="https://i.imgur.com/XSL1gd7.png" group-title="MUNDO",Power TV 
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
@@ -1172,3 +1178,12 @@ http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MielTV.pe" tvg-logo="https://i.imgur.com/dPSFrCs.png" group-title="Undefined",Miel TV (Satipo) 
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
+
+#EXTINF:-1 tvg-id="Teleislas.co" tvg-logo="https://i.imgur.com/aKHGRyk.png" group-title="Undefined",Teleislas (San Andrés) 
+https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UMAGTV2.cl" tvg-logo="https://i.imgur.com/e95CTkK.png" group-title="Undefined",UMAGTV 2 
+https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Uniteve.ar" tvg-logo="https://pbs.twimg.com/profile_images/720276300888453120/a_SDOmBc_400x400.jpg" group-title="Undefined",Uniteve
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
