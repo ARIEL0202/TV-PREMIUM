@@ -1,8 +1,11 @@
 #EXTINF:-1 tvg-id="SarapiquiTV.cr" tvg-logo="https://i.imgur.com/obTnd32.png" group-title="RETRO",STV
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVCentroHD.hn" tvg-logo="https://i.imgur.com/bcfmqHb.png" group-title="RETRO",TV Centro 27.2 
-https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
+#EXTINF:-124 tvg-logo="https://i.postimg.cc/63VSjvyk/teleuno.png" group-title="VARIOS", TELE UNO  
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mi-television.com/img/logo_2024.png" group-title="RETRO",MI TV
+https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="RETRO",Canal 2 TV Quellón
 http://unlimited1-us.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8
@@ -22,17 +25,14 @@ https://live.obslivestream.com/selvatv/index.m3u8
 #EXTINF:-1 tvg-id="Telecosta.gt" tvg-logo="https://www.telecostaescuintla.com/gallery_gen/f57408fa00aca6d969248be4b56b48e6.png" group-title="RETRO",Telecosta
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
-#EXTINF:-1 tvg-id="Mijas340TV.es" tvg-logo="https://i.imgur.com/RH1zLLs.png" group-title="RETRO",Mijas 3.40TV
-https://streaming004.gestec-video.com/hls/MIJAS.m3u8
+#EXTINF:-1 tvg-id="MiTV.py" tvg-logo="https://lh3.googleusercontent.com/-EvztcqftXgc/YH47C8J3ByI/AAAAAAABBxg/wV8hmM0M5MMPL9Im4r1eQRejLGb9wUIkQCK8BGAsYHg/s512/2021-04-19.png" group-title="RETRO",MiTV
+https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 
-#EXTINF:-124 tvg-logo="https://i.postimg.cc/63VSjvyk/teleuno.png" group-title="VARIOS", TELE UNO  
-http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCentroHD.hn" tvg-logo="https://i.imgur.com/bcfmqHb.png" group-title="RETRO",TV Centro 27.2 
+https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VisionTV.gt" tvg-logo="https://i.imgur.com/OHFYPTW.png" group-title="RETRO",Visión TV 
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
-
-#EXTINF:-1 tvg-id="MiTV.py" tvg-logo="https://lh3.googleusercontent.com/-EvztcqftXgc/YH47C8J3ByI/AAAAAAABBxg/wV8hmM0M5MMPL9Im4r1eQRejLGb9wUIkQCK8BGAsYHg/s512/2021-04-19.png" group-title="RETRO",MiTV
-https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2022/01/Canal-retro-plus-cine-en-vivo.jpg" group-title="RETRO",RETRO PLUS 
 https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w1351996930.m3u8?PlaylistM3UCL
@@ -42,9 +42,6 @@ https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.ts.m3u8?token=D3m0
 
 #EXTINF:-1 tvg-id="ES2200003DA" tvg-name="Runtime Clásicos" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2200003DA_20250916T003539SQUARE.png" group-title="RETRO" , Runtime Clásicos
 https://jmp2.uk/stvp-ES2200003DA
-
-#EXTINF:-1 tvg-logo="https://mi-television.com/img/logo_2024.png" group-title="RETRO",MI TV
-https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
 
 #EXTINF:-1 tvg-id="ESBC2700002LO" tvg-name="Grjngo - Películas Del Oeste" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700002LO_20251028T011352SQUARE.png" group-title="RETRO" , Grjngo - Películas Del Oeste
 https://jmp2.uk/stvp-ESBC2700002LO
@@ -183,6 +180,9 @@ https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ViaAltomayo.pe" tvg-logo="https://i.imgur.com/Yr7d8rg.png" group-title="VARIOS",Vía Altomayo 
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
+
+#EXTINF:-1 tvg-id="WTVCanal20.ni" tvg-logo="https://i.imgur.com/jMw3fS3.png" group-title="VARIOS",WTV Canal 20 
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
 #EXTINF:-1 tvg-id="AsiriTV.pe" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="VARIOS",AsiriTV (Lima)
 https://video2.lhdserver.es/asiritv/live.m3u8
@@ -502,6 +502,9 @@ https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
 #EXTINF:-1 tvg-id="KissKissTV.it" tvg-logo="https://i.imgur.com/ja6c2YZ.png" group-title="ITALY",Kiss Kiss TV 
 https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="VisualRadio.it" tvg-logo="https://i.imgur.com/ah14ah0.png" group-title="ITALY",Visual Radio 
+http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
+
 #EXTINF:-1 tvg-id="Stereo5TV.it" tvg-logo="https://i.imgur.com/UKnLDAE.png" group-title="ITALY",Stereo 5 TV 
 https://stream1.aswifi.it/stereo5/live/index.m3u8
 
@@ -615,6 +618,9 @@ https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal5PicoTruncado.ar" tvg-logo="https://lh3.googleusercontent.com/-nLhzzPBenzQ/YGpG1G6WqiI/AAAAAAABBNI/4EDWxIC8dxIgRXapYx9PIZvSEbPFfbODACK8BGAsYHg/s512/2021-04-04.jpg" group-title="Argentina",Canal 5 (Pico Truncado)
 https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Canal3LasHeras.ar" tvg-logo="https://lh3.googleusercontent.com/-Bo1d38m3t7E/X1TI1TCW_HI/AAAAAAAA5TQ/m4ZStqzslPcCdG1y7R1XQ4arveLLpxHjgCK8BGAsYHg/s0/2020-09-06.jpg" group-title="Argentina",Canal 3 Las Heras 
+https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-country="AR" tvg-language="" tvg-logo="" group-title="Argentina",Power TV 
 https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 
@@ -716,6 +722,9 @@ https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPAÑA",Onda Valencia 
 https://cloudvideo.servers10.com:8081/8116/index.m3u8
 
+#EXTINF:-1 tvg-id="Telemotril.es" tvg-logo="https://i.imgur.com/4nspLHb.png" group-title="ESPAÑA",Telemotril 
+https://5940924978228.streamlock.net/8431/8431/playlist.m3u8
+
 --------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="MEXICO", TV MÁS 
@@ -744,6 +753,7 @@ http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVCuatro41.mx" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="MEXICO",TV Cuatro 4.1 
 https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
+
 #EXTINF:-1 tvg-id="TVCuatro42.mx" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="MEXICO",TV Cuatro 4.2 
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
 
@@ -916,6 +926,9 @@ https://tigocloud.desdeparaguay.net/ugatv/ugatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IdeaalTV.nl" tvg-logo="https://i.imgur.com/JLYQFoX.png" group-title="RADIOS",Ideaal TV 
 https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8
+
+#EXTINF:-1, group-title="RADIOS",Swiss Classic
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 -------------------------------------------------------------------------------------------------------
 
@@ -1187,3 +1200,9 @@ https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Uniteve.ar" tvg-logo="https://pbs.twimg.com/profile_images/720276300888453120/a_SDOmBc_400x400.jpg" group-title="Undefined",Uniteve
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TNO Radio 
+https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNCDigital.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/cnc.digital.pe/picture?width=320&height=320" group-title="Undefined",CNC Digital (Iquitos) 
+https://cloudvideo.servers10.com:8081/8150/index.m3u8
