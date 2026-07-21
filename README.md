@@ -493,6 +493,9 @@ https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTaorminaSicilia.it" tvg-logo="https://i.imgur.com/SrhtocV.png" group-title="ITALY",Radio Taormina Sicilia
 https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/86/Logo_Radio_Televisione_Peloritana.svg/1200px-Logo_Radio_Televisione_Peloritana.svg.png" group-title="ITALY",RTP Sicilia
+https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 tvg-id="RDSSocialTV.it" tvg-logo="https://i.imgur.com/2VnN3Vq.png" group-title="ITALY",RDS Social TV 
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
 
@@ -670,6 +673,9 @@ https://interalmeria.tv/directo/live.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA",ALCARRIA TV
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
+
+#EXTINF:-1 tvg-id="STZTelebista.es" tvg-logo="https://i.imgur.com/rFQuAEv.png" group-title="ESPAÑA",STZ Telebista 
+https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
 
 #EXTINF:-1 tvg-id="M95TelevisionMarbella.es" tvg-logo="https://i.imgur.com/RzAkP1V.png" group-title="ESPAÑA",M95 Televisión Marbella 
 https://limited2.todostreaming.es/live/m95-livestream.m3u8
@@ -860,6 +866,10 @@ http://rtmp.one.by:1300
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC", ONE 4 HD
 http://rtmp.one.by:2300
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ockostar/picture?width=200&height=200" group-title="MUSIC" tvg-name="Ocko Star Chequia",Ocko Star Chequia CZ
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+
 
 #EXTINF:-1 group-title="MUSIC",Play TV (New!)
 http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
