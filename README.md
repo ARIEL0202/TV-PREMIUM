@@ -502,6 +502,9 @@ https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
 #EXTINF:-1 tvg-id="KissKissTV.it" tvg-logo="https://i.imgur.com/ja6c2YZ.png" group-title="ITALY",Kiss Kiss TV 
 https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="KissKissNapoliTV.it" tvg-logo="https://i.imgur.com/RsGiBwE.png" group-title="ITALY",Kiss Kiss Napoli TV 
+https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="VisualRadio.it" tvg-logo="https://i.imgur.com/ah14ah0.png" group-title="ITALY",Visual Radio 
 http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
 
@@ -609,14 +612,14 @@ https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4Esquel.ar" tvg-logo="https://canal4esquel.com.ar/wp-content/uploads/2020/12/logo-web-retina-ok-si-300x99.png" group-title="Argentina",Canal 4 Esquel 
 https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWoAtIdz70XOBYbpsiMug6PraWvCCVGQvNo6fEKq5jvaEttsrEZmotb9AsogSo3-vIjb4&usqp=CAU" group-title="Argentina", VER TV VENADO TUERTO
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Canal5PicoTruncado.ar" tvg-logo="https://lh3.googleusercontent.com/-nLhzzPBenzQ/YGpG1G6WqiI/AAAAAAABBNI/4EDWxIC8dxIgRXapYx9PIZvSEbPFfbODACK8BGAsYHg/s512/2021-04-04.jpg" group-title="Argentina",Canal 5 (Pico Truncado)
 https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
 
 #EXTINF:-213 tvg-logo="https://i.postimg.cc/bN24Mwbp/chacotv.png" group-title="Argentina", CHACO TV
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal5PicoTruncado.ar" tvg-logo="https://lh3.googleusercontent.com/-nLhzzPBenzQ/YGpG1G6WqiI/AAAAAAABBNI/4EDWxIC8dxIgRXapYx9PIZvSEbPFfbODACK8BGAsYHg/s512/2021-04-04.jpg" group-title="Argentina",Canal 5 (Pico Truncado)
-https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal3LasHeras.ar" tvg-logo="https://lh3.googleusercontent.com/-Bo1d38m3t7E/X1TI1TCW_HI/AAAAAAAA5TQ/m4ZStqzslPcCdG1y7R1XQ4arveLLpxHjgCK8BGAsYHg/s0/2020-09-06.jpg" group-title="Argentina",Canal 3 Las Heras 
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
@@ -632,6 +635,33 @@ https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---4SA.png" group-title="Argentina",TIV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0173
+
+#EXTINF:-1 tvg-logo="http://www.diariodelsol.com.ar/images/2.jpeg" group-title="Argentina", FM DEL SOL 91.9 SAN JUAN
+http://streamyes.alsolnet.com/fmdelsoltv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://surargentinormx.com/wp-content/uploads/elementor/thumbs/logo-orseqvkm3gvq36wnhdc1e31nwkvtfxm51npplxeve0.jpg" group-title="Argentina", RMX 105.1 FM USHUAIA
+http://streamyes.alsolnet.com/rmxtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dialradio.tv/wp-content/uploads/2018/05/DIAL-RADIO-LOGO-WEB.png" group-title="Argentina", RADIO DIAL SAN RAFAEL
+https://cda1.alsolnet.com/dialradiotv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--GOOD.png" group-title="Argentina", GOOD RADIO 101.1 FM JESUS MARIA CORDOBA
+http://streamyes.alsolnet.com/goodradio/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116524_Azahares_Radio_multimedia.png" group-title="Argentina", RADIO AZAHARES FM 101.5 CORRIENTES
+http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Argentina",2CTV - Tornquist
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0104
+
+#EXTINF:-1 group-title="Argentina",SFV de Catamarca - CA Catamarca
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0107
+
+#EXTINF:-1 group-title="Argentina",TRIBU TV
+http://streaming.arcast.com.ar:1935/tributv/tributv/chunklist_w340547832.m3u8
+
+#EXTINF:-1 group-title="Argentina",89.5 TV - Marcos Juarez - CO Cordoba
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0128
 
 --------------------------------------------------------------------------------------------------------------------------------
 
